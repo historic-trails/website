@@ -1,5 +1,5 @@
 ## _AMIEL LEIBLEIN_
 
-### **Santa Fe Trail**
+### **_Santa Fe Trail_**
 
 ![Santa Fe Trail Picture](https://www.kshs.org/portraits/graphics/sante_fe_trail.jpg) 
