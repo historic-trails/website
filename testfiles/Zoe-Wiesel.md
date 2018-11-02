@@ -1,6 +1,6 @@
 # Welcome to the WeaselDome
 
-![Japanese Folkart Weasel](https://en.wikipedia.org/wiki/Weasel#/media/File:SekienTen.jpg) 
+![Japanese Folkart Weasel](https://upload.wikimedia.org/wikipedia/commons/7/72/SekienTen.jpg) 
 
 >What is a [weasel](https://en.wikipedia.org/wiki/Weasel)? 
 
