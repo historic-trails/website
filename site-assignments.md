@@ -17,5 +17,5 @@
 - Alexander Majors House: Satya
 - Council Grove Historic District: Lane
 - Blue Mills: Fred
-
-- Not assigned: Amiel, Evan
+- St. Vrain's Mill: Evan
+- Not assigned: Amiel
