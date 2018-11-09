@@ -21,7 +21,7 @@
   - Aull family [need research]
 
 
-## Original impetus for the mills was provided by the prospect of securing contracts with Fort Leavenworth.
+## Original impetus for the mills derived from the prospect of securing contracts with Fort Leavenworth.
 - In 1834, the Aull firm was defeated in its bid to provide the fort with staple supplies, such as flour.
 - To ensure that the next year's bid was the lowest, James constructed the gristmill at the Little Blue River, which would enable him to grind his own flour and reduce costs.
 - His bid was the lowest and he secured the $6,500 contract from the US gov't. (fn 16)
@@ -48,7 +48,6 @@
 
 
 ## While we might associate places to cross rivers with modern bridges, river landings were important economic hubs that competed each other.
-
 - outline Upper and Lower Independence landings -- [more from O'Brien, 46.]
 - BLue Mills was supplanted in 1853 by the City of Kansas levee as the main Trail landing point (fn20)
 - Today, the Santa Fe Railroad tracks cover the site; no traces of the original landing remain.
