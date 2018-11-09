@@ -1,6 +1,6 @@
 # Blue Mills
 
-Positioned approximately halfway between Fort Osage and the town of Independence, Blue Mills was an important center for provisioning traders and settlers on the Santa Fe Trail between 1835 and the mid 1860s.
+## Positioned approximately halfway between Fort Osage and the town of Independence, Blue Mills was an important center for provisioning traders and settlers on the Santa Fe Trail between 1835 and the mid 1860s.
 - Name comes from a flour and grist mill built near the Little Blue River. (NPS form)
 - http://www.santafetrailresearch.com/mileagecharts/sft-missouri.html says there was a gristmill and sawmill.
 - Santa Fe Trail ran between the mills
@@ -8,12 +8,12 @@ Positioned approximately halfway between Fort Osage and the town of Independence
 - Often served as a locus for settlement and provided valuable goods and services to Trail travelers and area residents,
 - existing mills represent a tangible reminder of Santa Fe Trail traffic from 1834 to 1865.
 
-The mills were constructed in 1834-1835 along the Little Blue River at a Santa Fe Trail river crossing.
+## The mills were constructed in 1834-1835 along the Little Blue River at a Santa Fe Trail river crossing.
 - mentioned by Archibald Gamble, secretary for the Sibley Survey in 1825 (fn 8)
 - Bridge is 1834 or 1837? [RESEARCH]
 - more general SFT history at this time?
 
-The development of the Blue Mills area was closely tied to several prominent local businessmen
+## The development of the Blue Mills area was closely tied to several prominent local businessmen
 - Mills provided advantage to businessmen by eliminating need to purchase flour from the East to resell in their stores.
 - The mills could provide both flour and lumber, and possibly meat.
   - Michael Rice [need research]
