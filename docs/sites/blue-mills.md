@@ -26,7 +26,7 @@
 - To ensure that the next year's bid was the lowest, James constructed the gristmill at the Little Blue River, which would enable him to grind his own flour and reduce costs.
 - His bid was the lowest and he secured the $6,500 contract from the US gov't. (fn 16)
 
-"Going to mill" was part of frontier life, but very dangerous
+## "Going to mill" was part of frontier life, but very dangerous
 - add block quote from history of jackson county book (1881)
 
 
