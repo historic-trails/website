@@ -21,7 +21,7 @@
   - Aull family [need research]
 
 
-Original impetus for the mills was provided by the prospect of securing contracts with Fort Leavenworth.
+## Original impetus for the mills was provided by the prospect of securing contracts with Fort Leavenworth.
 - In 1834, the Aull firm was defeated in its bid to provide the fort with staple supplies, such as flour.
 - To ensure that the next year's bid was the lowest, James constructed the gristmill at the Little Blue River, which would enable him to grind his own flour and reduce costs.
 - His bid was the lowest and he secured the $6,500 contract from the US gov't. (fn 16)
@@ -30,14 +30,14 @@ Original impetus for the mills was provided by the prospect of securing contract
 - add block quote from history of jackson county book (1881)
 
 
-The commercial and transportation networks of Blue Mills extended far beyond their local communities
+## The commercial and transportation networks of Blue Mills extended far beyond their local communities
 - As flour and lumber were particularly important frontier necessities
 - Flour from the gristmill was shipped to Independence, St. Joseph, and Fort Leavenworth (the owners 14
 - settlement was precursor to Independence as recognized terminus of trail, but still important because of its proximity. (Hickman, 92)
 - By 1832, Independence was pre-eminent as the eastern outfitting point on the Trail
 
 
-The Blue Mills area was well known for several crossings of the Missouri River.
+## The Blue Mills area was well known for several crossings of the Missouri River.
 - main area crossing was Fort Osage
 - Started as Owens landing in 1829 (what is best source?)
 - continued into the 1860s
@@ -47,7 +47,7 @@ The Blue Mills area was well known for several crossings of the Missouri River.
   - steamboat passenger in 1846 reports seeing a group of Spaniards who were attached to a Santa Fe company, along with their wagons, a - group of Mexican Indians, a few French hunters in buckskins, and a group of Oregon-bound settlers. (fn 19)
 
 
-While we might associate places to cross rivers with modern bridges, river landings were important economic hubs that competed each other.
+## While we might associate places to cross rivers with modern bridges, river landings were important economic hubs that competed each other.
 
 - outline Upper and Lower Independence landings -- [more from O'Brien, 46.]
 - BLue Mills was supplanted in 1853 by the City of Kansas levee as the main Trail landing point (fn20)
@@ -55,24 +55,26 @@ While we might associate places to cross rivers with modern bridges, river landi
 
 
 
-In the 1850s, as landings farther up the river became more popular, Blue Mills began to decline, yet the mills were operated continuously through the early 1860s.
+## In the 1850s, as landings farther up the river became more popular, Blue Mills began to decline, yet the mills were operated continuously through the early 1860s.
 - anything else go here? [NEED RESEARCH]
 - By the early 1920s, the mills were in ruins.22
 - "In 1923, Mark Siegfried found workmen clearing away ruins of the old mill and getting ready to roll the millstone into the river."23
 
 
-Relationship to nearby civil war battle
+## Relationship to nearby civil war battle
 - RESEARCH! (see NYTimes article)
 - How close was battle?
 - How much did Little Blue River matter?
 - How much did Blue Mills Landing matter?
 
-Although now physically degraded, the Blue Mills ruins remains an important monument to the mills's importance to commercial, communication, and transportation systems. Because so many mills have not survived at all, existing mill sites are extremely important not only for a reminder of their significance, but for the archeological record about mill construction and use along the trails.
+## Although now physically degraded, the Blue Mills ruins remains an important monument to the mills's importance to commercial, communication, and transportation systems.
+- Because so many mills have not survived at all, any remains remind us of their significance
+- they also provide archeological evidence about mill construction and use along the trails.
 
-Other mill sites:
+### Other mill sites:
 - 5 total; 2 outside NM
 - need to research more on other sites
 
-Nearby historic sites:
+### Nearby historic sites:
 - Fort Osage
 - ???
