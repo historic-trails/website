@@ -18,4 +18,4 @@
 - Council Grove Historic District: Lane
 - Blue Mills: Fred
 - St. Vrain's Mill: Evan
-- Not assigned: Amiel
+- Rayado Ranch: Amiel
