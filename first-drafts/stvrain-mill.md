@@ -15,7 +15,7 @@
 ## The mill was located (Town), which now is current day....
 - Research current town name and or current location
 - County: Curry
-  -St. Vrain is now known as Mora, NM (Research why the name changed)
+  - St. Vrain is now known as Mora, NM (Research why the name changed)
   -
   -
 ## Mill was built in or around 1864
@@ -25,7 +25,7 @@
 
 ## The Mill is described as being crudely made
 - Research the average mill or standard of mill at that time.
--The reason to why it was considered crude is because of size and overall structure. This mill was not as well built as others, esepcually others near water areas. 
+- The reason to why it was considered crude is because of size and overall structure. This mill was not as well built as others, esepcually others near water areas. 
 
 ## (More about the esthetic of the mill)
 -
