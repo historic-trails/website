@@ -1,8 +1,10 @@
 # St. Vrain's Mill
 
+
+
 ## Ceran St. Vrain's stone mill was constructed to resist fire which had destroyed another of his mills' in Taos in the same year.
 -The mill was created using stone blocks, which still stands without the need of modern repairs. 
--The 
+- The 
 -
 
 ## The mill as well as the town of St. Vrain was named after Ceran St. Vrain (Ceran de Hault de Lassers de St. Vrain)
