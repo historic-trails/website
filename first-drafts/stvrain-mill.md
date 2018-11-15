@@ -1,5 +1,5 @@
 # St. Vrain's Mill
-- Created in Mora, New Mexico, the St. Vrain's mill was used to fill the high-demand of flour by the US government during the Civil-War and to feed thousands of Navajo Indians during the period of the 'Long Walk'. A number of revolts in Taos, NM, saw a few of the Mills that St. Vrain owned be burned to the ground. This mill, though, in its entirety was rushed and crudely made, it again served a valuable function to not only the area but to others as well.  It is currently still standing in Mora, Nm, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, Nm.
+- Created in Mora, New Mexico, the St. Vrain's mill was used to fill the high-demand of flour by the US government during the Civil-War and to feed thousands of Navajo Indians during the period of the 'Long Walk'. A number of revolts in Taos, NM, saw a few of the Mills that St. Vrain owned be burned to the ground. This mill, though, rushed and crudely made, served a valuable function to not only the area but to other valuable areas as well.  It is currently still standing in Mora, Nm, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, Nm.
 
 ## Ceran St. Vrain
 - Ceran St. Vrain was Frenchmen whose parents fled the French Revolution to French Territory in North America
