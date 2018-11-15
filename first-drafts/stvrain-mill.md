@@ -1,41 +1,32 @@
 # St. Vrain's Mill
 
+## Talk about Ceran St. Vrain
+- Ceran St. Vrain was Frenchmen whose parents fled the French Revolution to French Territory 
+- He led a volunteer malitia to crush a rebelion of Mexicans and Pueblo Indians. 
+- Town builder (Locate other towns)
+- Contracted by US govt to give the Navajos flour
+- Started the Santa Fe Gazzete 
 
 
 ## Ceran St. Vrain's stone mill was constructed to resist fire which had destroyed another of his mills' in Taos in the same year.
--The mill was created using stone blocks, which still stands without the need of modern repairs. 
-- The 
--
+- The mill was created using stone blocks, which still stands without the need of modern repairs. 
+- A number of Ceran St. Vrains Mills in Toas were burned down, so this mill was constructed to resist fire, 
+  as far as the foundation goes
 
-## The mill as well as the town of St. Vrain was named after Ceran St. Vrain (Ceran de Hault de Lassers de St. Vrain)
-- Research: 
--
--
-
-## The mill was located (Town), which now is current day....
-- Research current town name and or current location
-- County: Curry
-  - St. Vrain is now known as Mora, NM (Research why the name changed)
-  -
-  -
+## The mill was located in Mora county
+- The Mill is nolonger located in a town, the location is approximately 1500 feet north of the junction state
+  rooads 3 and 30 in Mora
+- County: Mora
+    - Northern New Mexico
 ## Mill was built in or around 1864
-- Research to see if that has been updated
-- Mill was used to feed the Pueblo Indians
--
+ - Mill was used supply neighboring areas as well as for the Publoe Indians 
+ -
 
 ## The Mill is described as being crudely made
 - Research the average mill or standard of mill at that time.
 - The reason to why it was considered crude is because of size and overall structure. This mill was not as well built as others, esepcually others near water areas. 
 
 ## (More about the esthetic of the mill)
--
-
-
-## Talk about Ceran St. Vrain
-- Business Man (Research the business name)
-- Military (Research his branch, rank and unit. 
-- Town builder (Locate other towns)
-- Contracted by US govt to give the Navajos flour
 
 
 ## Closer of the Mill and Decline of area.
