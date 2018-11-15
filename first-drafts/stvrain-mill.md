@@ -1,7 +1,8 @@
 # St. Vrain's Mill
 
-## Talk about Ceran St. Vrain
+## Ceran St. Vrain
 - Ceran St. Vrain was Frenchmen whose parents fled the French Revolution to French Territory 
+- He made his early adulthood wages by selling furs. 
 - He led a volunteer malitia to crush a rebelion of Mexicans and Pueblo Indians. 
 - Town builder (Locate other towns)
 - Contracted by US govt to give the Navajos flour
