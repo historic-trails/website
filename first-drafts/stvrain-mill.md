@@ -20,14 +20,17 @@
     - Northern New Mexico
 ## Mill was built in or around 1864
  - Mill was used supply neighboring areas as well as for the Publoe Indians 
- -
+ - Flour was in highdemand at this time which is one of the suspected reasons to why this mill was constructed. 
 
 ## The Mill is described as being crudely made
 - Research the average mill or standard of mill at that time.
 - The reason to why it was considered crude is because of size and overall structure. This mill was not as well built as others, esepcually others near water areas. 
 
 ## (More about the esthetic of the mill)
-
+- The mill from ground to roof is 43 feet high. The building had a total of three floor. Each block wall is supported by stone
+  foundation. 
+  Currently this mill is in awful shape due to the lack of up-keep. Whole areas are in need of repair, which is 
+  laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Cpnsulting Engineers, LLC.  
 
 ## Closer of the Mill and Decline of area.
 - Research closing of the mill
