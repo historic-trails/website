@@ -2,7 +2,7 @@
 - Created in Mora, New Mexico, and was used to fill the high-demand of flour by the US government during the Civil-War and the Long Walk. 
 
 ## Ceran St. Vrain
-- Ceran St. Vrain was Frenchmen whose parents fled the French Revolution to French Territory 
+- Ceran St. Vrain was Frenchmen whose parents fled the French Revolution to French Territory in North America
 - He made his early adulthood wages by selling fur. 
 - He led a volunteer malitia to crush a rebelion of Mexicans and Pueblo Indians. 
 - Town builder (Locate other towns)
@@ -11,7 +11,7 @@
 - During the start of the civil war he was given the rank of Colonel, though he didn't stay active along and eventaully handed command
 
 
-## Ceran St. Vrain's stone mill was constructed to resist fire which had destroyed another of his mills' in Taos in the same year.
+## Ceran St. Vrain's Stone Mill Was constructed to resist fire which had destroyed another of his mills' in Taos in the same year.
 - The mill was created using stone blocks, which still stands without the need of modern repairs. 
 - A number of Ceran St. Vrains Mills in Toas were burned down, so this mill was constructed to resist fire, 
   as far as the foundation goes. The building and overall astheitc other than the foundation has seen better times. 
