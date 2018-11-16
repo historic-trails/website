@@ -2,8 +2,8 @@
 - Created in Mora, New Mexico, in or around 1864, the St. Vrain's mill was used to fill the high-demand of flour by the US government during the Civil-War and to feed thousands of Navajo Indians during the period of the 'Long Walk'. A number of revolts in Taos, NM, saw a few of the Mills that St. Vrain owned be burned to the ground. This mill, though, rushed and crudely made, served a valuable function to not only the area but to other valuable areas as well, such as military Forts and encampments.  It is currently still standing in Mora, Nm, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, Nm.
 
 ## Ceran St. Vrain
-- Ceran St. Vrain was Frenchmen whose parents fled the French Revolution to French Territory in North America
-- He made his early adulthood wages by selling fur. 
+- Ceran St. Vrain was born on May 5, 1802 by aristocratic (parents) who fled the French Revolution to French Territory in St. Louis, Missouri. He ventured to New Mexico in 1825 at the age 23. He in his young-adulthood made his living selling fur. In 1834 he with the help of Charles and William Bent, the three of them helped establish'Brent's Fort' on the Arkansas River. He his firm also established the 
+- 
 - He led a volunteer militia to crush a rebellion of Mexicans and Pueblo Indians. 
 - Town builder (Locate other towns)
 - Contracted by US govt to give the Navajos flour
