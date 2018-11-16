@@ -22,7 +22,7 @@ Baker University first opened its doors to students in November 1858, in Baldwin
 
 * Old Castle Hall, a crudely quoined three-story rubble-stone building, originally consisted of only two stories. The third story was added later and then afterward torn off because of poor mortar joints; it was then added for a second time and remains to date.(NRHP)
 
-## Building Uses Through the Years
+## Building uses Through the Years
  * After another building was completed in 1871, the Old Castle Hall was no longer used for classes. In 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property. (HCAP)
 
 
