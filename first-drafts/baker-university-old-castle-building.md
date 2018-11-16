@@ -3,11 +3,11 @@
 
 Baker University first opened its doors to students in November 1858, in Baldwin City, Kansas. Named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church, the school holds the honor of being the first university in Kansas (KHS).
 
-*The university has a rich history, growing up side-by-side with the state of Kansas, Castle Hall was the first building ever erected on campus. 
+* The university has a rich history, growing up side-by-side with the state of Kansas, Castle Hall was the first building ever erected on campus. 
 
-*It has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to become one of the premier colleges in the country. HCAP 
+* It has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to become one of the premier colleges in the country. HCAP 
 
-*Baker University struggled through its first years due to a drought in 1860 and the Civil War, and the first class graduated in 1866.
+* Baker University struggled through its first years due to a drought in 1860 and the Civil War, and the first class graduated in 1866.
 
 
 ### Significance 
