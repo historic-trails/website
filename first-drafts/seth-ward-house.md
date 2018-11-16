@@ -21,6 +21,9 @@ On October 23, 1864 Confederate Major General Sterling Price led a legendary rai
 
 ## Nearby Sites
 [Battle of Westport](https://www.hmdb.org/Marker.asp?Marker=28114) 
+
 [First Home of the Kansas City Country Club](https://www.hmdb.org/Marker.asp?Marker=88252)
+
 [The French and the Osage](https://www.hmdb.org/Marker.asp?Marker=86416)
+
 [McGhee's Charge](https://www.hmdb.org/Marker.asp?Marker=29658)
