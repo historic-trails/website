@@ -32,7 +32,7 @@ On October 23, 1864 Confederate Major General Sterling Price led a legendary rai
 - Union victory
 
 ## Nearby Sites
-- battle of westport
+[Battle of Westport](https://www.hmdb.org/Marker.asp?Marker=28114) 
 - first home of the kansas city country club
 - the french and the osage
 - mcghee's charge (historical marker database)
