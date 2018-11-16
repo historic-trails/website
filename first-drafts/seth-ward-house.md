@@ -1,19 +1,14 @@
 # Seth Ward House
 
-### Originally situated outside of the city limits of the town of Westport, Missouri, the site of the Ward Homestead has been associated with several prominent figures in the exploration, conquest, and settelement of the American West. Also, during the Civil War, major actions of the Battle of Westport occurred here. (NRHP, right above historical data)
+### Situated outside of the city limits of the town of Westport, Missouri, the site of the Ward Homestead has been associated with several prominent figures in the exploration, conquest, and settelement of the American West. Also, during the Civil War, major actions of the Battle of Westport occurred here. (NRHP, right above historical data)
 
 
 ## Located a quarter mile from the Kansas/Missouri state line, the Seth Ward House is positioned in present-day Kansas City.
-
-- now the Country Club District
-- original farmland of homestead and battlesite now a residential park (loose park) (hyperblogal)
-- situated on Santa Fe Trail
+Located a quarter mile from the Kansas/Missouri state line, the Seth Ward House is in present-day Kansas City, Missouri. This homestead is positioned in the Country Club District, a group of neighborhoods containing upscale historical residences. Nearby in Jacob L. Loose park, visitors can see what was once the original farmland of the Ward homestead, which, in 1864, also doubled as the battlefield in the "Gettysburg of the West." This site is situated along the Santa Fe Trail, and was the home of two prominent tradesmen of the nineteenth century, William Bent and Seth Ward.
 
 
 ## Originally built as a farmhouse, this site soon became one of major historical significance. 
-- farmhouse to battle site to home 
-- built in 1871 (NRHP)
-- asa beebe cross house
+In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the "Mormon Wars" had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead. (Shaw) In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property. Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman. 
 
 
 ## Seth Ward 
