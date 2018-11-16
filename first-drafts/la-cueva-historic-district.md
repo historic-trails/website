@@ -1,39 +1,41 @@
-Sean O'Neill
+# La Cueva Historic District, New Mexico
+Just a short drive from Ft. Union Natioanl Monument, across the northern plains of New Mexico and nearing the foothils of Santa Fe National Forest, you will find La Cueva Historic District. La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of Ft.Union National Monument. La Cueva Historic District had a historically significant time period from around 1851 to 1946 and helped shape the Ft. Union region and had direct impacts to the Santa Fe Trail.  The site consists of several structures: the Romero Hacienda, a Grist Mill, a mercantile building, the Church of San Rafel, stables, a farm, aquecia, and a few outbuildings.  
 
-# La Cueva Historic Distric Initial Notes/Outline
+## Founding La Cueva
+La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero, the land was a Spanish land grant (XXXXX), and Romero purchased a 33,000 acre portion of the original Mora land grant from several descendants who owned the property (XXXXX).  The name "La Cueva" may have come from a few origins for the site:  Vicente had been a sheep herder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named.  Others say the ranch was named La Cueva simply due to a nearby cave (XXXXX).  The official reason for the naming convention may never be known.  
 
-* Romero Hacienda
-  * This is an adobe building tthat served as a community center.  The Hacienda would house people from the area for social events.
-   * Who were the people/Cultures who were welcome here?
-   * The Rock walls behind were corrals (Lost in the Land of Enchantment p. 34)
+## Milling, Farming, and the Santa Fe Trail
+While LCHD is located miles from the Santa Fe trail, it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would go on to divert a section of the nearby Mora River into a network of ditches called 'acequias" that would power an on-site mill: the Grist Mill (XXXXX).  The acequia would also provide irrigation to the Romero Farm.  An integral feature of the LCHD is the presence of Grist Mill, a acequia drawn hydro-powered Mill.  Regional mills were important along trails during the 1800's (XXXXX).  Mills provided processed grain to stops along the trails.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  As many as 60 horse or oxen drawn to Ft.Union each day (XXXXX).  The close proximity of the farmland and mill made this a lucrative farm for the Romero family.  
+
+## A Place to Meet, Trade, & Rest
+
+The Romero's also called the property home. Dubbed "The Romero Hacienda", the house would also serve as a community center for the region (XXXXX).  While the specific groups that met here have been obscured by passing time, we do know that ranchers and travelers in the region would stop at the house to meet.  The Hacienda was attached to a mercantile store and a large stable where travelers could stay for the night, buy supplies, and rest their horses (XXXXX).  
+
+## A Mission Arrives
+Vicente also commissioned a church to be built on the property that would become known as the San Rafeal Mission Church (XXXXX).  The church was started in 1862 and finished in 1870.   Preists from the Lamy, NM area came to help build the mission.  Of note, the mission featured ornate gothic stylings and Belgian rafter system; both rare in the area during the 1800's. 
+
+
+
+
+
+
+### Bibliography
+
+
+Art Latham. (1995). Lost in the Land of Enchantment. Arroyo Press. Retrieved from http://archive.org/details/lostinlandofench00lath
+
+Babs Suzanne Harrison. (1994). Exploring New Mexico wine country. Coyote Press. Retrieved from http://archive.org/details/exploringnewmexi00harr
+
+Baker, T. L., Historic American Engineering Record, & Texas Tech University. Water Resources Center. (1973). Water for the Southwest; historical survey and guide to historic sites. New York, American Society of Civil Engineers. Retrieved from http://archive.org/details/waterforsouthwes00bake
+
+Catholic Church., A., & Chavez. (1957). Archives of the Archdiocese of Santa Fe, 1678-1900. Washington, D.C. : Academy of American Franciscan History,.
+
+Engineer, N. M. O. of T. (1908). Biennial Report of the Territorial Engineer to the Governor of New Mexico Including Water Supply. Albuquerque Morning Journal.
+Freitag, A. L. (1994). Cultural landscape study of Fort Union National Monument. Retrieved from http://archive.org/details/culturallandscap00frei
+
+Koman, R. G., & National Park Service (Dept. of Interior), W., DC. National Register of Historic Places. (2002). The Hispano Ranchos of Northern New Mexico: Continuity and Change. Teaching with Historic Places.
+
+National Register of Historical Places - NEW MEXICO (NM), Mora County. (n.d.). Retrieved November 9, 2018, from https://nationalregisterofhistoricplaces.com/NM/Mora/districts.html
+
+San Rafael, La Cueva, New Mexico. Shadows in the light of darkness. (2018, April 8). Retrieved November 9, 2018, from http://geraintsmith.com/shadows-san-rafael-la-cueva-new-mexico/
    
-* Church of San Rafel
-  * This is a mission built by priests from the Lamy area.
-
-* Grist Mill
-  * Mill house used until 1949, built by Vicinte Romero, the Mill house used gravity hydro power from the Acequia to turn the mill.
-    * Milled Flour, and wheat (Ranchos of Northern NM p.19)
-    * Created Electricity Until after WWII (Lost in the land of enchantment p. 34)
-    * 60 horse and Ox wagons carries processed grains to Fort union each day (LitLoE p. 34)
-    * Built on a Natural Stone Foundation 
-    * Built in 1870's possibly TO grind grain for ft.Union (Water for the southwest p. 90)
-
-* Mercantile Building
-  * Commerce took place here for people in the surrounding area.
-
-* Vicinte Romero
-  * Founder of La Cueva around 1851 in the Mora Land Grant.  He purchased the portion of the grant from grantee's.
-  * 33,000 Acre ranch
-  * "La Cueva is said to be named after vicente, as he would sleep in caves in the area tending his sheep (Ranchos of Northern New Mexico p. 19)
-  * Influential trader in the area, particularluy sheep. Ranchos of northern NM p.19)
-  
-* Raspberry Feilds
-  * Still around today; from the 1820's
-
-* Salman Family
-  * Purchased shares of the ranch from Vicinte's Wife and Son after Vicinte's death.  
-
-* Abell Family
-  * Recent history; Cattle ranchers
-  
-* Note on Mora County as having many historical sites to help aide in the poor economies of the region(Cultural landscape of Ft. Union p. 170)
