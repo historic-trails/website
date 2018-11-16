@@ -1,42 +1,17 @@
 # Morris Council Grove Downtown Historic District
 
 ### Introduction
-* Council Grove played an important role along the Santa Fe Trail. It has served many purposes throughout the mid and late 1800s and into the twentieth century.
-  * began as are with plenty of grazing land, water, and trees
-  * principal trading post on trail after Independence, MS (Andreas)
-  * continued to expand and adapt based on changes in country (i.e. transportation needs, trade of cattle (Maloy, 64), railroads, etc.)
+Beginning at a trading post in 1847, Council Grove, situated between Wichita and Topeka, Kansas on the Neosho River, played an important role along the Santa Fe Trail as the last stop heading west until Santa Fe (Andreas, 55). It has served traders, merchants, and ranchers throughout the mid and late 1800s and into the twentieth century. When the Santa Fe Trail opened up in 1821, Council Grove was just an area with plenty of grazing land, water, trees, and safe crossing (NRHP, 44, Brigham, 11). By 1854 with the opening of Kansas to white settlers, Council Grove changed from a simple trading post to the true jumping off point for the Santa Fe Trail (Brigham, 11, Andreas, 55). As time went on, Council Grove continued to expand and adapt based on the changing needs of those on the trail, like the adoption of railroads and the subsequent trade of cattle (Maloy, 64).
 
 ### The Early Years
-  * Council Grove began as little more than a resting point on the newly opened Santa Fe Trail in 1821 (FIND SOURCE).
-    * grazing land
-    * Seth Hays opens trading post under government contract 1847 (Maloy, 4)
-    * By 1854 Hays has competition (Brigham, 11, Maloy, 6)
+Council Grove began as little more than a resting point on the newly opened Santa Fe Trail in 1821 (NRHP, 44). The area boasted plenty of water, grazing land, trees, and safety (NRHP, 44). While still organized as an Indian territory, Seth Hays opened the first trading post under government contract in 1847 (Maloy, 4). By 1854 Seth Hays had competition from the Withington brothers, the Choteau brothers, and others (Brigham, 11, Maloy, 6). Seth Hays built the first house in Council Grove in 1857 (Brigham, 12). With more people realizing the potential for business as the last stop heading west on the Santa Fe Trail, Tom Hill constructed the Last Chance Store, also built in 1857 (Brigham, 15). This store provided the last stop along the Santa Fe Trail for hundreds of miles. With the organization of Kansas in 1854, towns could begin incorporating, as Council Grove did in 1858 with Seth Hays and other business people forming the town company in 1857 (Brigham, 11, 16).
 
 ### Railroad or Bust
-  * Following the Civil War, railroads began to boom throughout America, allowing towns with them to prosper as centers of trade and transportation, just as Council Grove was accustomed to.
-    * 1865 bonds for railroads failed to attract railroads (Brigham, SOURCE)
-    * 1869 first railroad, M. K. & T. railway (Brigham, 40)
-    * 1881 more bonds passed to bring the Topeka, Salina and Southwestern Railroad which became part of the Missouri Pacific railroad line (Brigham, 62)
-    * These new railroads brought opportunity for many, leading to these years to be known as the Emigrant Years 1870 (Brigham, 49)
-
-### Disasters in Council Grove
-  * Council Grove experienced several natural disasters in the mid to late 19th century. Depending on the timing of these disasters, the town was either able to rebuild quickly or wait for the economy to improve to rebuild.
-    * fires
-      * 1874 fire (Brigham, 57)
-      * 1886 fire (Brigham, 63, Maloy, 116-17)
-      * 1903 fire (Brigham, 64)
-    * floods
-      * 1849 flood (Brigham, 65)
-      * 1867 flood (Brigham, 31)
-      * 1902-03 floods (Brigham, 64)
-      * 1929 flood
-      * 1951 flood (find source)
-        * 28 die in flood
+Following the Civil War, railroads began to boom throughout America, allowing towns with them to prosper as centers of trade and transportation, just as Council Grove was accustomed to with the Santa Fe Trail passing through the town. In 1865, the town passed a bond measure for $100,000 for railroads to be brought through, but these bonds failed to attract railroads (Maloy, 50). The town had to wait four more years for a railroad, when in 1869 the M. K. & T. railroad made it's first passage through the town (Brigham, 40). In 1881, more bonds passed to bring the Topeka, Salina and Southwestern Railroad which became part of the Missouri Pacific railroad line (Brigham, 62). These railroad lines allowed businesses to connect with more people and keep the town as an important stop along the Santa Fe Trail.
 
 ### Twentieth Century to Post War Era
-  * Looking to connect more farmers, ranchers, and businesses to more people, Council Grove began to develop a road system for automobiles in the early 20th century.
-    * By 1932 there were three highways that went through the town (see map)
-    * 1920s crop debt to farmers (need to find WPA source)
-    * federal projects (see "Hard Times")
-    * Kaw Mission brings tourists (SOURCE)
-    
+Looking to connect more farmers, ranchers, and businesses to more people, Council Grove began to develop a road system for automobiles in the early 20th century. In 1901, W.E. Dennison rode around town on his new automobile (NRHP, 50). By 1913 there were over 200 auto in Council Grove and by 1921 there were 47 miles of hard surface roads to be built in the town (NRHP, 50, Brigham, 98). While Kansas began implementing plans on a unified road network, Council Grove was able to bring three highways through the town by 1932 (KDOT).
+
+The 1920s-30s proved to be a difficult time for Council Grove. In the early part of the 1920s, farmers were going into debt due to inflated crop pricing (NRHP, 52). However, with large federal investment in the 1930s, Council Grove was able to overcome difficulties and create a safer and modern town. To help with flooding, the WPA approved $40 million in 1934 to help prevent flooding with the project being completed in 1942 (NRHP, 52). The town received other New Deal era help from the federal government including a new jail, a post office, a water plant, and the Flint Hills Rural Electrification Administration (NRHP, 52).
+
+After World War II, the Kansas State Legislature approved money to buy the Kaw Indian Mission to create a museum (NRHP, 53). Unfortunately, the 1951 flood meant that the museum wouldn't open for another year (NRHP, 53). This new museum and later on a new reservoir meant that Council Grove quickly began focusing on tourism, bringing several thousand people a year to the museum and several hundred thousand to the Council Grove reservoir (NRHP, 53).  
