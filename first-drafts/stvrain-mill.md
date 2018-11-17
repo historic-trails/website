@@ -1,16 +1,5 @@
 # St. Vrain's Mill
-- Created in Mora, New Mexico, in or around 1864, the St. Vrain's mill was used to fill the high-demand of flour by the US government during the Civil-War and to feed thousands of Navajo Indians during the period of the 'Long Walk'. A number of revolts in Taos, NM, saw a few of the Mills that St. Vrain owned be burned to the ground. This mill, though, rushed and crudely made, served a valuable function to not only the area but to other valuable areas as well, such as military Forts and encampments.  It is currently still standing in Mora, Nm, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, Nm.
-
-## Ceran St. Vrain
-- Ceran St. Vrain was born on May 5, 1802 by aristocratic (parents) who fled the French Revolution to French Territory in St. Louis, Missouri. He ventured to New Mexico in 1825 at the age 23. He in his young-adulthood made his living selling fur. In 1834 he with the help of Charles and William Bent, the three of them helped establish'Brent's Fort' on the Arkansas River. He his firm also established the St. Vrains trading post on the Platte River. In 1847, St. Vrain was given 4,000,000 acresof land in southern Colorado, This land grant was given to St. Vrain after revolts in Taos caused the death of his friend and Govenor, Charles Bent. In 1847. St. Vrain led a militia (mostly) to crush the revolts in Taos,perpetrated by rebels made up of mostly Mexican and (Indians). In 1855 he was promoted to lieutienant colonel in order to crush maruading bands of Utes and Apaches. During the civil war he was promoted to Colonel 
-- 
-- 
-- 
-- Contracted by US govt to give the Navajos flour
-- Started the Santa Fe Gazzete 
-- During the start of the civil war he was given the rank of Colonel, though he didn't stay active along and eventually handed command
-
-
+- Created in or around 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand of flour by the US government during the tail end of the Civil-War and to feed thousands of Navajo Indians during the period of the 'Long Walk'. A number of revolts in Taos, NM, saw a number of the mills that were owned by Ceran St. Vrain be burned to the ground. This mill, though, rushed and crudely made, served a valuable function to not only the area but to other valuable areas as well, such as military forts and holding encampments.  It is currently still standing in Mora, NM, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, NM. (ADD SECTION 14, 19, 23, 28 and 31) 
 ## Ceran St. Vrain's Stone Mill Was constructed to resist fire which had destroyed another of his mills' in Taos in the same year.
 - The mill was created using stone blocks, which still stands without the need of modern repairs. 
 - A number of Ceran St. Vrains Mills in Taos were burned down, so this mill was constructed to resist fire, 
@@ -39,6 +28,29 @@
 - Research the decline of the area, the town, and what became of the area through the years
 - Current status
 (Still researching)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Ceran St. Vrain
+- Ceran St. Vrain was born on May 5, 1802 by aristocratic (parents) who fled the French Revolution to French Territory in St. Louis, Missouri. He ventured to New Mexico in 1825 at the age 23. He in his young-adulthood made his living selling fur. In 1834 he with the help of Charles and William Bent, the three of them helped establish'Brent's Fort' on the Arkansas River. He his firm also established the St. Vrains trading post on the Platte River. In 1847, St. Vrain was given 4,000,000 acresof land in southern Colorado, This land grant was given to St. Vrain after revolts in Taos caused the death of his friend and Govenor, Charles Bent. In 1847. St. Vrain led a militia (mostly) to crush the revolts in Taos,perpetrated by rebels made up of mostly Mexican and (Indians). In 1855 he was promoted to lieutienant colonel in order to crush maruading bands of Utes and Apaches. During the civil war he was promoted to Colonel 
+- 
+- 
+- 
+- Contracted by US govt to give the Navajos flour
+- Started the Santa Fe Gazzete 
+- During the start of the civil war he was given the rank of Colonel, though he didn't stay active along and eventually handed command
+
+
 
 ### Other mill sites:
 - Research how close the other sites (mills and towns) where to this mill. Maybe in order to put into perspective to why he was chosen to feed the Navajos.
