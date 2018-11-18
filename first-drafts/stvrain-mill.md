@@ -4,13 +4,11 @@
 ## Ceran St. Vrain's Stone Mill was constructed to resist fire which had destroyed another of his mills in Taos in the same year.
 - The mill was created in a rush to meet high-demand and to replace what was lost in ,Taos. The overall main goal was to fire proof the mill. This was accomplished by crudley making the mill out of stone blocks and different adhesive such as what was around, dirt, rocks, etc, combined with water. Each of the stone blocks used was of different size, which was not common to do in this time.  The mill from ground to top of roof is 43 feet high and had  a total of three floors. The mill again was built in a hurry to meet demand and to also replace mills lost in Taos, NM. This meant that even the water-wheel, that is no longer attached to the building, was also rushed and crude in making. 
 
-## Mill was built in or around 1864
+## Mill's purpose
  - Mill was used to supply neighboring areas as well as for the feeding of the Navajos that were being held in and around Fort Sumner, NM, then known as Sunnyside.   
  - Flour was in high demand at this time which is one of the suspected reasons to why this mill was constructed. 
  - It is speculated that this mill was created to make up for the mill lost because of fire in Taos, NM. 
 
-## The Mill is described as being crudely made
-- One reason for the term crudely made is the fact for the time the mill using blocks of different size and different adhesive such as what was around, dirt, rocks, etc. 
 
 ## (More about the esthetic of the mill)
   Currently this mill is in awful shape due to the lack of up-keep. Whole areas are in need of repair, which is 
@@ -34,7 +32,7 @@
 
 
 
-## Ceran St. Vrain
+## Ceran St. Vrain, the man who built the mill
 - Ceran St. Vrain was born on May 5, 1802 by aristocratic (parents) who fled the French Revolution to French Territory in St. Louis, Missouri. He ventured to New Mexico in 1825 at the age 23. He in his young-adulthood made his living selling fur. In 1834 he with the help of Charles and William Bent, the three of them helped establish'Brent's Fort' on the Arkansas River. He his firm also established the St. Vrains trading post on the Platte River. In 1847, St. Vrain was given 4,000,000 acresof land in southern Colorado, This land grant was given to St. Vrain after revolts in Taos caused the death of his friend and Govenor, Charles Bent. In 1847. St. Vrain led a militia (mostly) to crush the revolts in Taos,perpetrated by rebels made up of mostly Mexican and (Indians). In 1855 he was promoted to lieutienant colonel in order to crush maruading bands of Utes and Apaches. During the civil war he was promoted to Colonel, but only kept the rank for a short amount of time before he retired and passed the rank on to another.  
 - 
 - 
