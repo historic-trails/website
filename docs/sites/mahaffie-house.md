@@ -15,6 +15,13 @@ date: 2018-11-19
 - the house, in particular, is a testament to the ways that private citizens far from Santa Fe helped open trade with Mexico
 - the urbanization of nearby Kansas City makes it important to preserve the Mahaffie House, which is an important link to Johnson County's yesteryears
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="The Mahaffie House"
+  src="images/mahaffie-house-newspaper.jpg"
+%}
+
 ### stage stops were not unlike convenience stores, if convenience stores also offered multi-course meals and changed horses for travelers
 - hospitality
 - food 
