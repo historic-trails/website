@@ -1,7 +1,7 @@
 Fort lenard
 -  _location of the site is lenard Kansas it operated between 1854-1878 as a
 source of protection form native American raids for settlers and traders_
-Fort lennard was constructed in 1854 as a resopnse against the incrase of native raiders on amarican settlers in the kansas section of the santa fe trail. The source for the increase of traffic was the desovery of gold in 1848 which proswaded a grater number of settlers to the west. The comanche people displeased whith the new iflux of settlers began to take grater ation to slow the amount of traffic in thier lands. The fort also served as a delivery and stoping point for the ppony express for the short few months that it existed from 1860-1861 
+Fort lennard was constructed in 1854 as a resopnse against the incrase of native raiders on amarican settlers in the kansas section of the santa fe trail. The source for the increase of traffic was the desovery of gold in 1848 which proswaded a grater number of settlers to the west. The comanche people displeased whith the new iflux of settlers began to take grater ation to slow the amount of traffic in thier lands. The fort also served as a delivery and stoping point for the ppony express for the short few months that it existed from 1860-1861 which was responsible for delivering improtant mail and messages until the creasion of the telogrape took over the system  
 - [According to] (https://www..kshs.org/index.php?url=/Kansas-historical-quarterly-the-story-of-fort-larned/1139) The increased traffic in the area was caused by the land acquired from the treaty of Guadalupe at the conclusion of the amarican and mexicain war where 
 - the travelers of interest include gold seekers who wanted to take advantage of the new lands provided by the treaty.
 - I should do more research on the treaty of Guadalupe
@@ -14,8 +14,7 @@ the original locasion of this
 - The fort would administer its protection was by patrolling their section of the trail.
 - _1861-1868 the fort became the bureau of Indian affairs with those who signed the fort wise treaty_
 - The tribes that singed the treaty include the kiwas, comanches and the cheyennes.
-- The fort was responsible for distributing annuites to the tribes that singed the treaty.
-- In 1868 the treaty and its agency where eliminated when native American's where moved to reservations.
+- The fort was responsible for distributing annuites to the tribes that singed the treaty. The signing of the treatey was not somthing that the native people wanted to take part in but the decimasion of the buffilo poulasion had made it to where they could no longer support thier people. The treaty was suposed to have the united states goverment to ditribute food to the tribes that sined the treatey. fort lennard was to be one such site but In 1868 the treaty and its agency where eliminated when native American's where moved to reservations.
 - _In its late years the fort provided protection for the construction of the Santa fe rail road in 1872._
 - Research how did the rail road affect the future of the fort
 - once the rail road was complete the fort was put as army surplus.
