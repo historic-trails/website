@@ -7,6 +7,13 @@ date: 2018-11-12
 
 # Blue Mills
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Centennial Hotel"
+  src="images/little-blue-river.jpg"
+%}
+
 ## Positioned approximately halfway between Fort Osage and the town of Independence, Blue Mills was an important center for provisioning traders and settlers on the Santa Fe Trail between 1835 and the mid 1860s.
 - Name comes from a flour and grist mill built near the Little Blue River. (NPS form)
 - http://www.santafetrailresearch.com/mileagecharts/sft-missouri.html says there was a gristmill and sawmill.
