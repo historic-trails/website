@@ -98,8 +98,18 @@ Wait a few minutes (should be less time than before), then reload/refresh your e
 - Double check your code against the model for a missing quote or bracket.
 - Make sure your files are in the `docs/sites/images` folder on GitHub.
 
+
+## Update our Site List
+Visit our [List Page](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/list.md), click the pencil icon, and update your site name so that it's a link to your new webpage. Note that I've already done that for Blue Mills, so you just need to imitate what I've done. This way we have an easy way to access our pages without having to type in URLs all the time.
+
 ## Consult the sample if need be
 Remember that the [Blue Mills file](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/sites/blue-mills.md) has everything you need to emulate already in it. So if you're unclear about something, check the code for that page by clicking the `raw` button on top of the edit box. You can also copy and paste from the raw output into your own file. It's exactly the same code as described above.
 
-## Enjoy the rest of your break
-See you Monday at 9am! 
+## You're done!
+It wasn't so bad, was it? Unless you made a silly typo somewhere and spent a long time trying to find it---then it probably was pretty bad. But don't say I didn't warn you.
+
+## Remember your WEDNESDAY DEADLINE
+You took a big step here, but there's a lot that needs to get done for Wednesday, so please start working on these over our extended break. That's what the extra time is for!
+
+## That said, don't work too hard
+Enjoy the FOOD HOLIDAY! See you Monday morning!
