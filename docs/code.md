@@ -4,14 +4,9 @@ title: Sample Essay
 date: 2017-11-02
 ---
 
-{% include jumbotron.html
-  title="Essay Example"
-  image="images/BirdsEye_1886.jpg"
-  text="This is where you put your catchy subtitle.
-" %}
+# Code Samples
 
-
-*This page provides a bogus essay, beginning with a full bleed header image (a jumbotron!) to illustrate how to implement the various typographic features we're using. The gray boxes should show you exactly what code you need to use; copy and paste it into your own essay pages and adjust the attributes as you need to.*
+*This page provides code samples of everything you need to know. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
@@ -24,10 +19,9 @@ All essays must have the following metadata at the top of the page, with the val
 
 ``` markdown
 ---
-title: Simms Building
+title: Blue Mills
 author: Fred Gibbs
-css: gibbs.css
-date: 2017-11-02
+date: 2018-11-19
 ---
 ```
 
@@ -40,7 +34,7 @@ To get a footnote to show up, there are two steps:
 1) put `[^SOMETEXT]` in your essay where you want the superscript number to appear, and change SOMETEXT to some unique signifier related to the content of the note. In your markdown file, your text will look like:
 
 ```
-Here's a sample sentence with a footnote at the end. [^source] Here is yet another sentence. [^another-source] The Simms building was remodeled in 2013. [^abqjournal-12-2014]  
+Here's a sample sentence with a footnote at the end. [^source] Here is yet another sentence. [^another-source]
 ```
 
 2) put  `[^SOMETEXT]: Your footnote text` at the bottom of your essay.
@@ -49,34 +43,20 @@ Here's a sample sentence with a footnote at the end. [^source] Here is yet anoth
 ```
 [^source]: Your footnote text
 [^another-source]: Text for another footnote.
-[^abqjournal-12-2014]: [Albuquerque Journal, 12-5-2014](https://www.abqjournal.com/506289/simms-renovation-complete.html).
 ```
 
 Viewed as a webpage, the code above will render as:
 
-Here's a sample sentence with a footnote at the end. [^source] Here is yet another sentence. [^another-source] The Simms building was remodeled in 2013. [^abqjournal-12-2014] Notice the footnotes at the bottom of this page! Also note that the numbering happens automagically.
+Here's a sample sentence with a footnote at the end.[^source] Here is yet another sentence.[^another-source]  Notice the footnotes at the bottom of this page! Also note that the numbering happens automagically.
 
 [^source]: Your footnote text
 [^another-source]: Text for another footnote.
-[^abqjournal-12-2014]: [Albuquerque Journal, 12-5-2014](https://www.abqjournal.com/506289/simms-renovation-complete.html).
 
-
-
-
-## Jumbotron
-To achieve a jumbotron header, use the following code on your page, and alter the image filename and text accordingly:
-
-``` html
-{%raw%}{% include jumbotron.html
-title="Essay Example"
-image="images/BirdsEye_1886.jpg"
-text="This is where you put your catchy subtitle."
-%} {%endraw%}
-```
 
 
 ## Images
 There is one basic way we will embed images in our essay files. Note that it is totally different from how you learned to do them in Markdown itself. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way.
+
 
 ### Standard Usage
 
@@ -191,14 +171,14 @@ If you need to do a footnote at the end, you can add it as you normally do.
 
 > Here is my quote from a historical source that people would find interesting.[^mysource]
 
-[^mysource]: _Albuquerque Journal_, 8-04-98, p. 12.
+[^mysource]: Some trustworthy reference
 
 
 Add the code, for that is:
 ```
 > Here is my quote from a historical source that people would find interesting.[^mysource]
 
-[^mysource]: _Albuquerque Journal_, 8-04-98, p. 12.
+[^mysource]: Some trustworthy reference
 ```
 
 ---
