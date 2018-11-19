@@ -1,6 +1,6 @@
 defaults:
   -
     scope:
-      path: "essays"
+      path: "sites"
     values:
       layout: "single-col"

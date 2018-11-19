@@ -10,7 +10,7 @@ function getMarkers(callback) {
   console.log("starting getMarkers");
     // The spreadsheet must be either "visible to anyone with the link", or "public on the web".
 
-    var sheetURL = "https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit?usp=sharing#gid=0";
+    var sheetURL = "https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit?usp=sharing#gid=0";
 
     var markers = [];
     $('#sheetrock').sheetrock({
@@ -47,7 +47,7 @@ function createPopupRows(pages) {
   console.log("about to begin page loop.");
 
   $.each(pages, function(i,val) {
-    var filename = 'essays/' + val + '.html';
+    var filename = 'sites/' + val + '.html';
     console.log("processing " + filename);
 
     var $div = $('<div>');

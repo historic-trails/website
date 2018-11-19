@@ -12,7 +12,7 @@ function getPages(callback) {
 
     //https://docs.google.com/spreadsheets/d/1x-7ms5fDNzW2Ah9AXylV0ERWh4O-YlwVpguptmWlWbU/edit?usp=sharing#gid=0;
     var sheetURL =
-    "https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0"
+    "https://docs.google.com/spreadsheets/d/1yLBM4Aik6yEJ90XET5_GBrZ58gr1Mbjsg-NvyWrj0_8/edit?usp=sharing#gid=0"
     var pages = [];
     $('#sheetrock').sheetrock({
         url: sheetURL,
@@ -51,9 +51,9 @@ function createCard(i,page) {
     var filename = page.filename + '.html';
     console.log("processing " + filename);
 
-    var rowString = '<a href="essays/'+filename+'">';
+    var rowString = '<a href="sites/'+filename+'">';
     rowString += '<div class="card">';
-    rowString += '<img class="card-img-top" src="essays/images/' + page.image + '" alt="Essay image">';
+    rowString += '<img class="card-img-top" src="sites/images/' + page.image + '" alt="Essay image">';
     rowString += '<div class="card-block">';
     rowString += '<h4 class="card-title">' + page.title + '</h4>';
     rowString += '<p class="card-text">' + page.description + '</p>';
