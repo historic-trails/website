@@ -8,7 +8,7 @@ date: 2018-11-19
 # What to do over Thanksgiving break
 I was way unclear at the end of class on Monday, but wanted to at least show you the basics of what you need to do for Monday. Below I've written out clear steps to follow to get everything done.
 
-Your main task for MONDAY is to get your essays into our website folder and get your images to work.
+Your main task for MONDAY is to get your essays into our website folder and get your images (at least 3, but try for more) to work.
 
 HOWEVER, you also have a major deadline on WEDNESDAY, so you should really try to have Wednesday's assignment done by Monday in case there are problems and we can solve them during class. See the syllabus for details about what needs to be done by WEDNESDAY.
 
@@ -60,7 +60,7 @@ Remember they should have nice filenames at this point.
 
 
 ## Edit your essays to make images appear.
-Just like in class, copy and paste the code below into your essay, wherever you want the image to appear.
+Just like in class, copy and paste the code below into your essay _wherever you want the image to appear_.
 
 Remember that this technique is totally different from how you learned to do images in Markdown itself. This is because if we want to maintain consistency across images and pages, like how the captions appear, we need a bit of extra HTML than Markdown alone can provide. We want our essays to look like this:
 
