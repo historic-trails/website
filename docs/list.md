@@ -7,7 +7,7 @@ date: 2017-12-19
 # Itinerary Assignments
 
 - [Blue Mills](sites/blue-mills): Fred
-- Mahaffie House: Guy
+- [Mahaffie House](sites/mahaffie-house): Guy
 - Lanesfield School: Addey
 - Baker Uniersity Old Castle Hall: Sean Hellwege
 - Six Mile Creek Stage Station: Corey
