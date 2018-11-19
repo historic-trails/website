@@ -22,6 +22,7 @@ All essays must have the following metadata at the top of the page, with the val
 ---
 title: Blue Mills
 author: Fred Gibbs
+layout: single-col
 date: 2018-11-19
 ---
 ```

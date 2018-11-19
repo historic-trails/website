@@ -77,10 +77,14 @@ date: 2018-11-12
 - Because so many mills have not survived at all, any remains remind us of their significance
 - they also provide archeological evidence about mill construction and use along the trails.
 
-### Other mill sites:
-- 5 total; 2 outside NM
-- need to research more on other sites
+### Related Articles:
+- article link 1
+- article link 2
 
-### Nearby historic sites:
-- Fort Osage
-- ???
+### Related Places:
+- place link 1
+- place link 2
+
+### Related People:
+- person link 1
+- person link 2
