@@ -13,6 +13,7 @@ date: 2017-11-02
 
 **• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
 
+---
 
 ## Essay Metadata
 All essays must have the following metadata at the top of the page, with the values customized to your own page. **Be sure you have the 3 hyphens `---` before and after your metadata on their own lines**. The top of your essay page should look like:
@@ -24,6 +25,9 @@ author: Fred Gibbs
 date: 2018-11-19
 ---
 ```
+
+
+---
 
 
 ## Footnotes
@@ -54,6 +58,9 @@ Here's a sample sentence with a footnote at the end.[^source] Here is yet anothe
 
 
 
+---
+
+
 ## Images
 There is one basic way we will embed images in our essay files. Note that it is totally different from how you learned to do them in Markdown itself. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way.
 
@@ -63,6 +70,9 @@ There is one basic way we will embed images in our essay files. Note that it is 
 {% include figure.html class="img-right" width="33%" caption="Centennial Hotel" src="images/centennial-hotel.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
+
+
+---
 
 
 To embed the image above, we use:
@@ -87,6 +97,10 @@ Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis s
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
 
+
+---
+
+
 To achieve the above half-width image, use:
 ```
 {%raw%}{% include figure.html
@@ -102,6 +116,10 @@ Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis s
 
 {% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="images/centennial-hotel.jpg" %}
 
+
+---
+
+
 To achieve the above full-width (but not jumbotron) image, use:
 {%raw%}
 ```
@@ -112,6 +130,10 @@ To achieve the above full-width (but not jumbotron) image, use:
   src="images/centennial-hotel.jpg" %}
 ```
 {%endraw%}
+
+
+
+---
 
 
 ### Juxtapose
@@ -133,6 +155,9 @@ caption="These sliders are way more effective the more closely you line up the b
 %}{%endraw%}
 ```
 
+
+
+---
 
 
 
