@@ -15,14 +15,14 @@ HOWEVER, you also have a major deadline on WEDNESDAY, so you should really try t
 
 FOR MONDAY: Here's the minimum of what you need to do:
 
-# Find images using techniques Guy covered in class.
+## Find images using techniques Guy covered in class.
 When you download the image, please rename it so it has a human-readable name, not something like `IMG00382717-2.jpg`. It is much easier to solve problems when the file names are descriptive, like `little-blue-river.jpg`. All files in our images folder should have consistent and nicely-formatted names. This means all lower case with hyphens instead of spaces.
 
-# Revise your essays in preparation for Wednesday's deadline.
+## Revise your essays in preparation for Wednesday's deadline.
 Don't worry about any code at this point. Just make sure the essay is done, with section headings, clear topic sentences, and focused paragraphs.
 
 
-# Add necessary Metadata to the top of your essay.
+## Add necessary Metadata to the top of your essay.
 All essays must have the following metadata at the very top of your Markdown file, with the title and author customized to your essay. This is what will turn our basic Markdown files into web pages. **Be sure you have the 3 hyphens `---` before and after your metadata on their own lines**. The top of your essay page should look like:
 
 ``` markdown
