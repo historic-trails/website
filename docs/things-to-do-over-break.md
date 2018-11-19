@@ -12,6 +12,8 @@ Your main task for MONDAY is to get your essays into our website folder and get 
 
 HOWEVER, you also have a major deadline on WEDNESDAY, so you should really try to have Wednesday's assignment done by Monday in case there are problems and we can solve them during class. See the syllabus for details about what needs to be done by WEDNESDAY.
 
+**PRO TIP: Work carefully! Avoiding problems takes MUCH less time than tracking them down and fixing them.**
+
 
 ### FOR MONDAY: Here's the minimum of what you need to do:
 
@@ -48,7 +50,7 @@ Wait about 10 minutes so GitHub can build your new webpage.
 
 ## Check to see if your NEW WEB PAGE page looks OK.
 Then, in your URL bar, type in:
-`https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills`. Or you can just [click here](https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills).  Then replace `blue-mills` with the name of your file. Your page should look vaguely like the [Blue Mills Sample](https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills). **KEEP YOUR PAGE OPEN IN YOUR BROWSER TAB!**
+`https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills`. Or you can just [open this link in a new window](https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills).  Then replace `blue-mills` with the name of your file. Your page should look vaguely like the [Blue Mills Sample](https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills). **KEEP YOUR PAGE OPEN IN YOUR BROWSER TAB!**
 
 
 # Adding Images
@@ -71,7 +73,7 @@ Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis s
 ---
 
 
-To code to insert the above image:
+To insert the above image, copy this code to your Markdown file:
 ```
 {%raw%}{% include figure.html
   class="img-right"
@@ -83,13 +85,21 @@ To code to insert the above image:
 
 
 ## Edit the `src` field
-In the code you copied to your essay, change what's between the quotes in the `src` field to match the filename of your image. Note that EVERYONE will have `images/` as the first part of the their filename because we're all putting our images in the images directory. YAY LOGIC!
+In the code you copied to your essay, change what's between the quotes in the `src` field to match the filename of your image. Note that EVERYONE will have `images/` as the first part of the their filename because we're all putting our images in the images directory. YAY LOGIC! My file is a `.jpg` file; yours might be `.png` or something else. Make sure what's in the code and your file name as it appears in the repository MATCH EXACTLY.
 
 ## Commit your changes.
 Just like above, there are several ways to do this depending on how you prefer to work.
 
 ## Check your work
-Wait a few minutes (should be less time than before), then reload/refresh the webpage where your essay appears from an earlier step. Your images should appear, but if they do not, either you need to wait a little longer or you made a mistake with the code. If you've waited more than 5 minutes, you probably made a silly typo somewhere and you have to find it.
+Wait a few minutes (should be less time than before), then reload/refresh your essay's webpage (the tab from earlier that you kept open). Your images should appear, but if they do not, either you need to wait a little longer or you made a mistake with the code. If you've waited more than 5 minutes, you probably made a silly typo somewhere and you have to find it.
+
+### Troubleshooting
+- Most common problem is a mismatch between image filename and what you put in the code.
+- Double check your code against the model for a missing quote or bracket.
+- Make sure your files are in the `docs/sites/images` folder on GitHub.
 
 ## Consult the sample if need be
-Remember that the [Blue Mills file](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/sites/blue-mills.md) has everything you need to emulate already in it. So if you're unclear about something, check the `raw` code for that page by clicking the `raw` button on top of the edit box. You can also copy and paste from the raw output into your own file. It's exactly the same code as described above.
+Remember that the [Blue Mills file](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/sites/blue-mills.md) has everything you need to emulate already in it. So if you're unclear about something, check the code for that page by clicking the `raw` button on top of the edit box. You can also copy and paste from the raw output into your own file. It's exactly the same code as described above.
+
+## Enjoy the rest of your break
+See you Monday at 9am! 
