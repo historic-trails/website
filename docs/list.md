@@ -6,6 +6,7 @@ date: 2017-12-19
 
 # Itinerary Assignments
 
+- [Blue Mills](sites/blue-mills): Fred
 - Mahaffie House: Guy
 - Lanesfield School: Addey
 - Baker Uniersity Old Castle Hall: Sean Hellwege
