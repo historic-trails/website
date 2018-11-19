@@ -41,8 +41,11 @@ Copy and paste the above code into the VERY TOP of your file. Avoid blank lines 
 # Commit your file to the repository.
 Put your file in the new [docs/sites folder](https://github.com/historic-trails/santa-fe-itinerary/tree/master/docs/sites). Like always, you can drag and drop your Markdown file onto that page, use the `Upload files` button and select your file, or you can use the `Create a new file` button and copy and paste your text into the text box.
 
+# Do something else for a while
+Wait about 10 minutes so GitHub can build your new webpage.
+
 # Check to see if your NEW WEB PAGE page looks OK.
-Wait a few minutes so GitHub can build your webpage. Then, in your URL bar, type in:
+Then, in your URL bar, type in:
 `https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills`. Or you can just [click here](https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills).  Then replace `blue-mills` with the name of your file. Your page should look vaguely like the [Blue Mills Sample](https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills). **KEEP YOUR PAGE OPEN IN YOUR BROWSER TAB!**
 
 
@@ -83,7 +86,7 @@ In the code you copied to your essay, change what's between the quotes in the `s
 Just like above, there are several ways to do this depending on how you prefer to work.
 
 # Check your work
-Wait a few minutes, then reload/refresh the webpage where your essay appears from an earlier step. Your images should appear, but if they do not, either you need to wait a little longer or you made a mistake with the code. If you've waited more than 5 minutes, you probably made a silly typo somewhere and you have to find it.
+Wait a few minutes (should be less time than before), then reload/refresh the webpage where your essay appears from an earlier step. Your images should appear, but if they do not, either you need to wait a little longer or you made a mistake with the code. If you've waited more than 5 minutes, you probably made a silly typo somewhere and you have to find it.
 
 # Consult the sample if need be
 Remember that the [Blue Mills file](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/sites/blue-mills.md) has everything you need to emulate already in it. So if you're unclear about something, check the `raw` code for that page by clicking the `raw` button on top of the edit box. You can also copy and paste from the raw output into your own file. It's exactly the same code as described above.
