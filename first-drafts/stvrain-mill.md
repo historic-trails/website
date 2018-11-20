@@ -1,17 +1,17 @@
 # St. Vrain's Mill
  Created in or around 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand of flour by the US government during the tail end of the Civil-War and to feed thousands of Navajo Indians during the period of the 'Long Walk'. A number of revolts in Taos, NM, saw a number of the mills that were owned by Ceran St. Vrain be burned to the ground. This mill, though, rushed and crudely made, served a valuable function to not only the area but to other valuable areas as well, such as military forts and holding encampments.  It is currently still standing in Mora, NM, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, NM. The Mill is located approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. 
 
-## Ceran St. Vrain's Stone Mill was constructed to resist fire which had destroyed another of his mills in Taos in the same year.
+## *Ceran St. Vrain's Stone Mill: Fire Resistant*
  The mill was created in a rush to meet high-demand and to replace what was lost in, Taos. The overall main goal was to fire proof the mill. This was accomplished by crudely making the mill out of stone blocks and different adhesive such as what was around, dirt, rocks, etc. combined with water. Each of the stone blocks used was of different size, which was not common to do in this time.  The mill from ground to top of roof is 43 feet high and had a total of three floors. The mill again was built in a hurry to meet demand and to also replace mills lost in Taos, NM. This meant that even the water-wheel, that is no longer attached to the building, was also rushed and crude in making. 
 
-## Mill's purpose
+## *Mill's Purpose*
 The mill's overall main purpose was to replace the mills that were lost in Taos, NM. The United States government had reached out to St. Vrain in order to be a main supplier to the military installations around the area, the neighboring areas and the Navajo Indians which were currently being held in present-day Fort Sumner, NM.  
 
 ## (More about the esthetic of the mill)
   Currently this mill is in awful shape due to the lack of up-keep. Whole areas are in need of repair, which is 
   laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC.  
 
-## Closer of the Mill and Decline of area.
+## *Closing of the mill and decline of area*
 - Research closing of the mill
 - Research the decline of the area, the town, and what became of the area through the years
 - Current status
