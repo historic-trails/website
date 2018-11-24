@@ -60,6 +60,7 @@ date: 2018-11-24
 Location on Campus: 511 5th St, Baldwin City, KS 66006
 
 ##### Nearby Historic Sites
+
 Blackjack Battle Field 
 
  * The Battle of Black Jack took place on June 2, 1856, when anti-slavery forces, led by the noted abolitionist John Brown, attacked the encampment of Henry C. Pate near Baldwin City, Kansas. The battle is cited as one incident of "Bleeding Kansas" and a contributing factor leading up to the American Civil War of 1861 to 1865.
@@ -70,6 +71,7 @@ Chicken Creek Arch Park
  * The historic Chicken Creek Arch is located ½ mile east and 1 1/4 miles south of the town of Lone Star at 780 E. 850 Road. The arch was built in 1913 by B.F. Metsker and I. Babb at a cost of $170.25. 
 
 ##### Sources 
+
 Historic Campus Architecture Project 
 http://hcap.artstor.org/cgi-bin/library?a=d&d=p153
 
