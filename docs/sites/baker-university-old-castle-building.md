@@ -69,10 +69,10 @@ http://hcap.artstor.org/cgi-bin/library?a=d&d=p153
 Kansaspedia:Baker University
 https://www.kshs.org/kansapedia/baker-university/17829
 
-NATIONAL REGISTER OF HISTORIC PLACES INVENTORY - NOMINATION FORM
+National Register Of Historic Places Inventory - Nomination Form
 https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text
 
-BAKER UNIVERSITY VISION & VALUES
+Baker University Vision & Values
 https://www.bakeru.edu/about-baker-university/history-mission-vision/#support
 
 Kansaspedia: Grasshopper Plague of 1874
