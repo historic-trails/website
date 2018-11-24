@@ -21,13 +21,13 @@ date: 2018-11-24
 
 * In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas. (HCAP) Baker University struggled through its first years due to a drought in 1860 and the Civil War, as the war funneled prospective students into military serivce, the first class didn't graduated until 1866. 
 
-* In 1874 a massive grasshopper plague spread across the region devouring everything in sight, they ate crops out of the ground, as well as the wool from live sheep and clothing off people's backs. Paper, tree bark, and even wooden tool handles were devoured, hoppers were reported to have been several inches deep on the ground.
+* In 1874 a massive grasshopper plague spread across the region devouring everything in sight, they ate crops out of the ground, as well as the wool from live sheep and clothing off people's backs. Paper, tree bark, and even wooden tool handles were devoured, hoppers were reported to have been several inches deep on the ground (KHS Grasshoppers). 
 
 
 
 
 ### Significance 
- * The Baker University campus is significant because it admitted women early on in its history, the first graduating class in 1866 contained one women, and two men. 
+ * The Baker University campus is significant because it admitted women early on in its history, the first graduating class in 1866 contained one women, and two men. (Baker University)
  
  * President Abraham Lincoln doanted $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. (KHS).
  
