@@ -1,3 +1,12 @@
+---
+title: Baker University Old Castle Building
+author: Sean Hellwege
+layout: single-col
+date: 2018-11-24
+---
+
+
+
 # Baker University Old Castle Building 
 ## History 
 
