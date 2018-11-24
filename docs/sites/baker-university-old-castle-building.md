@@ -66,7 +66,7 @@ Chicken Creek Arch Park
 Historic Campus Architecture Project 
 http://hcap.artstor.org/cgi-bin/library?a=d&d=p153
 
-Kansaspedia:Baker University
+Kansaspedia: Baker University
 https://www.kshs.org/kansapedia/baker-university/17829
 
 National Register Of Historic Places Inventory - Nomination Form
