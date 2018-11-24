@@ -31,10 +31,10 @@ date: 2018-11-24
  
  * President Abraham Lincoln doanted $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. (KHS).
  
-## Construction 
+### Construction 
 * Castle Hall was erected off campus because school trustees lacked sufficient funds to build the type of permanent structure they desired and they did not want to erect a temporary structure on the campus. College officials could raise only enough funds to construct two stories of the planned three-story structure. The Palmyra Masonic lodge financed the third floor in exchange for regular use of a room for lodge meetings. (HCAP) Old Castle Hall,is a crudely quoined three-story rubble-stone building, originally consisted of only two stories. The third story was added later and then afterward torn off because of poor mortar joints; it was then added for a second time and remains to date.(NRHP)
 
-## Building uses Through the Years
+### Building uses Through the Years
  * By 1871 another building was completed on campus named Parmenter Hall, thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, In 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property. (HCAP)
 
 
@@ -43,7 +43,7 @@ date: 2018-11-24
 
  * The Old Castle Hall is now used as musuem, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
 
-## Santa Fe Trail 
+### Santa Fe Trail 
 
  {% include figure.html
   class="img-right"
@@ -69,7 +69,7 @@ Wellsville, Kansas
 Chicken Creek Arch Park
  * The historic Chicken Creek Arch is located ½ mile east and 1 1/4 miles south of the town of Lone Star at 780 E. 850 Road. The arch was built in 1913 by B.F. Metsker and I. Babb at a cost of $170.25. 
 
-#### Sources 
+##### Sources 
 Historic Campus Architecture Project 
 http://hcap.artstor.org/cgi-bin/library?a=d&d=p153
 
