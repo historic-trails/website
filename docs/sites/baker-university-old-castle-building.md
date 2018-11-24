@@ -17,7 +17,7 @@ date: 2018-11-24
   src="images/old-castle-museum.jpg"
 %}
 
-   Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. Named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church, the school holds the honor of being the first university in Kansas (KHS).The university has a rich history, growing up side-by-side with the state of Kansas, Castle Hall was the first building ever erected on campus, and classes were held here through 1871. 
+ * Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. Named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church, the school holds the honor of being the first university in Kansas (KHS).The university has a rich history, growing up side-by-side with the state of Kansas, Castle Hall was the first building ever erected on campus, and classes were held here through 1871. 
 
 * In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas. (HCAP) Baker University struggled through its first years due to a drought in 1860 and the Civil War, as the war funneled prospective students into military serivce, the first class didn't graduated until 1866. 
 
@@ -39,7 +39,7 @@ date: 2018-11-24
 
 
 ### Baker University Today 
-Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka. (Baker University)
+* Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka. (Baker University)
 
  * The Old Castle Hall is now used as musuem, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
 
