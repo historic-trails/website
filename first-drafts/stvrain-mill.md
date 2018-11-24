@@ -1,7 +1,9 @@
+---
 title: St. Vrain's Mill
 author: Evan Sena
 layout: single-col
 date: 2018-11-24
+---
 
 # St. Vrain's Mill
  Created in or around 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand of flour by the US government during the tail end of the Civil-War and to feed thousands of Navajo Indians during the period of the 'Long Walk'. A number of revolts in Taos, NM, saw a number of the mills that were owned by Ceran St. Vrain be burned to the ground. This mill, though, rushed and crudely made, served a valuable function to not only the area but to other valuable areas as well, such as military forts and holding encampments.  It is currently still standing in Mora, NM, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, NM. The Mill is located approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. 
