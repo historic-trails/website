@@ -31,12 +31,6 @@ date: 2018-11-24
  
  * President Abraham Lincoln doanted $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. (KHS).
  
-## Santa Fe Trail 
- 
- * The Santa Fe Trail entered Douglas County near its southeast corner, a few miles east of Black Jack, from where it took a northwesterly course through Palmyra and on to Willow Springs. Here it turned to the southwest, passing close to Globe and Baden of later days and into Osage county about three miles north of the southwest corner of Douglas County.  Palmyra, which later became a part of Baldwin, was long a favorite place for repairing wagons and for rest.
- 
- * Wagon ruts are still visible at several locations in Douglas County.  To the east, in Johnson County, the trail splits from the Oregon and California Trail near Gardner, Kansas.   Trail ruts can easily be seen at the Ivan L. Boyd Prairie Preserve which is adjacent to the Battle of Black Jack site, at Black Jack Park near Baldwin City, KS (Santa Fe Trail Association). 
- 
 ## Construction 
 * Castle Hall was erected off campus because school trustees lacked sufficient funds to build the type of permanent structure they desired and they did not want to erect a temporary structure on the campus. College officials could raise only enough funds to construct two stories of the planned three-story structure. The Palmyra Masonic lodge financed the third floor in exchange for regular use of a room for lodge meetings. (HCAP) Old Castle Hall,is a crudely quoined three-story rubble-stone building, originally consisted of only two stories. The third story was added later and then afterward torn off because of poor mortar joints; it was then added for a second time and remains to date.(NRHP)
 
@@ -49,6 +43,12 @@ Today, the University serves 3,000 students through the College of Arts and Scie
 
  * The Old Castle Hall is now used as musuem, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
 
+## Santa Fe Trail 
+ 
+ * The Santa Fe Trail entered Douglas County near its southeast corner, a few miles east of Black Jack, from where it took a northwesterly course through Palmyra and on to Willow Springs. Here it turned to the southwest, passing close to Globe and Baden of later days and into Osage county about three miles north of the southwest corner of Douglas County.  Palmyra, which later became a part of Baldwin, was long a favorite place for repairing wagons and for rest.
+ 
+ * Wagon ruts are still visible at several locations in Douglas County.  To the east, in Johnson County, the trail splits from the Oregon and California Trail near Gardner, Kansas.   Trail ruts can easily be seen at the Ivan L. Boyd Prairie Preserve which is adjacent to the Battle of Black Jack site, at Black Jack Park near Baldwin City, KS (Santa Fe Trail Association). 
+ 
 ### How to Visit 
 Location on Campus: 511 5th St, Baldwin City, KS 66006
 
