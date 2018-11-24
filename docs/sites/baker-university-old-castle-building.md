@@ -31,7 +31,7 @@ date: 2018-11-24
  
  * President Abraham Lincoln doanted $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. (KHS).
  
-## Sante Fe Trail 
+## Santa Fe Trail 
  
  * The Santa Fe Trail entered Douglas County near its southeast corner, a few miles east of Black Jack, from where it took a northwesterly course through Palmyra and on to Willow Springs. Here it turned to the southwest, passing close to Globe and Baden of later days and into Osage county about three miles north of the southwest corner of Douglas County.  Palmyra, which later became a part of Baldwin, was long a favorite place for repairing wagons and for rest.
  * Wagon ruts are visible at several locations in Douglas County.  To the east, in Johnson County, the trail splits from the Oregon and California Trail near Gardner, Kansas.   Trail ruts can easily be seen at the Ivan L. Boyd Prairie Preserve which is adjacent to the Battle of Black Jack site, at Black Jack Park near Baldwin City, KS.
