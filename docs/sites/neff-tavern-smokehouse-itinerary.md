@@ -1,3 +1,10 @@
+---
+title: Neff Tavern Smokehouse
+author: Julia Schinnenburg
+layout: single-col
+date: 2018-11-24
+---
+
 # Neff Tavern Smokehouse
 
 {% include figure.html
