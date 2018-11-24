@@ -13,7 +13,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Centennial Hotel"
+  caption="Old Castle Building"
   src="images/old-castle-museum.jpg"
 %}
 
