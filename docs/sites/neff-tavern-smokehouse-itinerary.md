@@ -1,9 +1,22 @@
 # Neff Tavern Smokehouse
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="An old picture of the Neff tavern smokehouse. It was used to cure meat, which was sold in the Tavern. The meat was sourced through hunting and farming in the region, as mostly venison and pork meat was processed."
+  src="images/Neff_tavern_smokehouse_picture.png"
+%}
 The Neff Tavern Smokehouse was part of the Neff tavern complex, that offered shelter to travellers on the northern Santa Fe Trail close to Arrow Rock, Missouri in the late 18th century (NPS Form, 1963, p.1).  Throughout the history of the greater building as the Neff family residence, its inhabitants lived through many important stages of national American history: European immigration, westward migration and the Civil War. These events impacted the ongoing live and form of the tavern and its annex the smokehouse. 
 
 ## The tavern's setting
 The tavern was set at one of the trailheads of the Santa Fe Trail in central Missouri (NPS Form, 1963, XX). This region was experiencing a very wealthy period, as the Santa Fe Trail traders and travellers brought Spanish silver and goods to the central US, which established tight trading and economic relations (J. Gregg, 1845: p. 19 and K. Gregg, 1933). Especially, when the founder, Isaac Neff (1798 – early 19th century) (NPS Form,1963: statement of significance p. 1) moved to the area, these trading relations were strengthened, as Missouri became a state and part of the United States and Mexico reached independency of Spain (O’Brien, 2013: p.22). Both trading partners were now in the position to sovereignly follow their own interests. Assumably, this let the number of travellers increase and made a tavern a place of high demand. Furthermore, as will be shown later, the tavern was located on a big land possession, that was crossed by the Santa Fe Trail (NPS Form, 1963, statement of significance p. 1). The tavern was therefore set right on the pulse of trade and travel on the trail, which most probably, regarding the many reformations, that were performed on the house in its early years (NPS Form, 1963, statement of significance p. 2), attracted many of the above mentioned travellers.
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="This picture was taken of a tavern in Illinois, which was built about the time as the Neff tavern smokehouse. Although it was inferior in it's importance for the main tavern building, it was built as massive as the main building, as can be seen in this picture."
+  src="images/sunderlage-smokehouse_il.png"
+%}
 
 ## Isaac's history
 
