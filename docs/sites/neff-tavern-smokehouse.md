@@ -56,5 +56,6 @@ Turner, Frederick Jackson. „The Significance of the Frontier in American Histo
 W.B. Napton. Past and Present in Saline County, Missouri, o. J.
 
 Web sources:
-Number 1: https://www.findagrave.com/memorial/19379718/abram-neff , accessed 14.11.2018, 17:15 Uhr
+Number 1: https://www.findagrave.com/memorial/19379718/abram-neff , accessed 14.11.2018, 17:15 h
+Number 2: https://ourlocalhistory.files.wordpress.com/2014/07/sunderlage-smokehouse.jpg       , accessed 24.11.2018, 12:55 h
 
