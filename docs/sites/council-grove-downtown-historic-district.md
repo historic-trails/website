@@ -11,6 +11,12 @@ date: 2018-11-25
 Beginning at a trading post in 1847, Council Grove, situated an hour southwest of Topeka, Kansas on the Neosho River, played an important role along the Santa Fe Trail as the last stop heading west until Santa Fe (Andreas, 55). It has served traders, merchants, and ranchers throughout the mid and late 1800s and into the twentieth century. When the Santa Fe Trail opened up in 1821, Council Grove was just an area with plenty of grazing land, water, trees, and safe crossing (NRHP, 8.44, Brigham, 11). By 1854 with the opening of Kansas to white settlers, Council Grove changed from a simple trading post to the true jumping off point for the Santa Fe Trail (Brigham, 11, Andreas, 55). As time went on, Council Grove continued to expand and adapt based on the changing needs of those on the trail, like the adoption of railroads and the subsequent trade of cattle (Maloy, 64).
 
 ### The Early Years
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Last Chance Store"
+  src="images/last-chance-store.jpg"
+%}
 Council Grove began as little more than a resting point on the newly opened Santa Fe Trail in 1821 (NRHP, 8.44). The area boasted plenty of water, grazing land, trees, and safety (NRHP, 8.44). While still organized as an Indian territory, Seth Hays, a business man,  opened the first trading post under government contract in 1847 (Maloy, 4). By 1854 Seth Hays had competition from the Withington brothers, the Choteau brothers, and others (Brigham, 11, Maloy, 6). Seth Hays built the first house in Council Grove in 1857 (Brigham, 12). With more people realizing the potential for business as the last stop heading west on the Santa Fe Trail, Tom Hill constructed the Last Chance Store, also built in 1857 (Brigham, 15). This store provided the last stop along the Santa Fe Trail for hundreds of miles. With the organization of Kansas in 1854, towns could begin incorporating, as Council Grove did in 1858 with Seth Hays and other business people forming the town company in 1857 (Brigham, 11, 16).
 
 ### Railroad or Bust
