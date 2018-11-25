@@ -15,9 +15,7 @@ The mill's overall main purpose was to replace mills that were lost in Taos, NM.
  The mill was created in a rush to meet high-demand and to replace what was lost in Taos. The overall main goal was to fire proof the mill. This was accomplished by crudely making the mill out of stone blocks and different adhesive such as what was around: dirt, rocks, etc. combined with water. Each of the stone blocks used was of different size, which was not common to do in this time.  The mill from ground to top of roof is 43 feet high and had a total of three floors. The water-wheel, that is no longer attached to the building, was also rushed and crude in making for the time. The mill is currently still standing and the equiptment still intact; and so though crude in making, it seemed to have served its purpose. (,)
 
 ## *Current State of the Mill*
-  Currently this mill is being worked on, slowly. Due to the lack of up-keep in the past, the mill was in a state of decay until the local Mill Preservation and Historical .. Whole areas are
-  in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting 
-  Engineers, LLC. The mill's windows are currently boared
+Currently this mill is being worked on, slowly. Due to the lack of up-keep in the past, the mill was in a state of decay until the local Mill Preservation and Historical. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows are currently boarded shut and gr
 
 ## *Closing of the Mill and Decline of Area*
 - Research closing of the mill
@@ -41,30 +39,4 @@ The mill's overall main purpose was to replace mills that were lost in Taos, NM.
 
 
 
-Source FORMAT EXAMPLE TO PLUG IN, APA GOVT FORM FORMAT
-
-    In-Text Citation (Paraphrase): 
-      (Author Surname OR Name of Government Organization, Year)
-     
-      In-Text Citation (Quotation):
-      (Author Surname OR Name of Government Organization, Year, page number)
- 
-      References:
-      Author Surname, First Initial. Second Initial. OR Government Name. Name of
-            Government Agency. (Year). Title: Subtitle (Report No. xxx [if available]). Place of
-            Publication: Publisher.
- 
-Example 1 
- 
-      In-Text Citation (Paraphrase): 
-      (Gilmore et al., 1999)
-     
-      In-Text Citation (Quotation):
-      (Gilmore et al., 1999, p. 5)
- 
-      References:
-      Gilmore, J., Woollam, P., Campbell, T., McLean, B., Roch, J., & Stephens, T. (1999).
-            Statistical report on the health of Canadians: Prepared by the Federal, Provincial
-            and Territorial Advisory Committee on Population Health. Charlottetown, PEI:
-            Health Canada, Statistics Canada, Canadian Institute for Health Information.
- 
+Source
