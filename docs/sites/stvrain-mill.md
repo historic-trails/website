@@ -6,7 +6,7 @@ date: 2018-11-24
 ---
 
 # *St. Vrain's Mill*
- Created in or around 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand of flour by the US government during the tail end of the Civil-War and to feed thousands of Navajo Indians during a period where Navajo Indians were being held in Fort Union. A number of revolts in Taos, NM, saw a number of the mills that were owned by Ceran St. Vrain be burned to the ground. This mill, though rushed and crudely made, served a valuable function to not only the area but to other valuable areas as well, such as military forts and holding encampments.  It is currently still standing in Mora, NM, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, NM. The Mill is located approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. (,)
+ Created in or around 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand of flour by the US government during the tail end of the Civil-War and to feed thousands of Navajo Indians during a period where Navajo Indians were being held in Fort Union. A number of revolts in Taos, NM, saw a number of the mills that were owned by Ceran St. Vrain be burned to the ground. This mill, though rushed and crudely made, served a valuable function to not only the area but to other valuable areas as well, such as military forts and holding encampments.  It is currently still standing in Mora, NM, and is being persevered by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, NM. The Mill is located approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. (Purdy,1972)
 
 ## *The Mill's Purpose*
 The mill's overall main purpose was to replace mills that were lost in Taos, NM. The United States government had reached out to St. Vrain in order to be a main supplier to the military installations around the area, the neighboring areas and the Navajo Indians which were currently being held at Fort Union, in present day Mora, NM. (,)
@@ -39,4 +39,11 @@ Currently this mill is being worked on, slowly. Due to the lack of up-keep in th
 
 
 
-Source
+## *Bibliography*
+
+- Purdy, J. H.  State Record Center and Archives
+       State Record Center and Archives. (1972). Inventory: Nomination Form (Place of
+       National Register Verification.
+       
+ -
+
