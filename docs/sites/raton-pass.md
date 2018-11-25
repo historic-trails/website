@@ -5,7 +5,7 @@ layout: single-col
 date: 2018-11-19
 ---
 
-# **Wars and Wagons
+# **Wars and Wagons**
 
 Raton Pass stands as a towering border between two worlds, and the access to these worlds has been controlled by many different parties. A toll road ran as crookedly as the trail itself, a narrow mountain passageway for rail, and a modern convenience, this route has a varied and storied past. This trail was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the SAnta Fe Trail
 
@@ -18,11 +18,12 @@ The profits made by William Becknell’s first trading trip brought much needed 
 
 
 # **Wootton**
+
 {% include figure.html
   class="img-right"
   width="33%"
   caption="The famous Wootton house, pictured with “Uncle Dick” and his family."
-  src="wootton-house.jpg"
+  src="images/wootton-house.jpg"
 %}
 
 Richard Wootton, another trapper, saw the pass as an economic opportunity and decided to build and operate a toll gate restricting access to the trail. Wootton then claimed to have made improvements on the trail in an attempt to make it more accessible to wagon travel.  The bridges turned out to be narrow, the road laced with culverts with and many curves so sharp the wagons could not pass without damage. Many hills were so steep, the wagons had to use double teams for the assent. The truth was, the 27-mile journey required five days to traverse, and the route and improvements were so poor that many wagons were wrecked in their journey. With few alternatives, the public almost had to use the Wooten Road. that he then made nominal improvements over. On August 1, 1865, before either Colorado or New Mexico, became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by two oxen, horses or mules cost $1. Wagons pulled by four cost $1.50. Wagons pulled by more than this cost $2. One man on horseback or on foot cost 25 cents. Loose cattle, horses or mules, pigs or sheep cost 5 cents each.
