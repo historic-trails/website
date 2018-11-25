@@ -27,6 +27,12 @@ Looking to connect more farmers, ranchers, and businesses to more people, Counci
 
 The 1920s-30s proved to be a difficult time for Council Grove. In the early part of the 1920s, farmers were going into debt due to inflated crop pricing (NRHP, 8.52). However, with large federal investment in the 1930s, Council Grove was able to overcome difficulties and create a safer and modern town. To help with flooding, the WPA approved $40 million in 1934 to help prevent flooding with the project being completed in 1942 (NRHP, 8.52). The town received other New Deal era help from the federal government including a new jail, a post office, a water plant, and the Flint Hills Rural Electrification Administration (NRHP, 8.52).
 
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="Kaw Indian Mission"
+  src="images/kaw-inidian-mission.jpg"
+%}
 After World War II, the Kansas State Legislature approved money to buy the Kaw Indian Mission to create a museum (NRHP, 8.53). While Council Grove had experienced many floods before, the 1951 flood was unlike any other. With the Neosho Rover flowing at 121,000 cubic feet/second, many buildings downtown were damaged (Juracek, 4). Included in this damage was the Kaw Indian Mission which meant that the museum wouldn't open for another year (NRHP, 8.53). This new museum and later on a new reservoir meant that Council Grove quickly began focusing on tourism, bringing several thousand people a year to the museum and several hundred thousand to the Council Grove reservoir (NRHP, 8.53).
 
 ### Visiting Council Grove
