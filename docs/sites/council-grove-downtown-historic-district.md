@@ -36,6 +36,12 @@ The 1920s-30s proved to be a difficult time for Council Grove. In the early part
 After World War II, the Kansas State Legislature approved money to buy the Kaw Indian Mission to create a museum (NRHP, 8.53). While Council Grove had experienced many floods before, the 1951 flood was unlike any other. With the Neosho Rover flowing at 121,000 cubic feet/second, many buildings downtown were damaged (Juracek, 4). Included in this damage was the Kaw Indian Mission which meant that the museum wouldn't open for another year (NRHP, 8.53). This new museum and later on a new reservoir meant that Council Grove quickly began focusing on tourism, bringing several thousand people a year to the museum and several hundred thousand to the Council Grove reservoir (NRHP, 8.53).
 
 ### Visiting Council Grove
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Council Grove Downtown Historic District"
+  src="images/council-grove-downtown-historic-district.jpg"
+%}
 The Council Grove Downtown Historic District has many sites of interest still standing today. During summer months, the Seth Hays Home is open to viewing on Sunday afternoons or by appointment with the [Morris County Historical Society](https://morriscountyhistory.us/our-collections/). The Kaw Indian Mission is also open to the public. More information can be found at the [Kansas Historical Society](https://www.kshs.org/index.php?url=kaw_mission). The Last Chance Store can be seen at 516 W. Main St, although the inside can't be viewed at this time.
 
 ### Bibliography
