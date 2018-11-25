@@ -15,7 +15,7 @@ The Lanesfield School was a one-room schoolhouse that was in use from 1869 to 19
   class="img-right"
   width="33%"
   caption="James Lane"
-  src="james-lane.jpg"
+  src="images/james-lane.jpg"
 %}
 
 ### The one-room schoolhouse played a central role in rural American communities and faced the challenges of educating many children with few supplies
@@ -24,7 +24,7 @@ The one-room schoolhouse was an institution that had its heyday in America durin
   class="img-right"
   width="33%"
   caption="Lanesfield School"
-  src="lanesfield-school.jpg"
+  src="images/lanesfield-school.jpg"
 %}
 
 ### The school was struck by lightning in 1903
@@ -39,5 +39,5 @@ The school was turned into a museum in 1967 and it is still open to the public t
   class="img-right"
   width="33%"
   caption="Visiting children learn about life in one-room schoolhouse at Lanesfield School"
-  src="lanesfield-school-inside.jpg"
+  src="images/lanesfield-school-inside.jpg"
 %}
