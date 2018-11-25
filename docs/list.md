@@ -22,6 +22,6 @@ date: 2017-12-19
 - San Miguel Del Vado Historic District: Zoe
 - Seth Ward House: Clare
 - Alexander Majors House: Satya
-- Council Grove Historic District: Lane
+- [Council Grove Historic District](sites/council-grove-downtown-historic-district): Lane
 - St. Vrain's Mill: Evan
 - Rayado Ranch: Amiel
