@@ -25,6 +25,13 @@ Majors was particular in hiring trustworthy people and made them to pledge that 
 
 In 1854, Majors earned a respectable reputation as a successful freighter on the Western Missouri frontier _(Godfrey, 1994)_.  
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Majors and his Partners in the firm"
+  src="images/majors-and-his-Partners-in-the-firm"
+   %}
+
 In 1855 he joined partnership with William H. Russell and William B. Waddell and contracted with US Government to freight supplies to army posts along Oregan and Santa Fe Trails _(Wood, Mincer, 2000)_ _(WPA Guide, 1998)_. They employed more than four thousand men and owned 3,500 wagons and nearly forty thousand oxen and 1000 mules _(LaDene, 2012)_. Usually shipments were sent in a set of 25 wagons, 12 oxen, a teamster and each of that set had additional oxen, mules and men in case of emergency and soon the firm made about $300,000 profits in 1855-56 _(WPA Guide, 1998)_.
 
 ### House
@@ -47,6 +54,13 @@ In 1945, the then Senator Harry Truman initiated a bill that the house will be p
 
 In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and State Line Road which gave 6 acre park surrounding the house but despite the plan it couldn't proceed for nearly 10 years _(LaDene, 2012)_.
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Alexander Majors house"
+  src="images/Alexander-Majors-house.jpg"
+%}
+
 In 1979, Louisa Johnston died leaving the house to Terry W. Chapman who worked as the restoration architect for the house. The structural work was finished in 1983 and was a show case project in Kansas city Symphony, which provided interior finishes _(LaDene, 2012)_.
 
 ### Alexander Majors Museum
@@ -62,6 +76,13 @@ Another interesting part of exploring Majors house is Ghost tours about the stra
 The ![John Wornall House](http://www.wornallmajors.org/the-john-wornall-house/) present museum was built in 1858, on 500 acre farm a one story log cabin, one of the few surviving antebellum houses in Kansas city next to Alexanders Majors house. For 100 years it served as a family house and later restored to mid-nineteenth century style and opened as a museum in collaboration with Majors house as "Wornall Majors House Museums". The house faces west, the property is spanned 59th to 67th street and east-west from Main street to State line _(Wornall Majors House Museums, 2018.11.12)_.
 
 ### Pony Express
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Pony Express job posting pamphlet"
+  src="images/Pony-Express-job-posting-pamphlet.jpg"
+%}
 
 In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Waddell and Russell firm which later became Central Overland California & Pikeś Peak Express company which is otherwise known as !["Pony Express"](http://ponyexpress.org/) _(Godfrey, 1994)_. This helped in filling the need for reduced postal service by government for budget reasons. This literally connected several dynamic western events with the commercial opportunities in the express business. _(Godfrey, 1994)_
 
@@ -79,7 +100,7 @@ The floor plans of the house are in 'T' shape with a front facade of 55' and the
 
 * #### Alterations to the house
 
-The Rhul family made several ![alterations to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) and few of them are enlarging dining room and master bedroom on second floor by the addition on southern extension of 'T' and terminates in a bay. The rooms sizes increased from 15 x 17 feet to 15 x 27 feet. When the house was used as a school, partition walls between 3 chambers of the first floor were formed to make a single large space. 
+The Rhul family made several ![alterations to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) and few of them are enlarging dining room and master bedroom on second floor by the addition on southern extension of 'T' and terminates in a bay. The rooms sizes increased from 15 x 17 feet to 15 x 27 feet. When the house was used as a school, partition walls between 3 chambers of the first floor were formed to make a single large space.
 
 The kitchen on the east end was removed and replaced with a cellar and two stories above. The original shed roof of the south porch was converted to a deck to access second floor with a simple wooden baluster. The kitchen was converted toilets and a teachers room and north and south windows are converted to doorways.
 
@@ -88,8 +109,6 @@ The kitchen on the east end was removed and replaced with a cellar and two stori
 The outbuildings next to the house no longer survive. There is a barn is approximately 100' to the southeast and smoke house around 40' to the north to the house.
 
 Present day we can see a well, cistern to the south of the house, a shed 20' north to the house and a cottage 60' north of the house. The brick on the entrance walk deteriorated due to removal of grass and exposure.
-
-Site plan Image/maps
 
 
 
