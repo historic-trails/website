@@ -10,7 +10,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="An old picture of the Neff tavern smokehouse. It was used to cure meat, which was sold in the Tavern. The meat was sourced through hunting and farming in the region, as mostly venison and pork meat was processed."
+  caption="The Neff tavern smokehouse was used to cure meat, sourced through hunting and farming in the region, as mostly venison and pork meat was processed."
   src="images/Neff_tavern_smokehouse_picture.png"
 %}
 
@@ -22,7 +22,7 @@ The tavern was set at one of the trailheads of the Santa Fe Trail in central Mis
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="This picture was taken of a tavern in Illinois, which was built about the time as the Neff tavern smokehouse. Although it was inferior in it's importance for the main tavern building, it was built as massive as the main building, as can be seen in this picture."
+  caption="This picture was taken of a tavern in Illinois, which was built about the time as the Neff tavern smokehouse. Although smokehouses were inferior in their importance for the tavern building complex, it was built as massive as the main building."
   src="images/sunderlage-smokehouse_il.png"
 %}
 
