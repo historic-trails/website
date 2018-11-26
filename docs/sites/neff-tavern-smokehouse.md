@@ -38,24 +38,25 @@ His brothers were the first ones to go to present day Missouri, which after know
 Therefore, the smokehouse is the only remaining part of the previous tavern, which served as a meeting point to the travellers that established a blossoming economy in Missouri, through their trade with Mexico. It is also a remain of a family residence, that incorporates many stages of American history, as is the European immigration, the west ward migration and the Civil War.
 
 ## Related topics
-*more information on the [Civil War in Missouri](https://www.sos.mo.gov/mdh/CivilWar/Resources.asp)
-*original [NPS registration form](https://github.com/historic-trails/santa-fe-itinerary/blob/master/historic-registration-forms/neff-tavern-smokehouse.pdf)
+* more information on the [Civil War in Missouri](https://www.sos.mo.gov/mdh/CivilWar/Resources.asp)
+
+* original [NPS registration form](https://github.com/historic-trails/santa-fe-itinerary/blob/master/historic-registration-forms/neff-tavern-smokehouse.pdf)
 
 
 
 ## Bibliography
 
-*„Daily Democrat New“, o. J.
-Gregg, Josiah. Commerce of the Prairies : or, the Journal of a Santa Fé Trader, during eight expeditions across the great western prairies, and a residence of nearly nine years in Northern Mexico. New York: J. & H.G. Langley, 1845.
+* „Daily Democrat New“, o. J.
+* Gregg, Josiah. Commerce of the Prairies : or, the Journal of a Santa Fé Trader, during eight expeditions across the great western prairies, and a residence of nearly nine years in Northern Mexico. New York: J. & H.G. Langley, 1845.
 Ibid, o. J.
-*Kate Gregg. „The Boonslick Road in St. Charles County“. issouri Historical Review, Oktober 1933.
-*Lewis K. Parker. Why German immigrants came to Americ. Barrington, IL: Rigby, 2002.
-*Louis S. Gerteis. The Civil War in Missouri: a military history. Columbia, Mo: University of Missouri Press, 2012.
-*O’Brien, William Patrick. Merchants of Independence : International Trade on the Santa Fe Trail, 1827-1860. Kirksville, Mo.: Truman State University Press, 2013. http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat06111a&AN=unm.EBC3411555&site=eds-live&scope=site.
-*Turner, Frederick Jackson. „The Significance of the Frontier in American History“. Annual Report of the American Historical Association, 1894, 197–227.
-*W.B. Napton. Past and Present in Saline County, Missouri, o. J.
+* Kate Gregg. „The Boonslick Road in St. Charles County“. issouri Historical Review, Oktober 1933.
+* Lewis K. Parker. Why German immigrants came to Americ. Barrington, IL: Rigby, 2002.
+* Louis S. Gerteis. The Civil War in Missouri: a military history. Columbia, Mo: University of Missouri Press, 2012.
+* O’Brien, William Patrick. Merchants of Independence : International Trade on the Santa Fe Trail, 1827-1860. Kirksville, Mo.: Truman State University Press, 2013. http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat06111a&AN=unm.EBC3411555&site=eds-live&scope=site.
+* Turner, Frederick Jackson. „The Significance of the Frontier in American History“. Annual Report of the American Historical Association, 1894, 197–227.
+* W.B. Napton. Past and Present in Saline County, Missouri, o. J.
 
 Web sources:
-*Number 1: https://www.findagrave.com/memorial/19379718/abram-neff , accessed 14.11.2018, 17:15 h
-*Number 2: https://ourlocalhistory.files.wordpress.com/2014/07/sunderlage-smokehouse.jpg       , accessed 24.11.2018, 12:55 h
+* Number 1: https://www.findagrave.com/memorial/19379718/abram-neff , accessed 14.11.2018, 17:15 h
+* Number 2: https://ourlocalhistory.files.wordpress.com/2014/07/sunderlage-smokehouse.jpg       , accessed 24.11.2018, 12:55 h
 
