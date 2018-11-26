@@ -23,7 +23,7 @@ The tavern was set at one of the trailheads of the Santa Fe Trail in central Mis
   class="img-right"
   width="33%"
   caption="This picture was taken of a tavern in Illinois, which was built about the time as the Neff tavern smokehouse. Although smokehouses were inferior in their importance for the tavern building complex, it was built as massive as the main building."
-  src="images/sunderlage-smokehouse_il.png"
+  src="images/sunderlage-smokehouse_il.jpg"
 %}
 
 ## Isaac's history
