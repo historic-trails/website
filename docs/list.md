@@ -8,7 +8,7 @@ date: 2017-12-19
 
 - [Blue Mills](sites/blue-mills): Fred
 - [Mahaffie House](sites/mahaffie-house): Guy
-- Lanesfield School: Addey
+- [Lanesfield School](sites/lanesfield-school): Addey
 - [Baker University Old Castle Hall](sites/baker-university-old-castle-building): Sean Hellwege
 - Six Mile Creek Stage Station: Corey
 - Fort Larned National Historic Site: Carl
