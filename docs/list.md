@@ -19,7 +19,7 @@ date: 2017-12-19
 - Lewis Jones House: Jesse
 - Neff Tavern Smokehouse: Julia
 - Raton Pass: Jason
-- San Miguel Del Vado Historic District: Zoe
+- [San Miguel Del Vado Historic District](sites/san-miguel-del-vado): Zoe
 - Seth Ward House: Clare
 - Alexander Majors House: Satya
 - [Council Grove Historic District](sites/council-grove-downtown-historic-district): Lane
