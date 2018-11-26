@@ -7,6 +7,8 @@ date: 2018-11-19
 
 # Rayado Ranch
 
+![kit_carson_mesa](https://user-images.githubusercontent.com/44708187/49032346-83ce5e00-f169-11e8-8a12-9a7e58986759.jpg)
+
 ### Rayado Ranch was one of the first settlement camps in Colfax County New Mexico along the historic Santa Fe Trail. Rayado is a spanish word which translates to streaked. Rayado Ranch was an important trading area because there were few other trading communities in the vicinity. This settlement is located about 10 miles south of Cimarron, New Mexico on highway 21. Rayado Ranch was home to a few building and one of them is the most famous Ranch style home that Lucien Maxwell built in 1849 for his family. Rayado Ranch also had a working post office that was open only from 1873 to about 1911. The ranch also had a federal garrison post from 1850 to 1854 till Fort Union was erected in Mora, NM. the Garrison post was created on the ranch because of the area they were in was inhabited by many plains Native Americans that stole horses and other goods. Cemetery. The cemetery here in Rayado has 14 people buried there. it is approximately .2 miles west of the Kit Carson Museum. Some of the people buried there date back to the late 1860's and the last person burried there was even in the 1990's. The Ranch also included a small chapel or church called the Chapel of the Holy Child.
 
 ## Lucien Maxwell
