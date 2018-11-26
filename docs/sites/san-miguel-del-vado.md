@@ -8,7 +8,7 @@ date: 2018-11-25
 # San Miguel del Vado Historic District
 ### Spanish Settlement
 
-{% include figure.html class="img-right" width="33%" caption="Drawing of San Miguel del Vado dated to 1846 during the hayday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahu" src="images/san-miguel-del-vado-1846.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Drawing of San Miguel del Vado dated to 1846 during the hayday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahu" src="images/san-migel-del-vado-1846.jpg" %}
 
 San Miguel del Vado in San Miguel County, New Mexico was founded in 1794 (Jenks, 2010) and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail. Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860  when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, NM. San Miguel del Vado was established by Lorenzo Marquez of Santa Fe, and 51 other Spanish families (Legends of America), thanks to the land grant approved by the Spanish Governor of the territory in November of 1794. Building Spanish outposts in the area was promoted for the protection of settlers against Comanche raids. The residence of the village, or _Vecinos_ were Spanish, Pecos Indians, converted Comanche and Native American slaves called _Genizaro_.
 
@@ -16,13 +16,13 @@ San Miguel del Vado in San Miguel County, New Mexico was founded in 1794 (Jenks,
 ### Pecos River crossing for the Santa Fe Trail
 San Miguel del Vado was a popular stop for merchants and traders on the Santa Fe Trail. It was named after Saint Michael of the Ford. Ford or river crossing is _Vado_ or _Bado_ in Spanish. The Pecos River flows from northern New Mexico and empties into the Rio Grande in southwest Texas. The village of San Miguel del Vado was established southeast of the Pecos River because it was an ideal crossing point for the river.
 
-{% include figure.html class="img-right" width="33%" caption="Few buildings remain from the Santa Fe Trail era in San Miguel del Vado" src="images/san-miguel-del-vado-NRHP-1.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Few buildings remain from the Santa Fe Trail era in San Miguel del Vado" src="images/san-migel-del-vado-NRHP-1.JPG" %}
 
 
 ### San Miguel del Vado as trading common
 Merchants would stop here and repackage or combine their goods to reduce their loads to avoid taxes and fees once they reached Santa Fe. Some French and American merchants would conduct their business in the San Miguel commons; bypass Santa Fe (NRHP Section 8) completely on their way to Chihuahua to avoid Spanish and Mexican duties. This of course, was not a welcome practice to the Spanish and later Mexican government, but they had little power to persuade traders to do their taxes. Spanish presidio government stationed troops in San Miguel to stop smuggling and tax evasion by merchants on the Santa Fe Trail. (NRHP section 8 and Legends of America)
 
-{% include figure.html class="img-right" width="33%" caption="This diagram from 1975 was drawn ahead of the Pecos Valley Project" src="images/san-miguel-del-vado-historic-district.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="This diagram from 1975 was drawn ahead of the Pecos Valley Project" src="images/san-miguel-del-vado-historic-district.JPG" %}
 
 
 ### Historic District
