@@ -53,7 +53,10 @@ Vicente also commissioned a church to be built on the property that would become
 
 #### Nearby places/associated people 
 Ft.Union
+
 Vicente Romero
+
+
 Mora
 
 ### Bibliography
