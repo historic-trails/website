@@ -34,9 +34,7 @@ date: 2018-11-24
 
 
 ### Baker University Today 
- Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka. (Baker University)
-
-  The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
+ Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka (Baker University). The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
 
 ### Santa Fe Trail 
 
