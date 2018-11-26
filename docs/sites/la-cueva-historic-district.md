@@ -32,7 +32,7 @@ The Romero's also called the property home. Dubbed "The Romero Hacienda", the ho
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Hacienda Romero, a mmeting place for the region"
+  caption="Hacienda Romero, a meeting place for the region where area farmers would visit and eat"
   src="images/la-cueva-hacienda-mercantile.jpg"
 %}
 
