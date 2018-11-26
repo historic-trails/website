@@ -17,7 +17,7 @@ date: 2017-12-19
 - [La Cueva Historic District](sites/la-cueva-historic-district): Sean O'Neill
 - Las Vegas Plaza Historic District: Jacob
 - Lewis Jones House: Jesse
-- Neff Tavern Smokehouse: Julia
+- [Neff Tavern Smokehouse](sites/neff-tavern-smokehouse): Julia
 - Raton Pass: Jason
 - [San Miguel Del Vado Historic District](sites/san-miguel-del-vado): Zoe
 - [Seth Ward House](sites/seth-ward-house): Clare
