@@ -20,7 +20,7 @@ date: 2017-12-19
 - Neff Tavern Smokehouse: Julia
 - Raton Pass: Jason
 - [San Miguel Del Vado Historic District](sites/san-miguel-del-vado): Zoe
-- Seth Ward House: Clare
+- [Seth Ward House](sites/seth-ward-house): Clare
 - Alexander Majors House: Satya
 - [Council Grove Historic District](sites/council-grove-downtown-historic-district): Lane
 - St. Vrain's Mill: Evan
