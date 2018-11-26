@@ -17,14 +17,14 @@ date: 2018-11-24
   src="images/old-castle-museum.jpg"
 %}
 
-  Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. Named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church, the school holds the honor of being the first university in Kansas (KHS).The university has a rich history, growing up side-by-side with the state of Kansas, Old Castle Hall was the first building of Baker University, and classes were held there through 1871. 
+  Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. Baldwin City began as a trail stop on the Santa Fe Trail named Palmyra. The University is named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church, the school holds the honor of being the first university in Kansas (KHS).The university has a rich history, growing up side-by-side with the state of Kansas, Old Castle Hall was the first building of Baker University, and classes were held there through 1871.
 
  In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas. (HCAP) Baker University struggled through its first years due to a drought in 1860 and the Civil War, as the war funneled prospective students into military service, the first class didn't graduate until 1866. 
 
  
 ### Significance 
 
-  The Baker University campus is significant because it admitted women early on in its history, the first graduating class in 1866 contained one women, and two men (Baker University). President Abraham Lincoln donated $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. (KHS).In 1874 a massive grasshopper plague spread across the region devouring everything in sight, they ate crops out of the ground, as well as the wool from live sheep and clothing off people's backs. Paper, tree bark, and even wooden tool handles were devoured, hoppers were reported to have been several inches deep on the ground (KHS Grasshoppers). 
+  Baker University is significant because it admitted women early on in its history, the first graduating class in 1866 contained one women, and two men (Baker University). President Abraham Lincoln donated $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. (KHS).In 1874 a massive grasshopper plague spread across the region devouring everything in sight, they ate crops out of the ground, as well as the wool from live sheep and clothing off people's backs. Paper, tree bark, and even wooden tool handles were devoured, hoppers were reported to have been several inches deep on the ground (KHS Grasshoppers). 
  
 ### Construction 
  Castle Hall was erected off campus because school trustees lacked sufficient funds to build the type of permanent structure they desired and they did not want to erect a temporary structure on the campus. College officials could raise only enough funds to construct two stories of the planned three-story structure. The Palmyra Masonic lodge financed the third floor in exchange for regular use of a room for lodge meetings. (HCAP) Old Castle Hall, is a crudely quoined three-story rubble-stone building, originally consisted of only two stories. The third story was added later and then afterward torn off because of poor mortar joints; it was then added for a second time and remains to date.(NRHP)
@@ -55,6 +55,10 @@ date: 2018-11-24
 Location on Campus: 511 5th St, Baldwin City, KS 66006
 
 ##### Nearby Historic Sites
+
+Santa Fe Trail Park, Baldwin City
+
+One-half mile to the northwest of Palmyra Well is the Santa Fe Trail Park. It contains a large granite Daughters of the American Revolution (DAR) marker. The diagonal county road adjacent to the park follows the exact route of the trail to the northwest. The property was donated to Baker University in 1907 and was recently placed on the National Registry of Historic Sites. Beyond here, the route traveled through a place called “The Narrows,” a ridge that separated Wakarusa Creek on the north and the Marais des Cygnes River to the south.
 
 Blackjack Battle Field 
 
