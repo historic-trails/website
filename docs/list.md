@@ -14,7 +14,7 @@ date: 2017-12-19
 - Fort Larned National Historic Site: Carl
 - Fort Marcy, Officer's Residence and Ruins: Aaron
 - Fort Union: Andres
-- [La Cueva Historic District](sites/la-cueva-historic-distric): Sean O'Neill
+- [La Cueva Historic District](sites/la-cueva-historic-district): Sean O'Neill
 - Las Vegas Plaza Historic District: Jacob
 - Lewis Jones House: Jesse
 - Neff Tavern Smokehouse: Julia
