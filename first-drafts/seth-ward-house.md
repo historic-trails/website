@@ -7,6 +7,13 @@ date: 2018-11-21
 
 # Seth Ward House
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Seth Ward House"
+  src="images/BentWardHouse.jpg"
+%}
+
 ### Situated outside of the city limits of the town of Westport, Missouri, the site of the Ward Homestead has been associated with several prominent figures in the exploration, conquest, and settelement of the American West. Also, during the Civil War, major actions of the Battle of Westport occurred here. (NRHP)
 
 
