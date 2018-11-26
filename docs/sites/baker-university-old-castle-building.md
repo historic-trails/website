@@ -8,12 +8,12 @@ date: 2018-11-24
 
 
 # Baker University Old Castle Building 
-## History 
+
 
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Old Castle Building"
+  caption="Old Castle Building (present day)"
   src="images/old-castle-museum.jpg"
 %}
 
