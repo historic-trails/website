@@ -51,6 +51,10 @@ The Romero's also called the property home. Dubbed "The Romero Hacienda", the ho
 ## A Mission Arrives
 Vicente also commissioned a church to be built on the property that would become known as the San Rafeal Mission Church (NPS form p.4).  The church was started in 1862 and finished in 1870.   Preists from the Lamy, NM area came to help build the mission.  Of note, the mission featured ornate gothic stylings and Belgian rafter system; both rare in the area during the 1800's. (XXXXXX)
 
+#### Nearby places/associated people 
+Ft.Union
+Vicente Romero
+Mora
 
 ### Bibliography
 
