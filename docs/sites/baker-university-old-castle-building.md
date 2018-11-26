@@ -59,6 +59,7 @@ Blackjack Battle Field
 Wellsville, Kansas
 
 Chicken Creek Arch Park
+
   The historic Chicken Creek Arch is located ½ mile east and 1 1/4 miles south of the town of Lone Star at 780 E. 850 Road. The arch was built in 1913 by B.F. Metsker and I. Babb at a cost of $170.25. 
 
 ##### Sources 
