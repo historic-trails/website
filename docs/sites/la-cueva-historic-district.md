@@ -22,6 +22,8 @@ Just a short drive from Ft. Union Natioanl Monument, across the northern plains 
   caption="The inn and stables of La Cueva.  Here travelers could rest themselvs and water their horses"
   src="images/la-cueva-stables-inn.jpg"
 %}
+
+
 La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero, the land was a Spanish land grant, and Romero purchased a 33,000 acre portion of the original Mora land grant from several descendants who owned the property (NPS form p.3 ).  The name "La Cueva" (translation: The Cave) may have come from a few origins for the site:  Vicente had been a sheep herder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named.  Others say the ranch was named La Cueva simply due to a nearby cave (Ranchos of Northern New Mexico p. 19).  The official reason for the naming convention may never be known.  One thing was for certain, Vicente realized the potential of the land and the nearby Mora River for agriculture.     
 
 
