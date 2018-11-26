@@ -18,13 +18,14 @@ La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero,
 
 
 ## Milling, Farming, and the Santa Fe Trail
-While LCHD is located miles from the Santa Fe trail, it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would go on to divert a section of the nearby Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill (NPS form p.3).  The acequia would also provide irrigation to the Romero Farm (Water for the southwest p. 90).  Regional mills were important along trails during the 1800's before rail travel was possible (XXXXX).  Mills provided processed grain to stops along the trails.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  As many as 60 horse or oxen drawn to Ft.Union each day (Ranchos of Northern NM p.19).  The close proximity of the farmland and mill made this a lucrative farm for the Romero family.  (XXXXXX)
 {% include figure.html
   class="img-right"
   width="33%"
   caption="The grist mill of La Cueva"
   src="images/la-cueva-mill.jpg"
 %}
+While LCHD is located miles from the Santa Fe trail, it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would go on to divert a section of the nearby Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill (NPS form p.3).  The acequia would also provide irrigation to the Romero Farm (Water for the southwest p. 90).  Regional mills were important along trails during the 1800's before rail travel was possible (XXXXX).  Mills provided processed grain to stops along the trails.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  As many as 60 horse or oxen drawn to Ft.Union each day (Ranchos of Northern NM p.19).  The close proximity of the farmland and mill made this a lucrative farm for the Romero family.  (XXXXXX)
+
 ## A Place to Meet, Trade, & Rest
 
 The Romero's also called the property home. Dubbed "The Romero Hacienda", the house would also serve as a community center for the region (NPS form p.4).  While the specific groups that met here have been obscured by passing time, we do know that ranchers and travelers in the region would stop at the house to meet.  The Hacienda was attached to a mercantile store and a large stable where travelers could stay for the night, buy supplies, and rest their horses (NPS form p.4). (XXXXXX)
