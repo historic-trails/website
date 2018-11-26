@@ -17,37 +17,32 @@ date: 2018-11-24
   src="images/old-castle-museum.jpg"
 %}
 
-  Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. Named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church, the school holds the honor of being the first university in Kansas (KHS).The university has a rich history, growing up side-by-side with the state of Kansas, Castle Hall was the first building ever erected on campus, and classes were held here through 1871. 
+  Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. Named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church, the school holds the honor of being the first university in Kansas (KHS).The university has a rich history, growing up side-by-side with the state of Kansas, Old Castle Hall was the first building of Baker University, and classes were held there through 1871. 
 
- In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas. (HCAP) Baker University struggled through its first years due to a drought in 1860 and the Civil War, as the war funneled prospective students into military serivce, the first class didn't graduated until 1866. 
+ In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas. (HCAP) Baker University struggled through its first years due to a drought in 1860 and the Civil War, as the war funneled prospective students into military service, the first class didn't graduate until 1866. 
 
- In 1874 a massive grasshopper plague spread across the region devouring everything in sight, they ate crops out of the ground, as well as the wool from live sheep and clothing off people's backs. Paper, tree bark, and even wooden tool handles were devoured, hoppers were reported to have been several inches deep on the ground (KHS Grasshoppers). 
-
-
-
-
-### Significance 
-  The Baker University campus is significant because it admitted women early on in its history, the first graduating class in 1866 contained one women, and two men. (Baker University)
  
-  President Abraham Lincoln doanted $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. (KHS).
+### Significance 
+
+  The Baker University campus is significant because it admitted women early on in its history, the first graduating class in 1866 contained one women, and two men (Baker University). President Abraham Lincoln donated $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. (KHS).In 1874 a massive grasshopper plague spread across the region devouring everything in sight, they ate crops out of the ground, as well as the wool from live sheep and clothing off people's backs. Paper, tree bark, and even wooden tool handles were devoured, hoppers were reported to have been several inches deep on the ground (KHS Grasshoppers). 
  
 ### Construction 
- Castle Hall was erected off campus because school trustees lacked sufficient funds to build the type of permanent structure they desired and they did not want to erect a temporary structure on the campus. College officials could raise only enough funds to construct two stories of the planned three-story structure. The Palmyra Masonic lodge financed the third floor in exchange for regular use of a room for lodge meetings. (HCAP) Old Castle Hall,is a crudely quoined three-story rubble-stone building, originally consisted of only two stories. The third story was added later and then afterward torn off because of poor mortar joints; it was then added for a second time and remains to date.(NRHP)
+ Castle Hall was erected off campus because school trustees lacked sufficient funds to build the type of permanent structure they desired and they did not want to erect a temporary structure on the campus. College officials could raise only enough funds to construct two stories of the planned three-story structure. The Palmyra Masonic lodge financed the third floor in exchange for regular use of a room for lodge meetings. (HCAP) Old Castle Hall, is a crudely quoined three-story rubble-stone building, originally consisted of only two stories. The third story was added later and then afterward torn off because of poor mortar joints; it was then added for a second time and remains to date.(NRHP)
 
 ### Building uses Through the Years
-  By 1871 another building was completed on campus named Parmenter Hall, thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, In 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property. (HCAP)
+  By 1871 another building was completed on campus named Parmenter Hall, thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property. (HCAP)
 
 
 ### Baker University Today 
  Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka. (Baker University)
 
-  The Old Castle Hall is now used as musuem, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
+  The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
 
 ### Santa Fe Trail 
 
  {% include figure.html
   class="img-right"
-  width="65%"
+  width="50%"
   caption="Santa Fe Trail"
   src="images/old-castle-hall-map.jpg"
 %}
