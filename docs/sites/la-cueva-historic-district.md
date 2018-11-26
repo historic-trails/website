@@ -45,3 +45,24 @@ The Romero's also called the property home. Dubbed "The Romero Hacienda", the ho
 ## A Mission Arrives
 Vicente also commissioned a church to be built on the property that would become known as the San Rafeal Mission Church (NPS form p.4).  The church was started in 1862 and finished in 1870.   Preists from the Lamy, NM area came to help build the mission.  Of note, the mission featured ornate gothic stylings and Belgian rafter system; both rare in the area during the 1800's. (XXXXXX)
 
+### Bibliography
+
+
+Art Latham. (1995). Lost in the Land of Enchantment. Arroyo Press. Retrieved from http://archive.org/details/lostinlandofench00lath
+
+Babs Suzanne Harrison. (1994). Exploring New Mexico wine country. Coyote Press. Retrieved from http://archive.org/details/exploringnewmexi00harr
+
+Baker, T. L., Historic American Engineering Record, & Texas Tech University. Water Resources Center. (1973). Water for the Southwest; historical survey and guide to historic sites. New York, American Society of Civil Engineers. Retrieved from http://archive.org/details/waterforsouthwes00bake
+
+Catholic Church., A., & Chavez. (1957). Archives of the Archdiocese of Santa Fe, 1678-1900. Washington, D.C. : Academy of American Franciscan History,.
+
+Engineer, N. M. O. of T. (1908). Biennial Report of the Territorial Engineer to the Governor of New Mexico Including Water Supply. Albuquerque Morning Journal.
+Freitag, A. L. (1994). Cultural landscape study of Fort Union National Monument. Retrieved from http://archive.org/details/culturallandscap00frei
+
+Koman, R. G., & National Park Service (Dept. of Interior), W., DC. National Register of Historic Places. (2002). The Hispano Ranchos of Northern New Mexico: Continuity and Change. Teaching with Historic Places.
+
+National Register of Historical Places - NEW MEXICO (NM), Mora County. (n.d.). Retrieved November 9, 2018, from https://nationalregisterofhistoricplaces.com/NM/Mora/districts.html
+
+San Rafael, La Cueva, New Mexico. Shadows in the light of darkness. (2018, April 8). Retrieved November 9, 2018, from http://geraintsmith.com/shadows-san-rafael-la-cueva-new-mexico/
+
+
