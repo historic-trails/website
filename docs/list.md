@@ -23,5 +23,5 @@ date: 2017-12-19
 - [Seth Ward House](sites/seth-ward-house): Clare
 - Alexander Majors House: Satya
 - [Council Grove Historic District](sites/council-grove-downtown-historic-district): Lane
-- [St. Vrain's Mills](sites/stvrain-mill): Evan
+- [St. Vrain's Mill](sites/stvrain-mill): Evan
 - Rayado Ranch: Amiel
