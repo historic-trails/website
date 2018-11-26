@@ -21,7 +21,7 @@ date: 2017-12-19
 - Raton Pass: Jason
 - [San Miguel Del Vado Historic District](sites/san-miguel-del-vado): Zoe
 - [Seth Ward House](sites/seth-ward-house): Clare
-- [Alexander Majors House](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/sites/alexander-majors-house.md): Satya
+- Alexander Majors House: Satya
 - [Council Grove Historic District](sites/council-grove-downtown-historic-district): Lane
-- St. Vrain's Mill: Evan
+- [St. Vrain's Mills](sites/stvrain-mill): Evan
 - Rayado Ranch: Amiel
