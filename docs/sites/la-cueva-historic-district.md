@@ -26,15 +26,15 @@ La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero,
 
 ## Milling, Farming, and the Santa Fe Trail
 
+
+
+While LCHD is located miles from the Santa Fe trail, it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would  divert a portion of the streamflow of the  Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill (NPS form p.3).  In the 1850's electricity had not yet come to the masses and it was common for hydro power to be used to enable grain mills. (XXXXX) In addition to powereing the mill wheel, the acequia would also provide irrigation to the Romero Farm (Water for the southwest p. 90).  Regional mills were important along trails during the 1800's before rail travel was possible (XXXXX).  Mills provided processed grain to stops along the trails.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  As many as 60 horse or oxen drawn to Ft.Union each day (Ranchos of Northern NM p.19).  The close proximity of the farmland and mill made this a lucrative farm for the Romero family.  (XXXXXX)
 {% include figure.html
   class="img-right"
   width="33%"
   caption="Built on a natural stone foundation, the grist mill of La Cueva milled grains to ship to Ft.Union"
   src="images/la-cueva-mill.jpg"
 %}
-
-While LCHD is located miles from the Santa Fe trail, it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would  divert a portion of the streamflow of the  Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill (NPS form p.3).  In the 1850's electricity had not yet come to the masses and it was common for hydro power to be used to enable grain mills. (XXXXX) In addition to powereing the mill wheel, the acequia would also provide irrigation to the Romero Farm (Water for the southwest p. 90).  Regional mills were important along trails during the 1800's before rail travel was possible (XXXXX).  Mills provided processed grain to stops along the trails.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  As many as 60 horse or oxen drawn to Ft.Union each day (Ranchos of Northern NM p.19).  The close proximity of the farmland and mill made this a lucrative farm for the Romero family.  (XXXXXX)
-
 ## A Place to Meet, Trade, & Rest
 
 {% include figure.html
