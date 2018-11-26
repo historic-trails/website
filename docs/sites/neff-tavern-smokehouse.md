@@ -44,7 +44,7 @@ Therefore, the smokehouse is the only remaining part of the previous tavern, whi
 
 
 
-## Bibliography
+### Bibliography
 
 * „Daily Democrat New“, o. J.
 * Gregg, Josiah. Commerce of the Prairies : or, the Journal of a Santa Fé Trader, during eight expeditions across the great western prairies, and a residence of nearly nine years in Northern Mexico. New York: J. & H.G. Langley, 1845.
