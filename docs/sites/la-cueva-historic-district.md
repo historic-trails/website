@@ -8,22 +8,20 @@ date: 2018-11-26
 # La Cueva Historic District, New Mexico
 
 Just a short drive from Ft. Union Natioanl Monument, across the northern plains of New Mexico and nearing the foothils of Santa Fe National Forest, you will find the La Cueva Historic District. La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of Ft.Union National Monument. La Cueva Historic District had a historically significant time period from around 1851 to 1946 and helped shape the Ft. Union region and had direct impacts to the Santa Fe Trail.  The site consists of several structures: the Romero Hacienda, a Grist Mill, a mercantile building, the Church of San Rafel, stables, a farm, aquecia, and a few outbuildings.  
-{% include figure.html
-  class="img-right"
-  width="60%"
-  caption="La Cueva Historic District buildings, water sources, and regional map"
-  src="images/la-cueva-map.png"
-%}
+
 
 
 ## Founding La Cueva
-La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero, the land was a Spanish land grant, and Romero purchased a 33,000 acre portion of the original Mora land grant from several descendants who owned the property (NPS form p.3 ).  The name "La Cueva" (translation: The Cave) may have come from a few origins for the site:  Vicente had been a sheep herder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named.  Others say the ranch was named La Cueva simply due to a nearby cave (Ranchos of Northern New Mexico p. 19).  The official reason for the naming convention may never be known.  One thing was for certain, Vicente realized the potential of the land and the nearby Mora River for agriculture.     
 {% include figure.html
   class="img-right"
   width="33%"
   caption="The inn and stables of La Cueva.  Here travelers could rest themselvs and water their horses"
   src="images/la-cueva-stables-inn.jpg"
 %}
+
+
+La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero, the land was a Spanish land grant, and Romero purchased a 33,000 acre portion of the original Mora land grant from several descendants who owned the property (NPS form p.3 ).  The name "La Cueva" (translation: The Cave) may have come from a few origins for the site:  Vicente had been a sheep herder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named.  Others say the ranch was named La Cueva simply due to a nearby cave (Ranchos of Northern New Mexico p. 19).  The official reason for the naming convention may never be known.  One thing was for certain, Vicente realized the potential of the land and the nearby Mora River for agriculture.     
+
 
 ## Milling, Farming, and the Santa Fe Trail
 {% include figure.html
