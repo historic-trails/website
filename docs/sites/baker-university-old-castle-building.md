@@ -28,12 +28,10 @@ date: 2018-11-24
  Castle Hall was erected off campus because school trustees lacked sufficient funds to build the type of permanent structure they desired and they did not want to erect a temporary structure on the campus. College officials could raise only enough funds to construct two stories of the planned three-story structure. The Palmyra Masonic lodge financed the third floor in exchange for regular use of a room for lodge meetings (HCAP). Old Castle Hall architecturally is a fine example of early Plains Vernacular architecture, it is a crudely quoined three-story rubble-stone building, originally consisted of only two stories. The third story was added later and then afterward torn off because of poor mortar joints; it was then added for a second time and remains to date (NRHP). 
 
 ### Building uses Through the Years
-  By 1871 another building was completed on campus named Parmenter Hall, thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property. (HCAP)
-
+  By 1871 another building was completed on campus named Parmenter Hall, thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property (HCAP). The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
 
 ### Baker University Today 
- Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka (Baker University). The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
-
+ Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka (Baker University). 
 ### Santa Fe Trail 
 
  {% include figure.html
