@@ -46,7 +46,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
   caption="Frontiersman Seth Ward"
   src="images/SethWard.jpg"
 %}
-## Visiting the Seth Ward House
+## Visiting the Seth Ward House 
 1032 West 55th Street, Kansas City, Missouri 64112
 
 ## Nearby Sites
