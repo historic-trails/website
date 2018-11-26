@@ -44,7 +44,8 @@ date: 2018-11-24
 - Dunham, Harold H. "Ceran St. Vrain" Th Mountain Men andthe Fur Trade of the Far West, 
   Vol. V, Glendale: The Arthur H. Clark Company, 1968
   
-  Lecompte, Janet "Ceran St. Vrain's Stone Mill at Mora"  Ms., Cultural Properties Review Committee, State Planning Office
+ - Lecompte, Janet "Ceran St. Vrain's Stone Mill at Mora"  Ms., Cultural Properties Review Committee, 
+  State Planning Office
        
  -
 
