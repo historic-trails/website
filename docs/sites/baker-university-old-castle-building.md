@@ -43,7 +43,7 @@ date: 2018-11-24
  {% include figure.html
   class="img-right"
   width="50%"
-  caption="Santa Fe Trail"
+  caption="Santa Fe Trail passing near Baldwin, KS."
   src="images/old-castle-hall-map.jpg"
 %}
 
