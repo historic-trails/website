@@ -14,7 +14,7 @@
 - Raton Pass: Jason
 - San Miguel Del Vado Historic District: Zoe
 - Seth Ward House: Clare
-- Alexander Majors House: Satya
+- ![Alexander Majors House](https://github.com/historic-trails/santa-fe-itinerary/blob/master/docs/sites/alexander-majors-house.md): Satya
 - Council Grove Historic District: Lane
 - Blue Mills: Fred
 - St. Vrain's Mill: Evan
