@@ -24,7 +24,7 @@ Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward Hou
 ## The property endured many years of trading hands amongst several different people  
 {% include figure.html
   class="img-right"
-  width="20%"
+  width="15%"
   caption="Fort Builder, Trader, and Indian Peace-Maker William Bent"
   src="images/william-bent.jpg"
 %}
@@ -57,7 +57,7 @@ On October 23, 1864 Confederate Major General Sterling Price led a legendary rai
 ## Seth Ward 
 {% include figure.html
   class="img-right"
-  width="20%"
+  width="15%"
   caption="Seth Ward was one of the most prominent residents of Westport, Missouri"
   src="images/seth-ward.jpg"
 %}
