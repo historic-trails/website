@@ -12,7 +12,7 @@ date: 2017-12-19
 - [Baker University Old Castle Hall](sites/baker-university-old-castle-building): Sean Hellwege
 - Six Mile Creek Stage Station: Corey
 - Fort Larned National Historic Site: Carl
-- Fort Marcy, Officer's Residence and Ruins: Aaron
+- [Fort Marcy Ruins](sites/fort-marcy): Aaron
 - Fort Union: Andres
 - [La Cueva Historic District](sites/la-cueva-historic-district): Sean O'Neill
 - Las Vegas Plaza Historic District: Jacob
