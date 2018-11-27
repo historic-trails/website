@@ -34,7 +34,7 @@ date: 2018-11-24
  was held by Vicente's wife, Amelia. Amelia, traded her newly acquired mill to her brother William Rohman, who then sold it Franky Gambly until his death in 1922. St. Vrain's Mill has remained closed eversince. (Purdy,1972)
 
 ## *Current State of the Mill*
-Currently, this mill is being worked on, slowly. Due to the lack of upkeep in the past, the mill was in a state of decay until the local Mill Preservation and Historical. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows currently are boarded shut and graffitti is removed. The wod frame structure is in relatively good condition. The east-wall is in need of stabilization due to rotation, which has led to stone and wood damage. 
+Currently, this mill is being worked on, slowly. Due to the lack of upkeep in the past, the mill was in a state of decay until the local Mill Preservation and Historical. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows currently are boarded shut and graffitti is removed. The wod frame structure is in relatively good condition. The east-wall is in need of stabilization due to rotation, which has led to stone and wood damage. (McKeen,2003) 
 
 
 {% include figure.html
