@@ -17,19 +17,19 @@ date: 2018-11-21
 ### Situated outside of the city limits of the town of Westport, Missouri, the site of the Ward Homestead has been associated with several prominent figures in the exploration, conquest, and settelement of the American West. Also, during the Civil War, major actions of the Battle of Westport occurred here. (NRHP)
 
 
-## Location
-Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward House is in present-day Kansas City, Missouri. This homestead is positioned in the Country Club District, a group of neighborhoods containing upscale historical residences. Nearby in Jacob L. Loose park, visitors can see what was once the original farmland of the Ward homestead, which, in 1864, also doubled as the battlefield in the "Gettysburg of the West." This site is situated along the Santa Fe Trail, and was the home of two prominent tradesmen of the nineteenth century, William Bent and Seth Ward.
+## The Seth Ward House is located in Westport, Missouri
+Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward House is near present-day Kansas City, Missouri. This homestead is positioned in the Country Club District, a group of neighborhoods containing upscale historical residences. Nearby in Jacob L. Loose park, visitors can see what was once the original farmland of the Ward homestead, which in 1864, also doubled as the battlefield in the "Gettysburg of the West." This site is situated along the Santa Fe Trail, and was the home of two prominent tradesmen of the nineteenth century, William Bent and Seth Ward.
 
 
-## Indians, Mormons, and William Bent  
+## The property endured many years of trading hands amongst several different people  
 {% include figure.html
   class="img-right"
   width="20%"
-  caption="Fort Builder, Trader, and Frontiersman William Bent"
+  caption="Fort Builder, Trader, and Indian Peace-Maker William Bent"
   src="images/william-bent.jpg"
 %}
 
-In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the "Mormon Wars" had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead. (Shaw) In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property. Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman, Seth Ward. 
+In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the "Mormon Wars" had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead. (Shaw) In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property. Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman, Seth Ward.  William Bent was the founder of Fort Bent, located in present-day La Junta, Colorado. Fort Bent was created to trade with the Plains Indians and other trappers traders in a peaceful and economical manner. The fort was the only major white American settlement along the Santa Fe Trail between Mexico and Missouri. (Weiser-Alexander) William Bent was a negotiator between Native American Tribes, which helped fuel the massive success of the trading empire he had created. Bent married three Cheyenne women who bore him five children, making him a Cheyenne sub-chief. 
 
 
 
@@ -73,3 +73,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 [The French and the Osage](https://www.hmdb.org/Marker.asp?Marker=86416)
 
 [McGhee's Charge](https://www.hmdb.org/Marker.asp?Marker=29658)
+
+## Related People
+[Edmund Guerrier](https://en.wikipedia.org/wiki/Edmund_Guerrier)
+
