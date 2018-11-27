@@ -6,7 +6,7 @@ date: 2018-11-21
 ---
 
 # Seth Ward House
-
+1032 West 55th Street, Kansas City, Missouri 64112
 {% include figure.html
   class="img-right"
   width="33%"
@@ -15,6 +15,7 @@ date: 2018-11-21
 %}
 
 ### Situated outside of the city limits of the town of Westport, Missouri, the site of the Ward Homestead has been associated with several prominent figures in the exploration, conquest, and settelement of the American West. Also, during the Civil War, major actions of the Battle of Westport occurred here. (NRHP)
+
 
 
 ## The Seth Ward House is located in Westport, Missouri
@@ -41,7 +42,7 @@ In the early 1800s, the land that would become the town of Westport, Missouri wa
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Gettysburg of the West"
+  caption="The Gettysburg of the West claimed over 3,000 Union and Confederate lives and led to a decisive Union Vicotry in 1864"
   src="images/battle-of-westport.jpg"
 %}
 
