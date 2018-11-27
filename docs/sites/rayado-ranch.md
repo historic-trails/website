@@ -23,4 +23,6 @@ date: 2018-11-19
 
 ## Recent Rayado
 
+![kit_carson_museum](https://user-images.githubusercontent.com/44708187/49117451-f15bb680-f25d-11e8-8542-10687da6a38e.jpg)
+
 ### Rayado Ranch now offers a Kit Carson Museum with most of the original buildings still to see. The area was donated to the national Boy Scouts of America and is now called Philmont Scout Ranch.
