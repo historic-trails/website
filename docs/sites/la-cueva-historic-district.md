@@ -49,13 +49,16 @@ The Romero's also called the property home. Dubbed "The Romero Hacienda", the ho
 
 
 ## A Mission Arrives
-Vicente also commissioned a church to be built on the property that would become known as the San Rafael Mission Church (NPS form p.4).  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romero's, and subsequent families that would own the property would use this as a family chapel as well. Priests from the Lamy, NM area came to help build the mission.  Missionaries were an addition to the travelers seen along the Santa Fe Trail by the late 1840's (NPS History of the Sant Fe Trail Sec E. p. 45).  
 {% include figure.html
   class="img-right"
   width="33%"
   caption="The San Rafael Mission, a family chapel for the Romero's, had ornate gothic styles and Belgian rafter architecture which were uncommon in the area in the 1860's"
   src="images/la-cueva-san-rafael.jpg"
 %}
+
+
+Vicente also commissioned a church to be built on the property that would become known as the San Rafael Mission Church (NPS form p.4).  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romero's, and subsequent families that would own the property would use this as a family chapel as well. Priests from the Lamy, NM area came to help build the mission.  Missionaries were an addition to the travelers seen along the Santa Fe Trail by the late 1840's (NPS History of the Sant Fe Trail Sec E. p. 45).  
+
 #### Nearby places/associated people
 Ft.Union National Monument
 
