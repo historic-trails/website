@@ -2,9 +2,13 @@
 ***
 ##### Quick Facts
 * *Location*: Above Hillside Avenue, Santa Fe, New Mexico
-* *Significance*: History of Santa Fe, History of New Mexico
+* *Significance*: History of Santa Fe, History of New Mexico, History of America
 * *Designation*: National Register of Historic Places
 * *Open to the public*: Yes
+
+***
+
+Fort Marcy was build at the start of the Mexican American War and served  to solidify Americas rule over the New Mexico Region. It offered protection and shelter to the people of Santa Fe, to the troops that where stationed there, and to the travelers on the Santa Fe trial. Fort Marcy's has played a role in many important aspects of American history, including the Mexican American War, the American Civil War, and westward migration.
 
 ***
 ## Construction of Fort Marcy
