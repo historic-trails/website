@@ -56,7 +56,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Frontiersman Seth Ward"
+  caption="Seth Ward was one of the most prominent residents of Westport, Missouri"
   src="images/seth-ward.jpg"
 %}
 ## Visiting the Seth Ward House 
