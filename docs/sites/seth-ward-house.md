@@ -25,7 +25,7 @@ Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward Hou
 In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the "Mormon Wars" had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead. (Shaw) In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property. Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman, Seth Ward. 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="20%"
   caption="Fort Builder, Trader, and Frontiersman William Bent"
   src="images/william-bent.jpg"
 %}
