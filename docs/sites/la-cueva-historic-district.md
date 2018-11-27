@@ -65,14 +65,31 @@ The Romero's also called the property home. Dubbed "The Romero Hacienda", the ho
 
 Vicente also commissioned a church to be built on the property that would become known as the San Rafael Mission Church (NPS form p.4).  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romero's, and subsequent families that would own the property would use this as a family chapel as well. Priests from the Lamy, NM area came to help build the mission.  Missionaries were an addition to the travelers seen along the Santa Fe Trail by the late 1840's (NPS History of the Sant Fe Trail Sec E. p. 45).  
 
-#### Nearby places/associated people
-Ft.Union National Monument
+## La Cueva Today
+Today La Cueva is a private residence as well as a raspberry farm.  In the summer months travelers seeking fun can pick raspberries and bring them home.  But the current day use still has nods to the history of La Cueva.  Mora County is home to many historic landmarks on the historic register, this could be a way for the economically depressed area to benifit from it's rich past.   
 
-Vicente Romero
+#### Nearby places, associated people, and articles
+Ft.Union National Monument https://www.nps.gov/foun/index.htm
 
-Mora valley
+Santa Fe Trail https://www.nps.gov/safe/index.htm
 
-Glorietta Mesa
+St. Vrain's Mill https://en.wikipedia.org/wiki/St._Vrain%27s_Mill
+
+Watrous (La Junta) https://en.wikipedia.org/wiki/Watrous_(La_Junta)
+
+Glorietta Battlefield https://home.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm 
+
+Salaman Rasperry Ranch https://www.lacuevafarm.com/
+
+Critical Reading: Valencia and La Cueva Ranchos https://www.nps.gov/nr/twhp/wwwlps/lessons/96ranchos/96facts3.htm 
+
+Cultural Landscapes of Ft. Union https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1305&context=hp_theses
+
+Christopher “Kit” Carson https://www.nps.gov/parkhistory/online_books/hh/35/hh35m.htm
+
+Ceran St. Vrain https://en.wikipedia.org/wiki/Ceran_St._Vrain
+
+Charles Probst https://flh.fhwa.dot.gov/projects/nm/el-camino/documents/fonsi.pdf
 
 ### Bibliography
 
