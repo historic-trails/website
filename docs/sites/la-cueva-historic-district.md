@@ -38,7 +38,7 @@ La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero,
 %}
 
 
-While the La Cueva Historic District is located miles from the Santa Fe trail, it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would  divert a portion of the streamflow of the Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill (NPS form p.3).  In the 1850's electricity had not yet come to the masses and it was common for hydro power to be used to enable grain mills. (XXXXX) In addition to powering the mill wheel, the acequia would also provide irrigation to the Romero Farm (Water for the southwest p. 90).  Regional mills were important along the trail during the 1800's before rail travel was possible in the Santa Fe region in the late 1870's into 1880, due to the slow speed and volume at which supplies could travel by horse.  (NPS History of the Santa Fe Trail Sec E p. 108).  Mills provided processed grain to many stops along trails to keep a constant supply of food from stop to stop as people traveled.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  Ft. Union was integral to Union Army during the Civil war, and was the largest military base in the Southwest at times between 1851-1891 (NPS Santa Fe trail history sec. E. p.109). Regional mills in Mora county, like that in La Cueva, provided the fort with much needed grain. As many as 60 horse and oxen delivered milled grain to Ft.Union each day (Ranchos of Northern NM p.19).  The close proximity of the farmland, mill, and Ft.Union made La Cueva a sustainable ranch in which to live for the Romero family.  
+While the La Cueva Historic District is located miles from the Santa Fe trail, it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would  divert a portion of the streamflow of the Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill (NPS form p.3).  In the 1850's electricity had not yet come to the masses and it was common for hydro power to be used to enable grain mills. (Mays, p.134) In addition to powering the mill wheel, the acequia would also provide irrigation to the Romero Farm (Water for the southwest p. 90).  Regional mills were important along the trail during the 1800's before rail travel was possible in the Santa Fe region in the late 1870's into 1880, due to the slow speed and volume at which supplies could travel by horse.  (NPS History of the Santa Fe Trail Sec E p. 108).  Mills provided processed grain to many stops along trails to keep a constant supply of food from stop to stop as people traveled.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  Ft. Union was integral to Union Army during the Civil war, and was the largest military base in the Southwest at times between 1851-1891 (NPS Santa Fe trail history sec. E. p.109). Regional mills in Mora county, like that in La Cueva, provided the fort with much needed grain. As many as 60 horse and oxen delivered milled grain to Ft.Union each day (Ranchos of Northern NM p.19).  The close proximity of the farmland, mill, and Ft.Union made La Cueva a sustainable ranch in which to live for the Romero family.  
 
 
 ## A Place to Meet, Trade, & Rest
@@ -107,9 +107,12 @@ Freitag, A. L. (1994). Cultural landscape study of Fort Union National Monument.
 
 Koman, R. G., & National Park Service (Dept. of Interior), W., DC. National Register of Historic Places. (2002). The Hispano Ranchos of Northern New Mexico: Continuity and Change. Teaching with Historic Places.
 
+Mays, L. (2010). Ancient Water Technologies. Springer Science & Business Media.
+
 National Register of Historical Places - NEW MEXICO (NM), Mora County. (n.d.). Retrieved November 9, 2018, from https://nationalregisterofhistoricplaces.com/NM/Mora/districts.html
 
 San Rafael, La Cueva, New Mexico. Shadows in the light of darkness. (2018, April 8). Retrieved November 9, 2018, from http://geraintsmith.com/shadows-san-rafael-la-cueva-new-mexico/
+
 
 
 
