@@ -31,10 +31,10 @@ date: 2018-11-24
 
 ## *Closing of the Mill*
  Ceran St. Vrain held on to the mill until his death in 1870. It was then owned by his son, Vincente, until his death 1877. It then
- was held by Vicente's wife, Amelia. Amelia, traded her newly acquired mill to her brother William Rohman, who then sold it Franky Gambly until his death in 1922. St. Vrain's Mill has remained closed 
+ was held by Vicente's wife, Amelia. Amelia, traded her newly acquired mill to her brother William Rohman, who then sold it Franky Gambly until his death in 1922. St. Vrain's Mill has remained closed eversince. (Purdy,1972)
 
 ## *Current State of the Mill*
-Currently, this mill is being worked on, slowly. Due to the lack of upkeep in the past, the mill was in a state of decay until the local Mill Preservation and Historical. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows currently are boarded shut and gr 
+Currently, this mill is being worked on, slowly. Due to the lack of upkeep in the past, the mill was in a state of decay until the local Mill Preservation and Historical. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows currently are boarded shut and graffitti is removed. The wod frame structure is in relatively good condition. The east-wall is in need of stabilization due to rotation, which has led to stone and wood damage. 
 
 
 {% include figure.html
@@ -45,7 +45,7 @@ Currently, this mill is being worked on, slowly. Due to the lack of upkeep in th
 %}
  
 ## *Ceran St. Vrain*
-Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the French Revolution to French Territory in St. Louis, Missouri. He ventured to New Mexico in 1825 at the age 23 and in his young-adulthood made his living selling fur. In 1834 he with the help of Charles and William Bent, the three of them helped establish ‘Brent’s Fort' on the Arkansas River. His firm also created the St. Vrain's trading post on the Platte River. In 1847, St. Vrain was given 4,000,000 acres of land in southern Colorado. The land grant was granted to St. Vrain after revolts in Taos caused the death of his friend and Governor, Charles Bent. In 1847. St. Vrain led a militia (mostly) to crush the revolts in Taos, perpetrated by rebels made up of mostly Mexican and Pueblo Indians. In 1855 he was promoted to lieutenant colonel to break marauding bands of Utes and Apaches. During the civil war, he was promoted to Colonel but only kept the rank for a short amount of time before he retired and passed the status on to another. St. Vrain seemed to be a jack of all trades and even dabbled in local politics, but after being defeated in his first and only run, he soon retired from politics. He retired shortly after and went to go live with his son, until Ceran died on October 28, 1870.
+Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the French Revolution to French Territory in St. Louis, Missouri. He ventured to New Mexico in 1825 at the age 23 and in his young-adulthood made his living selling fur. In 1834 he with the help of Charles and William Bent, the three of them helped establish ‘Brent’s Fort' on the Arkansas River. His firm also created the St. Vrain's trading post on the Platte River. In 1847, St. Vrain was given 4,000,000 acres of land in southern Colorado. The land grant was granted to St. Vrain after revolts in Taos caused the death of his friend and Governor, Charles Bent. In 1847. St. Vrain led a militia (mostly) to crush the revolts in Taos, perpetrated by rebels made up of mostly Mexican and Pueblo Indians. In 1855 he was promoted to lieutenant colonel to break marauding bands of Utes and Apaches. During the civil war, he was promoted to Colonel but only kept the rank for a short amount of time before he retired and passed the status on to another. St. Vrain seemed to be a jack of all trades and even dabbled in local politics, but after being defeated in his first and only run, he soon retired from politics. He retired shortly after and went to go live with his son, until Ceran died on October 28, 1870. (Purdy,1972)
   
 
 ## *Nearby Sites*
@@ -58,9 +58,8 @@ Purdy, J. H.  State Record Center and Archives
        State Record Center and Archives. (1972). Inventory: Nomination Form (Place of
        National Register Verification.
 
- Purdy, J. H.  State Record Center and Archives
-       State Record Center and Archives. (1972). Inventory: Nomination Form (Place of
-       National Register Verification.
+ McKeen, P. E.  McKeen Consulting Engineers, LLC
+       ATR Institute. (2003). Condensed Structural Report
 
 Dunham, Harold H. "Ceran St. Vrain" Th Mountain Men andthe Fur Trade of the Far West, 
   Vol. V, Glendale: The Arthur H. Clark Company, 1968
@@ -68,5 +67,5 @@ Dunham, Harold H. "Ceran St. Vrain" Th Mountain Men andthe Fur Trade of the Far 
  Lecompte, Janet "Ceran St. Vrain's Stone Mill at Mora"  Ms., Cultural Properties Review Committee, 
   State Planning Office
        
- -
+ 
 
