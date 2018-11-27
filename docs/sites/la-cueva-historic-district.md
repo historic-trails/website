@@ -21,7 +21,7 @@ Just a short drive from [Ft. Union National Monument](https://www.nps.gov/foun/i
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The inn and stables of La Cueva.  Here travelers could rest themselves and water their horses"
+  caption="The inn and stables of La Cueva, built from adobe with metal tin roofs.  Here travelers could rest themselves and water their horses"
   src="images/la-cueva-stables-inn.jpg"
 %}
 
