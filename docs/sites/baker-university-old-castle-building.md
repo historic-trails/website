@@ -46,7 +46,7 @@ Baker University first opened its doors to students in November 1858, in East Ce
  {% include figure.html
   class="img-right"
   width="50%"
-  caption="Santa Fe Trail passing near Baldwin, KS."
+  caption="Santa Fe Trail passing near Baldwin, KS.(Photo acquired from Santa Fe Trail Association, Douglas County Chapter"
   src="images/old-castle-hall-map.jpg"
 %}
 
