@@ -1,16 +1,4 @@
----
-title: fort Larned
-author: Carl Essary
-layout: single-col
-date: 2018-11-26
----
 # Fort Larned
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="This image shows the fort in modern day"
-  src="images/fortlarned.jpg"
-%}{%endraw%}
  The fort is a military institution constructed of stone that was
 built in Pawnee, Texas in 1854. It was created for the purpose of patrolling the Santa Fe trail.
 
@@ -45,13 +33,6 @@ affairs. This made the fort become a place where native peoples who singed the
 fort wise treaty would go to get annuities. The treaty allowed the U.S  settlers to travel and use the native land in exchange of annuities granted by the U.S government.  The chefs of the tribes who signed this treaty ended up causing unrest amongst their tribes and the fort. That continued until 1868 when the treaty was abolished and the native people where moved to reservations
 
 ## a trail of worn earth gives way to one of steel and wood.
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="This image depicts a train on the recenly copleated santa fe rail road"
-  src="images/Fort-lennard-md.jpg"
-%}{%endraw%}
-
 In the forts twilight years as a U.S military institution it provided protection for workers on the construction of the Santa Fe rail road in 1872. The forts troops would patrol the areas under construction instead of the trail. Once the rail road was completed the fort began to lose its relevance as goods and travelers would begin to choose traveling by train over traveling the trail. Due to its purpose no longer being needed, the fort operated for an additional six years when it was abandoned in 1878. The property was then auctioned off as army surplus in 1883.
 
 ## The fort today
