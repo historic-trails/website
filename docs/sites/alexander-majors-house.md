@@ -22,6 +22,9 @@ Alexander Majors House is one of the few [Antebellum period](https://www.encyclo
 The house is situated approximately 16 feet in front of the house which is Missouri and Kansas border , the then  US border _(NHRF-1969, MAJORS)_.  The house sits looking westward which was strategically chosen from the businessman's perspective as Kansas Territory were untaxed and he had huge corrals, grazing lands, oxen pens, barns, wagons and blacksmith shops in the property _(Wornall Majors House Museums, 2018.11.12)_.
 
 ### Who is Alexander Majors?
+
+Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Laurania and Benjamin Majors in 1819 to Lafayette County, Missouri and later moved to Jackson county _(WPA Guide 1998)_. In 1827, Majors father explored silver ore mine with no prominent value he returned to farming, his tales put great impression on Majors towards possibilities in Western Frontier and to travel on the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and  together they joined his fathers footstep into farming _(LaDene, 2012)_. His large family had mostly daughters and no son to help him in farming made him to look for other options _(Godfrey, 1994)_.
+
 {% include figure.html
   class="img-left"
   width="33%"
@@ -29,15 +32,13 @@ The house is situated approximately 16 feet in front of the house which is Misso
   src="images/alexander-majors-portrait.jpg"
 %}
 
-Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Laurania and Benjamin Majors in 1819 to Lafayette County, Missouri and later moved to Jackson county _(WPA Guide 1998)_. In 1827, Majors father explored silver ore mine with no prominent value he returned to farming, his tales put great impression on Majors towards possibilities in Western Frontier and to travel on the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and  together they joined his fathers footstep into farming _(LaDene, 2012)_. His large family had mostly daughters and no son to help him in farming made him to look for other options _(Godfrey, 1994)_.
-
 In August 1848 Majors started carrying freight from Independence to Santa Fe, New Mexico, an 800 mile distance _(LaDene, 2012)_. Majors became the first western Missouri traders to freight supplies to Santa Fe after the Mexican war and started with 6 wagons and made a round trip in a record time 92 days even though they have faced problems with weather and lack of grass  _(Godfrey, 1994)_. The war with the Mexico ended, military presence in the south west made the journey safer. Majors had increase in opportunities and success due opening of Oregan Territory for settlement in 1848, California gold fields in 1849, expansion of military forts  in the west through 1850ś _(LaDene, 2012)_.  
 
 Majors was particular in hiring trustworthy people and made them to pledge that they would treat animals with kindness, use no profanity, stay sober all the time, and behave like gentlemen while they were his employee _(Godfrey, 1994)_. Majors had great work ethics, great experience and he rested his oxen and men on Saturday afternoon to Monday morning and held worship services on Sundays _(Godfrey, 1994)_. In 1854, Majors earned a respectable reputation as a successful freighter on the Western Missouri frontier _(Godfrey, 1994)_.  
 
 ### Freighting firm
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72)"
   src="images/alexander-majors-russell-waddell-images.jpg"
@@ -57,7 +58,7 @@ The house is built in 1856 on 300 acre farmstead property on the state line purc
 
 ### Pony Express
 {% include figure.html
-  class="img-center"
+  class="img-left"
   width="33%"
   caption="Map of Pony Express 1860, created by William Henry Jackson an American artist in c. 1935, obtained & rendered by Gwillhickers and restored by Crisco 1492 (_Courtesy US Library of Congress_)"
   src="images/alexander-majors-pony-express-route-map.PNG"
@@ -86,7 +87,7 @@ His old friend Buffalo Bill Cody arranged in publishing a book "Majors ś sevent
 
 ### Architectural style of the house
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="Alexander Majors House side view, additions to 'T' floor plan _(NHRF-1969, MAJORS)_"
   src="images/alexander-majors-house-side-view-image.PNG"
@@ -99,12 +100,6 @@ Architectural style of the building is [Classical revival style](http://www.phmc
 The outbuildings next to the house no longer survive. There is a barn is approximately 100' to the southeast and smoke house around 40' to the north to the house. Present day we can see a well, cistern to the south of the house, a shed 20' north to the house and a cottage 60' north of the house _(NHRF-1969, MAJORS)_.
 
 ### Alteration to the house
-
-
-The house was sold to Mr. and Mrs. A. Louis Rhul in 1904 who later built additions to the house and owned it till 1924. The increase in residential growth, property was subdivided to development called Cresthills Acres _(LaDene, 2012)_. The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) and few of them are enlarging dining room and master bedroom on second floor by the addition on southern extension of 'T' and terminates in a bay. The rooms sizes increased from 15 x 17 feet to 15 x 27 feet _(NHRF-1969, MAJORS)_.
-
-The house was turned into school and community meeting space for residential needs, partition walls between 3 chambers of the first floor were formed to make a single large space _(NHRF-1969, MAJORS)_. Later the house was set to demolition to built a new school but due to its timber framing and iron nails the cost of demolition estimated more that they ended up abandoning the house and building the school elsewhere _(LaDene, 2012)_.
-
 {% include figure.html
   class="img-right"
   width="33%"
@@ -112,20 +107,23 @@ The house was turned into school and community meeting space for residential nee
   src="images/alexander-majors-house-first-floor-plan.PNG"
 %}
 
+The house was sold to Mr. and Mrs. A. Louis Rhul in 1904 who later built additions to the house and owned it till 1924. The increase in residential growth, property was subdivided to development called Cresthills Acres _(LaDene, 2012)_. The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) and few of them are enlarging dining room and master bedroom on second floor by the addition on southern extension of 'T' and terminates in a bay. The rooms sizes increased from 15 x 17 feet to 15 x 27 feet _(NHRF-1969, MAJORS)_.
+
+The house was turned into school and community meeting space for residential needs, partition walls between 3 chambers of the first floor were formed to make a single large space _(NHRF-1969, MAJORS)_. Later the house was set to demolition to built a new school but due to its timber framing and iron nails the cost of demolition estimated more that they ended up abandoning the house and building the school elsewhere _(LaDene, 2012)_.
+
 ### Majors house bought by his descendant
 
 In 1930, Louisa P. Johnston, Majors's great grand-daughter travelled to visit her ancestral home and found the abandoned state of the house. She brought the house and started working on it in 1932 and for forty years she put effort in turning the property into a memorial for her ancestor and for its history _(LaDene, 2012)_. In 1945, the then Senator Harry Truman initiated a bill that the house will be purchased and maintained but the bill never passed. After many efforts of Louisa to get that funded money but couldn't succeed. Finally in 1970, National Historic Association aided by Rusell-Majors-Waddell the house got listed in register of National Historic sites _(LaDene, 2012)_.
 
 In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and State Line Road which gave 6 acre park surrounding the house but despite the plan it couldn't proceed for nearly 10 years _(LaDene, 2012)_. In 1979, Louisa Johnston died leaving the house to Terry W. Chapman who worked as the restoration architect for the house. The structural work was finished in 1983 and was a show case project in Kansas city Symphony, which provided interior finishes _(LaDene, 2012)_.
 
+### Alexander Majors House - Todays' Museum
 {% include figure.html
   class="img-right"
   width="33%"
   caption="Alexander Majors House second floor plan, several modifications are made to bathroom at the northend, adding closets to western wall of master bedroom, moving the entrance of the door from north side to south _(NHRF-1969, MAJORS)_"
   src="images/alexander-majors-house-second-floor-plan.PNG"
 %}
-
-### Alexander Majors House - Todays' Museum
 
 In 1984, the Alexanders Majors House Museum is open to public for tours and events. In 2010, the house was joined with John Wornall house and museum and functioned together reinforcing the historic legacy of the area and house on the edge of the frontier _(LaDene, 2012)_. Wornall-Majors Museum has organized events and celebrations like weddings, event rentals, on site photography, school field trips, summer camps, field trips, Holiday candlelight tours, birthday parties and private and group tours _(Wornall Majors House Museums, 2018.11.12)_.
 
