@@ -57,6 +57,7 @@ Location on Campus: 511 5th St, Baldwin City, KS 66006
 
 ##### Nearby Historic Sites
 
+
 Santa Fe Trail Park, Baldwin City
 
 One-half mile to the northwest of Palmyra Well is the Santa Fe Trail Park. It contains a large granite Daughters of the American Revolution (DAR) marker. The diagonal county road adjacent to the park follows the exact route of the trail to the northwest. The property was donated to Baker University in 1907 and was recently placed on the National Registry of Historic Sites. Beyond here, the route traveled through a place called “The Narrows,” a ridge that separated Wakarusa Creek on the north and the Marais des Cygnes River to the south.
@@ -79,7 +80,7 @@ Black Jack Park Ruts
    
 Santa Fe Depot/Midland Historic Railway
    
-The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansa
+The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
   
 <http://www.kansastravel.org/midlandrailway.htm>
    
