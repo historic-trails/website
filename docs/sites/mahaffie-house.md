@@ -7,67 +7,54 @@ date: 2018-11-19
 
 # Mahaffie House
 
-### Positioned in northeastern Kansas just southwest of Independence, Missouri, the Mahaffie farmstead an important stage stop along the Santa Fe Trail where travelers stocked up for their journey westward
-- property has three structures on the NRHP: the house, a wood peg barn, and a stone ice house (Wagon Tracks)
-- first hotel and stage station in that part of Johnson County, KS
-- Santa Fe Trail ran across southwest corner of property
-- the Mahaffie house and farmstead represent a crucial link between a historically rural part of Kansas used for transnational freighting and the state's modern (and more urban) form
-- the house, in particular, is a testament to the ways that private citizens far from Santa Fe helped open trade with Mexico
-- the urbanization of nearby Kansas City makes it important to preserve the Mahaffie House, which is an important link to Johnson County's yesteryears
+Positioned in northeastern Kansas just southwest of Independence, Missouri, the Mahaffie farmstead was an important stage stop along the Santa Fe Trail where travelers stocked up for their journey westward. the house is a rare historical structure with good integrity and enough space to accommodate the visiting public who desire a taste of Kansas's pioneer spirit.
+
+### Historic Significance
+The Mahaffie House and its surrounding outbuildings constituted the first hotel and stage station in its section of Johnson County, Kansas. As a whole, the property is testament to the ways that private citizens far from Santa Fe helped open trade with Mexico. Present-day visitors can see the contrast between northeastern Kansas's rural past and its modern urbanized form. The unchecked growth of nearby Kansas City makes the preservation of the Mahaffie House--an important link to Johnson County's yesteryears--even more vital.
+
+### Property Details
+The Santa Fe Trail ran right across the southwest corner of the property, providing travelers with ready access to the farmstead. Stage stops were essentially multi-dimensional convenience stores--in addition to hot meals and other provisions, they offered hospitality, shelter, and relative safety. The property actually contains three structures listed on the National Register of Historic Places: the house, a wood peg barn, and a stone ice house (Wagon Tracks). 
 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The Mahaffie House"
+  caption="The Mahaffie House in the 1950s (featured in the obituary of Ella Mahaffie). Newspaper clipping from _The History of Our Public Schools: Wyandotte County, Kansas_ <http://www.kckps.org/disthistory/images/park/index.htm>"
   src="images/mahaffie-house-newspaper.jpg"
 %}
 
-### stage stops were not unlike convenience stores, if convenience stores also offered multi-course meals and changed horses for travelers
-- hospitality
-- food 
-- shelter
-- safety
-
-### J.B. Mahaffie was born in Ohio in 1817
-- when he first arrived in Kansas in 1857, proslavery Missourians had taken all the good plots of land so he returned to the Midwest for a while (National Register form)
-- Kansas Territory (not a state until 1861) organized under popular sovereignty, meaning that the state's voters would decide whether or not slavery could be practiced there
-- eventually bought a house and a plot of land; moved the house to the plot in 1858 (National Register form)
+### Who Was J.B. Mahaffie?
+James Beatty Mahaffie was born in Ohio in 1817; he married Lucinda Henderson in 1844. When he first arrived in Kansas in 1857, he found that proslavery Missourians had taken all the good plots of land so he returned to the Midwest for a while (National Register form).Kansas did not become a state until 1861, and Kansas Terrtitory was organized under popular sovereignty--meaning that the state's voters would decide whether or not slavery could be practiced there. Mahaffie eventually returned to Kansas and bought a house and a separate plot of land; he moved the house to the plot in 1858 (National Register form).
 
 ### Mahaffie the pioneer
-- remembered as "one of the leading farmers of the area" who was "active in local social and political affairs" (National Register form)
-- 1858: elected chairman of the Johnson County supervisors (National Register form)
-- member of the Grange, a post-Civil War organization to further the political and economic advancement of rural agricultural communities
-- progressive, liked the railroad (even though it would come to signify the "end" of the SFT)
-- advocated the preservation of the Santa Fe Trail
+Although a transplant from Ohio, Mahaffie is remembered as "one of the leading farmers of the area." He was also "active in local social and political affairs"; in 1858 he was elected chairman of the Johnson County supervisors (National Register form). Mahaffie belonged to the Grange, a post-Civil War organization to further the political and economic advancement of rural communities. His passion for developing the county extended to railroad politics; he served on the first board of directors of the Missouri River, Fort Scott, and Gulf Railroad. Later in his life, Mahaffied advocated the preservation of the Santa Fe Trail (National Register form).
 
-### the house
-- the first night after the house was moved in 1858, Mahaffie took in $5 from travelers who wanted to sleep on his wood floors (National Register form)
-- soon became known for its hospitality
-- dinners served in the basement (CMP)
-- completed a large stone addition in 1865 (Wagon Tracks)
-- in 1865, had the largest farm (570 acres) and the largest livestock herd in Olathe (Wagon Tracks)
+### The House
+The first night Mahaffie moved his house to his newly-purchased property in 1858, he took in $5 (roughly $150 today) from travelers--just for the privilege of sleeping on his wooden floors! Mahaffie's farmstead soon became known for its exceptional hospitality (National Register form). Communal dinners were served in the basement (Comprehensive Management Plan). Mahaffie completed a large stone addition in 1865; that same year, he had the largest farm (570 acres) and the largest livestock herd in Olathe (Wagon Tracks).
 
+### Architectural Details 
+The house sits roughly 500 feet north of the Kansas City Road, which once served as a portion of the Santa Fe Trail. The house, which sits on a thirteen-acre parcel, was constructed somewhere in Olathe in 1857 and moved to Mahaffie's plot in 1858. It was originally a one-and-a-half stories tall until Mahaffie added a two-story stone addition on the structure's southern side; Mahaffie later raised the adjoining frame structure so it stood two stories tall, as well. A one'story porch on Tuscan columns faces the old Kansas City Road. Though the house is not especially significant architecturally, it conforms to what architectural historians call the vernacular style (National Register form).
 
-### appearance (National Register form)
-- measures 40 ft. across the south facade 
-- main facade is two stories high with a basement
-- entrance is through double wood doors
-- a thin brick chimney
-- one story porch on Tuscan columns
+### The End of the Mahaffie Era
+Mahaffie retired ferom the farm in 1881 and sold the property in 1883 (National Register form). The era of the stage station had largely come to an end, thanks the end of the Civil War and the beginning of the railroad era. The property passed through different owners until the City of Olathe purchased the property in 1980 with funds from citizens, grants, and the city government (Wagon Tracks). In 1982, a federal grant to imporove the Mahaffie House provided a new roof, forced air heating, and new wiring (Wagon Tracks). It is relatively unusual for a city to own/operate a historic site as important as the Mahaffie House (Wagon Tracks).
 
-### the house is a rare historical structure with good integrity and enough space to accommodate the visiting public who desire a taste of Kansas's pioneer spirit
-- Presently used for agriculture and as a private residence
-- used for weddings and other occasions
-- owned by Roger L. Cohen and Co.
-- only known SFT stage station that's open to the public (CMP)
+### Visit the house
+The Mahaffie Farmstead is still used for agriculture, but it exists primarily as a tourist attraction. Those wishing to experience the property in a more intimate way can schedule a wedding or other large group event at the farm. It remains the only known Santa Fe Trail stage station that is open to the public (CMP).
 
-### Mahaffie retired ferom the farm in 1881; sold the property in 1883 (National Register form)
-- end of war and beginning of new transportation technology ended era of the stage station
-- City of Olathe purchased property in 1980 with funds from citizens, grants, and the city government (Wagon Tracks)
-- 1982: federal grant to improve the Mahaffie House, including new roof, forced air heating, and new wiring (Wagon Tracks)
-- relatively unusual for a city to own/operate a historic site as important as the Mahaffie House (Wagon Tracks)
+The house is located at 1200 E Kansas City Road, Olathe, KS 66061. It is generally open from 10 am to 4 pm, depending on the season.
 
-### Sources
-- CMP
+### Nearby historic sites
+- Harmon Park Rut
+- Shawnee Mission
+- Grinter House and Ferry
+- Westport Landing
+- Harris House
+- Ewing-Boone Store
+- Jim Bridger's Store
+- William Bent House
+- Alexander Majors House
+- Big Blue River Crossing
+
+### Bibliography
 - Michael E. Duncan, "Mahaffie Farmstead and Stagecoach Stop Historic Site," _Wagon Tracks_ vol. 1, no. 3 (May 1987): 4.
-- NRHP form
+- National Park Service, _Draft Comprehensive Management Plan_. Denver: U.S. Department of the Interior, 1989.
+- Richard Pankratz, "J.B. Mahaffie House." National Register of Historic Places Inventory/Nomination Form. Kansas State Historical Society, Topeka, 29 August 1977.
