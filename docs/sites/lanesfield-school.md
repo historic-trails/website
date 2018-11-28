@@ -41,7 +41,7 @@ Following an increasingly frequent trend of one-room schoolhouses being consolid
   class="img-right"
   width="33%"
   caption="Visiting children learn about life in one-room schoolhouse at Lanesfield School"
-  src="images/lanesfield-school-inside.jpg"
+  src="images/lanesfield-school-inside.jpeg"
 %}
 ### Lanesfield School is now a public museum
 The school was turned into a museum in 1967 and it is still open to the public today. Visitors can visit the school and experience writing on slates, cleaning the blackboard, and what general life in a one-room schoolhouse was like during the late 19th and early 20th centuries along the Santa Fe Trail.
