@@ -26,7 +26,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Main Street of Baldwin City, KS 1911 photo by Kathy Weiser/ Legends of Kansas"
+  caption="Main Street of Baldwin City, KS 1911 photo by [Kathy Weiser/ Legends of Kansas](http://www.legendsofkansas.com/baldwincity.html)"
   src="images/Baldwin-City-1911.jpg"
 %}
  
