@@ -105,6 +105,6 @@ Santa Fe Trail Association Douglas County Chapter
 <https://www.santafetrail.org/chapters/douglasco/index.html>
 
 Legends of Kansas- Baldwin City
-http://www.legendsofkansas.com/baldwincity.html
+<http://www.legendsofkansas.com/baldwincity.html>
    
    
