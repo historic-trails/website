@@ -9,7 +9,7 @@ date: 2018-11-21
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="Seth Ward House"
   src="images/bent-ward-house.jpg"
 %}
