@@ -91,4 +91,8 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 
 
 ## Realted Articles
+[The Way to Santa Fe](http://www.kchistory.org/week-kansas-city-history/way-santa-fe)
 
+[Westport: Where the History Began](http://www.experiencekc.com/westport.html)
+
+[Civil War on the Western Border](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
