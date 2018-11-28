@@ -76,4 +76,13 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 
 ## Related People
 [Edmund Guerrier](https://en.wikipedia.org/wiki/Edmund_Guerrier)
+[Robert Campbell](https://en.wikipedia.org/wiki/Robert_Campbell_(frontiersman))
+[Major General Sterling Price](https://en.wikipedia.org/wiki/Sterling_Price)
+
+## Related Places
+[Bent's Fort](https://en.wikipedia.org/wiki/Bent%27s_Old_Fort_National_Historic_Site)
+[Ward Parkway](https://en.wikipedia.org/wiki/Ward_Parkway)
+[Kansas City's Country Club District](https://en.wikipedia.org/wiki/Country_Club_District)
+
+## Realted Articles
 
