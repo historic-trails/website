@@ -4,19 +4,19 @@
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="**Alexander Majors Barn,
-  8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114** _(NHRF-1969, MAJORS)_"
-  src="images/alexander-majors-house-location.jpg"
+  caption="Alexander Majors house, Kansas City, 1856 (_credited Earl C. Leatherberry_)"
+  src="images/alexander-majors-house.jpg"
 %}
 
 Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas city and is on National register of historic buildings _(WPA Guide 1998)_. The house and the grounds were trading centers for 'Russell and Majors and Waddell' freighting firm and its also the house of Alexander majors house. Alexander Majors house ran alongside a dirt path, which is a state line road - a boundary between Kansas and Missouri, from West Port landing to the original Santa Fe trail _(Wornall Majors House Museums, 2018.11.12)_.
 
 ### Location
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
-  caption="Alexander Majors house, Kansas City, 1856 (_credited Earl C. Leatherberry_)"
-  src="images/alexander-majors-house.jpg"
+  caption="**Alexander Majors Barn,
+  8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114** _(NHRF-1969, MAJORS)_"
+  src="images/alexander-majors-house-location.jpg"
 %}
 
 The house is situated approximately 16 feet in front of the house which is Missouri and Kansas border , the then  US border _(NHRF-1969, MAJORS)_.  The house sits looking westward which was strategically chosen from the businessman's perspective as Kansas Territory were untaxed and he had huge corrals, grazing lands, oxen pens, barns, wagons and blacksmith shops in the property _(Wornall Majors House Museums, 2018.11.12)_.
