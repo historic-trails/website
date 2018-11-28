@@ -61,7 +61,7 @@ Santa Fe Trail Park, Baldwin City
 
 One-half mile to the northwest of Palmyra Well is the Santa Fe Trail Park. It contains a large granite Daughters of the American Revolution (DAR) marker. The diagonal county road adjacent to the park follows the exact route of the trail to the northwest. The property was donated to Baker University in 1907 and was recently placed on the National Registry of Historic Sites. Beyond here, the route traveled through a place called “The Narrows,” a ridge that separated Wakarusa Creek on the north and the Marais des Cygnes River to the south.
 
-https://www.visitbaldwincity.com/aboard-santa-fe-trail/
+<https://www.visitbaldwincity.com/aboard-santa-fe-trail/>
 
 Blackjack Battle Field 
 
@@ -69,40 +69,40 @@ Blackjack Battle Field
  163 E 2000th Rd
 Wellsville, Kansas
 
-http://www.blackjackbattlefield.org
+<http://www.blackjackbattlefield.org>
 
 Black Jack Park Ruts 
 
    A dramatic set of parallel ruts are located in Douglas County Prairie Park, adjacent to Black Jack State Park east of Baldwin City. These are among the finest along the entire length of the trail.
    
-   http://www.santafetrailresearch.com/mileagecharts/sft-kansas.html
+<http://www.santafetrailresearch.com/mileagecharts/sft-kansas.html>
    
-   Santa Fe Depot/Midland Historic Railway
+Santa Fe Depot/Midland Historic Railway
    
-   The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansa
+The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansa
   
-  http://www.kansastravel.org/midlandrailway.htm
+<http://www.kansastravel.org/midlandrailway.htm>
    
    
 ##### Sources 
 
 Historic Campus Architecture Project 
-http://hcap.artstor.org/cgi-bin/library?a=d&d=p153
+<http://hcap.artstor.org/cgi-bin/library?a=d&d=p153>
 
 Kansaspedia: Baker University
-https://www.kshs.org/kansapedia/baker-university/17829
+<https://www.kshs.org/kansapedia/baker-university/17829>
 
 National Register Of Historic Places Inventory - Nomination Form
-https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text
+<https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text>
 
 Baker University Vision & Values
-https://www.bakeru.edu/about-baker-university/history-mission-vision/#support
+<https://www.bakeru.edu/about-baker-university/history-mission-vision/#support>
 
 Kansaspedia: Grasshopper Plague of 1874
-https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070
+<https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070>
 
 Santa Fe Trail Association Douglas County Chapter
-https://www.santafetrail.org/chapters/douglasco/index.html
+<https://www.santafetrail.org/chapters/douglasco/index.html>
 
    
    
