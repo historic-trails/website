@@ -6,7 +6,6 @@ date: 2018-11-24
 ---
 
 
-
 # Baker University Old Castle Building 
 
 
