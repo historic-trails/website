@@ -32,7 +32,7 @@ Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Lau
   src="images/alexander-majors-portrait.jpg"
 %}
 
-In August 1848 Majors started carrying freight from Independence to Santa Fe, New Mexico, an 800 mile distance _(Morton, 2012)_. Majors became the first western Missouri traders to freight supplies to Santa Fe after the Mexican war and started with 6 wagons and made a round trip in a record time 92 days even though they have faced problems with weather and lack of grass  _(Godfrey, 1994)_. The war with the Mexico ended, military presence in the south west made the journey safer. Majors had increase in opportunities and success due opening of Oregan Territory for settlement in 1848, California gold fields in 1849, expansion of military forts  in the west through 1850ś _(Morton, 2012)_.  
+In August 1848 Majors started carrying freight from Independence to Santa Fe, New Mexico, an 800 mile distance _(Morton, 2012)_. Majors became the first western Missouri traders to freight supplies to Santa Fe after the Mexican war, he started with 6 wagons and made a round trip in a record time 92 days. The war with the Mexico ended, military presence in the south west made the journey safer _(Godfrey, 1994)_. Majors had increase in opportunities and success due opening of Oregan Territory for settlement in 1848, California gold fields in 1849, expansion of military forts  in the west through 1850ś _(Morton, 2012)_.  
 
 Majors was particular in hiring trustworthy people and made them to pledge that they would treat animals with kindness, use no profanity, stay sober all the time, and behave like gentlemen while they were his employee _(Godfrey, 1994)_. Majors had great work ethics, great experience and he rested his oxen and men on Saturday afternoon to Monday morning and held worship services on Sundays _(Godfrey, 1994)_. In 1854, Majors earned a respectable reputation as a successful freighter on the Western Missouri frontier _(Godfrey, 1994)_.  
 
@@ -44,7 +44,7 @@ Majors was particular in hiring trustworthy people and made them to pledge that 
   src="images/alexander-majors-russell-waddell-images.jpg"
 %}
 
-In 1855 he joined partnership with William H. Russell and William B. Waddell and contracted with US Government to freight supplies to army posts along Oregan and Santa Fe Trails  _(Wood, Mincer , 2000)_ _(WPA Guide, 1998)_. They employed more than four thousand men and owned 3,500 wagons and nearly forty thousand oxen and 1000 mules _(Morton, 2012)_. Usually shipments were sent in a set of 25 wagons, 12 oxen, a teamster and each of that set had additional oxen, mules and men in case of emergency and soon the firm made about $300,000 profits in 1855-56 _(WPA Guide, 1998)_.
+In 1855 he joined partnership with William H. Russell and William B. Waddell and contracted with US Government to freight supplies to army posts along Oregon and Santa Fe Trails  _(Wood, Mincer , 2000)_. They employed more than four thousand men and owned 3,500 wagons and nearly forty thousand oxen and 1000 mules _(Morton, 2012)_. Usually shipments were sent in a set of 25 wagons, 12 oxen, a teamster and each of that set had additional oxen, mules and men in case of emergency and soon the firm made about $300,000 profits in 1855-56 _(WPA Guide, 1998)_.
 
 ### Majors 's House
 {% include figure.html
@@ -54,7 +54,7 @@ In 1855 he joined partnership with William H. Russell and William B. Waddell and
   src="images/alexander-majors-house-site-plan.PNG"
 %}
 
-The house is built in 1856 on 300 acre farmstead property on the state line purchased by Majors firm and started construction of the house. This property served both as family home and headquarters for Majors freighting company _(WPA Guide, 1998)_. Two years later the contract system changed, Majors wife died and he remarried, he decided to move his family to Nebraska city in 1858 to oversee the shipments to Utah and gave away the state line property to his daughter Rebecca (1) _(Morton, 2012)_.
+The house is built in 1856 on 300 acre farmstead property on the state line purchased by Majors firm. This property served both as family home and headquarters for Majors freighting company _(WPA Guide, 1998)_. Two years later the contract system changed, Majors wife died and he remarried, he decided to move his family to Nebraska city in 1858 to oversee the shipments to Utah and gave away the state line property to his daughter(1) Rebecca _(Morton, 2012)_.
 
 ### Pony Express
 {% include figure.html
@@ -64,9 +64,9 @@ The house is built in 1856 on 300 acre farmstead property on the state line purc
   src="images/alexander-majors-pony-express-route-map.PNG"
 %}
 
-The Pony Express began in April 1860 and ran between St. Joseph, Missouri and Sacramento, California, it was a colourful chapter in American History, which also benefited the firm.
+> The **Pony Express** began in April 1860 and **ran between St. Joseph, Missouri and Sacramento, California, it was a colourful chapter in American History**, which also benefited Majors freighting firm _(Godfrey, 1994)_.
 
-In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Waddell and Russell firm which later became Central Overland California & Pikeś Peak Express company which is otherwise known as !["Pony Express"](http://ponyexpress.org/) _(Godfrey, 1994)_. This helped in filling the need for reduced postal service by government for budget reasons. This literally connected several dynamic western events with the commercial opportunities in the express business. _(Godfrey, 1994)_
+In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Waddell and Russell firm which later became Central Overland California & Pikeś Peak Express company which is otherwise known as !["Pony Express"](http://ponyexpress.org/) _(Godfrey, 1994)_. This helped in filling the need for reduced postal service by government for budget reasons. This literally connected several dynamic western events with the commercial opportunities in the express business _(Godfrey, 1994)_.
 
 > **Pony express** is not the first mail service, in 13th century China had post stations 25 miles apart and stations for foot carriers 3 miles apart, but **a first time mail service attempted in America in large scale** _(Godfrey, 1994)_.
 
@@ -100,7 +100,7 @@ His old friend Buffalo Bill Cody arranged in publishing a book "Majors ś sevent
   src="images/alexander-majors-house-side-view-image.PNG"
 %}
 
-Architectural style of the building is [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html), "T" shaped floor plan, two storied in light wood frame construction. This house is one of the third oldest houses with light wood frame construction in Kansas facing towards west _(NHRF-1969, MAJORS)_.
+Architectural style of the building is [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html), "T" shaped floor plan, 9 room two storied house in light wood frame construction. This house is one of the third oldest houses with light wood frame construction in Kansas facing towards west _(NHRF-1969, MAJORS)_.
 
 * #### Outbuildings and Grounds
 
@@ -128,7 +128,7 @@ In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors House second floor plan, several modifications are made to bathroom at the northend, adding closets to western wall of master bedroom, moving the entrance of the door from north side to south _(NHRF-1969, MAJORS)_"
+  caption="Alexander Majors House second floor plan, several modifications are made to bathroom at the northern end, adding closets to western wall of master bedroom, moving the entrance of the door from north side to south _(NHRF-1969, MAJORS)_"
   src="images/alexander-majors-house-second-floor-plan.PNG"
 %}
 
