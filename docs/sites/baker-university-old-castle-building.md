@@ -16,11 +16,11 @@ date: 2018-11-24
   src="images/old-castle-museum.jpg"
 %}
 
-Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. The school holds the honor of being the first university in Kansas, Old Castle Hall was the first building of Baker University, and classes were held there through 1871. Baldwin City is one of the oldest settlements in Kansas, located about 15 miles south of Lawrence, the city got its start during the opening days of Kansas Territory when it was little more than a trail stop on the Santa Fe Trail (Santa Fe Trail Association).
+  Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. The school holds the honor of being the first university in Kansas, Old Castle Hall was the first building of Baker University, and classes were held there through 1871. Baldwin City is one of the oldest settlements in Kansas, located about 15 miles south of Lawrence, the city got its start during the opening days of Kansas Territory when it was little more than a trail stop on the Santa Fe Trail (Santa Fe Trail Association).
   
 ## History 
   
-  The University is named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church (KHS).The university has a rich history, growing up side-by-side with the state of Kansas, Baldwin City began as a trail stop on the Santa Fe Trail named Palmyra. Palmyra, which later became a part of Baldwin, was long a favorite place for repairing wagons and for rest, the added commerce of the Santa Fe Trail helped Baldwin grow enough to build a University within the city (Santa Fe Trail Association). In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas (HCAP). 
+  The University is named for Osmon Cleander Baker, a distinguished scholar and bishop of what is now the United Methodist Church (KHS). The university has a rich history, growing up side-by-side with the state of Kansas, Baldwin City began as a trail stop on the Santa Fe Trail named Palmyra. Palmyra, which later became a part of Baldwin, was long a favorite place for repairing wagons and for rest, the added commerce of the Santa Fe Trail helped Baldwin grow enough to build a University within the city (Santa Fe Trail Association). In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas (HCAP). 
 
 {% include figure.html
   class="img-right"
