@@ -41,9 +41,18 @@ His brothers were the first ones of the family to go to present day Missouri, wh
 
  The Neff family incorporated many facets of American history, on one hand that is Isaac Neff going with westward migration movement and building up a new, successful living in Missouri. On the other hand, the following generation of the Neff family, most importantly, Isaac’s son Abram (1839 – 1924, see Weblink nr. 1), took part in yet another very important chapter of American history: The Civil War (NPS Form, 1963, statement of significance p. 2). 
 
-## Neff family members and the Civil War
 Although, Missouri was very diverse in the distribution of Confederates and Unionists, the greater trend was rather conservative but anti-slavery based (Gerteis, 2012: p. IX). Nevertheless, Abram was fighting on the Confederate side (NPS Form, 1963: statement of significance p. 2) and although he owned the tavern, didn’t pursue a gastronomic career and finished his medical degree and practiced as a physician in the house of the former tavern (NPS Form, 1963: statement of significance p. 2). Everything, except for the smoke house was torn down by Abram in the 1890’s, in order to build a modern frame house on the land (NPS Form, 1963: statement of significance p. 2).
 Therefore, the smokehouse is the only remaining part of the previous tavern, which served as a meeting point to the travellers that established a blossoming economy in Missouri, through their trade with Mexico. It is also a remain of a family residence, that incorporates many stages of American history, as is the European immigration, the west ward migration and the Civil War.
+
+
+## Location
+The Neff tavern is located on an unmarked street, west from the Missouri highway number 41 (half a mile) and Arrow Rock (6 miles).
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="The location of the former tavern can be found through the orange circle. The map shows how related the Neff property was to the Santa Fe Trail is, as it goes through the posession (NPS Form, 1963)."
+  src="images/location_neff_tavern.png"
+%}
 
 ## Related articles
 * more information on the [Civil War in Missouri](https://www.sos.mo.gov/mdh/CivilWar/Resources.asp)
