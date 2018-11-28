@@ -14,10 +14,10 @@ date: 2018-11-24
 %}
 
 # *St. Vrain's Mill*
- Created in or around 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand of flour by the US government during the tail end of the Civil-War and to feed thousands of Navajo Indians during a period where Navajo Indians were held captive in Fort Union. Many revolts in Taos, NM, saw a number of the mills that were owned by Ceran St. Vrain burned to the ground. This mill, though rushed and crudely made, served a valuable function to not only the area but to other useful areas as well, such as military forts and holding encampments.  It is currently still standing in Mora, NM, and is maintained by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, NM. The Mill is located at approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. (Purdy,1972)
+ Created in or around 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand for flour by the US government during the tail-end of the Civil-War and to feed thousands of Navajo Indians during a period where Navajo Indians were held captive in Fort Union. Many revolts in Taos, NM, saw a number of the mills that were owned by Ceran St. Vrain burned to the ground. This mill, though rushed and crudely made, served a valuable function to not only the area but to other useful areas as well, such as military forts and holding encampments.  The mill is currently standing in Mora, NM, and is maintained by the ‘St. Vrain Mill Preservation and Historical Foundation’, also located in Mora, NM. The Mill is located at approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. (Purdy,1972)
 
 ## *The Mill's Purpose*
- The mill's overall main purpose was to replace mills that were destroyed in Taos, NM. The United States government had reached out to St. Vrain to be the primary supplier to the military installations around the area, the neighboring regions, and the Navajo Indians which were currently being held captive at Fort Union, in present-day Mora, NM. (Purdy,1972)
+ The mill's overall main purpose was to replace mills that were destroyed in Taos, NM. The United States government had reached out to St. Vrain to be the primary supplier of flour to the military installations around the area, the neighboring regions, and the Navajo Indians which were currently being held captive at Fort Union, in present-day Mora, NM. (Purdy,1972)
  
  {% include figure.html
   class="img-right"
@@ -31,7 +31,7 @@ date: 2018-11-24
 
 ## *Closing of the Mill*
  Ceran St. Vrain held on to the mill until his death in 1870. It was then owned by his son, Vincente, until his death 1877. It then
- was held by Vicente's wife, Amelia. Amelia, traded her newly acquired mill to her brother William Rohman, who then sold it Franky Gambly until his death in 1922. St. Vrain's Mill has remained closed eversince. (Purdy,1972)
+ was held by Vicente's wife, Amelia. Amelia, traded her newly acquired mill to her brother William Rohman, who then sold it Franky    Gambly until his death in 1922. St. Vrain's Mill has remained closed eversince. (Purdy,1972)
 
 ## *Current State of the Mill*
 Currently, this mill is being worked on, slowly. Due to the lack of upkeep in the past, the mill was in a state of decay until the local Mill Preservation and Historical. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows currently are boarded shut and graffitti is removed. The wood frame, structuraly, is in relatively good condition. The east-wall is in need of stabilization due to rotation, which has led to stone and wood damage. (McKeen,2003) 
