@@ -11,7 +11,7 @@ date: 2018-11-19
 Lanesfield School is a one-room schoolhouse near Edgerton Kansas that was established in 1869. The school is considered the last standing building from the now non-existent town of Lanesfield which served as a mail stop for the Santa Fe Trail.
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="25%"
   caption="James Lane"
   src="images/james-lane.jpg"
 %}
@@ -54,10 +54,10 @@ Closing Kansas Rural Schools in 1940s
 New York Times
 
 ### Related Articles
-[One Room Schools in the Ozarks](https://www.nps.gov/ozar/learn/historyculture/one-room-schools-in-the-ozarks.htm)
-[An African-American One-Room School](https://www.nps.gov/nr/twhp%20/wwwlps/lessons/58iron/58iron.htm)
-[James Lane in the Civil War](https://www.nps.gov/fosc/learn/historyculture/firsttoserve.htm)
-[The Pony Express](https://www.nps.gov/poex/learn/historyculture/index.htm)
+* [One Room Schools in the Ozarks](https://www.nps.gov/ozar/learn/historyculture/one-room-schools-in-the-ozarks.htm)
+* [An African-American One-Room School](https://www.nps.gov/nr/twhp%20/wwwlps/lessons/58iron/58iron.htm)
+* [James Lane in the Civil War](https://www.nps.gov/fosc/learn/historyculture/firsttoserve.htm)
+* [The Pony Express](https://www.nps.gov/poex/learn/historyculture/index.htm)
 
 
 
