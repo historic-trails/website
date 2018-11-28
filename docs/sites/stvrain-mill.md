@@ -27,14 +27,14 @@ date: 2018-11-24
 %}
           
 ## *St. Vrain's Stone Mill: Fire Resistant*
- The mill was created in a rush to meet high-demand and to replace what which lost in Taos. The overall main goal was to fireproof the mill. This task was accomplished by crudely making the mill out of stone blocks and different adhesives such as what was around: dirt, rocks, etc. combined with water. Each of the stone blocks used was of varying size, which was not familiar to do in this time.  The mill from the ground to top of the roof is 43 feet high and had a total of three floors. The water-wheel that is no longer attached to the building was also rushed and crude in the making for the time. The mill is currently still standing and the equipment still intact; and so though crude in manufacturing, it seemed to have served its purpose. (Purdy,1972)
+ The mill was created in a rush to meet high-demand and to replace mills that were lost in Taos. The overall main goal was to fireproof the mill, which was accomplished by crudely making the mill out of stone blocks and different adhesives such as what was around: dirt, rocks, etc. combined with water. Each of the stone blocks used was of varying size, which was not standard to do in this time.  The mill from the ground to top of the roof is 43 feet high and had a total of three floors. The water-wheel which is no longer attached to the building was also rushed and crude in the making for the time. The mill is currently still standing and the equipment still mostly intact; and so deemed crude in manufacturing, it seemed to have served its purpose. (Purdy,1972)
 
 ## *Closing of the Mill*
  Ceran St. Vrain held on to the mill until his death in 1870. It was then owned by his son, Vincente, until his death 1877. It then
  was held by Vicente's wife, Amelia. Amelia, traded her newly acquired mill to her brother William Rohman, who then sold it Franky Gambly until his death in 1922. St. Vrain's Mill has remained closed eversince. (Purdy,1972)
 
 ## *Current State of the Mill*
-Currently, this mill is being worked on, slowly. Due to the lack of upkeep in the past, the mill was in a state of decay until the local Mill Preservation and Historical. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows currently are boarded shut and graffitti is removed. The wod frame structure is in relatively good condition. The east-wall is in need of stabilization due to rotation, which has led to stone and wood damage. (McKeen,2003) 
+Currently, this mill is being worked on, slowly. Due to the lack of upkeep in the past, the mill was in a state of decay until the local Mill Preservation and Historical. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows currently are boarded shut and graffitti is removed. The wood frame, structuraly, is in relatively good condition. The east-wall is in need of stabilization due to rotation, which has led to stone and wood damage. (McKeen,2003) 
 
 
 {% include figure.html
