@@ -71,28 +71,23 @@ One-half mile to the northwest of Palmyra Well is the Santa Fe Trail Park. It co
  163 E 2000th Rd
 Wellsville, Kansas
 
-
-
-Black Jack Park Ruts 
+[Black Jack Park Ruts](http://www.santafetrailresearch.com/mileagecharts/sft-kansas.html)
 
    A dramatic set of parallel ruts are located in Douglas County Prairie Park, adjacent to Black Jack State Park east of Baldwin City. These are among the finest along the entire length of the trail.
    
-<http://www.santafetrailresearch.com/mileagecharts/sft-kansas.html>
-   
-Santa Fe Depot/Midland Historic Railway
+
+[Santa Fe Depot/Midland Historic Railway](http://www.kansastravel.org/midlandrailway.htm)
    
 The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
   
-<http://www.kansastravel.org/midlandrailway.htm>
-   
    
 ##### Bibliography 
 
-Historic Campus Architecture Project (HCAP)
-<http://hcap.artstor.org/cgi-bin/library?a=d&d=p153>
+[Historic Campus Architecture Project(HCAP)](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
-Kansaspedia: Baker University
-<https://www.kshs.org/kansapedia/baker-university/17829>
+
+[Kansaspedia: Baker University](https://www.kshs.org/kansapedia/baker-university/17829)
+
 
 National Register Of Historic Places Inventory - Nomination Form (NRHP)
 <https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text>
