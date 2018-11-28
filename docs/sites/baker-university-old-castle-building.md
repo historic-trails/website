@@ -56,7 +56,7 @@ date: 2018-11-24
  
 ### Location
 The Old Castle Complex is just east of the main campus at 511 Fifth Street, Baldwin City, KS 66006.  
-[View directions.](https://www.google.com/maps/place/511+5th+St,+Baldwin+City,+KS+66006/@38.781069,-95.183852,16z/data=!4m5!3m4!1s0x87bf5b9d6032bb7d:0x9888c110bea551ad!8m2!3d38.7775023!4d-95.1848781?hl=en)
+[View directions on Google Maps](https://www.google.com/maps/place/511+5th+St,+Baldwin+City,+KS+66006/@38.781069,-95.183852,16z/data=!4m5!3m4!1s0x87bf5b9d6032bb7d:0x9888c110bea551ad!8m2!3d38.7775023!4d-95.1848781?hl=en)
 
 ##### Nearby Historic Sites
 
