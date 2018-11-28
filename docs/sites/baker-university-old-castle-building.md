@@ -12,7 +12,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Old Castle Building (present day)"
+  caption="Old Castle Building (present day used a museum)"
   src="images/old-castle-museum.jpg"
 %}
 
@@ -25,7 +25,7 @@ Baker University first opened its doors to students in November 1858, in East Ce
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Baldwin City, 1911"
+  caption="Main Street of Baldwin City, KS 1911"
   src="images/Baldwin-City-1911.jpg"
 %}
  
