@@ -11,7 +11,7 @@ date: 2018-11-19
   class="img-right"
   width="33%"
   caption="Post cards sent from early travelers of Raton Pass"
-  src="images/raton-post-cards.jpg"
+  src="images/raton_post_cards.jpg"
 %}
 
 
@@ -30,7 +30,7 @@ His description scared people away. Instead, most traders hauling heavily laden 
   class="img-right"
   width="33%"
   caption="The famous Wootton house, pictured with “Uncle Dick” and his family."
-  src="images/wootton-house.jpg"
+  src="images/wootton_house.jpg"
 %}
 
 [Richard Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton), a trapper akin to Becknell, saw the pass as an economic opportunity and decided to build and operate a toll gate restricting access to the trail. Wootton then claimed to have made improvements on the trail in an attempt to make it more accessible to wagon travel.  The bridges turned out to be narrow, the road laced with culverts with and many curves so sharp the wagons could not pass without damage. Many hills were so steep, the wagons had to use double teams for the assent. The truth was, the 27-mile journey required five days to traverse, and the route and improvements were so poor that many wagons were wrecked in their journey. With few alternatives, the public almost had to use the Wooten Road. that he then made nominal improvements over. On August 1, 1865, before either Colorado or New Mexico, became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by two oxen, horses or mules cost $1. Wagons pulled by four cost $1.50. Wagons pulled by more than this cost $2. One man on horseback or on foot cost 25 cents. Loose cattle, horses or mules, pigs or sheep cost 5 cents each.
@@ -52,7 +52,7 @@ Raton Pass played an important military role again during the Civil War, as the 
   class="img-right"
   width="33%"
   caption="Early vehicle safety along the pass was nominal"
-  src="images/raton-chain-guards.jpg"
+  src="images/raton_pass_chain_guards.jpg"
 %}
 
 
