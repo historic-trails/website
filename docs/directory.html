@@ -1,0 +1,62 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+
+{% include header-default.html %}
+
+<body>
+
+{% include nav.html %}
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+<script src="{{site.baseurl}}/js/sheetrock.min.js"></script>
+<script src="{{site.baseurl}}/js/directory.js"></script>
+
+
+<div class="main">
+
+<!--Sheetrock expects to be outputting HTML for each row, so here's a place to put it.-->
+<div id="sheetrock"></div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="cards"></div>
+    </div>
+  </div>
+</div>
+
+</div> <!-- /main -->
+
+
+<script>
+
+$( function() {
+  getPages(function(pages) {
+      $.each(pages, createCard);
+      console.log("done looping through pages.");
+      //map.addLayer(featureGroup);
+    }
+
+  );
+
+});
+</script>
+
+<!-- Menu Toggle Script -->
+<script>
+$("#menu-toggle").click(function(e) {
+    e.preventDefault();
+    $("#wrapper").toggleClass("toggled");
+});
+</script>
+
+</body>
+</html>
