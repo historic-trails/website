@@ -73,7 +73,7 @@ In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Wa
   class="img-right"
   width="33%"
   caption="Pony Express, advertisement for its fast delivery and Job opening poster"
-  src="images/pony-express-job-posting-pamphlet.jpg"
+  src="images/alexander-majors-pony-express-poster.jpg"
 %}
 
 Pony Express first ride began on April 3rd, 1860, run from St. Joseph centers which reached 2 hours late, contained 49 letters, 5 private telegrams and few papers for San Francisco. Before it was delivered to the first rider whose identity was unknown, Majors addressed the crowd how the Pony express is a ancestor/father of transcontinental railroad _(Godfrey, 1994)_.
