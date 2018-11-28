@@ -18,7 +18,7 @@ date: 2017-12-19
 - Las Vegas Plaza Historic District: Jacob
 - [Lewis Jones House](sites/lewis-jones-house): Jesse
 - [Neff Tavern Smokehouse](sites/neff-tavern-smokehouse): Julia
-- Raton Pass: Jason
+- [Raton Pass](sites/raton-pass): Jason
 - [San Miguel Del Vado Historic District](sites/san-miguel-del-vado): Zoe
 - [Seth Ward House](sites/seth-ward-house): Clare
 - [Alexander Majors House](sites/alexander-majors-house): Satya Rakurty
