@@ -12,7 +12,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Old Castle Building (present day used a museum)"
+  caption="Old Castle Building (present day Castle Museum )photo by Diana Staresinic-Deane"
   src="images/old-castle-museum.jpg"
 %}
 
@@ -25,7 +25,7 @@ Baker University first opened its doors to students in November 1858, in East Ce
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Main Street of Baldwin City, KS 1911"
+  caption="Main Street of Baldwin City, KS 1911 photo by Kathy Weiser/ Legends of Kansas"
   src="images/Baldwin-City-1911.jpg"
 %}
  
@@ -104,5 +104,7 @@ Kansaspedia: Grasshopper Plague of 1874
 Santa Fe Trail Association Douglas County Chapter
 <https://www.santafetrail.org/chapters/douglasco/index.html>
 
+Legends of Kansas- Baldwin City
+http://www.legendsofkansas.com/baldwincity.html
    
    
