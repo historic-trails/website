@@ -6,7 +6,12 @@ date: 2018-11-28
 ---
 
 # Introduction: 
-The Lewis Jones House was home to one of the most significant traders and business men of Independence, Missouri in the 1840s. Lewis Jones was a key member in the trade community in Independence and along the Santa Fe Trail. In 19th century Missouri, it was very difficult to make a living. It was very rare and very lucky if you were able to make a steady living during this time period and those who did were able to capitalize on the benfits. One of the obvious benefits that Lewis Jones was able to take part in was his house. This large and comfortable house symbolizes Jones' wealth and status in Independence, Missouri and gives us a picture to how lucrative trade on the trail actually was. 
+The Lewis Jones House was home to one of the most significant traders and business men of Independence, Missouri in the 1840s. Lewis Jones was a key member in the trade community in Independence and along the Santa Fe Trail.{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Routes of Migration in the 1800s"
+  src="images/santa-fe-trail-picture.jpg"
+%} In 19th century Missouri, it was very difficult to make a living. It was very rare and very lucky if you were able to make a steady living during this time period and those who did were able to capitalize on the benfits. One of the obvious benefits that Lewis Jones was able to take part in was his house. This large and comfortable house symbolizes Jones' wealth and status in Independence, Missouri and gives us a picture to how lucrative trade on the trail actually was. 
 # Who Was Lewis Jones?
 Lewis Jones was a successful businessman in Independence, Missouri. He was a wagonmaker, trader, merchant, financial backer of traders on the Santa Fe trail, and the owner of the 1849 Nebraska House hotel in Independence, Missouri (Santa Fe Nation Historic Trail Comprehensive managment and use plan, 92). Because of his diverse and successful background in business, Jones' was well known in Independence. Lewis Jones was also appointed as Justice of the County Court in 1831 and he was a founder of the West Fork Baptist Church in December of 1842 (NPS, 6). Lewis Jones married Elizabeth Jones on January 6, 1820 (NPS, 6). The couple had six children: Mary Jane Todd, Greenup C. Jones, Nancy C. Moore and Sally McClanahan, Melinda Caroline Spratt, and Clorissa Jones (NPS, 6). They lived in Independence until 1857 when they moved to Fremont, Colorado where Lewis was a rancher (NPS, 6). 
 # Independence, Missouri and it's Significance
