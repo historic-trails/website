@@ -12,7 +12,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="[Old Castle Building (present day Castle Museum) photo by Diana Staresinic-Deane](https://dianastaresinicdeane.wordpress.com/2013/09/29/sunday-snapshot-old-castle-museum-at-baker-university/)"
+  caption="Old Castle Building (present day Castle Museum) [photo by Diana Staresinic-Deane](https://dianastaresinicdeane.wordpress.com/2013/09/29/sunday-snapshot-old-castle-museum-at-baker-university/)"
   src="images/old-castle-museum.jpg"
 %}
 
