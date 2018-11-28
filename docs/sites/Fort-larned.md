@@ -6,6 +6,13 @@ date: 2018-11/26/2018
 ---
 
 # Fort Larned
+
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="This image depict a train traveling the recencently compleate santa fe railroad"
+  src="images/Fort-lennard-md.jpg.jpg"
+%}{%endraw%}
  The fort is a military institution constructed of stone that was
 built in Pawnee, Texas in 1854. It was created for the purpose of patrolling the Santa Fe trail.
 
