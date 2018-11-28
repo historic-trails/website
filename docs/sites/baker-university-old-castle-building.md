@@ -56,7 +56,7 @@ date: 2018-11-24
  
 ### Location
 
-Location of Campus: 511 5th St, Baldwin City, KS 66006
+[Location of Campus: 511 5th St, Baldwin City, KS 66006](https://www.bakeru.edu/old-castle-museum/)
 
 ##### Nearby Historic Sites
 
