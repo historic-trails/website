@@ -85,7 +85,7 @@ The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
 <http://www.kansastravel.org/midlandrailway.htm>
    
    
-##### Sources 
+##### Bibliography 
 
 Historic Campus Architecture Project 
 <http://hcap.artstor.org/cgi-bin/library?a=d&d=p153>
