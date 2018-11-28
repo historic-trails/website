@@ -193,7 +193,9 @@ To achieve the above full width pull quote, just start your quote with a greater
 > Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
 ```
 
-If you need to do a footnote at the end, you can add it as you normally do.
+
+### Footnotes on captions
+A good place for image credits is in our "footnotes". To put your image credit in the citation popup, just use the footnote code at the end of your blockquote.
 
 > Here is my quote from a historical source that people would find interesting.[^mysource]
 
@@ -210,3 +212,4 @@ Add the code, for that is:
 ---
 
 ### References
+Your bibliography from your Zotero collection goes here.
