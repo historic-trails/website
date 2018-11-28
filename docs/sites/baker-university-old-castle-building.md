@@ -61,20 +61,28 @@ Santa Fe Trail Park, Baldwin City
 
 One-half mile to the northwest of Palmyra Well is the Santa Fe Trail Park. It contains a large granite Daughters of the American Revolution (DAR) marker. The diagonal county road adjacent to the park follows the exact route of the trail to the northwest. The property was donated to Baker University in 1907 and was recently placed on the National Registry of Historic Sites. Beyond here, the route traveled through a place called “The Narrows,” a ridge that separated Wakarusa Creek on the north and the Marais des Cygnes River to the south.
 
+https://www.visitbaldwincity.com/aboard-santa-fe-trail/
+
 Blackjack Battle Field 
 
   The Battle of Black Jack took place on June 2, 1856, when anti-slavery forces, led by the noted abolitionist John Brown, attacked the encampment of Henry C. Pate near Baldwin City, Kansas. The battle is cited as one incident of "Bleeding Kansas" and a contributing factor leading up to the American Civil War of 1861 to 1865.
  163 E 2000th Rd
 Wellsville, Kansas
+
 http://www.blackjackbattlefield.org
 
 Black Jack Park Ruts 
-     A dramatic set of parallel ruts are located in Douglas County Prairie Park, adjacent to Black Jack State Park east of Baldwin City. These are among the finest along the entire length of the trail.
+
+   A dramatic set of parallel ruts are located in Douglas County Prairie Park, adjacent to Black Jack State Park east of Baldwin City. These are among the finest along the entire length of the trail.
+   
    http://www.santafetrailresearch.com/mileagecharts/sft-kansas.html
    
    Santa Fe Depot/Midland Historic Railway
+   
    The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansa
-   http://www.kansastravel.org/midlandrailway.htm
+  
+  http://www.kansastravel.org/midlandrailway.htm
+   
    
 ##### Sources 
 
