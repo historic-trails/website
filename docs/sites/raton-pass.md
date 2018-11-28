@@ -11,7 +11,7 @@ date: 2018-11-19
   class="img-right"
   width="33%"
   caption="The famous Wootton house, pictured with “Uncle Dick” and his family."
-  src="wootton-house.jpg"
+  src="images/raton-post-cards.jpg"
 %}
 
 
