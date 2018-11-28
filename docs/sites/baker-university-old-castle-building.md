@@ -66,11 +66,16 @@ Blackjack Battle Field
   The Battle of Black Jack took place on June 2, 1856, when anti-slavery forces, led by the noted abolitionist John Brown, attacked the encampment of Henry C. Pate near Baldwin City, Kansas. The battle is cited as one incident of "Bleeding Kansas" and a contributing factor leading up to the American Civil War of 1861 to 1865.
  163 E 2000th Rd
 Wellsville, Kansas
+http://www.blackjackbattlefield.org
 
-Chicken Creek Arch Park
-
-  The historic Chicken Creek Arch is located ½ mile east and 1 1/4 miles south of the town of Lone Star at 780 E. 850 Road. The arch was built in 1913 by B.F. Metsker and I. Babb at a cost of $170.25. 
-
+Black Jack Park Ruts 
+     A dramatic set of parallel ruts are located in Douglas County Prairie Park, adjacent to Black Jack State Park east of Baldwin City. These are among the finest along the entire length of the trail.
+   http://www.santafetrailresearch.com/mileagecharts/sft-kansas.html
+   
+   Santa Fe Depot/Midland Historic Railway
+   The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansa
+   http://www.kansastravel.org/midlandrailway.htm
+   
 ##### Sources 
 
 Historic Campus Architecture Project 
