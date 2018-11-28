@@ -7,6 +7,8 @@ date: 2018-11-19
 
 # **Wars and Wagons**
 
+Raton Pass and the mountains surrounding it stand as a towering border between two worlds, and the control over this route has quite an interesting history. A crooked toll road for miners and tradesman during the infancy of America, a narrow mountain passageway for rail, and a modern convenience, this route was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the Santa Fe Trail.
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -14,15 +16,10 @@ date: 2018-11-19
   src="images/raton_post_cards.jpg"
 %}
 
-
-Raton Pass and the mountains surrounding it stand as a towering border between two worlds, and the control over this route has quite an interesting history. A crooked toll road for miners and tradesman during the infancy of America, a narrow mountain passageway for rail, and a modern convenience, this route was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the Santa Fe Trail
-
-
 # **William Becknell**
 One of the first recorded journeys through the pass is that of [William Becknell](https://en.wikipedia.org/wiki/William_Becknell), a businessman fleeing his failed ventures and political aspirations in Missouri, with hopes of gaining wealth trading beaver pelts from Northern New Mexico. He left Franklin, Missouri with four companions in September, 1821 on his first trip to the western US with a load of freight to deliver to Santa Fe. By 1821, conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the pass. However, that portion of the journey has been called into question after the discovery of the diary of Pedro Ignacio Gallego in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings, along with Becknell’s own journal describing the landscape, show evidence that he and his men probably mis-identified the Canadian River and instead crossed another river, south of present day Las Vegas, New Mexico. After a month of trading, Becknell left Santa Fe on December 13th, and the men returned to Missouri safely in January, 1822. His investment of $300 in trading goods had returned approximately $6000 in coin. 
 The profits made by William Becknell’s first trading trip brought much needed money and valuable goods into central Missouri where the Panic of 1819 had a devastating effect on the economy. The influx of Mexican coins significantly helped Missouri’s economy as farmers and local merchants found a new market for their goods. 
 His description scared people away. Instead, most traders hauling heavily laden wagons along the Santa Fé Trail took what was known as the Cimarron Cutoff, which cut diagonally across southwest Kansas and northeast New Mexico to avoid the mountains. Raton Pass, on the other hand, was on the Mountain Branch of the trail, which was longer and more difficult but did have the advantages of more water and less exposure to Indian attacks. It received far less traffic than the Cimarron Cutoff but was used by traders who went up the Arkansas River to Bent’s Fort and then turned south toward Santa Fé, especially those traveling with only a few pack animals or light wagons.
-
 
 # **Wootton**
 
