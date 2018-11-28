@@ -40,7 +40,7 @@ Majors was particular in hiring trustworthy people and made them to pledge that 
   class="img-right"
   width="33%"
   caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72)"
-  src="images/alexander-majors-russell-waddell-images"
+  src="images/alexander-majors-russell-waddell-images.jpg"
 %}
 
 In 1855 he joined partnership with William H. Russell and William B. Waddell and contracted with US Government to freight supplies to army posts along Oregan and Santa Fe Trails (2) _(Wood, Mincer, 2000)_ _(WPA Guide, 1998)_. They employed more than four thousand men and owned 3,500 wagons and nearly forty thousand oxen and 1000 mules _(LaDene, 2012)_. Usually shipments were sent in a set of 25 wagons, 12 oxen, a teamster and each of that set had additional oxen, mules and men in case of emergency and soon the firm made about $300,000 profits in 1855-56 _(WPA Guide, 1998)_.
