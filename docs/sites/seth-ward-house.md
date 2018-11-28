@@ -30,7 +30,7 @@ Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward Hou
   src="images/william-bent.jpg"
 %}
 
-In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the "Mormon Wars" had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead.[^Shaw]  In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property. Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman, Seth Ward.  William Bent was the founder of Fort Bent, located in present-day La Junta, Colorado. Fort Bent was created to trade with the Plains Indians and other trappers traders in a peaceful and economical manner. The fort was the only major white American settlement along the Santa Fe Trail between Mexico and Missouri. (Weiser-Alexander) William Bent was a negotiator between Native American Tribes, which helped fuel the massive success of the trading empire he had created. Bent married three Cheyenne women who bore him five children, making him a Cheyenne sub-chief. Bent is considered to be the first permanent white settler in the area.[^Shaw]
+In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the "Mormon Wars" had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead. [^Shaw]  In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property. Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman, Seth Ward.  William Bent was the founder of Fort Bent, located in present-day La Junta, Colorado. Fort Bent was created to trade with the Plains Indians and other trappers traders in a peaceful and economical manner. The fort was the only major white American settlement along the Santa Fe Trail between Mexico and Missouri. (Weiser-Alexander) William Bent was a negotiator between Native American Tribes, which helped fuel the massive success of the trading empire he had created. Bent married three Cheyenne women who bore him five children, making him a Cheyenne sub-chief. Bent is considered to be the first permanent white settler in the area. [^Shaw]
 
 
 
@@ -105,7 +105,7 @@ Denver Public Library, "Seth Edmund Ward Papers", WH1067, Western History Collec
 
 National Register of Historic Places "Seth Ward House" accessed November 15, 2018.
 
-[^Shaw] Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
+[^Shaw]: Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
 
 Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America
 
