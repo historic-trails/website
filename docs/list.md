@@ -16,7 +16,7 @@ date: 2017-12-19
 - Fort Union: Andres
 - [La Cueva Historic District](sites/la-cueva-historic-district): Sean O'Neill
 - Las Vegas Plaza Historic District: Jacob
-- Lewis Jones House: Jesse
+- [Lewis Jones House](sites/lewis-jones-house): Jesse
 - [Neff Tavern Smokehouse](sites/neff-tavern-smokehouse): Julia
 - Raton Pass: Jason
 - [San Miguel Del Vado Historic District](sites/san-miguel-del-vado): Zoe
