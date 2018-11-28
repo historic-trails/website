@@ -117,7 +117,7 @@ The house was sold to Mr. and Mrs. A. Louis Rhul in 1904 who later built additio
 
 The house was turned into school and community meeting space for residential needs, partition walls between 3 chambers of the first floor were formed to make a single large space _(NHRF-1969, MAJORS)_. Later the house was set to demolition to built a new school but due to its timber framing and iron nails the cost of demolition estimated more that they ended up abandoning the house and building the school elsewhere _(LaDene, 2012)_.
 
-### Majors house brought back by his descendant
+### Majors house bought back by his descendant
 
 In 1930, Louisa P. Johnston, Majors's great grand-daughter travelled to visit her ancestral home and found the abandoned state of the house. She brought the house and started working on it in 1932 and for forty years she put effort in turning the property into a memorial for her ancestor and for its history _(LaDene, 2012)_.
 
