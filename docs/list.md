@@ -21,7 +21,7 @@ date: 2017-12-19
 - Raton Pass: Jason
 - [San Miguel Del Vado Historic District](sites/san-miguel-del-vado): Zoe
 - [Seth Ward House](sites/seth-ward-house): Clare
-- [Alexander Majors House](sites/alexander-majors-house): Satya
+- [Alexander Majors House](sites/alexander-majors-house): Satya Rakurty
 - [Council Grove Historic District](sites/council-grove-downtown-historic-district): Lane
 - [St. Vrain's Mill](sites/stvrain-mill): Evan
 - Rayado Ranch: Amiel
