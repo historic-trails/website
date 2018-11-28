@@ -4,29 +4,29 @@
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors house, Kansas City, 1856 (_credited Earl C. Leatherberry_)"
-  src="images/alexander-majors-house.jpg"
+  caption="**Alexander Majors Barn,
+  8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114** _(NHRF-1969, MAJORS)_"
+  src="images/alexander-majors-house-location.jpg"
 %}
 
 Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas city and is on National register of historic buildings _(WPA Guide 1998)_. The house and the grounds were trading centers for 'Russell and Majors and Waddell' freighting firm and its also the house of Alexander majors house. Alexander Majors house ran alongside a dirt path, which is a state line road - a boundary between Kansas and Missouri, from West Port landing to the original Santa Fe trail _(Wornall Majors House Museums, 2018.11.12)_.
 
 ### Location
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
-  caption="**Alexander Majors Barn,
-  8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114** _(NHRF-1969, MAJORS)_"
-  src="images/alexander-majors-house-location.jpg"
+  caption="Alexander Majors house, Kansas City, 1856 (_credited Earl C. Leatherberry_)"
+  src="images/alexander-majors-house.jpg"
 %}
 
 The house is situated approximately 16 feet in front of the house which is Missouri and Kansas border , the then  US border _(NHRF-1969, MAJORS)_.  The house sits looking westward which was strategically chosen from the businessman's perspective as Kansas Territory were untaxed and he had huge corrals, grazing lands, oxen pens, barns, wagons and blacksmith shops in the property _(Wornall Majors House Museums, 2018.11.12)_.
 
 ### Who is Alexander Majors?
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="Alexander Majors record breaking freight-hauler, creator of Pony Express (_wornallmajors.org_)"
-  src="images/alexander-majors-portrait"
+  src="images/alexander-majors-portrait.jpg"
 %}
 
 Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Laurania and Benjamin Majors in 1819 to Lafayette County, Missouri and later moved to Jackson county _(WPA Guide 1998)_. In 1827, Majors father explored silver ore mine with no prominent value he returned to farming, his tales put great impression on Majors towards possibilities in Western Frontier and to travel on the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and  together they joined his fathers footstep into farming _(LaDene, 2012)_. His large family had mostly daughters and no son to help him in farming made him to look for other options _(Godfrey, 1994)_.
@@ -57,7 +57,7 @@ The house is built in 1856 on 300 acre farmstead property on the state line purc
 
 ### Pony Express
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="33%"
   caption="Map of Pony Express 1860, created by William Henry Jackson an American artist in c. 1935, obtained & rendered by Gwillhickers and restored by Crisco 1492 (_Courtesy US Library of Congress_)"
   src="images/alexander-majors-pony-express-route-map.PNG"
@@ -70,7 +70,7 @@ In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Wa
 > **Pony express** is not the first mail service, in 13th century China had post stations 25 miles apart and stations for foot carriers 3 miles apart, but **a first time mail service attempted in America in large scale** _(Godfrey, 1994)_.
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="Pony Express, advertisement for its fast delivery and Job opening poster"
   src="images/alexander-majors-pony-express-poster.jpg"
@@ -86,9 +86,9 @@ His old friend Buffalo Bill Cody arranged in publishing a book "Majors ś sevent
 
 ### Architectural style of the house
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
-  caption="Alexander Majors House side view, additions to 'T' floor plan are visible _(NHRF-1969, MAJORS)_"
+  caption="Alexander Majors House side view, additions to 'T' floor plan _(NHRF-1969, MAJORS)_"
   src="images/alexander-majors-house-side-view-image.PNG"
 %}
 
@@ -99,6 +99,12 @@ Architectural style of the building is [Classical revival style](http://www.phmc
 The outbuildings next to the house no longer survive. There is a barn is approximately 100' to the southeast and smoke house around 40' to the north to the house. Present day we can see a well, cistern to the south of the house, a shed 20' north to the house and a cottage 60' north of the house _(NHRF-1969, MAJORS)_.
 
 ### Alteration to the house
+
+
+The house was sold to Mr. and Mrs. A. Louis Rhul in 1904 who later built additions to the house and owned it till 1924. The increase in residential growth, property was subdivided to development called Cresthills Acres _(LaDene, 2012)_. The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) and few of them are enlarging dining room and master bedroom on second floor by the addition on southern extension of 'T' and terminates in a bay. The rooms sizes increased from 15 x 17 feet to 15 x 27 feet _(NHRF-1969, MAJORS)_.
+
+The house was turned into school and community meeting space for residential needs, partition walls between 3 chambers of the first floor were formed to make a single large space _(NHRF-1969, MAJORS)_. Later the house was set to demolition to built a new school but due to its timber framing and iron nails the cost of demolition estimated more that they ended up abandoning the house and building the school elsewhere _(LaDene, 2012)_.
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -106,7 +112,11 @@ The outbuildings next to the house no longer survive. There is a barn is approxi
   src="images/alexander-majors-house-first-floor-plan.PNG"
 %}
 
-The house was sold to Mr. and Mrs. A. Louis Rhul in 1904 who later built additions to the house and owned it till 1924. The increase in residential growth, property was subdivided to development called Cresthills Acres _(LaDene, 2012)_. The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) and few of them are enlarging dining room and master bedroom on second floor by the addition on southern extension of 'T' and terminates in a bay. The rooms sizes increased from 15 x 17 feet to 15 x 27 feet _(NHRF-1969, MAJORS)_.
+### Majors house bought by his descendant
+
+In 1930, Louisa P. Johnston, Majors's great grand-daughter travelled to visit her ancestral home and found the abandoned state of the house. She brought the house and started working on it in 1932 and for forty years she put effort in turning the property into a memorial for her ancestor and for its history _(LaDene, 2012)_. In 1945, the then Senator Harry Truman initiated a bill that the house will be purchased and maintained but the bill never passed. After many efforts of Louisa to get that funded money but couldn't succeed. Finally in 1970, National Historic Association aided by Rusell-Majors-Waddell the house got listed in register of National Historic sites _(LaDene, 2012)_.
+
+In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and State Line Road which gave 6 acre park surrounding the house but despite the plan it couldn't proceed for nearly 10 years _(LaDene, 2012)_. In 1979, Louisa Johnston died leaving the house to Terry W. Chapman who worked as the restoration architect for the house. The structural work was finished in 1983 and was a show case project in Kansas city Symphony, which provided interior finishes _(LaDene, 2012)_.
 
 {% include figure.html
   class="img-right"
@@ -114,16 +124,6 @@ The house was sold to Mr. and Mrs. A. Louis Rhul in 1904 who later built additio
   caption="Alexander Majors House second floor plan, several modifications are made to bathroom at the northend, adding closets to western wall of master bedroom, moving the entrance of the door from north side to south _(NHRF-1969, MAJORS)_"
   src="images/alexander-majors-house-second-floor-plan.PNG"
 %}
-
-The house was turned into school and community meeting space for residential needs, partition walls between 3 chambers of the first floor were formed to make a single large space _(NHRF-1969, MAJORS)_. Later the house was set to demolition to built a new school but due to its timber framing and iron nails the cost of demolition estimated more that they ended up abandoning the house and building the school elsewhere _(LaDene, 2012)_.
-
-### Majors house bought by his descendant
-
-In 1930, Louisa P. Johnston, Majors's great grand-daughter travelled to visit her ancestral home and found the abandoned state of the house. She brought the house and started working on it in 1932 and for forty years she put effort in turning the property into a memorial for her ancestor and for its history _(LaDene, 2012)_.
-
-In 1945, the then Senator Harry Truman initiated a bill that the house will be purchased and maintained but the bill never passed. After many efforts of Louisa to get that funded money but couldn't succeed. Finally in 1970, National Historic Association aided by Rusell-Majors-Waddell the house got listed in register of National Historic sites _(LaDene, 2012)_.
-
-In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and State Line Road which gave 6 acre park surrounding the house but despite the plan it couldn't proceed for nearly 10 years _(LaDene, 2012)_. In 1979, Louisa Johnston died leaving the house to Terry W. Chapman who worked as the restoration architect for the house. The structural work was finished in 1983 and was a show case project in Kansas city Symphony, which provided interior finishes _(LaDene, 2012)_.
 
 ### Alexander Majors House - Todays' Museum
 
