@@ -48,7 +48,7 @@ date: 2018-11-24
  {% include figure.html
   class="img-right"
   width="50%"
-  caption="Santa Fe Trail passing near Baldwin, KS.(Photo acquired from Santa Fe Trail Association, Douglas County Chapter"
+  caption="Santa Fe Trail passing near Baldwin, KS.[(Photo acquired from Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)"
   src="images/old-castle-hall-map.jpg"
 %}
 
