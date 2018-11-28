@@ -48,7 +48,12 @@ Two nineteenth-century military crossings are especially notable in the history 
 Raton Pass played an important military role again during the Civil War, as the Union used Raton Pass to supply troops stationed in New Mexico. In 1862, when Confederate troops were advancing north through New Mexico, a regiment of Colorado Volunteers marched over Raton Pass to reinforce Union troops and win a major victory at the Battle of Glorieta Pass.
 
 # **Modernity**
-
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Early vehicle safety along the pass was nominal"
+  src="images/raton-chain-guards.jpg"
+%}
 In 1908 ATSF completed a second tunnel under Raton Pass to handle increased traffic, but two other developments the same year signaled the decline of Raton Pass as a major rail corridor. First, ATSF finished the Belen Cutoff in central New Mexico, giving the railroad a southern transcontinental route that avoided the steep grades of Raton Pass. Raton Pass continued to be used for passengers and local freight, but all long-haul freight now took the Belen Cutoff route. The original 1879 tunnel under Raton Pass was closed in 1953, but the 1908 tunnel is still in service for the single Amtrak passenger train that uses Raton Pass on its route between Chicago and Los Angeles.
 
 In 1908–9 New Mexico used convict labor to build a new highway that crossed the Colorado border near Raton Pass. 
