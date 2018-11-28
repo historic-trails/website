@@ -63,7 +63,7 @@ The Romero's also called the property home. Dubbed "The Romero Hacienda", the ho
 %}
 
 
-Vicente also commissioned a church to be built on the property that would become known as the [San Rafael Mission Church](https://www.cstones.org/current-projects/2018/3/8/san-rafael-church-la-cueva-new-mexico) (NPS form p.4).  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romero's, and subsequent families that would own the property would use this as a family chapel as well. Priests from the Lamy, NM area came to help build the mission.  Missionaries were an addition to the travelers seen along the Santa Fe Trail by the late 1840's (NPS History of the Sant Fe Trail Sec E. p. 45).  
+Vicente also commissioned a church to be built on the property that would become known as the [San Rafael Mission Church](https://www.cstones.org/current-projects/2018/3/8/san-rafael-church-la-cueva-new-mexico) (NPS form p.4).  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romero's, and subsequent families that would own the property would use this as a family chapel as well. Priests from the Lamy, NM area came to help build the mission.  Missionaries were an addition to the travelers seen along the Santa Fe Trail by the late 1840's.  This was a departure from the merchants, wagon masters, muleteers and ox drovers that preceded them(NPS History of the Sant Fe Trail Sec E. p. 45).  
 
 ## La Cueva Today
 Today La Cueva is a private residence as well as a [farm](https://www.lacuevafarm.com/).  In the summer months travelers seeking fun can pick raspberries and bring them home.  But the current day use still has nods to the history of La Cueva.  Mora County is home to many historic landmarks on the historic register, this could be a way for the economically depressed area to benefit from it's rich past.   
@@ -108,6 +108,8 @@ Freitag, A. L. (1994). Cultural landscape study of Fort Union National Monument.
 Koman, R. G., & National Park Service (Dept. of Interior), W., DC. National Register of Historic Places. (2002). The Hispano Ranchos of Northern New Mexico: Continuity and Change. Teaching with Historic Places.
 
 Mays, L. (2010). Ancient Water Technologies. Springer Science & Business Media.
+
+National Register of Historic Places Multiple Property Documentation Form; Santa Fe Trail, https://dnr.mo.gov/shpo/nps-nr
 
 National Register of Historical Places - NEW MEXICO (NM), Mora County. (n.d.). Retrieved November 9, 2018, from https://nationalregisterofhistoricplaces.com/NM/Mora/districts.html
 
