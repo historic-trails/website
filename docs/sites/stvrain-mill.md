@@ -66,5 +66,5 @@ Dunham, Harold H. "Ceran St. Vrain" Th Mountain Men andthe Fur Trade of the Far 
  Lecompte, Janet "Ceran St. Vrain's Stone Mill at Mora"  Ms., Cultural Properties Review Committee, 
   State Planning Office
        
- 
+ Chicago full Note
 
