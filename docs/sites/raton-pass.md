@@ -60,6 +60,7 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 
 # **Related Articles**
  Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
+ More history of [the pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
  
 # **Related People**
  Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
@@ -67,3 +68,4 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 # **Related Places**
 [Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
 [Raton, NM](http://visitraton.org)
+[Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
