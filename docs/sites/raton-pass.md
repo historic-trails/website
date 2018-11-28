@@ -12,7 +12,7 @@ Raton Pass and the mountains surrounding it stand as a towering border between t
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Post cards sent from early travelers of Raton Pass"
+  caption="Post cards sent from early travelers of Raton Pass. Note the automobile, for scale."
   src="images/raton_post_cards.jpg"
 %}
 
@@ -51,7 +51,7 @@ Raton Pass played an important military role again during the Civil War, as the 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Early vehicle safety along the pass was nominal"
+  caption="Early vehicle safety along the pass was nominal."
   src="images/raton_pass_chain_guards.jpg"
 %}
 
