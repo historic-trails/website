@@ -6,7 +6,7 @@ date: 2018-11-21
 ---
 
 # Seth Ward House
-1032 West 55th Street, Kansas City, Missouri 64112
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -14,7 +14,7 @@ date: 2018-11-21
   src="images/bent-ward-house.jpg"
 %}
 
-### Situated outside of the city limits of the town of Westport, Missouri, the site of the Ward Homestead has been associated with several prominent figures in the exploration, conquest, and settelement of the American West. Also, during the Civil War, major actions of the Battle of Westport occurred here. (NRHP)
+Situated outside of the city limits of the town of Westport, Missouri, the site of the Ward Homestead has been associated with several prominent figures in the exploration, conquest, and settelement of the American West. Also, during the Civil War, major actions of the Battle of Westport occurred here. (NRHP)
 
 
 
@@ -40,7 +40,7 @@ In the early 1800s, the land that would become the town of Westport, Missouri wa
 ## Battle of Westport, the "Gettysburg of the West"
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="50%"
   caption="The Gettysburg of the West claimed over 3,000 Union and Confederate lives and led to a decisive Union Vicotry in 1864"
   src="images/battle-of-westport.jpg"
 %}
@@ -63,7 +63,8 @@ On October 23, 1864 Confederate Major General Sterling Price led a legendary rai
 %}
 Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate aficionado who purchased the homestead of the recently deceased William Bent, Ward's personal trading friend and partner, in 1871. Ward manned a prosperous mercantile store outside of Fort Laramie, Wyoming catering to the needs of settlers traveling westward as well as traders along the Santa Fe and Oregon Trails. (Denver Public Library) Ward was a lucrative trader and trapper, learning these skills at a young age, which allowed him to understand the necesseties of the people he would encounter at a mercantile store. Ward tenured at Fort Laramie from 1848 to 1871, when he moved his wife and children to Westport, Missouri. Ward built another small brick home in addition to the massive home constructed by William Bent that was already on the property. Ward's considerable wealth and skills made him a prominent figure in Westport and helped bring commerce to the area. Ward died in 1903, but his legacy remained in Kansas City history, including Ward Parkway, a boulevard dedicated to the distinguished tradesman. The Seth Ward house was added to the National Register of Historic Places in 1979. (NRHP)
 
-
+## Location
+1032 West 55th Street, Kansas City, Missouri 64112
 
 ## Nearby Sites
 [Battle of Westport](https://www.hmdb.org/Marker.asp?Marker=28114) 
