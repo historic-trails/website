@@ -12,11 +12,11 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Old Castle Building (present day Castle Museum )photo by Diana Staresinic-Deane"
+  caption="[Old Castle Building (present day Castle Museum) photo by Diana Staresinic-Deane(https://dianastaresinicdeane.wordpress.com/2013/09/29/sunday-snapshot-old-castle-museum-at-baker-university/)"
   src="images/old-castle-museum.jpg"
 %}
 
-  Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. The school holds the honor of being the first university in Kansas, Old Castle Hall was the first building of Baker University, and classes were held there through 1871. Baldwin City is one of the oldest settlements in Kansas, located about 15 miles south of Lawrence, the city got its start during the opening days of Kansas Territory when it was little more than a trail stop on the Santa Fe Trail. [Santa Fe Trail Association](https://www.santafetrail.org/chapters/douglasco/index.html)
+  Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of Baldwin. The school holds the honor of being the first university in Kansas, Old Castle Hall was the first building of Baker University, and classes were held there through 1871. Baldwin City is one of the oldest settlements in Kansas, located about 15 miles south of Lawrence, the city got its start during the opening days of Kansas Territory when it was little more than a trail stop on the Santa Fe Trail [Santa Fe Trail Association](https://www.santafetrail.org/chapters/douglasco/index.html).
 
   
 ## History 
