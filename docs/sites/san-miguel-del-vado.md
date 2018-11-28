@@ -13,7 +13,7 @@ date: 2018-11-29
 San Miguel del Vado in San Miguel County, New Mexico was founded in 1794 (Jenks, 2010) and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail. Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe Trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860  when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, NM.
 
 ### Spanish Settlement
-San Miguel del Vado was established by Lorenzo Marquez of Santa Fe, and 51 other Spanish families (Legends of America), thanks to the land grant approved by the Spanish Governor of the territory in November of 1794. Building Spanish outposts in the area was promoted for the protection of settlers against Comanche raids. The residence of the village, or _Vecinos_ were Spanish, Pecos Indians, converted Comanche, and Native American slaves called _Genizaro_.
+San Miguel del Vado was established by [Lorenzo Marquez](http://dev.newmexicohistory.org/filedetails.php?fileID=9998) of Santa Fe, and 51 other Spanish families (Legends of America), thanks to the [land grant](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant) approved by the Spanish Governor of the territory in November of 1794. Building Spanish outposts in the area was promoted for the protection of settlers against Comanche raids. The residence of the village, or _Vecinos_ were Spanish, Pecos Indians, converted Comanche, and Native American slaves called _Genizaro_.
 
 
 ### Pecos River crossing for the Santa Fe Trail
@@ -51,6 +51,9 @@ As an agricultural and cattle dependent economy, the district was effected by in
 ### San Miguel del Vado today
 Today, NM State Route 3 follows the same route the Santa Fe Trail did during its heyday. The village was bypassed by construction of the national highways. Because San Miguel del Vado is off the beaten path, it was able to maintain its identity as a prime example of a Spanish colonial and early Mexican settlement. This historic district has been saved as gem of Santa Fe Trail history.
 
+### How to get there
+The San Miguel del Vado Historic District is 45.7 miles from Santa Fe. Take the I-25 North from Santa Fe for 39.2 miles, take exit 323 to NM-3 South. Drive 2.3 miles south. Find the historic church on google maps [here](https://goo.gl/maps/wLk59tChm3s).
+
 ### Related
 **People**
 * [William Becknell](https://www.okhistory.org/publications/enc/entry.php?entry=BE009)
@@ -66,3 +69,11 @@ Today, NM State Route 3 follows the same route the Santa Fe Trail did during its
 * [Texan-Santa Fe Expedition](http://newmexicohistory.org/events/1841-texan-santa-fe-expedition)
 * [Mexican American War](http://www.pbs.org/kera/usmexicanwar/index_noflash.html)
 * [Atchison Topeka & Santa Fe Railroad in NM](https://abqlibrary.org/railroads)
+
+### Bibliography
+* Hall, G. Emlen. _San Miguel del Bado and the Loss of the Common
+Lands of New Mexico Community Land Grants_ University of New Mexico Press. January 1, 1998. [Accessed](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) November 28, 2019.  
+* Jenks, Kelly. Archeology at San Miguel Del Vado, New Mexico State University Department of Archeology. [Accessed](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/) November 28, 2018.  
+* Jenks, Kelly. _Vecinos en la Frontera: Colonial History and Archaeology at San Miguel del Vado, New Mexico (2011)_. SMRC Revista [Accesses](https://www.academia.edu/837428/Vecinos_en_la_Frontera_Colonial_History_and_Archaeology_at_San_Miguel_del_Vado_New_Mexico_2011_) November 28, 2018.
+* Macgoffin, Susan Shelby. _Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847._
+* National Register of Historic Places Inventory- Nomination Form, July 20, 1972. [Accessed](https://github.com/historic-trails/santa-fe-itinerary/blob/master/historic-registration-forms/san_miguel_del_vado_historic_district.pdf) November 28, 2018.
