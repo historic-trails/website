@@ -41,7 +41,8 @@ date: 2018-11-24
   By 1871 another building was completed on campus named Parmenter Hall, thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property [Historic Campus Architecture Project (HCAP)](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153). The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
 
 ### Baker University Today 
- Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka (Baker University). 
+ Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka [Baker University](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support)
+
 ### Santa Fe Trail 
 
  {% include figure.html
@@ -51,7 +52,7 @@ date: 2018-11-24
   src="images/old-castle-hall-map.jpg"
 %}
 
-  The Santa Fe Trail entered Douglas County near its southeast corner, a few miles east of Black Jack, from where it took a northwesterly course through Palmyra and on to Willow Springs. Here it turned to the southwest, passing close to Globe and Baden of later days and into Osage county about three miles north of the southwest corner of Douglas County.  Palmyra, which later became a part of Baldwin, was long a favorite place for repairing wagons and for rest. Wagon ruts are still visible at several locations in Douglas County.  To the east, in Johnson County, the trail splits from the Oregon and California Trail near Gardner, Kansas.   Trail ruts can easily be seen at the Ivan L. Boyd Prairie Preserve which is adjacent to the Battle of Black Jack site, at Black Jack Park near Baldwin City, KS (Santa Fe Trail Association). 
+  The Santa Fe Trail entered Douglas County near its southeast corner, a few miles east of Black Jack, from where it took a northwesterly course through Palmyra and on to Willow Springs. Here it turned to the southwest, passing close to Globe and Baden of later days and into Osage county about three miles north of the southwest corner of Douglas County.  Palmyra, which later became a part of Baldwin, was long a favorite place for repairing wagons and for rest. Wagon ruts are still visible at several locations in Douglas County.  To the east, in Johnson County, the trail splits from the Oregon and California Trail near Gardner, Kansas.   Trail ruts can easily be seen at the Ivan L. Boyd Prairie Preserve which is adjacent to the Battle of Black Jack site, at Black Jack Park near Baldwin City, KS [Santa Fe Trail Association](https://www.santafetrail.org/chapters/douglasco/index.html). 
  
 ### Location
 
