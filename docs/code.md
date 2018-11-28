@@ -39,7 +39,7 @@ To get a footnote to show up, there are two steps:
 1) put `[^SOMETEXT]` in your essay where you want the superscript number to appear, and change SOMETEXT to some unique signifier related to the content of the note. In your markdown file, your text will look like:
 
 ```
-Here's a sample sentence with a footnote at the end. [^source] Here is yet another sentence. [^another-source]
+Here's a sample sentence with a footnote at the end.[^source] Here is yet another sentence.[^another-source]
 ```
 
 2) put  `[^SOMETEXT]: Your footnote text` at the bottom of your essay.
@@ -52,7 +52,7 @@ Here's a sample sentence with a footnote at the end. [^source] Here is yet anoth
 
 Viewed as a webpage, the code above will render as:
 
-Here's a sample sentence with a footnote at the end.[^source] Here is yet another sentence.[^another-source]  Notice the footnotes at the bottom of this page! Also note that the numbering happens automagically.
+Here's a sample sentence with a footnote at the end.[^source] Here is yet another sentence.[^another-source]  Note that the numbering happens automagically, so you don't need to think about that.
 
 [^source]: Your footnote text
 [^another-source]: Text for another footnote.
