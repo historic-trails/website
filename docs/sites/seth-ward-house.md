@@ -25,7 +25,7 @@ Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward Hou
 ## The property endured many years of trading hands amongst several different people  
 {% include figure.html
   class="img-right"
-  width="22%"
+  width="25%"
   caption="Fort Builder, Trader, and Indian Peace-Maker William Bent"
   src="images/william-bent.jpg"
 %}
