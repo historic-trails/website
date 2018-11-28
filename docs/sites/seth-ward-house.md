@@ -107,6 +107,6 @@ National Register of Historic Places "Seth Ward House" accessed November 15, 201
 
 [^Shaw]: Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
 
-[Weiser-Alexander]: Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America
+[^Weiser-Alexander]: Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America
 
 
