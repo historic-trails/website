@@ -13,7 +13,7 @@ Lewis Jones was a successful businessman in Independence, Missouri. He was a wag
 Independence, Missouri was the gateway to the west in the 1840s and it was the center of international trade on the western side of the United States. Independence was not only the starting point of the Santa Fe trail but also many other wagon routes such as the oregon trail and the route to California (Merchants of Independence, 38). Independence quickly became a bustling center for trade and migration{% include figure.html
   class="img-right"
   width="33%"
-  caption="Centennial Hotel"
+  caption="1840s Independence, Missouri"
   src="images/independence-missouri-picture.jpg"
 %} after the Louisiana Purchase in 1803 (Merchants of Independence, 15). The United States centered their trade with Mexico in Independence through the Santa Fe trail (Merchants of Indpendence, 38). They also built a steady trade network with the Indian tribes of the west and various fur traders throughout the Rocky Mountains (Merchants of Independence, 37). Another prominent endeavor in Independence during the 1800s was the railroad industry. The Missouri and Independence river railroad began in Independence, Missouri in 1849 and this became a lucrative investment for local businessmen (Merchants of Independence, 56). Because of these deep roots placed in Independence, the United States was able to capitalize on the trade and natural resources of the land they had purchased.  
 # The House Itself!
