@@ -7,9 +7,16 @@ date: 2018-11-19
 
 # **Wars and Wagons**
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="The famous Wootton house, pictured with “Uncle Dick” and his family."
+  src="wootton-house.jpg"
+%}
+
+
 Raton Pass stands as a towering border between two worlds, and the access to these worlds has been controlled by many different parties. A toll road ran as crookedly as the trail itself, a narrow mountain passageway for rail, and a modern convenience, this route has a varied and storied past. This trail was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the SAnta Fe Trail
 
-## **Early Significance**
 
 # **William Becknell**
 One of the first recorded journeys through the pass is that of William Becknell, a businessman fleeing his failed ventures and political aspirations in Missouri, with hopes of gaining wealth trading beaver pelts from Northern New Mexico. He left Franklin, Missouri with four companions in September, 1821 on his first trip to the western US with a load of freight to deliver to Santa Fe. By 1821, conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the pass. However, that portion of the journey has been called into question after the discovery of the diary of Pedro Ignacio Gallego in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings, along with Becknell’s own journal describing the landscape, show evidence that he and his men probably mis-identified the Canadian River and instead crossed another river, south of present day Las Vegas, New Mexico. After a month of trading, Becknell left Santa Fe on December 13th, and the men returned to Missouri safely in January, 1822. His investment of $300 in trading goods had returned approximately $6000 in coin. 
