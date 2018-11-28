@@ -12,22 +12,23 @@ Lanesfield School is a one-room schoolhouse near Edgerton Kansas that was establ
 {% include figure.html
   class="img-right"
   width="25%"
-  caption="James Lane"
+  caption="James Lane was an abolitionst Union Army general in the Civil War and founder of the town of Lanesfield"
   src="images/james-lane.jpg"
 %}
 ### James Lane and the town of Lanesfield 
 The town was founded by James Lane in 1858 (NRF) and he began construction of the town very quickly. Lane served as a United States Senator and a Union Army general during the Civil War. He was an outspoken abolitionist who worked to abolish slavery in Kansas. (New York Times) Lane began the construction of a hotel, three stores, a blacksmith shop, three churches, residential houses and a one-room schoolhouse in the town (NRF), even though he never saw the school opened as he committed suicide in 1866 (New York Times).
-{% include figure.html
-  class="img-left"
-  width="33%"
-  caption="Lanesfield School"
-  src="images/lanesfield-school.jpg"
-%}
+
 ### Lanesfield along the Santa Fe Trail
 Lanesfield served as a rest stop for travelers along the Santa Fe Trail and as a mail stop which was even along the route of the Pony Express. Students from the school noted that they could see travelers on the trail from their schoolhouse window (Feldman 83). The developement of a railroad station in 1870 in the nearby town of Edgerton diminished Lanesfield's population as many people moved closer to the train station. Many buildings were left unused but the schoolhouse remained an important part of Lanesfield as it served all the children in the area. 
 
 ### The one-room schoolhouse in America
 The one-room schoolhouse was an institution that had its heyday in America during the late 19th and early 20th centuries and played a large role in rural communities. These schools were often the lifeblood and central building of small rural towns and were directed by local entities which meant that education varied greatly from one school to the next. Supplies were often limited and students and teachers had to make do with what they had. At one time a schoolteacher would be responsible for teaching eight different grades in one small room, many children missing multiple lessons to help out at their homes (Jenner 2).
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="Lanesfield School is the last standing building in Lanesfield, Kansas, a mail stop along the Santa Fe Trail"
+  src="images/lanesfield-school.jpg"
+%}
 ### The Lanesfield School represents many one-room schoolhouses of its time
 The Lanesfield School also suffered from many of the same issues that other one-room schoolhouses faced. In 1870 the school had 69 students enrolled ages 5 to 20 but only had an average attendance of 51. In 1897, the county superintendent stated that the schoolhouse was in disrepair which sparked a major cleanup effort by the town (NRF). Despite difficulties, the school played an essential role in the community. In addition to being a school, the building also served as a community meeting place, pollint station, a venue for school reunions, and a meeting place for many community groups (NRF). 
 
