@@ -1,3 +1,10 @@
+---
+title: Fort Larned
+author: Carl Essary
+layout: single-col
+date: 2018-11/26/2018
+---
+
 # Fort Larned
  The fort is a military institution constructed of stone that was
 built in Pawnee, Texas in 1854. It was created for the purpose of patrolling the Santa Fe trail.
