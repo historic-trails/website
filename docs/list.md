@@ -11,7 +11,7 @@ date: 2017-12-19
 - [Lanesfield School](sites/lanesfield-school): Addey
 - [Baker University Old Castle Hall](sites/baker-university-old-castle-building): Sean Hellwege
 - Six Mile Creek Stage Station: Corey
-- Fort Larned National Historic Site: Carl
+- [Fort Larned National Historic Site](sites/fort-larned): Carl
 - [Fort Marcy Ruins](sites/fort-marcy): Aaron
 - Fort Union: Andres
 - [La Cueva Historic District](sites/la-cueva-historic-district): Sean O'Neill
