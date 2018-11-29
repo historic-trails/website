@@ -12,6 +12,13 @@ Positioned in northeastern Kansas just southwest of Independence, Missouri, the 
 ### Historic Significance
 The Mahaffie House and its surrounding outbuildings constituted the first hotel and stage station in its section of Johnson County, Kansas. As a whole, the property is testament to the ways that private citizens far from Santa Fe helped open trade with Mexico. Present-day visitors can see the contrast between northeastern Kansas's rural past and its modern urbanized form. The unchecked growth of nearby Kansas City makes the preservation of the Mahaffie House--an important link to Johnson County's yesteryears--even more vital.
 
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="The Mahaffie House today. Courtesy of Wikimedia Commons user Rmprit. <https://commons.wikimedia.org/wiki/File:1100_Kansas_City_Rd.,_Olathe,_KS_J.B._Mahaffie_House.jpg>"
+  src="images/mahaffie-house-modern.jpg"
+%}
+
 ### Property Details
 The Santa Fe Trail ran right across the southwest corner of the property, providing travelers with ready access to the farmstead. Stage stops were essentially multi-dimensional convenience stores--in addition to hot meals and other provisions, they offered hospitality, shelter, and relative safety. The property actually contains three structures listed on the National Register of Historic Places: the house, a wood peg barn, and a stone ice house (Wagon Tracks). 
 
@@ -36,6 +43,13 @@ The house sits roughly 500 feet north of the Kansas City Road, which once served
 
 ### The End of the Mahaffie Era
 Mahaffie retired ferom the farm in 1881 and sold the property in 1883 (National Register form). The era of the stage station had largely come to an end, thanks the end of the Civil War and the beginning of the railroad era. The property passed through different owners until the City of Olathe purchased the property in 1980 with funds from citizens, grants, and the city government (Wagon Tracks). In 1982, a federal grant to imporove the Mahaffie House provided a new roof, forced air heating, and new wiring (Wagon Tracks). It is relatively unusual for a city to own/operate a historic site as important as the Mahaffie House (Wagon Tracks).
+
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="Google Maps imagery showing residential development surrounding the the Mahaffie House."
+  src="images/mahaffie-modern.png"
+%}
 
 ### Visit the house
 The Mahaffie Farmstead is still used for agriculture, but it exists primarily as a tourist attraction. Those wishing to experience the property in a more intimate way can schedule a wedding or other large group event at the farm. It remains the only known Santa Fe Trail stage station that is open to the public (CMP).
