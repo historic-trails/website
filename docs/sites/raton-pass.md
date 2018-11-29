@@ -7,6 +7,13 @@ date: 2018-11-19
 
 # Wars and Wagons
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Early vehicle safety along the pass was nominal."
+  src="images/raton_pass_chain_guards.jpg"
+%}
+
 Raton Pass and the mountains surrounding it stand as a towering border between two worlds, and the control over this route has quite an interesting history. A crooked toll road for miners and tradesman during the infancy of America, a narrow mountain passageway for rail, and a modern convenience, this route was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the Santa Fe Trail.
 
 {% include figure.html
@@ -51,8 +58,8 @@ Raton Pass played an important military role again during the Civil War, as the 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Early vehicle safety along the pass was nominal."
-  src="images/raton_pass_chain_guards.jpg"
+  caption="Early train traffic through the pass, 1959."
+  src="images/train-971959.jpg"
 %}
 
 In 1908 ATSF completed a second tunnel under Raton Pass to handle increased traffic, but developments in rail around the West signaled the decline of Raton Pass as a major rail corridor. First, ATSF finished the Belen Cutoff in central New Mexico, giving the railroad an easier route. Raton Pass continued to be used for passengers, but all long-haul trains now took the Belen Cutoff route. In 1908–9 New Mexico used convict labor to build a new highway that crossed the Colorado border near Raton Pass, further reducing traffic through the area.
