@@ -16,7 +16,7 @@ The Mahaffie House and its surrounding outbuildings constituted the first hotel 
   class="img-left"
   width="33%"
   caption="The Mahaffie House today. Courtesy of Wikimedia Commons user Rmprit. <https://commons.wikimedia.org/wiki/File:1100_Kansas_City_Rd.,_Olathe,_KS_J.B._Mahaffie_House.jpg>"
-  src="images/mahaffie-house-modern.jpg"
+  src="images/mahaffie-modern.jpg"
 %}
 
 ### Property Details
@@ -48,7 +48,7 @@ Mahaffie retired ferom the farm in 1881 and sold the property in 1883 (National 
   class="img-left"
   width="33%"
   caption="Google Maps imagery showing residential development surrounding the the Mahaffie House."
-  src="images/mahaffie-modern.png"
+  src="images/mahaffie-suburban.png"
 %}
 
 ### Visit the house
