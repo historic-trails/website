@@ -47,7 +47,7 @@ Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the Fr
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="20%"
   caption="Mill's Exact Location"
   src="images/Stvrain-millloc.jpg"
 %}
