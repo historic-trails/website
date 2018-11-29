@@ -8,8 +8,8 @@ date: 2018-11-19
 # Wars and Wagons
 
 {% include figure.html
-  class="img-right"
-  width="33%"
+  class="img-center"
+  width="40%"
   caption="Early vehicle safety along the pass was nominal."
   src="images/raton_pass_chain_guards.jpg"
 %}
@@ -18,7 +18,7 @@ Raton Pass and the mountains surrounding it stand as a towering border between t
 
 {% include figure.html
   class="img-right"
-  width="66%"
+  width="33%"
   caption="Post cards sent from early travelers of Raton Pass. Note the automobile, for scale."
   src="images/raton_post_cards.jpg"
 %}
