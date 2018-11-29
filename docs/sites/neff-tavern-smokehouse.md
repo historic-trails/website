@@ -82,13 +82,13 @@ Ibid, o. J.
 * W.B. Napton. Past and Present in Saline County, Missouri, o. J.
 
 Web sources:
-*https://www.findagrave.com/memorial/19379718/abram-neff , accessed 14.11.2018, 17:15 h
-*https://ourlocalhistory.files.wordpress.com/2014/07/sunderlage-smokehouse.jpg       , accessed 24.11.2018, 12:55 h
+* https://www.findagrave.com/memorial/19379718/abram-neff , accessed 14.11.2018, 17:15 h
+* https://ourlocalhistory.files.wordpress.com/2014/07/sunderlage-smokehouse.jpg       , accessed 24.11.2018, 12:55 h
 
  [^Number1]: https://www.findagrave.com/memorial/19379718/abram-neff , accessed 14.11.2018, 17:15 h
  [^Number2]: https://ourlocalhistory.files.wordpress.com/2014/07/sunderlage-smokehouse.jpg       , accessed 24.11.2018, 12:55 h
 
-[^NPSFormp.1]: NPS Form, 1963, p.1
+[^NPSFormp1]: NPS Form, 1963, p.1
 [^Greggs]:J. Gregg, 1845: p. 19 and K. Gregg, 1933
 [^NPSstatementp1]:NPS Form,1963: statement of significance p. 1
 [^NPSstatementp2]:NPS Form, 1963, statement of significance p. 2
