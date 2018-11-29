@@ -11,7 +11,7 @@ Raton Pass and the mountains surrounding it stand as a towering border between t
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="66%"
   caption="Post cards sent from early travelers of Raton Pass. Note the automobile, for scale."
   src="images/raton_post_cards.jpg"
 %}
@@ -68,7 +68,8 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
  Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
  Informaiton about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
  
-## Related Places
+## Nearby
+[Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. Capulin Mountain National Monument, a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
 [Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
 [Raton, NM](http://visitraton.org)
 [Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
