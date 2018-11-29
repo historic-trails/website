@@ -51,7 +51,7 @@ The Neff tavern is located on an unmarked street, west from the Missouri highway
   class="img-right"
   width="33%"
   caption="The location of the former tavern can be found through the orange circle. The map shows how related the Neff property was to the Santa Fe Trail is, as it goes through the posession [^NPSForm]."
-  src="images/location_neff_tavern.PNG"
+  src="images/location neff tavern.png"
 %}
 
 ## Related articles
