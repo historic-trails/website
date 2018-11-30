@@ -44,7 +44,7 @@ After World War II, the Kansas State Legislature approved money to buy the Kaw I
 The Council Grove Downtown Historic District has many sites of interest still standing today. During summer months, the Seth Hays Home is open to viewing on Sunday afternoons or by appointment with the [Morris County Historical Society](https://morriscountyhistory.us/our-collections/). The Kaw Indian Mission is also open to the public. More information can be found at the [Kansas Historical Society](https://www.kshs.org/index.php?url=kaw_mission). The Last Chance Store can be seen at 516 W. Main St, although the inside can't be viewed at this time.
 
 ### Bibliography
-Andreas, A. T. History of the State of Kansas. Atchison, Kansas :, 1976. [http://hdl.handle.net/2027/osu.32435027247097](http://hdl.handle.net/2027/osu.32435027247097).
+[^Andreas, 55]: Andreas, A. T. History of the State of Kansas. Atchison, Kansas :, 1976. [http://hdl.handle.net/2027/osu.32435027247097](http://hdl.handle.net/2027/osu.32435027247097).
 
 Brigham, Lalla Maloy. _The Story of Council Grove on the Santa Fe Trail_. 1921.
 
