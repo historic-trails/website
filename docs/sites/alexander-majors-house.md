@@ -57,7 +57,7 @@ The house is built in 1856 on 300 acre farmstead property on the state line purc
 ### Pony Express
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="100%"
   caption="Map of Pony Express 1860, created by William Henry Jackson an American artist in c. 1935, obtained & rendered by Gwillhickers and restored by Crisco 1492 (_Courtesy US Library of Congress_)"
   src="images/alexander-majors-pony-express-route-map.PNG"
 %}
@@ -173,37 +173,36 @@ Another interesting part of exploring Majors house is Ghost tours about the stra
 
 1. In 1858 when the firm received a contract from government to freight supplies to General A. S. Johnston ś Army in Mormon War, Majors moved to Nebraska city leaving the state line property to his **eldest daughter Mrs. Samuel Poteet**, whose descendants owned it until 1910 _(WPA Guide, 1998)_. _Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum_.
 
-### References
+### Bibliography
 
-National Historic Registration Form (July 1969)- Alexander Majors House - 70000335.pdf. (n.d.). Retrieved from https://dnr.mo.gov/shpo/nps-nr/70000335.pdf
+National Historic Registration Form (July 1969)- [Alexander Majors House - 70000335.pdf. (n.d.)](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf).
 
-Russell, Majors and Waddell images a6cc92ae0ef4549ffb8f016199cd9454.jpg (842×492). (n.d.). Retrieved November 28, 2018, from https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg
+[Russell, Majors and Waddell](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg) images a6cc92ae0ef4549ffb8f016199cd9454.jpg (842×492). (n.d.). Retrieved on November 28, 2018.
 
-Alexander Majors & Family - Alexander Majors House. (n.d.). Retrieved November 28, 2018, from http://www.wornallmajors.org/explore/majors-house/alexander-majors-his-family/
+[Alexander Majors & Family](http://www.wornallmajors.org/explore/majors-house/alexander-majors-his-family/) - Alexander Majors House. (n.d.). Retrieved on November 28, 2018, from
 
 Billington, R. A. (1967). Westward expansion : a history of the American frontier. New York [N.Y.] : Macmillan, ©1967.
 
 Earngey, B. (1995). Missouri Roadsides: The Traveler’s Companion. University of Missouri Press.
-Godfrey, A. (1994). Historic Resource Study: Pony Express National Historic Trail. Retrieved from http://archive.org/details/historicresource00godf
 
-John and Sigrid’s Adventures: Alexander Majors Home Museum Tour - 11/7/2013. (n.d.). Retrieved November 28, 2018, from http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html
+Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail](http://archive.org/details/historicresource00godf).
+
+[John and Sigrid’s Adventures](http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html): Alexander Majors Home Museum Tour - 11/7/2013. (n.d.). Retrieved on November 28, 2018.
 
 Kirkman, P. (2011). The Battle of Westport: Missouri’s Great Confederate Raid. Arcadia Publishing.
 
-LC Zoom Viewer - Pony express route April 3, 1860 - October 24, 1861 / W.H. Jackson ; issued by the Union Pacific Railroad Company in commemoration of the Pony Express Centennial, April 3, 1960 - October 24, 1961. (n.d.). Retrieved November 28, 2018, from http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=
+LC Zoom Viewer - [Pony express route April 3, 1860 - October 24, 1861](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=) / W.H. Jackson ; issued by the Union Pacific Railroad Company in commemoration of the Pony Express Centennial, April 3, 1960 - October 24, 1961. (n.d.). Retrieved on November 28, 2018.
 
-Leatherberry, E. (2015). Missouri, Kansas, Alexander Majors House [Photo]. Retrieved from https://www.flickr.com/photos/23711298@N07/18281558759/
+Leatherberry, E. (2015). Missouri, Kansas, [Alexander Majors House Photo](https://www.flickr.com/photos/23711298@N07/18281558759/).
 
-Majors, A., Ingraham, P., & Buffalo Bill, 1846-1917. (1893). Seventy years on the frontier; Alexander Major’s memoirs of a lifetime on the border; Chicago and New York, Rand, McNally & company. Retrieved from http://archive.org/details/yearsonseventyfr00majorich
+Majors, A., Ingraham, P., & Buffalo Bill, 1846-1917. (1893). Seventy years on the frontier; [Alexander Major’s memoirs of a lifetime on the border](http://archive.org/details/yearsonseventyfr00majorich); Chicago and New York, Rand, McNally & company.
 
-Majors’ Efforts. (2015, September 21). Retrieved November 28, 2018, from http://www.kchistory.org/week-kansas-city-history/majors-efforts
+[Majors’ Efforts](http://www.kchistory.org/week-kansas-city-history/majors-efforts). (2015, September 21). Retrieved on November 28, 2018.
 
-Majors House - The Alexander Majors House Museum. (n.d.). Retrieved November 12, 2018, from http://www.wornallmajors.org/explore/majors-house/
+Majors House - [The Alexander Majors House Museum](http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved on November 12, 2018.
 
 Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum.
 
 Settle, R. W., & Settle, M. L. (1966). War drums and wagon wheels : the story of Russell, Majors, and Waddell. Lincoln : University of Nebraska Press, [1966].
-
-William H. Russell, William B. Waddell, Alexander Majors, John W. Russell from a book | Classified Photographs. (n.d.). Retrieved November 26, 2018, from https://collections.lib.utah.edu/details?id=430183
 
 Wood, T., & Mincer, J. (2000). Wow!: Where Families Can Find Awe & Wonder in and Around Kansas City. Kansas City Star Books.
