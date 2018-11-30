@@ -177,32 +177,36 @@ Another interesting part of exploring Majors house is Ghost tours about the stra
 
 National Historic Registration Form (July 1969)- [Alexander Majors House - 70000335.pdf. (n.d.)](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf).
 
-[Russell, Majors and Waddell](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg) images a6cc92ae0ef4549ffb8f016199cd9454.jpg (842×492). (n.d.). Retrieved on November 28, 2018.
+[Majors, Russell, Waddell]( https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg) a6cc92ae0ef4549ffb8f016199cd9454.jpg (842×492). (n.d.). Retrieved November 28, 2018, from
 
-[Alexander Majors & Family](http://www.wornallmajors.org/explore/majors-house/alexander-majors-his-family/) - Alexander Majors House. (n.d.). Retrieved on November 28, 2018, from
+[Alexander Majors & Family]( http://www.wornallmajors.org/explore/majors-house/alexander-majors-his-family/) - Alexander Majors House. (n.d.). Retrieved November 28, 2018, from
 
-Billington, R. A. (1967). Westward expansion : a history of the American frontier. New York [N.Y.] : Macmillan, ©1967.
+Billington, R. A. (1967). Westward expansion: a history of the American frontier. New York [N.Y.] : Macmillan, ©1967.
 
 Earngey, B. (1995). Missouri Roadsides: The Traveler’s Companion. University of Missouri Press.
 
-Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail](http://archive.org/details/historicresource00godf).
+Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-[John and Sigrid’s Adventures](http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html): Alexander Majors Home Museum Tour - 11/7/2013. (n.d.). Retrieved on November 28, 2018.
+[John and Sigrid’s Adventures]( http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html): Alexander Majors Home Museum Tour - 11/7/2013. (n.d.). Retrieved November 28, 2018, from
 
 Kirkman, P. (2011). The Battle of Westport: Missouri’s Great Confederate Raid. Arcadia Publishing.
+LC Zoom Viewer – [Pony express route April 3, 1860 - October 24, 1861]( http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=) / W.H. Jackson ; issued by the Union Pacific Railroad Company in commemoration of the Pony Express Centennial, April 3, 1960 - October 24, 1961. (n.d.). Retrieved November 28, 2018.
 
-LC Zoom Viewer - [Pony express route April 3, 1860 - October 24, 1861](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=) / W.H. Jackson ; issued by the Union Pacific Railroad Company in commemoration of the Pony Express Centennial, April 3, 1960 - October 24, 1961. (n.d.). Retrieved on November 28, 2018.
+Leatherberry, E. (2015). Missouri, Kansas, [Alexander Majors House Photo]( https://www.flickr.com/photos/23711298@N07/18281558759/)
 
-Leatherberry, E. (2015). Missouri, Kansas, [Alexander Majors House Photo](https://www.flickr.com/photos/23711298@N07/18281558759/).
+Majors, A., Ingraham, P., & Buffalo Bill, 1846-1917. (1893). [Seventy years on the frontier; Alexander Major’s memoirs of a lifetime on the border]( http://archive.org/details/yearsonseventyfr00majorich); Chicago and New York, Rand, McNally & company. Retrieved from
 
-Majors, A., Ingraham, P., & Buffalo Bill, 1846-1917. (1893). Seventy years on the frontier; [Alexander Major’s memoirs of a lifetime on the border](http://archive.org/details/yearsonseventyfr00majorich); Chicago and New York, Rand, McNally & company.
+[Majors’ Efforts](http://www.kchistory.org/week-kansas-city-history/majors-efforts
+). (2015, September 21). Retrieved November 28, 2018
 
-[Majors’ Efforts](http://www.kchistory.org/week-kansas-city-history/majors-efforts). (2015, September 21). Retrieved on November 28, 2018.
-
-Majors House - [The Alexander Majors House Museum](http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved on November 12, 2018.
+Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018
 
 Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum.
 
-Settle, R. W., & Settle, M. L. (1966). War drums and wagon wheels : the story of Russell, Majors, and Waddell. Lincoln : University of Nebraska Press, [1966].
+Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing.
 
-Wood, T., & Mincer, J. (2000). Wow!: Where Families Can Find Awe & Wonder in and Around Kansas City. Kansas City Star Books.
+Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: [comprehensive management and use plan]( http://hdl.handle.net/2027/pur1.32754061290353). (1990). [Washington, D.C.?]
+
+Settle, R. W., & Settle, M. L. (1966). War drums and wagon wheels: the story of Russell, Majors, and Waddell. Lincoln: University of Nebraska Press, [1966].
+
+Wood, T., & Mincer, J. (2000). Wow! Where Families Can Find Awe & Wonder in and Around Kansas City. Kansas City Star Books.
