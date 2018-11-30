@@ -5,7 +5,7 @@ layout: single-col
 date: 2018-11-26
 ---
 
-# La Cueva Historic District, New Mexico
+# La Cueva Historic District
 
 Just a short drive from [Ft. Union National Monument](https://www.nps.gov/foun/index.htm), across the northern plains of New Mexico and nearing the foothils of Santa Fe National Forest, you will find the La Cueva Historic District. The La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of Ft.Union National Monument. La Cueva Historic District had a historically significant time period from around 1851 to 1895 and helped shape the surrounding region and had direct impacts to the Santa Fe Trail.  The site consists of several structures: the Romero Hacienda, [a Grist Mill](https://en.wikipedia.org/wiki/Gristmill), a mercantile building, the Church of San Rafel, stables, a farm, [aquecia](http://www.nmacequiacommission.state.nm.us/Publications/kfrancis_harvard_proposal04.pdf), and a few outbuildings.  
 {% include figure.html
