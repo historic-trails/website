@@ -10,10 +10,10 @@ date: 2018-11-29
 
 {% include figure.html class="img-center" width="66%" caption="Drawing of San Miguel del Vado dated to 1846 during the heyday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahua. Source: Wikimedia Commons" src="images/san-migel-del-vado-1846.jpg" %}
 
-San Miguel del Vado in San Miguel County, New Mexico was founded in 1794[^Jenks 2010] (Jenks, 2010) and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail. Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe Trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860  when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, NM.
+San Miguel del Vado in San Miguel County, New Mexico was founded in 1794 [^Jenks 2010] (Jenks, 2010) and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail. Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe Trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860  when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, NM.
 
 ### Spanish Settlement
-San Miguel del Vado was established by [Lorenzo Marquez](http://dev.newmexicohistory.org/filedetails.php?fileID=9998) of Santa Fe, and 51 other Spanish families (Legends of America), thanks to the [land grant](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant) approved by the Spanish Governor of the territory in November of 1794. Building Spanish outposts in the area was promoted for the protection of settlers against Comanche raids. The residence of the village, or _Vecinos_ were Spanish, Pecos Indians, converted Comanche, and Native American slaves called _Genizaro_.
+San Miguel del Vado was established by [Lorenzo Marquez](http://dev.newmexicohistory.org/filedetails.php?fileID=9998) of Santa Fe, and 51 other Spanish families[^source2] (Legends of America), thanks to the [land grant](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant) approved by the Spanish Governor of the territory in November of 1794. Building Spanish outposts in the area was promoted for the protection of settlers against Comanche raids. The residence of the village, or _Vecinos_ were Spanish, Pecos Indians, converted Comanche, and Native American slaves called _Genizaro_.
 
 
 ### Pecos River crossing for the Santa Fe Trail
@@ -45,7 +45,7 @@ With Mexico's independence from Spain in 1821, the Southwest was open for trade 
 {% include figure.html class="img-right" width="33%" caption="This historic district has numerous buildings from the Santa Fe Trail period, but few are still in use. Source: Wikimedia Commons." src="images/San_Miguel_del_Vado_NM.JPG" %}
 
 ### Decline in the second half of the 19th century
-As an agricultural and cattle dependent economy, the district was effected by industrialization in the region. The productivity and political center of San Miguel county was relocated to Las Vegas in 1860.[^NRHP8] (NRHP, section 8) With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas and Santa Fe, NM, or in southern Colorado. This continued into the second half of the 19th century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) when U.S. supreme court decided to shrink the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres[^Jenks 2011] (Jenks). This decision cut the village off from their abundant grazing, agricultural and timber resources.
+As an agricultural and cattle dependent economy, the district was effected by industrialization in the region. The productivity and political center of San Miguel county was relocated to Las Vegas in 1860[^NRHP8]. (NRHP, section 8) With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas and Santa Fe, NM, or in southern Colorado. This continued into the second half of the 19th century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) when U.S. supreme court decided to shrink the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres[^Jenks 2011] (Jenks). This decision cut the village off from their abundant grazing, agricultural and timber resources.
 
 {% include figure.html class="img-right" width="40%" caption="San Miguel del Vado Church remains the center of culture and society in this historic village. Source: Wikimedia Common" src="images/san-miguel-del-vado-church.jpg" %}
 ### San Miguel del Vado today
@@ -79,6 +79,7 @@ Lands of New Mexico Community Land Grants_ University of New Mexico Press. Janua
 * Macgoffin, Susan Shelby. _Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847._
 * National Register of Historic Places Inventory- Nomination Form, July 20, 1972. [Accessed](https://github.com/historic-trails/santa-fe-itinerary/blob/master/historic-registration-forms/san_miguel_del_vado_historic_district.pdf) November 28, 2018.
 
-[^Jenks 2010]:Jenks Archeology at San Miguel del Vado, 2010. NMSU Department of Archeology.
-[^NRHP8]: National register of historic places, section 8.
-[^Jenks 2011]: Jenks Vecinos el La Frontera 
+[^Jenks 2010]:Jenks Archeology at San Miguel del Vado, 2010. NMSU Department of Archeology
+[^NRHP8]: National register of historic places, section 8 page 1.
+[^Jenks 2011]: Jenks Vecinos el La Frontera, 2011 
+[source2]: Legends of America
