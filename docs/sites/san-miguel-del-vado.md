@@ -46,7 +46,10 @@ With Mexico's independence from Spain in 1821, the Southwest was open for trade 
 
 {% include figure.html class="img-right" width="33%" caption="This historic district has numerous buildings from the Santa Fe Trail period, but few are still in use. Source: Wikimedia Commons." src="images/San_Miguel_del_Vado_NM.JPG" %}
 
+
+
 ## Decline in the second half of the 19th century
+
 As an agricultural and cattle dependent economy, the district was effected by industrialization in the region. The productivity and political center of San Miguel county was relocated to Las Vegas in 1860[^NRHP8]. With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas and Santa Fe, NM, or in southern Colorado. This continued into the second half of the 19th century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) when U.S. supreme court decided to shrink the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres.[^Jenks2] This decision cut the village off from their abundant grazing, agricultural and timber resources.
 
 {% include figure.html class="img-right" width="40%" caption="San Miguel del Vado Church remains the center of culture and society in this historic village. Source: Wikimedia Common" src="images/san-miguel-del-vado-church.jpg" %}
