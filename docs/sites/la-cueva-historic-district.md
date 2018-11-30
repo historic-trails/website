@@ -29,8 +29,8 @@ Just a short drive from [Ft. Union National Monument](https://www.nps.gov/foun/i
 La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero, the land was a Spanish land grant, and Romero purchased a 33,000 acre portion of the original Mora [land grant](https://en.wikipedia.org/wiki/Land_grants_in_New_Mexico) from several descendants who owned the property: Pedro Chacon, Miguel Mascarenas, Francisco Sandoval, Maria Dolores Romero, and Mareo Sandoval.  These claimants held the largest portions of the grant sold to Vicente [^NPS-Form].  The name "La Cueva" (translation: The Cave) may have come from a few origins for the site:  Vicente had been a sheep herder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named [^NPS-Form-2].  Others say the ranch was named La Cueva simply due to a nearby cave[^ranchos1].  The official reason for the naming convention may never be known.  One thing was for certain, Vicente realized the potential of the land, the nearby [Mora River](https://en.wikipedia.org/wiki/Mora_River), and the need for grain on the Santa Fe Trail.  
 
 [^NPS-Form]:NPS La Cueva Historic Distric p-3
-[^NPS-Form-2]:NPS La Cueva Historic Distric p-3.1 
-[^ranchos1]:Ranchos of Northern New Mexico p. 19.1
+[^NPS-Form-2]:NPS La Cueva Historic Distric p-3-1 
+[^ranchos1]:Ranchos of Northern New Mexico p-19-1
 
 
 ## Milling, Farming, and the Santa Fe Trail
