@@ -72,7 +72,7 @@ Vicente also commissioned a church to be built on the property that would become
 ## La Cueva Today
 Today La Cueva is a private residence as well as a [farm](https://www.lacuevafarm.com/).  In the summer months travelers seeking fun can pick raspberries and bring them home.  But the current day use still has nods to the history of La Cueva.  Mora County is home to many historic landmarks on the historic register, this could be a way for the economically depressed area to benefit from it's rich past.   
 
-### Nearby places, associated people, and articles
+##### Nearby Places
 [Ft.Union National Monument](https://www.nps.gov/foun/index.htm)
 
 [The Santa Fe Trail](https://www.nps.gov/safe/index.htm)
@@ -83,11 +83,15 @@ Today La Cueva is a private residence as well as a [farm](https://www.lacuevafar
 
 [Glorietta Battlefield](https://home.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm)
 
+##### Articles
+
 [Salaman Rasperry Ranch](https://www.lacuevafarm.com/)
 
 [Critical Reading: Valencia and La Cueva Ranchos](https://www.nps.gov/nr/twhp/wwwlps/lessons/96ranchos/96facts3.htm) 
 
 [Cultural Landscapes of Ft. Union](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1305&context=hp_theses)
+
+##### Associated People
 
 [Christopher “Kit” Carson](https://www.nps.gov/parkhistory/online_books/hh/35/hh35m.htm)
 
