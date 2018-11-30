@@ -67,15 +67,16 @@ The majority of traffic through the pass now comes from automobiles. In 1926 the
 
 Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pass has often been seen as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961.
 
-## Related Articles
+***
+##### Related Articles
  Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
  More history of [the pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
  
-## Related People
+##### Related People
  Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
  Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
  
-## Nearby
+##### Nearby
 [Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. Capulin Mountain National Monument, a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
 [Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
 [Raton, NM](http://visitraton.org)
