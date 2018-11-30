@@ -36,7 +36,7 @@ date: 2018-11-24
  
  {% include figure.html
   class="img-right"
-  width="43%"
+  width="50%"
   caption="Copy of a cartoon by Kansas artist Henry Worrall showing Kansas farmers battling grasshoppers 1874. photo by [Kansas Historical Society](https://www.kansasmemory.org/item/214827)"
   src="images/baker-grasshoppers.jpg"
 %}
