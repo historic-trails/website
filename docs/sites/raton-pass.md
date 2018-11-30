@@ -9,7 +9,7 @@ date: 2018-11-19
 
 {% include figure.html
   class="img-center"
-  width="40%"
+  width="60%"
   caption="Early vehicle safety along the pass was nominal."
   src="images/raton_pass_chain_guards.jpg"
 %}
@@ -53,7 +53,7 @@ Two nineteenth-century military crossings are especially notable in the history 
 
 Raton Pass played an important military role again during the Civil War, as the Union used Raton Pass to supply troops stationed in New Mexico. In 1862, when Confederate troops were advancing north through New Mexico, a regiment of Colorado Volunteers marched over Raton Pass to reinforce Union troops and win a major victory at the Battle of Glorieta Pass.
 
-## Modernity
+## Winding Through the Mountains
 
 {% include figure.html
   class="img-right"
