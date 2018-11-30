@@ -56,17 +56,17 @@ The school was turned into a museum in 1967 and it is still open to the public t
 * Page, Eric Eugene. Playing School: The Preservation and Presentation of the Lanesfield School Historic Site. Lawrence, Kan.: E.E. Page, 1990.
 * Stephens, F. F. “Missouri and the Santa Fe Trade.” The Missouri Historical Review 10, no. 4 (1916): 233–62.
 
-### Related People
+##### Related People
 * [Angeline Mitchell](https://www.nps.gov/tont/learn/historyculture/angeline-mitchell.htm)
 * [Stephen Douglas](https://www.nps.gov/people/stephen-a-douglas.htm)
 * [Oliver L. Brown](https://en.wikipedia.org/wiki/Oliver_Brown_(American_activist))
 
-### Related Places
+##### Related Places
 * [An African-American One-Room School](https://www.nps.gov/nr/twhp%20/wwwlps/lessons/58iron/58iron.htm)
 * [Fort Scott](https://www.nps.gov/fosc/learn/historyculture/bleeding.htm)
 * [Baker University Old Castle Hall](https://historic-trails.github.io/santa-fe-itinerary/sites/baker-university-old-castle-building)
 
-### Related Articles
+##### Related Articles
 * [One Room Schools in the Ozarks](https://www.nps.gov/ozar/learn/historyculture/one-room-schools-in-the-ozarks.htm)
 * [James Lane in the Civil War](https://www.nps.gov/fosc/learn/historyculture/firsttoserve.htm)
 * [The Pony Express](https://www.nps.gov/poex/learn/historyculture/index.htm)
