@@ -51,8 +51,8 @@ The school was turned into a museum in 1967 and it is still open to the public t
 * Cart, Doran L. "Lanesfield School." National Register of Historic Places Inventory/Nomination Form. Johnson County Museum System, Shawnee, January 15, 1988.
 * Feldman, Ruth Tenzer. Don’t Whistle in School: The History of America’s Public Schools. Twenty-First Century Books, 2001.
 * Gulliford, Andrew. America’s Country Schools. Niwot, Colo.: University Press of Colorado, 1996.
-* “James Lane Obituary.” Accessed November 30, 2018. https://timesmachine.nytimes.com/timesmachine/1866/07/04/79809822.pdf.
 * Jenner, Gail L. One Room: Schools and Schoolteachers in the Pioneer West. Rowman & Littlefield, 2018.
+* Leavenworth. “Obituarary, James H. Lane, United States Senator from Kansas.” New York Times, July 4, 1866. https://timesmachine.nytimes.com/timesmachine/1866/07/04/79809822.pdf.
 * Page, Eric Eugene. Playing School: The Preservation and Presentation of the Lanesfield School Historic Site. Lawrence, Kan.: E.E. Page, 1990.
 * Stephens, F. F. “Missouri and the Santa Fe Trade.” The Missouri Historical Review 10, no. 4 (1916): 233–62.
 
