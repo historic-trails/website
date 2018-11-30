@@ -11,7 +11,7 @@ date: 2018-11/26/2018
   class="img-right"
   width="33%"
   caption="This a modern view of the fort"
-  src="images/"fort larned.jpg"
+  src="images/fort larned.jpg"
 %}
  The fort is a military institution constructed of stone that was
 built in Pawnee, Texas in 1854. It was created for the purpose of patrolling the Santa Fe trail.
@@ -51,11 +51,11 @@ fort wise treaty would go to get annuities. The treaty allowed the U.S  settlers
   class="img-right"
   width="33%"
   caption="This image depict a train traveling the recencently compleate santa fe railroad"
-  src="images/"Fort-lennard-md.jpg"
+  src="images/Fort-lennard-md.jpg"
 %}
 In the forts twilight years as a U.S military institution it provided protection for workers on the construction of the Santa Fe rail road in 1872. The forts troops would patrol the areas under construction instead of the trail. Once the rail road was completed the fort began to lose its relevance as goods and travelers would begin to choose traveling by train over traveling the trail. Due to its purpose no longer being needed, the fort operated for an additional six years when it was abandoned in 1878. The property was then auctioned off as army surplus in 1883.
 
 ## The fort today
 This fort has been one of the lucky historical sites as most of the origanal buildings remain intact. The patron that the site had been sold to decided to use the existing buildings as a housing for ranch workers and equipment which lead to a decent upkeep of the site, saving it from the fate of other historic forts today. The site has been renovated and now serves as a museum that can be visited by the public to see scheduled reenactments of the workings of the fort portrayed by volunteer actors.  
 
-## bibliography 
+## bibliography
