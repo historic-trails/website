@@ -48,6 +48,8 @@ Andreas, A. T. History of the State of Kansas. Atchison, Kansas :, 1976. [http
 
 Brigham, Lalla Maloy. _The Story of Council Grove on the Santa Fe Trail_. 1921.
 
+Davis, Christy and Brenda Spencer. “Council Grove Downtown Historic District.” National Register of Historic Places Registration Form. Spencer Preservation, Wamego, KS, January 20, 2009.
+
 Juracek, K.E., C.A. Perry, and J.E. Putnam. “The 1951 Floods in Kansas Revisited.” USGS Numbered Series. Fact Sheet, 2001. [http://pubs.er.usgs.gov/publication/fs04101](http://pubs.er.usgs.gov/publication/fs04101).
 
 Kansas Department of Transportation. “KDOT: Historic State Maps.” [https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp](https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp).
