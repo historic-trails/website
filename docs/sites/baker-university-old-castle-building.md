@@ -100,6 +100,7 @@ The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
 [Kansaspedia: Baker University KHS](https://www.kshs.org/kansapedia/baker-university/17829)
 
 [National Register Of Historic Places Inventory - Nomination Form (NRHP)](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)
+National Register of Historic Places, Baker University Old Castle Hall, Baldwin, Brown county, Kansas, reference number 712200013.
 
 [Baker University Vision & Values](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support)
 
