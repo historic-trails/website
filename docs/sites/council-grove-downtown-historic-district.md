@@ -32,6 +32,7 @@ Council Grove began as little more than a resting point on the newly opened Sant
 [^Brigham15]: Brigham, 15.
 [^Brigham1116]: Brigham, 11, 16.
 
+
 ## Railroad or Bust
 With the advent of the railroad, Council Grove looked to cash in on the extra potential for transportation and movement, just as they were accustomed to with the Santa Fe Trail passing through the town. In 1865, the town passed a bond measure for $100,000 for railroads to be brought through, but these bonds failed to attract railroads (Maloy, 50). The town had to wait four more years for a railroad, when in 1869 the [M. K. & T. Railroad](https://en.wikipedia.org/wiki/Missouri%E2%80%93Kansas%E2%80%93Texas_Railroad) made its first passage through the town (Brigham, 40). In 1881, more bonds passed to bring the Topeka, Salina and Southwestern Railroad which became part of the [Missouri Pacific Railroad](https://en.wikipedia.org/wiki/Missouri_Pacific_Railroad) line (Brigham, 62). These railroad lines allowed businesses to connect with more people and keep the town as an important stop along the Santa Fe Trail.
 
