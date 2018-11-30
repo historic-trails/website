@@ -10,7 +10,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The Neff tavern smokehouse was used to cure meat, sourced through hunting and farming in the region, as mostly venison and pork meat was processed.[^ NPSForm]"
+  caption="The Neff tavern smokehouse was used to cure meat, sourced through hunting and farming in the region, as mostly venison and pork meat was processed.[^NPSForm]"
   src="images/Neff_tavern_smokehouse_picture.PNG"
 %}
 
