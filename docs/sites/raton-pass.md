@@ -80,3 +80,7 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 [Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
 [Raton, NM](http://visitraton.org)
 [Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
+
+##Bibliography
+
+yerp
