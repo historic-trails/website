@@ -23,7 +23,14 @@ Beginning at a trading post in 1847, Council Grove, situated an hour southwest o
 %}
 Council Grove began as little more than a resting point on the newly opened Santa Fe Trail in 1821. [^NRHP8441] The area boasted plenty of water, grazing land, trees, and safety. [^NRHP8442] While still organized as an Indian territory, Seth Hays, a business man,  opened the first trading post under government contract in 1847. [^Maloy2] By 1854 Seth Hays had competition from the Withington brothers, the Choteau brothers, and others. [^Brigham-Maloy] Seth Hays built the first house in Council Grove in 1857. [^Brigham12] With more people realizing the potential for business as the last stop heading west on the Santa Fe Trail, Tom Hill constructed the [Last Chance Store](https://en.wikipedia.org/wiki/Last_Chance_Store), also built in 1857. [^Brigham15] This store provided the last stop along the Santa Fe Trail for hundreds of miles. With the organization of Kansas in 1854, towns could begin incorporating, as Council Grove did in 1858 with Seth Hays and other business people forming the town company in 1857. [^Brigham1116]
 
-
+[^wiki]: [https://en.wikipedia.org/wiki/Last_Chance_Store](https://en.wikipedia.org/wiki/Last_Chance_Store).
+[^NRHP8441]: NRHP, 8.44.
+[^NRHP8442]: NRHP, 8.44.
+[^Maloy2]: Maloy, 4.
+[^Brigham-Maloy]: Brigham, 11. Maloy, 6.
+[^Brigham12]: Brigham, 12.
+[^Brigham15]: Brigham, 15.
+[^Brigham1116]: Brigham, 11, 16.
 
 ## Railroad or Bust
 With the advent of the railroad, Council Grove looked to cash in on the extra potential for transportation and movement, just as they were accustomed to with the Santa Fe Trail passing through the town. In 1865, the town passed a bond measure for $100,000 for railroads to be brought through, but these bonds failed to attract railroads (Maloy, 50). The town had to wait four more years for a railroad, when in 1869 the [M. K. & T. Railroad](https://en.wikipedia.org/wiki/Missouri%E2%80%93Kansas%E2%80%93Texas_Railroad) made its first passage through the town (Brigham, 40). In 1881, more bonds passed to bring the Topeka, Salina and Southwestern Railroad which became part of the [Missouri Pacific Railroad](https://en.wikipedia.org/wiki/Missouri_Pacific_Railroad) line (Brigham, 62). These railroad lines allowed businesses to connect with more people and keep the town as an important stop along the Santa Fe Trail.
