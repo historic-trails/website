@@ -1,10 +1,11 @@
 ---
+title: Credits
 layout: single-col
-title: About
-date: 2017-12-19
+date: 2018-12-12
 ---
 
-This website is the result of a collaborative research project by dedicated, industrious, and creative students in a History course at the University of New Mexico, _National Historic Trails_.
+# Site Credits
+This website is the result of a collaborative research project by dedicated, industrious, and creative students in a [_National Historic Trails_ course](http://fredgibbs.net/courses/trails) at the [University of New Mexico](http://unm.edu).
 
 ## Our Team
-[your name here]
+Fred Gibbs, Guy McClellan, ...

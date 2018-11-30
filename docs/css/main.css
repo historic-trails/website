@@ -28,6 +28,16 @@ body {
 
 .navbar-nav .nav-item a.nav-link, .navbar-nav a.navbar-brand {
   color:#ccc;
+  border-bottom:none;
+}
+
+.navbar-nav .nav-item a.nav-link:visited, .navbar-nav a.navbar-brand:visited {
+  color:#ccc;
+  border-bottom:none;
+}
+
+.navbar-inverse .navbar-brand {
+  border-bottom:none;
 }
 
 .navbar-nav .nav-item a.nav-link:hover {
@@ -505,6 +515,7 @@ margin-top:.5rem;
 
 .card-text {
 font-size:1.2rem;
+font-weight:normal;
 }
 
 

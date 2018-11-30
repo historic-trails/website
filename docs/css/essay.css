@@ -26,13 +26,12 @@ p {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Abril Fatface', sans-serif;
+  font-family: 'Georgia', sans-serif;
   text-align:left;
   margin: 3rem 0 .4rem 0;
 }
 
 h1 {
-  font-family: 'Abril Fatface', sans-serif;
   font-weight: 700;
   font-size: 4rem;
   text-align: center;
@@ -57,13 +56,11 @@ h3 {
 
 h4 {
   font-size:1.5rem;
-  text-transform:uppercase;
-  font-weight:bold;
 }
 
 h5 {
   text-transform:uppercase;
-  font-size:1.4rem;
+  font-size:1.3rem;
 }
 
 hr {
@@ -92,16 +89,18 @@ p.author {
 }
 
 a {
-  color: #337ab7;
-  color: #9a4031;
+  color: #005999;
+  font-weight:bold;
+  border-bottom: 2px dotted #87a7be;
 }
 
-a:visitd {
- color: #9a4031;
+a:visited {
+ color: #44136c;
+ border-bottom: 2px dotted #956cb7;
 }
 
 a:hover {
- color: #9a4031;
+  text-decoration:none;
 }
 
 ul {
