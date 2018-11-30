@@ -48,6 +48,7 @@ Following an increasingly frequent trend of one-room schoolhouses being consolid
 The school was turned into a museum in 1967 and it is still open to the public today. Visitors can visit the school and experience writing on slates, cleaning the blackboard, and what general life in a one-room schoolhouse was like during the late 19th and early 20th centuries along the Santa Fe Trail.
 
 ### References
+* Cart, Doran L. "Lanesfield School." National Register of Historic Places Inventory/Nomination Form. Johnson County Museum System, Shawnee, January 15, 1988.
 * Feldman, Ruth Tenzer. Don’t Whistle in School: The History of America’s Public Schools. Twenty-First Century Books, 2001.
 * Gulliford, Andrew. America’s Country Schools. Niwot, Colo.: University Press of Colorado, 1996.
 * “James Lane Obituary.” Accessed November 30, 2018. https://timesmachine.nytimes.com/timesmachine/1866/07/04/79809822.pdf.
@@ -76,3 +77,7 @@ The school was turned into a museum in 1967 and it is still open to the public t
 [^nyt]: New York Times, 1866
 [^feldman]: Feldman 2001, 83
 [^jenner]: Jenner 2018, 2
+
+
+
+
