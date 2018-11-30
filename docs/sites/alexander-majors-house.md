@@ -1,6 +1,5 @@
 # Alexander Majors House
 
-### Importance
 {% include figure.html
   class="img-right"
   width="33%"
@@ -8,14 +7,13 @@
   src="images/alexander-majors-house.jpg"
 %}
 
-Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas city and is on National register of historic buildings _(WPA Guide 1998)_. The house and the grounds were trading centers for 'Russell and Majors and Waddell' freighting firm and its also the house of Alexander majors house. Alexander Majors house ran alongside a dirt path, which is a state line road - a boundary between Kansas and Missouri, from West Port landing to the original Santa Fe trail _(Wornall Majors House Museums, 2018.11.12)_.
+Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas city and is on [National register of historic buildings](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) _(WPA Guide 1998)_. The house and the grounds were trading centers for 'Russell and Majors and Waddell' freighting firm and its also the house of Alexander majors house. Alexander Majors house ran alongside a dirt path, which is a state line road - a boundary between Kansas and Missouri, from West Port landing to the original Santa Fe trail _(Wornall Majors House Museums, 2018.11.12)_.
 
 ### Location
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="**Alexander Majors Barn,
-  8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114** _(NHRF-1969, MAJORS)_"
+  caption="**Alexander Majors house is on the east side of road near 85th street** _(NHRF-1969, MAJORS)_"
   src="images/alexander-majors-house-location.jpg"
 %}
 
@@ -23,7 +21,7 @@ The house is situated approximately 16 feet in front of the house which is Misso
 
 ### Who is Alexander Majors?
 
-Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Laurania and Benjamin Majors in 1819 to Lafayette County, Missouri and later moved to Jackson county _(WPA Guide 1998)_. In 1827, Majors father explored silver ore mine with no prominent value he returned to farming, his tales put great impression on Majors towards possibilities in Western Frontier and to travel on the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and  together they joined his fathers footstep into farming _(Morton, 2012)_. His large family had mostly daughters and no son to help him in farming made him to look for other options _(Godfrey, 1994)_.
+Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Laurania and Benjamin Majors in 1819 to Lafayette County, Missouri and later moved to Jackson county _(WPA Guide 1998)_. In 1827, Majors father explored silver ore mine with no prominent value he returned to farming, his tales put great impression on Majors towards possibilities in [Western Frontier](https://en.wikipedia.org/wiki/American_frontier) and to travel on the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and  together they joined his fathers footstep into farming _(Morton, 2012)_. His large family had mostly daughters and no son to help him in farming made him to look for other options _(Godfrey, 1994)_.
 
 {% include figure.html
   class="img-left"
@@ -32,7 +30,7 @@ Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Lau
   src="images/alexander-majors-portrait.jpg"
 %}
 
-In August 1848 Majors started carrying freight from Independence to Santa Fe, New Mexico, an 800 mile distance _(Morton, 2012)_. Majors became the first western Missouri traders to freight supplies to Santa Fe after the Mexican war, he started with 6 wagons and made a round trip in a record time 92 days. The war with the Mexico ended, military presence in the south west made the journey safer _(Godfrey, 1994)_. Majors had increase in opportunities and success due opening of Oregan Territory for settlement in 1848, California gold fields in 1849, expansion of military forts  in the west through 1850ś _(Morton, 2012)_.  
+In August 1848 Majors started carrying freight from Independence to Santa Fe, New Mexico, an 800 mile distance _(Morton, 2012)_. Majors became the first western Missouri traders to freight supplies to Santa Fe after the [Mexican war](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War), he started with 6 wagons and made a round trip in a record time 92 days. The war with the Mexico ended, military presence in the south west made the journey safer _(Godfrey, 1994)_. Majors had increase in opportunities and success due opening of [Oregon Territory](https://en.wikipedia.org/wiki/Oregon_Territory) for settlement in 1848, [California gold fields](https://en.wikipedia.org/wiki/California_Gold_Rush) in 1849, expansion of military forts  in the west through 1850ś _(Morton, 2012)_.  
 
 Majors was particular in hiring trustworthy people and made them to pledge that they would treat animals with kindness, use no profanity, stay sober all the time, and behave like gentlemen while they were his employee _(Godfrey, 1994)_. Majors had great work ethics, great experience and he rested his oxen and men on Saturday afternoon to Monday morning and held worship services on Sundays _(Godfrey, 1994)_. In 1854, Majors earned a respectable reputation as a successful freighter on the Western Missouri frontier _(Godfrey, 1994)_.  
 
@@ -81,7 +79,7 @@ Pony Express first ride began on April 3rd, 1860, run from St. Joseph centers wh
 
 ### Closing of Freighting firm and Change in Majors life
 
-In 1862, Russell, Majors and Waddell firm closed as they were bankrupt and in scandal with U.S. Department of the Interior _(Morton, 2012)_. Later Majors marriage and family fell apart, his second wife and child moved and changed their names due to shame and his first wife children grew up and were on their own. Majors left Nebraska and spent time in Salt Lake City and witnessed the completion of transcontinental railroad in 1869 while he was working in the support of Union Pacific Railroads drive west later he lived for a while in Denver _(Morton, 2012)_.
+In 1862, Russell, Majors and Waddell firm closed as they were bankrupt and in scandal with U.S. Department of the Interior _(Morton, 2012)_. Later Majors marriage and family fell apart, his second wife and child moved and changed their names due to shame and his first wife children grew up and were on their own. Majors left Nebraska and spent time in Salt Lake City and witnessed the completion of [transcontinental railroad](https://en.wikipedia.org/wiki/Transcontinental_railroad) in 1869 while he was working in the support of Union Pacific Railroads drive west later he lived for a while in Denver _(Morton, 2012)_.
 
 {% include figure.html
   class="img-right"
@@ -100,7 +98,7 @@ His old friend Buffalo Bill Cody arranged in publishing a book "Majors ś sevent
   src="images/alexander-majors-house-side-view-image.PNG"
 %}
 
-Architectural style of the building is [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html), "T" shaped floor plan, 9 room two storied house in light wood frame construction. This house is one of the third oldest houses with light wood frame construction in Kansas facing towards west _(NHRF-1969, MAJORS)_.
+Architectural style of the building is [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html), "T" shaped floor plan, 9 room two storied house in [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the third oldest houses with light wood frame construction in Kansas facing towards west _(NHRF-1969, MAJORS)_.
 
 * #### Outbuildings and Grounds
 
@@ -120,7 +118,7 @@ The house was turned into school and community meeting space for residential nee
 
 ### Majors house bought by his descendant
 
-In 1930, Louisa P. Johnston, Majors's great grand-daughter travelled to visit her ancestral home and found the abandoned state of the house. She brought the house and started working on it in 1932 and for forty years she put effort in turning the property into a memorial for her ancestor and for its history _(Morton, 2012)_. In 1945, the then Senator Harry Truman initiated a bill that the house will be purchased and maintained but the bill never passed. After many efforts of Louisa to get that funded money but couldn't succeed. Finally in 1970, National Historic Association aided by Rusell-Majors-Waddell the house got listed in register of National Historic sites _(Morton, 2012)_.
+In 1930, Louisa P. Johnston, Majors's great grand-daughter travelled to visit her ancestral home and found the abandoned state of the house. She brought the house and started working on it in 1932 and for forty years she put effort in turning the property into a memorial for her ancestor and for its history _(Morton, 2012)_. In 1945, the then Senator Harry Truman initiated a bill that the house will be purchased and maintained but the bill never passed. After many efforts of Louisa to get that funded money but couldn't succeed. Finally in 1970, [National Historic Association](https://en.wikipedia.org/wiki/American_Historical_Association) aided by Rusell-Majors-Waddell the house got listed in register of National Historic sites _(Morton, 2012)_.
 
 In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and State Line Road which gave 6 acre park surrounding the house but despite the plan it couldn't proceed for nearly 10 years _(Morton, 2012)_. In 1979, Louisa Johnston died leaving the house to Terry W. Chapman who worked as the restoration architect for the house. The structural work was finished in 1983 and was a show case project in Kansas city Symphony, which provided interior finishes _(Morton, 2012)_.
 
@@ -135,6 +133,11 @@ In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and 
 In 1984, the Alexanders Majors House Museum is open to public for tours and events. In 2010, the house was joined with John Wornall house and museum and functioned together reinforcing the historic legacy of the area and house on the edge of the frontier _(Morton, 2012)_. Wornall-Majors Museum has organized events and celebrations like weddings, event rentals, on site photography, school field trips, summer camps, field trips, Holiday candlelight tours, birthday parties and private and group tours _(Wornall Majors House Museums, 2018.11.12)_.
 
 Another interesting part of exploring Majors house is Ghost tours about the strange events and open to paranormal investigation groups to explore and experience the ghost haunting which are held between 7 p.m. and 2 a.m. _(Wornall Majors House Museums, 2018.11.12)_.
+
+### Find it here !!!
+
+**Alexander Majors Barn,
+8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114**
 
 ### Nearby historic sites and Significant Places, People and Articles
 
