@@ -30,7 +30,7 @@ La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero,
 
 [^NPS-Form]:NPS La Cueva Historic Distric p-3
 [^NPS-Form-2]:NPS La Cueva Historic Distric p-3.1 
-[^ranchos1]:Ranchos of Northern New Mexico p. 19
+[^ranchos1]:Ranchos of Northern New Mexico p. 19.1
 
 
 ## Milling, Farming, and the Santa Fe Trail
