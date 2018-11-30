@@ -90,3 +90,4 @@ Lands of New Mexico Community Land Grants_ University of New Mexico Press. Janua
 [^Jenks2]: Jenks Vecinos el La Frontera, 2011 
 [^source2]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
 [^source2-1]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
+
