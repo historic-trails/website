@@ -8,7 +8,8 @@ date: 2018-11-30
 # San Miguel del Vado Historic District
 
 
-{% include figure.html class="img-center" width="66%" caption="Drawing of San Miguel del Vado dated to 1846 during the heyday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahua. Source: Wikimedia Commons" src="images/san-migel-del-vado-1846.jpg" %}
+{% include figure.html class="img-center" width="66%" caption="Drawing of San Miguel del Vado dated to 1846 during the heyday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahua.[^image1]" src="images/san-migel-del-vado-1846.jpg" %}
+[^image1]: Source: Wikimedia Commons https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant 
 
 San Miguel del Vado in San Miguel County, New Mexico was founded in 1794 and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail.[^Jenks1] Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe Trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860  when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, NM.
 
@@ -23,7 +24,9 @@ San Miguel del Vado was a popular stop for merchants and traders on the Santa Fe
 
 
 ## San Miguel del Vado as trading common
-Merchants would stop here and repackage or combine their goods and reduce their loads to avoid taxes and fees once they reached Santa Fe. Some French and American merchants would conduct their business in the San Miguel commons; bypass Santa Fe completely on their way to Chihuahua to avoid Spanish and Mexican duties[^NRHP8]. This of course, was not a welcome practice to the Spanish and later Mexican government, but they had little power to persuade traders to do their taxes. Spanish presidio government stationed troops in San Miguel to stop smuggling and tax evasion by merchants on the Santa Fe Trail.[^NRHP8][^source2]
+Merchants would stop here and repackage or combine their goods and reduce their loads to avoid taxes and fees once they reached Santa Fe. Some French and American merchants would conduct their business in the San Miguel commons; bypass Santa Fe completely on their way to Chihuahua to avoid Spanish and Mexican duties[^NRHP8]. This of course, was not a welcome practice to the Spanish and later Mexican government, but they had little power to persuade traders to do their taxes. Spanish presidio government stationed troops in San Miguel to stop smuggling and tax evasion by merchants on the Santa Fe Trail.[^NRHP8-1][^LOAsource2]
+[^NRHP8-1]: National Register of Historic Places, section 8 page 2 paragraph 3
+[^LOAsource2]: Legends of America, San Miguel del Vado, New Mexico page 1, paragraph 10
 
 {% include figure.html class="img-right" width="33%" caption="1975 Pecos Valley Project Plan. Source: Library of Congress" src="images/san-miguel-del-vado-historic-district.JPG" %}
 
@@ -79,7 +82,7 @@ Lands of New Mexico Community Land Grants_ University of New Mexico Press. Janua
 * National Register of Historic Places Inventory- Nomination Form, July 20, 1972. [Accessed](https://github.com/historic-trails/santa-fe-itinerary/blob/master/historic-registration-forms/san_miguel_del_vado_historic_district.pdf) November 28, 2018.
 
 [^Jenks1]:Jenks Archeology at San Miguel del Vado, 2010. NMSU Department of Archeology
-[^NRHP8]: National Register of Historic Places, section 8 page 1.
+[^NRHP8]: National Register of Historic Places, section 8 page 1, paragraph 2.
 [^NRHP7]: National Register of Historic Places, section 7 page 1.
 [^Jenks2]: Jenks Vecinos el La Frontera, 2011 
-[^source2]: Legends of America
+[^source2]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
