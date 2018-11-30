@@ -56,4 +56,4 @@ Kansas Department of Transportation. “KDOT: Historic State Maps.” [https://w
 
 Maloy, John. _History of Morris County, 1820 to 1890_. Kansas: Morris County Historical Society, 1981.
 
-[^Andreas, 55]: Andreas, 55.
+[^Andreas]: Andreas, 55.
