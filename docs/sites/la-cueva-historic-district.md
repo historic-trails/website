@@ -5,6 +5,16 @@ layout: single-col
 date: 2018-11-26
 ---
 
+# La Cueva Historic District
+
+Just a short drive from [Ft. Union National Monument](https://www.nps.gov/foun/index.htm), across the northern plains of New Mexico and nearing the foothils of Santa Fe National Forest, you will find the La Cueva Historic District. The La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of Ft.Union National Monument. La Cueva Historic District had a historically significant time period from around 1851 to 1895 and helped shape the surrounding region and had direct impacts to the Santa Fe Trail.  The site consists of several structures: the Romero Hacienda, [a grist mill](https://en.wikipedia.org/wiki/Gristmill), a mercantile building, the Church of San Rafel, stables, a farm, [aquecia](http://www.nmacequiacommission.state.nm.us/Publications/kfrancis_harvard_proposal04.pdf), and a few outbuildings.  
+{% include figure.html
+  class="img-center"
+  width="66%"
+  width="90%"
+  caption="La Cueva in context of the Santa Fe Trail.  Ft.Union was a major destination for milled grains leaving La Cueva"
+  src="images/la-cueva-region-map.jpg"
+%}
 
 
 ## Founding La Cueva
@@ -14,9 +24,6 @@ date: 2018-11-26
   caption="The inn and stables of La Cueva, built from adobe with metal tin roofs.  Here travelers could rest themselves and water their horses"
   src="images/la-cueva-stables-inn.jpg"
 %}
-
-
-La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero, the land was a Spanish land grant, and Romero purchased a 33,000 acre portion of the original Mora [land grant](https://en.wikipedia.org/wiki/Land_grants_in_New_Mexico) from several descendants who owned the property: Pedro Chacon, Miguel Mascarenas, Francisco Sandoval, Maria Dolores Romero, and Mareo Sandoval.  These claimants held the largest portions of the grant sold to Vicente [^NPS-Form].  The name "La Cueva" (translation: The Cave) may have come from a few origins for the site:  Vicente had been a sheep herder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named [^NPS-Form-2].  Others say the ranch was named La Cueva simply due to a nearby cave[^ranchos1].  The official reason for the naming convention may never be known.  One thing was for certain, Vicente realized the potential of the land, the nearby [Mora River](https://en.wikipedia.org/wiki/Mora_River), and the need for grain on the Santa Fe Trail.  
 
 
 
