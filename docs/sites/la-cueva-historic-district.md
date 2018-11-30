@@ -28,9 +28,7 @@ Just a short drive from [Ft. Union National Monument](https://www.nps.gov/foun/i
 
 La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero, the land was a Spanish land grant, and Romero purchased a 33,000 acre portion of the original Mora [land grant](https://en.wikipedia.org/wiki/Land_grants_in_New_Mexico) from several descendants who owned the property: Pedro Chacon, Miguel Mascarenas, Francisco Sandoval, Maria Dolores Romero, and Mareo Sandoval.  These claimants held the largest portions of the grant sold to Vicente [^NPS-Form].  The name "La Cueva" (translation: The Cave) may have come from a few origins for the site:  Vicente had been a sheep herder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named [^NPS-Form-2].  Others say the ranch was named La Cueva simply due to a nearby cave[^ranchos1].  The official reason for the naming convention may never be known.  One thing was for certain, Vicente realized the potential of the land, the nearby [Mora River](https://en.wikipedia.org/wiki/Mora_River), and the need for grain on the Santa Fe Trail.  
 
-[^NPS-Form]:NPS La Cueva Historic Distric p-3
-[^NPS-Form-2]:NPS La Cueva Historic Distric p-3-1 
-[^ranchos1]:Ranchos of Northern New Mexico p-19-1
+
 
 
 ## Milling, Farming, and the Santa Fe Trail
@@ -72,7 +70,34 @@ Vicente also commissioned a church to be built on the property that would become
 ## La Cueva Today
 Today La Cueva is a private residence as well as a [farm](https://www.lacuevafarm.com/).  In the summer months travelers seeking fun can pick raspberries and bring them home.  But the current day use still has nods to the history of La Cueva.  Mora County is home to many historic landmarks on the historic register, this could be a way for the economically depressed area to benefit from it's rich past.   
 
+##### Nearby Places
+[Ft.Union National Monument](https://www.nps.gov/foun/index.htm)
 
+[The Santa Fe Trail](https://www.nps.gov/safe/index.htm)
+
+[St. Vrain's Mill](https://en.wikipedia.org/wiki/St._Vrain%27s_Mill)
+
+[Watrous (La Junta)](https://en.wikipedia.org/wiki/Watrous_(La_Junta))
+
+[Glorietta Battlefield](https://home.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm)
+
+##### Articles
+
+[Salaman Rasperry Ranch](https://www.lacuevafarm.com/)
+
+[Critical Reading: Valencia and La Cueva Ranchos](https://www.nps.gov/nr/twhp/wwwlps/lessons/96ranchos/96facts3.htm) 
+
+[Cultural Landscapes of Ft. Union](https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1305&context=hp_theses)
+
+##### Associated People
+
+[Christopher “Kit” Carson](https://www.nps.gov/parkhistory/online_books/hh/35/hh35m.htm)
+
+[Ceran St. Vrain](https://en.wikipedia.org/wiki/Ceran_St._Vrain)
+
+[Charles Probst](https://flh.fhwa.dot.gov/projects/nm/el-camino/documents/fonsi.pdf)
+
+### Bibliography
 
 
 Art Latham. (1995). Lost in the Land of Enchantment. Arroyo Press. Retrieved from http://archive.org/details/lostinlandofench00lath
