@@ -23,7 +23,6 @@ Beginning at a trading post in 1847, Council Grove, situated an hour southwest o
 %}
 Council Grove began as little more than a resting point on the newly opened Santa Fe Trail in 1821. [^NRHP8441] The area boasted plenty of water, grazing land, trees, and safety. [^NRHP8442] While still organized as an Indian territory, Seth Hays, a business man,  opened the first trading post under government contract in 1847. [^Maloy2] By 1854 Seth Hays had competition from the Withington brothers, the Choteau brothers, and others. [^Brigham-Maloy] Seth Hays built the first house in Council Grove in 1857. [^Brigham12] With more people realizing the potential for business as the last stop heading west on the Santa Fe Trail, Tom Hill constructed the [Last Chance Store](https://en.wikipedia.org/wiki/Last_Chance_Store), also built in 1857. [^Brigham15] This store provided the last stop along the Santa Fe Trail for hundreds of miles. With the organization of Kansas in 1854, towns could begin incorporating, as Council Grove did in 1858 with Seth Hays and other business people forming the town company in 1857. [^Brigham1116]
 
-
 [^wiki]: [https://en.wikipedia.org/wiki/Last_Chance_Store](https://en.wikipedia.org/wiki/Last_Chance_Store).
 [^NRHP8441]: NRHP, 8.44.
 [^NRHP8442]: NRHP, 8.44.
