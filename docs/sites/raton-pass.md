@@ -5,7 +5,7 @@ layout: single-col
 date: 2018-11-19
 ---
 
-# Wars and Wagons
+# Raton Pass: Wars and Wagons
 
 {% include figure.html
   class="img-right"
