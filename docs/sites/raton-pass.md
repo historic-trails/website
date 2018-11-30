@@ -59,7 +59,7 @@ Raton Pass played an important military role again during the Civil War, as the 
   class="img-right"
   width="33%"
   caption="Early train traffic through the pass, 1959."
-  src="images/train-971959.jpg"
+  src="images/raton-train.jpg"
 %}
 
 In 1908 ATSF completed a second tunnel under Raton Pass to handle increased traffic, but developments in rail around the West signaled the decline of Raton Pass as a major rail corridor. First, ATSF finished the Belen Cutoff in central New Mexico, giving the railroad an easier route. Raton Pass continued to be used for passengers, but all long-haul trains now took the Belen Cutoff route. In 1908–9 New Mexico used convict labor to build a new highway that crossed the Colorado border near Raton Pass, further reducing traffic through the area.
