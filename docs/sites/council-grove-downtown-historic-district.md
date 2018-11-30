@@ -7,7 +7,7 @@ date: 2018-11-25
 
 # Council Grove Downtown Historic District
 
-Beginning at a trading post in 1847, Council Grove, situated an hour southwest of Topeka, Kansas on the Neosho River, played an important role along the Santa Fe Trail as the last stop heading west until Santa Fe (Andreas, 55). It has served traders, merchants, and ranchers throughout the mid and late 1800s and into the twentieth century. When the Santa Fe Trail opened up in 1821, Council Grove was just an area with plenty of grazing land, water, trees, and safe crossing (NRHP, 8.44, Brigham, 11). By 1854 with the opening of Kansas to white settlers, Council Grove changed from a simple trading post to the true jumping off point for the Santa Fe Trail (Brigham, 11, Andreas, 55). As time went on, Council Grove continued to expand and adapt based on the changing needs of those on the trail, like the adoption of railroads and the subsequent trade of cattle (Maloy, 64).
+Beginning at a trading post in 1847, Council Grove, situated an hour southwest of Topeka, Kansas on the Neosho River, played an important role along the Santa Fe Trail as the last stop heading west until Santa Fe. [^Andreas, 55] It has served traders, merchants, and ranchers throughout the mid and late 1800s and into the twentieth century. When the Santa Fe Trail opened up in 1821, Council Grove was just an area with plenty of grazing land, water, trees, and safe crossing (NRHP, 8.44, Brigham, 11). By 1854 with the opening of Kansas to white settlers, Council Grove changed from a simple trading post to the true jumping off point for the Santa Fe Trail (Brigham, 11, Andreas, 55). As time went on, Council Grove continued to expand and adapt based on the changing needs of those on the trail, like the adoption of railroads and the subsequent trade of cattle (Maloy, 64).
 
 ### The Early Years
 {% include figure.html
@@ -55,3 +55,5 @@ Juracek, K.E., C.A. Perry, and J.E. Putnam. “The 1951 Floods in Kansas Revisit
 Kansas Department of Transportation. “KDOT: Historic State Maps.” [https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp](https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp).
 
 Maloy, John. _History of Morris County, 1820 to 1890_. Kansas: Morris County Historical Society, 1981.
+
+[^Andreas, 55]: Andreas, 55.
