@@ -14,7 +14,7 @@ date: 2018-11-30
 San Miguel del Vado in San Miguel County, New Mexico was founded in 1794 and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail.[^Jenks1] Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe Trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860  when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, NM.
 
 ## Spanish Settlement
-San Miguel del Vado was established by [Lorenzo Marquez](http://dev.newmexicohistory.org/filedetails.php?fileID=9998) of Santa Fe, and 51 other Spanish families.[^source2] This was thanks to the [land grant](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant) approved by the Spanish Governor of the territory in November of 1794. Building Spanish outposts in the area was promoted for the protection of settlers against Comanche raids. The residence of the village, or _Vecinos_ were Spanish, Pecos Indians, converted Comanche, and Native American slaves called _Genizaro_.
+San Miguel del Vado was established by [Lorenzo Marquez](http://dev.newmexicohistory.org/filedetails.php?fileID=9998) of Santa Fe, and 51 other Spanish families.[^source2] This was thanks to the [land grant](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant) approved by the Spanish Governor of the territory in November of 1794. Building Spanish outposts in the area was promoted for the protection of settlers against Comanche raids.[^source2-1] The residence of the village, or _Vecinos_ were Spanish, Pecos Indians, converted Comanche, and Native American slaves called _Genizaro_.
 
 
 ## Pecos River crossing for the Santa Fe Trail
@@ -86,3 +86,4 @@ Lands of New Mexico Community Land Grants_ University of New Mexico Press. Janua
 [^NRHP7]: National Register of Historic Places, section 7 page 1.
 [^Jenks2]: Jenks Vecinos el La Frontera, 2011 
 [^source2]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
+[^source2-1]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
