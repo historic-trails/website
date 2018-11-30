@@ -13,7 +13,7 @@ Beginning at a trading post in 1847, Council Grove, situated an hour southwest o
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Last Chance Store"
+  caption="The Last Chance Store was the last place along the Santa Fe Trail to buy goods heading west. [https://en.wikipedia.org/wiki/Last_Chance_Store](https://en.wikipedia.org/wiki/Last_Chance_Store)"
   src="images/last-chance-store.jpg"
 %}
 Council Grove began as little more than a resting point on the newly opened Santa Fe Trail in 1821 (NRHP, 8.44). The area boasted plenty of water, grazing land, trees, and safety (NRHP, 8.44). While still organized as an Indian territory, Seth Hays, a business man,  opened the first trading post under government contract in 1847 (Maloy, 4). By 1854 Seth Hays had competition from the Withington brothers, the Choteau brothers, and others (Brigham, 11, Maloy, 6). Seth Hays built the first house in Council Grove in 1857 (Brigham, 12). With more people realizing the potential for business as the last stop heading west on the Santa Fe Trail, Tom Hill constructed the [Last Chance Store](https://en.wikipedia.org/wiki/Last_Chance_Store), also built in 1857 (Brigham, 15). This store provided the last stop along the Santa Fe Trail for hundreds of miles. With the organization of Kansas in 1854, towns could begin incorporating, as Council Grove did in 1858 with Seth Hays and other business people forming the town company in 1857 (Brigham, 11, 16).
@@ -29,8 +29,8 @@ The 1920s-30s proved to be a difficult time for Council Grove. In the early part
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Kaw Indian Mission"
-  src="images/kaw-indian-mission.jpg"
+  caption="Kaw Indian Mission as you can see it today. [https://www.kshs.org/p/american-indian-homes-in-kansas-kaw-mission/11863](https://www.kshs.org/p/american-indian-homes-in-kansas-kaw-mission/11863)"
+  src="images/kaw-indian-mission-today.jpg"
 %}
 After World War II, the Kansas State Legislature approved money to buy the Kaw Indian Mission to create a museum (NRHP, 8.53). While Council Grove had experienced many floods before, the 1951 flood was unlike any other. With the Neosho Rover flowing at 121,000 cubic feet/second, many buildings downtown were damaged (Juracek, 4). Included in this damage was the Kaw Indian Mission which meant that the museum wouldn't open for another year (NRHP, 8.53). This new museum and later on a new reservoir meant that Council Grove quickly began focusing on tourism, bringing several thousand people a year to the museum and several hundred thousand to the Council Grove reservoir (NRHP, 8.53).
 
@@ -38,18 +38,18 @@ After World War II, the Kansas State Legislature approved money to buy the Kaw I
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Council Grove Downtown Historic District"
+  caption="This is one block of the Council Grove Downtown Historic District today. [https://www.kshs.org/natreg/natreg_listings/search/county:MR](https://www.kshs.org/natreg/natreg_listings/search/county:MR)"
   src="images/council-grove-downtown-historic-district.jpg"
 %}
 The Council Grove Downtown Historic District has many sites of interest still standing today. During summer months, the Seth Hays Home is open to viewing on Sunday afternoons or by appointment with the [Morris County Historical Society](https://morriscountyhistory.us/our-collections/). The Kaw Indian Mission is also open to the public. More information can be found at the [Kansas Historical Society](https://www.kshs.org/index.php?url=kaw_mission). The Last Chance Store can be seen at 516 W. Main St, although the inside can't be viewed at this time.
 
 ### Bibliography
-Andreas, A.T. _History of the State of Kansas_. Kansas: Atchison County Historical Society, 1976.
+Andreas, A. T. History of the State of Kansas. Atchison, Kansas :, 1976. [http://hdl.handle.net/2027/osu.32435027247097](http://hdl.handle.net/2027/osu.32435027247097).
 
 Brigham, Lalla Maloy. _The Story of Council Grove on the Santa Fe Trail_. 1921.
 
-Juracek, K.E., C.A. Perry, and J.E. Putnam. "The 1951 Floods in Kansas Revisited." Water-Resources Investigations Report. June 01, 2001. https://pubs.er.usgs.gov/publication/fs04101.
+Juracek, K.E., C.A. Perry, and J.E. Putnam. “The 1951 Floods in Kansas Revisited.” USGS Numbered Series. Fact Sheet, 2001. [http://pubs.er.usgs.gov/publication/fs04101](http://pubs.er.usgs.gov/publication/fs04101).
 
-"KDOT Historic State Maps." KDOT: Home. https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp.
+Kansas Department of Transportation. “KDOT: Historic State Maps.” [https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp](https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp).
 
 Maloy, John. _History of Morris County, 1820 to 1890_. Kansas: Morris County Historical Society, 1981.
