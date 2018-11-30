@@ -89,7 +89,9 @@ Wellsville, Kansas
 [Santa Fe Depot/Midland Historic Railway](http://www.kansastravel.org/midlandrailway.htm)
    
 The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
-  
+
+#### Related People
+ * [Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker)
    
 ### Bibliography 
 
