@@ -2,7 +2,7 @@
 title: San Miguel del Vado Historic District
 author: Zoe Wiesel
 layout: single-col
-date: 2018-11-29
+date: 2018-11-30
 ---
 
 # San Miguel del Vado Historic District
@@ -23,14 +23,14 @@ San Miguel del Vado was a popular stop for merchants and traders on the Santa Fe
 
 
 ### San Miguel del Vado as trading common
-Merchants would stop here and repackage or combine their goods and reduce their loads to avoid taxes and fees once they reached Santa Fe. Some French and American merchants would conduct their business in the San Miguel commons; bypass Santa Fe (NRHP Section 8) completely on their way to Chihuahua to avoid Spanish and Mexican duties[^NRHP8]. This of course, was not a welcome practice to the Spanish and later Mexican government, but they had little power to persuade traders to do their taxes. Spanish presidio government stationed troops in San Miguel to stop smuggling and tax evasion by merchants on the Santa Fe Trail.[^NRHP8][^source2] (NRHP section 8 and Legends of America)
+Merchants would stop here and repackage or combine their goods and reduce their loads to avoid taxes and fees once they reached Santa Fe. Some French and American merchants would conduct their business in the San Miguel commons; bypass Santa Fe completely on their way to Chihuahua to avoid Spanish and Mexican duties[^NRHP8]. This of course, was not a welcome practice to the Spanish and later Mexican government, but they had little power to persuade traders to do their taxes. Spanish presidio government stationed troops in San Miguel to stop smuggling and tax evasion by merchants on the Santa Fe Trail.[^NRHP8][^source2]
 
 {% include figure.html class="img-right" width="33%" caption="1975 Pecos Valley Project Plan. Source: Library of Congress" src="images/san-miguel-del-vado-historic-district.JPG" %}
 
 
 ### Historic Plaza
-San Miguel has many historic buildings that illustrate architecture from different periods.  San Miguel del Vado's Plaza is bisected by the Santa Fe Trail and the Pecos River, making it function as two plazas.[^NRHP7] (NRHP section 7) Two historic buildings remain on the east side of the plaza, the Dance Hall and Zaguan house retain Spanish period characteristics including low windows and wood ceilings. West of the Plaza lies the foundation of the old San Miguel County courthouse and what may have been a hotel.[^NRHP7] (NRHP section 7, paragraph 4.)
-Southwest of the historic church, metal and ceramic artifacts can still be spotted littering the ground. This is evidence of the gathering and resting place of traders and travelers on the Santa Fe Trail.[^Jenks1] (Jenks)
+San Miguel has many historic buildings that illustrate architecture from different periods.  San Miguel del Vado's Plaza is bisected by the Santa Fe Trail and the Pecos River, making it function as two plazas.[^NRHP7] Two historic buildings remain on the east side of the plaza, the Dance Hall and Zaguan house retain Spanish period characteristics including low windows and wood ceilings. West of the Plaza lies the foundation of the old San Miguel County courthouse and what may have been a hotel.[^NRHP7]
+Southwest of the historic church, metal and ceramic artifacts can still be spotted littering the ground. This is evidence of the gathering and resting place of traders and travelers on the Santa Fe Trail.[^Jenks1]
 
 ### San Miguel del Vado Church
 San Miguel del Vado Church is located on the west side of the plaza. The Church is one of the oldest remaining buildings in the Settlement; however, the church's architecture is a mix of Spanish colonial, Gothic windows and spires, wood and linoleum floors, and a bell added in 1821, and other modern amenities. Despite these different design influences, the internal structure of the church is the same as when it was built in 1805, and it still functions as the cultural center of the village.[^NRHP8]
@@ -45,7 +45,7 @@ With Mexico's independence from Spain in 1821, the Southwest was open for trade 
 {% include figure.html class="img-right" width="33%" caption="This historic district has numerous buildings from the Santa Fe Trail period, but few are still in use. Source: Wikimedia Commons." src="images/San_Miguel_del_Vado_NM.JPG" %}
 
 ### Decline in the second half of the 19th century
-As an agricultural and cattle dependent economy, the district was effected by industrialization in the region. The productivity and political center of San Miguel county was relocated to Las Vegas in 1860[^NRHP8]. (NRHP, section 8) With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas and Santa Fe, NM, or in southern Colorado. This continued into the second half of the 19th century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) when U.S. supreme court decided to shrink the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres.[^Jenks2] (Jenks). This decision cut the village off from their abundant grazing, agricultural and timber resources.
+As an agricultural and cattle dependent economy, the district was effected by industrialization in the region. The productivity and political center of San Miguel county was relocated to Las Vegas in 1860[^NRHP8]. With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas and Santa Fe, NM, or in southern Colorado. This continued into the second half of the 19th century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) when U.S. supreme court decided to shrink the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres.[^Jenks2] This decision cut the village off from their abundant grazing, agricultural and timber resources.
 
 {% include figure.html class="img-right" width="40%" caption="San Miguel del Vado Church remains the center of culture and society in this historic village. Source: Wikimedia Common" src="images/san-miguel-del-vado-church.jpg" %}
 ### San Miguel del Vado today
