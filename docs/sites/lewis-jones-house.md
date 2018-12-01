@@ -34,3 +34,9 @@ The Lewis Jones house is located on 104 Elizabeth Street in Independence, Missou
 * Information on [Independence, Missouri](http://visitindependence.com/) 
 * Original [NPS Form](https://dnr.mo.gov/shpo/nps-nr/94000320.pdf) 
 * More Information on the [Santa Fe Trail](https://www.legendsofamerica.com/santa-fe-trail/)
+## Related Places
+* Places to Visit in [Independence, Missouri](http://visitindependence.com/things-to-do/pioneers-and-trails/)
+* Places to Visit on [The Santa Fe Trail](https://www.nps.gov/safe/planyourvisit/placestogo.htm)
+* Tourist Attractions in [Kansas City](https://www.tripadvisor.com/Attractions-g44535-Activities-Kansas_City_Missouri.html)
+## Related People
+* Other [Wagon Makers](https://blackpast.org/aah/young-hiram-1812-1882)
