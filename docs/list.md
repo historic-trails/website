@@ -15,7 +15,7 @@ date: 2017-12-19
 - [Fort Marcy Ruins](sites/fort-marcy): Aaron
 - Fort Union: Andres
 - [La Cueva Historic District](sites/la-cueva-historic-district): Sean O'Neill
-- Las Vegas Plaza Historic District: Jacob
+- [Las Vegas Plaza Historic District](sites/las-vegas-plaza-historic-district): Jacob
 - [Lewis Jones House](sites/lewis-jones-house): Jesse
 - [Neff Tavern Smokehouse](sites/neff-tavern-smokehouse): Julia
 - [Raton Pass](sites/raton-pass): Jason
