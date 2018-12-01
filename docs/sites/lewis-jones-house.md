@@ -6,7 +6,6 @@ date: 2018-11-28
 ---
 
 
-
 The Lewis Jones House was home to one of the most significant traders and business men of Independence, Missouri in the 1840s. Lewis Jones was a key member in the trade community in Independence and along the Santa Fe Trail.{% include figure.html
   class="img-right"
   width="33%"
