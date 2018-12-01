@@ -1,10 +1,8 @@
 ---
-
 title: Las Vegas Plaza Historic District
 author: Jacob Martinez
 layout: single-col
 date: 2018-25-11
-
 ---
 
 # The Las Vegas Plaza #
