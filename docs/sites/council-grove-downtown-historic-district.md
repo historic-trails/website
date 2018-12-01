@@ -18,7 +18,7 @@ Beginning at a trading post in 1847, Council Grove, situated an hour southwest o
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The Last Chance Store was the last place along the Santa Fe Trail to buy goods heading west. [^wiki] "
+  caption="The Last Chance Store was the last place along the Santa Fe Trail to buy goods heading west. [^wiki]"
   src="images/last-chance-store.jpg"
 %}
 Council Grove began as little more than a resting point on the newly opened Santa Fe Trail in 1821. [^NRHP8441] The area boasted plenty of water, grazing land, trees, and safety. [^NRHP8442] While still organized as an Indian territory, Seth Hays, a business man,  opened the first trading post under government contract in 1847. [^Maloy2] By 1854 Seth Hays had competition from the Withington brothers, the Choteau brothers, and others. [^Brigham-Maloy] Seth Hays built the first house in Council Grove in 1857. [^Brigham12] With more people realizing the potential for business as the last stop heading west on the Santa Fe Trail, Tom Hill constructed the [Last Chance Store](https://en.wikipedia.org/wiki/Last_Chance_Store), also built in 1857. [^Brigham15] This store provided the last stop along the Santa Fe Trail for hundreds of miles. With the organization of Kansas in 1854, towns could begin incorporating, as Council Grove did in 1858 with Seth Hays and other business people forming the town company in 1857. [^Brigham1116]
@@ -34,12 +34,24 @@ Council Grove began as little more than a resting point on the newly opened Sant
 
 
 ## Railroad or Bust
-With the advent of the railroad, Council Grove looked to cash in on the extra potential for transportation and movement, just as they were accustomed to with the Santa Fe Trail passing through the town. In 1865, the town passed a bond measure for $100,000 for railroads to be brought through, but these bonds failed to attract railroads (Maloy, 50). The town had to wait four more years for a railroad, when in 1869 the [M. K. & T. Railroad](https://en.wikipedia.org/wiki/Missouri%E2%80%93Kansas%E2%80%93Texas_Railroad) made its first passage through the town (Brigham, 40). In 1881, more bonds passed to bring the Topeka, Salina and Southwestern Railroad which became part of the [Missouri Pacific Railroad](https://en.wikipedia.org/wiki/Missouri_Pacific_Railroad) line (Brigham, 62). These railroad lines allowed businesses to connect with more people and keep the town as an important stop along the Santa Fe Trail.
+With the advent of the railroad, Council Grove looked to cash in on the extra potential for transportation and movement, just as they were accustomed to with the Santa Fe Trail passing through the town. In 1865, the town passed a bond measure for $100,000 for railroads to be brought through, but these bonds failed to attract railroads. [^Maloy50] The town had to wait four more years for a railroad, when in 1869 the [M. K. & T. Railroad](https://en.wikipedia.org/wiki/Missouri%E2%80%93Kansas%E2%80%93Texas_Railroad) made its first passage through the town. [^Brigham40] In 1881, more bonds passed to bring the Topeka, Salina and Southwestern Railroad which became part of the [Missouri Pacific Railroad](https://en.wikipedia.org/wiki/Missouri_Pacific_Railroad) line. [Brigham62] These railroad lines allowed businesses to connect with more people and keep the town as an important stop along the Santa Fe Trail.
+
+[^Maloy50]: Maloy, 50.
+[^Brigham40]: Brigham, 40.
+[^Brighm62]: Brigham, 62.
 
 ## Twentieth Century to Post War Era
-Looking to connect more farmers, ranchers, and businesses to more people, Council Grove began to develop a road system for automobiles in the early 20th century. In 1901, W.E. Dennison rode around town on his new automobile (NRHP, 8.50). By 1913 there were over 200 automobiles in Council Grove and by 1921 there were 47 miles of hard surface roads to be built in the town (NRHP, 8.50, Brigham, 98). While Kansas began implementing plans on a unified road network, Council Grove was able to bring three highways through the town by 1932 (KDOT map).
+Looking to connect more farmers, ranchers, and businesses to more people, Council Grove began to develop a road system for automobiles in the early 20th century. In 1901, W.E. Dennison rode around town on his new automobile. [^NRHP8501] By 1913 there were over 200 automobiles in Council Grove and by 1921 there were 47 miles of hard surface roads to be built in the town. [^NRHP850-Brigham98] While Kansas began implementing plans on a unified road network, Council Grove was able to bring three highways through the town by 1932. [^KDOT]
 
-The 1920s-30s proved to be a difficult time for Council Grove. In the early part of the 1920s, farmers were going into debt due to inflated crop pricing (NRHP, 8.52). However, with large federal investment in the 1930s, Council Grove was able to overcome difficulties and create a safer and modern town. To help with flooding, the [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) approved $40 million in 1934 to help prevent flooding with the project being completed in 1942 (NRHP, 8.52). The town received other [New Deal](https://en.wikipedia.org/wiki/New_Deal) era help from the federal government including a new jail, a post office, a water plant, and the Flint Hills Rural Electrification Administration (NRHP, 8.52).
+[^NRHP8501]: NHRP, 8.50.
+[^NRHP850-Brigham98]: NRHP, 8.50. Brigham, 98.
+[^KDOT]: KDOT map.
+
+The 1920s-30s proved to be a difficult time for Council Grove. In the early part of the 1920s, farmers were going into debt due to inflated crop pricing. [^NRHP8521] However, with large federal investment in the 1930s, Council Grove was able to overcome difficulties and create a safer and modern town. To help with flooding, the [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) approved $40 million in 1934 to help prevent flooding with the project being completed in 1942. [^NRHP8522] The town received other [New Deal](https://en.wikipedia.org/wiki/New_Deal) era help from the federal government including a new jail, a post office, a water plant, and the Flint Hills Rural Electrification Administration. [^NRHP8553]
+
+[^NRHP8521]: NRHP, 8.52.
+[^NRHP8522]: NRHP, 8.52.
+[^NRHP8553]: NRHP, 8.52.
 
 {% include figure.html
   class="img-left"
@@ -47,7 +59,12 @@ The 1920s-30s proved to be a difficult time for Council Grove. In the early part
   caption="Kaw Indian Mission as you can see it today. [https://www.kshs.org/p/american-indian-homes-in-kansas-kaw-mission/11863](https://www.kshs.org/p/american-indian-homes-in-kansas-kaw-mission/11863)"
   src="images/kaw-indian-mission-today.jpg"
 %}
-After World War II, the Kansas State Legislature approved money to buy the Kaw Indian Mission to create a museum (NRHP, 8.53). While Council Grove had experienced many floods before, the 1951 flood was unlike any other. With the Neosho Rover flowing at 121,000 cubic feet/second, many buildings downtown were damaged (Juracek, 4). Included in this damage was the Kaw Indian Mission which meant that the museum wouldn't open for another year (NRHP, 8.53). This new museum and later on a new reservoir meant that Council Grove quickly began focusing on tourism, bringing several thousand people a year to the museum and several hundred thousand to the Council Grove reservoir (NRHP, 8.53).
+After World War II, the Kansas State Legislature approved money to buy the Kaw Indian Mission to create a museum. [^NRHP8531] While Council Grove had experienced many floods before, the 1951 flood was unlike any other. With the Neosho Rover flowing at 121,000 cubic feet/second, many buildings downtown were damaged. [^Juracek4] Included in this damage was the Kaw Indian Mission which meant that the museum wouldn't open for another year. [^NRHP8532] This new museum and later on a new reservoir meant that Council Grove quickly began focusing on tourism, bringing several thousand people a year to the museum and several hundred thousand to the Council Grove reservoir. [^NRHP8533]
+
+[^NRHP8531]: NRHP, 8.53.
+[^Juracek4]: Juracek, 4. 
+[^NRHP8532]: NRHP, 8.53.
+[^NRHP8533]: NRHP, 8.53.
 
 ## Visiting Council Grove
 {% include figure.html
