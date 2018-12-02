@@ -8,7 +8,7 @@ date: 2018-12-12
   class="img-right"
   width="100%"
   caption="Map of the Santa Fe Trail"
-  src="sites/images/santa-fe-trail-map.jpg"
+  src="sites/images/home-page-indian-territory.jpg"
 %}
 
 # Santa Fe Trail Historic Sites
