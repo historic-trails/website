@@ -33,19 +33,17 @@ Independence, Missouri was the gateway to the west in the 1840s and it was the c
 [^MOI037]: Merchants of Independence, 37
 [^MOI056]: Merchants of Independence, 56
 ## The House Itself
-The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two story, three bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it. 
-
-[^NPS10]: NPS, Sec.7, 1
-[^NPS11]: NPS, 1
-[^NPS12]: NPS, 1
-[^NPS13]: NPS, 1
-
-{% include figure.html
+The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two story, three bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it. {% include figure.html
   class="img-right"
   width="40%"
   caption="The Lewis Jones House in the modern day."
   src="images/lewis-jones-house-photo.jpg"
 %}
+
+[^NPS10]: NPS, Sec.7, 1
+[^NPS11]: NPS, 1
+[^NPS12]: NPS, 1
+[^NPS13]: NPS, 1
 
 ##  The Visit
 The Lewis Jones house is located on 104 Elizabeth Street in Independence, Missouri. It is very easy to access the area and it is easily located on a map of the city. The house unfortunately is not avaliable for tours, due to it's private ownership. If you are visiting the house, please be respectful of the owners and other inhabitants of the neighborhood. When visiting this area you may want to check weather forcasts to determine clothing options and possible items to bring along. A camera is optional but also recommended in order to capture the historical site. If driving to the site, please be aware of any parking laws nearby. Since the house is located in the historical goldmine that is Independence, Missouri, there are many other sites to look at. Take advantage of the rich history and cultural significance of the area and enjoy your visit to the Lewis Jones house.
