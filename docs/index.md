@@ -5,7 +5,7 @@ date: 2018-12-12
 ---
 
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="100%"
   caption="Henry Jackson, "Indian Territory with Parts of Neighboring States and Territories" (New York: J. Bien, 1869. Courtesy of David Rumsey Historical Map Collection"
   src="docs/sites/images/home-page-indian-territory.jpg"
@@ -13,7 +13,13 @@ date: 2018-12-12
 
 # Santa Fe Trail Historic Sites
 
-The Santa Fe Trail was a 19th-century transportation route through central North America that connected Independence, Missouri with Santa Fe, New Mexico. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880. Santa Fe was near the end of the El Camino Real de Tierra Adentro, which carried trade from Mexico City.
+### "The overland trade between the United States and the northern provinces of Mexico, seems to have had no very definite origin; having been rather the result of accident than of any organized plan of commercial establishment." -Josiah Gregg, _Commerce of the Prairies_, 9
+
+Accident or not, the Santa Fe Trail deserves the As an economic lifeline connecting multiple cultural groups, the trail possesses richness beyond a simple story of westward expansion. The trail connected Missouri, on the western margin of a growing United States, with New Mexico, at the northern end of a newly-independent, Spanish-speaking nation; Santa Fe was near the end of the El Camino Real de Tierra Adentro, which carried trade from Mexico City. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880.
+
+Today, the National Park Service 
+
+The Santa Fe Trail was a 19th-century transportation route through central North America that connected Independence, Missouri with Santa Fe, New Mexico. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880. .
 
 The route skirted the northern edge and crossed the north-western corner of Comancheria, the territory of the Comanches, who demanded compensation for granting passage to the trail, and represented another market for American traders. Comanche raiding farther south in Mexico isolated New Mexico, making it more dependent on the American trade, and provided the Comanches with a steady supply of horses for sale. By the 1840s, trail traffic along the Arkansas Valley was so heavy that bison herds could not reach important seasonal grazing land, contributing to their collapse, which in turn hastened the decline of Comanche power in the region.
 
