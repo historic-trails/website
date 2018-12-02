@@ -15,7 +15,7 @@ date: 2018-12-12
 
 ### "The overland trade between the United States and the northern provinces of Mexico, seems to have had no very definite origin; having been rather the result of accident than of any organized plan of commercial establishment." -Josiah Gregg, _Commerce of the Prairies_, 9
 
-Accident or not, the Santa Fe Trail deserves the As an economic lifeline connecting multiple cultural groups, the trail possesses richness beyond a simple story of westward expansion. The trail connected Missouri, on the western margin of a growing United States, with New Mexico, at the northern end of a newly-independent, Spanish-speaking nation; Santa Fe was near the end of the El Camino Real de Tierra Adentro, which carried trade from Mexico City. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880.
+Accident or not, the Santa Fe Trail possesses richness beyond a simple story of westward expansion. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880. The trail connected Missouri, on the western margin of a growing United States, with New Mexico, at the northern end of a newly-independent, Spanish-speaking nation; Santa Fe was near the end of the El Camino Real de Tierra Adentro, which carried trade from Mexico City. 
 
 Today, the National Park Service 
 
