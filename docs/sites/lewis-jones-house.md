@@ -20,12 +20,18 @@ Lewis Jones was a successful businessman in Independence, Missouri. He was a wag
 [^NPS08]: NPS, 6. 
 [^NPS09]: NPS, 6
 ## Independence, Missouri and it's Significance
-Independence, Missouri was the gateway to the west in the 1840s and it was the center of international trade on the western side of the United States. Independence was not only the starting point of the Santa Fe trail but also many other wagon routes such as the oregon trail and the route to California (Merchants of Independence, 38). Independence quickly became a bustling center for trade and migration{% include figure.html
+Independence, Missouri was the gateway to the west in the 1840s and it was the center of international trade on the western side of the United States. Independence was not only the starting point of the Santa Fe trail but also many other wagon routes such as the oregon trail and the route to California. [^MOI038] Independence quickly became a bustling center for trade and migration{% include figure.html
   class="img-right"
   width="45%"
   caption="Independence, Missouri in the 1840s. Depicting the begining of the Santa Fe Trail."
   src="images/independence-missouri-picture.jpg"
-%} after the Louisiana Purchase in 1803 (Merchants of Independence, 15). The United States centered their trade with Mexico in Independence through the Santa Fe trail (Merchants of Indpendence, 38). They also built a steady trade network with the Indian tribes of the west and various fur traders throughout the Rocky Mountains (Merchants of Independence, 37). Another prominent endeavor in Independence during the 1800s was the railroad industry. The Missouri and Independence river railroad began in Independence, Missouri in 1849 and this became a lucrative investment for local businessmen (Merchants of Independence, 56). Because of these deep roots placed in Independence, the United States was able to capitalize on the trade and natural resources of the land they had purchased.  
+%} after the Louisiana Purchase in 1803. [^MOI015] The United States centered their trade with Mexico in Independence through the Santa Fe trail. [^MOI138] They also built a steady trade network with the Indian tribes of the west and various fur traders throughout the Rocky Mountains. [^MOI037] Another prominent endeavor in Independence during the 1800s was the railroad industry. The Missouri and Independence river railroad began in Independence, Missouri in 1849 and this became a lucrative investment for local businessmen. [^MOI056] Because of these deep roots placed in Independence, the United States was able to capitalize on the trade and natural resources of the land they had purchased.  
+
+[^MOI038]: Merchants of Independence, 38
+[^MOI015]: Merchants of Independence, 15
+[^MOI138]: Merchants of Independence, 38
+[^MOI037]: Merchants of Independence, 37
+[^MOI056]: Merchants of Independence, 56
 ## The House Itself
 The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri (NPS, Sec. 7, 1). It was built as a two story, three bay house with red brick walls and wood trim (NPS, 1). A porch was also built into the house on the first floor which covers one side of the house (NPS, 1). The house was later remodeled to include two more bays and to give the house a distict L-Shape (NPS, 1). Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it. {% include figure.html
   class="img-right"
