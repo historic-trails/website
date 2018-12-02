@@ -40,3 +40,8 @@ The Lewis Jones house is located on 104 Elizabeth Street in Independence, Missou
 * Tourist Attractions in [Kansas City](https://www.tripadvisor.com/Attractions-g44535-Activities-Kansas_City_Missouri.html)
 ## Related People
 * Other [Wagon Makers](https://blackpast.org/aah/young-hiram-1812-1882)
+* Other [Prominent Businessmen](https://historic-trails.github.io/santa-fe-itinerary/sites/seth-ward-house)
+* Other [Important Traders](https://www.britannica.com/biography/William-Becknell)
+## Bibliography
+* Lavina Honeyman Porter. (1910). "By Ox Team to California; a Narrative of Crossing the Plains in 1860". Oakland Enquirer Pub Co. Retreieved from https://archive.org/details/byoxteamtocalifo00port/page/n5
+* George Russell Jones. (1912). "Geneaology of the Jones Family;  the Desendents of Benjamin Jones who Immigrated from South Wales more than 250 Years Ago". Los Angeles Calif., Times Mirror. Retrieved from https://archive.org/details/byoxteamtocalifo00port/page/n5
