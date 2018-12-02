@@ -7,7 +7,7 @@ date: 2018-12-12
 {% include figure.html
   class="img-right"
   width="100%"
-  caption="Map of the Santa Fe Trail"
+  caption="Henry Jackson, "Indian Territory with Parts of Neighboring States and Territories" (New York: J. Bien, 1869. Courtesy of David Rumsey Historical Map Collection"
   src="docs/sites/images/home-page-indian-territory.jpg"
 %}
 
