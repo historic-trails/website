@@ -13,16 +13,10 @@ date: 2018-12-12
 
 # Santa Fe Trail Historic Sites
 
-### "The overland trade between the United States and the northern provinces of Mexico, seems to have had no very definite origin; having been rather the result of accident than of any organized plan of commercial establishment." -Josiah Gregg, _Commerce of the Prairies_, 9
+### "At last all are fairly launched upon the broad prairie--the miseries of preparation are over--the thousand anxities occasioned by wearisome consultations and delays are felt no more. The charioteer, as he smacks his whip, feels a bounding elasticity of soul within him, which he finds it impossible to restrain.... The hilarious song, the _bon mot_ and the witty repartee, go round in quick succession; and before people had had leisure to take cognizance of the fact, the lively village of Independence...is already lost to the eye." -Josiah Gregg, _Commerce of the Prairies_, 26
 
-Accident or not, the Santa Fe Trail possesses richness beyond a simple story of westward expansion. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880. The trail connected Missouri, on the western margin of a growing United States, with New Mexico, at the northern end of a newly-independent, Spanish-speaking nation; Santa Fe was near the end of the El Camino Real de Tierra Adentro, which carried trade from Mexico City. 
+The Santa Fe Trail possesses richness beyond a simple story of westward expansion. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880. The trail connected Missouri, on the western margin of a growing United States, with New Mexico, at the northern end of a newly-independent, Spanish-speaking nation; Santa Fe was near the end of the El Camino Real de Tierra Adentro, which carried trade from Mexico City. 
 
-Today, the National Park Service 
-
-The Santa Fe Trail was a 19th-century transportation route through central North America that connected Independence, Missouri with Santa Fe, New Mexico. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880. .
-
-The route skirted the northern edge and crossed the north-western corner of Comancheria, the territory of the Comanches, who demanded compensation for granting passage to the trail, and represented another market for American traders. Comanche raiding farther south in Mexico isolated New Mexico, making it more dependent on the American trade, and provided the Comanches with a steady supply of horses for sale. By the 1840s, trail traffic along the Arkansas Valley was so heavy that bison herds could not reach important seasonal grazing land, contributing to their collapse, which in turn hastened the decline of Comanche power in the region.
-
-The American army used the trail route in 1846 for the invasion of New Mexico during the Mexican–American War.
+Today, the National Park Service recognizes a variety of trail sites--ruts, crossings, houses, forts--integral in telling the trail's story. 
 
 After the U.S. acquisition of the Southwest ending the war, the trail helped open the region to U.S. economic development and settlement, playing a vital role in the expansion of the U.S. into the lands it had acquired. The road route is commemorated today by the National Park Service as the Santa Fe National Historic Trail. A highway route that roughly follows the trail's path through the entire length of Kansas, the southeast corner of Colorado and northern New Mexico has been designated as the Santa Fe Trail National Scenic Byway.
