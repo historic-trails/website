@@ -8,7 +8,7 @@ date: 2018-11-28
 The Lewis Jones House was home to one of the most significant traders and business men of Independence, Missouri in the 1840s. Lewis Jones was a key member in the trade community in Independence and along the Santa Fe Trail.{% include figure.html
   class="img-right"
   width="45%"
-  caption="Routes of migration in the 1800s, including the Santa Fe Trail and the Oregon Trail which set off from Independence, Missouri."
+  caption="Routes of migration in the 1800s, including the Santa Fe Trail and the Oregon Trail which set off from Independence, Missouri. [Source](https://www.google.com/search?rlz=1C1MSIM_enUS530US530&biw=1920&bih=969&tbm=isch&sa=1&ei=jVQDXOxAquCPBNeZvtAF&q=santa+fe+trail+1840+independence+missouri&oq=santa+fe+trail+1840+independence+missouri&gs_l=img.3...18051.25075..25385...2.0..0.139.2090.22j2......1....1..gws-wiz-img.8QzhBGUWfqc#imgrc=0g6KaGBWrzuWCM:)"
   src="images/santa-fe-trail-picture.jpg"
 %} In 19th century Missouri, it was very difficult to make a living. It was very rare and very lucky if you were able to make a steady living during this time period and those who did were able to capitalize on the benfits. One of the obvious benefits that Lewis Jones was able to take part in was his house. This large and comfortable house symbolizes Jones' wealth and status in Independence, Missouri and gives us a picture to how lucrative trade on the trail actually was. 
 ## Who Was Lewis Jones?
