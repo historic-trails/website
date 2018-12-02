@@ -45,3 +45,6 @@ The Lewis Jones house is located on 104 Elizabeth Street in Independence, Missou
 ## Bibliography
 * Lavina Honeyman Porter. (1910). "By Ox Team to California; a Narrative of Crossing the Plains in 1860". Oakland Enquirer Pub Co. Retreieved from https://archive.org/details/byoxteamtocalifo00port/page/n5
 * George Russell Jones. (1912). "Geneaology of the Jones Family;  the Desendents of Benjamin Jones who Immigrated from South Wales more than 250 Years Ago". Los Angeles Calif., Times Mirror. Retrieved from https://archive.org/details/byoxteamtocalifo00port/page/n5
+* Carrie Westlake Whitney. (1908). "Kansas City, Missouri: it's History and it's People 1808-1908". Chicago: The S.J. Clarke publishing co. Retrieved from https://archive.org/details/kansascitymissou01inwhit/page/n7
+* Jay Bryant. (2014). "Lewis Jones House (Independence, Missouri)". Retrieved from https://www.flickr.com/photos/51038527@N03/24831664933
+* William Patrick O'Brien. (2013). "Merchants of Independence: International Trade on the Santa Fe Trail, 1827-1860". Truman State University Press, 2013. Retrieved from [UNM Library](https://eds.a.ebscohost.com/eds/detail/detail?vid=1&sid=ce622740-50df-4f1c-bcd6-a89c57106a1c%40sdc-v-sessmgr03&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=unm.863695364&db=cat05987a)
