@@ -33,7 +33,12 @@ Independence, Missouri was the gateway to the west in the 1840s and it was the c
 [^MOI037]: Merchants of Independence, 37
 [^MOI056]: Merchants of Independence, 56
 ## The House Itself
-The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri (NPS, Sec. 7, 1). It was built as a two story, three bay house with red brick walls and wood trim (NPS, 1). A porch was also built into the house on the first floor which covers one side of the house (NPS, 1). The house was later remodeled to include two more bays and to give the house a distict L-Shape (NPS, 1). Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it. 
+The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two story, three bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it. 
+
+[^NPS10]: NPS, Sec.7, 1
+[^NPS11]: NPS, 1
+[^NPS12]: NPS, 1
+[^NPS13]: NPS, 1
 
 {% include figure.html
   class="img-right"
