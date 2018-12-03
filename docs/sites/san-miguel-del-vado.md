@@ -55,6 +55,7 @@ Today, NM State Route 3 follows the same route the Santa Fe Trail did during its
 ## How to get there
 The San Miguel del Vado Historic District is 45.7 miles from Santa Fe. Take the I-25 North from Santa Fe for 39.2 miles, take exit 323 to NM-3 South. Drive 2.3 miles south. Find the historic church on google maps [here](https://goo.gl/maps/wLk59tChm3s).
 
+***
 ##### Related People
 * [William Becknell](https://www.okhistory.org/publications/enc/entry.php?entry=BE009)
 * [U.S. General Stephen W. Kearny](https://www.pbs.org/kera/usmexicanwar/biographies/stephen_kearny.html)
