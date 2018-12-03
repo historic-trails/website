@@ -7,6 +7,7 @@ date: 2018-25-11
 
 # The Las Vegas Plaza #
 
+{% include figure.html class="img-right" width="33%" caption="Corner Of Las Vegas Plaza" src="images/PlazaDrugs.jpg" %}
 
 ## *1838* ##
 
@@ -20,6 +21,7 @@ By August 15, 1846 the town had undergone several modifications and had been sig
 
 ## *Las Vegas on the Trail* ##
 
+{% include figure.html class="img-right" width="33%" caption="Plaza Hotel" src="images/PlazaHotelFront1.jpg" %}
 
 Between its founding and the beginning of the Civil War, Las Vegas thrived as frontier town operating on the Santa Fe Trail. Records pop up from travelers along the trail documenting the increasing stability and buildup of the town. Most notes show a thriving yet architecturally simple town operating with irrigation canals running throughout the streets, and still be comprised mostly of adobe buildings. What is Fascinating however, is that the citizens had begun to build the plaza up taking up Victorian style architecture in its city center. Most of these buildings underwent various changes but the most notable of the plaza structures was the three-story plaza hotel that appeared as a cornerstone gem to the town. The Plaza Hotel (which still operates proudly to this day) was among the various Victorian style buildings that made up the plaza. 
 
