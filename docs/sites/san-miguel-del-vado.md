@@ -9,7 +9,7 @@ date: 2018-12-03
 
 
 {% include figure.html class="img-center" width="66%" caption="Drawing of San Miguel del Vado dated to 1846 during the heyday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahua.[^image1]" src="images/san-migel-del-vado-1846.jpg" %}
-[^image1]: Source: Wikimedia Commons https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant 
+[^image1]: Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant) 
 
 San Miguel del Vado in San Miguel County, New Mexico was founded in 1794 and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail.[^Jenks1] Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe Trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860  when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, NM.
 
