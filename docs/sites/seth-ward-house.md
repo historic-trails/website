@@ -110,7 +110,7 @@ Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org
 
 Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America
 
-[^Beckenbaugh]: [Battle of Westport](	http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
+[^Beckenbaugh]: [Battle of Westport](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
 [^Denver-Public-Library]: [Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)
 [^Shaw]: [Shaw, Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)
 [^Weiser-Alexander]: [Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)
