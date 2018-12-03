@@ -19,7 +19,7 @@ Alexander Majors House is one of the few [Antebellum period](https://www.encyclo
 
 The house is situated approximately 16 feet in front of the house which is Missouri and Kansas border , the then  US border [^NHRF-1969, MAJORS].  The house sits looking westward which was strategically chosen from the businessman's perspective as Kansas Territory were untaxed and he had huge corrals, grazing lands, oxen pens, barns, wagons and blacksmith shops in the property [^Wornall Majors House Museums, 2018.11.12].
 
-## Who is Alexander Majors?
+## Who was Alexander Majors?
 
 Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Laurania and Benjamin Majors in 1819 to Lafayette County, Missouri and later moved to Jackson county [^WPA Guide 1998]. In 1827, Majors father explored silver ore mine with no prominent value he returned to farming, his tales put great impression on Majors towards possibilities in [Western Frontier](https://en.wikipedia.org/wiki/American_frontier) and to travel on the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and  together they joined his fathers footstep into farming [^Morton, 2012]. His large family had mostly daughters and no son to help him in farming made him to look for other options [^Godfrey, 1994].
 
@@ -139,7 +139,9 @@ Another interesting part of exploring Majors house is Ghost tours about the stra
 **Alexander Majors Barn,
 8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114**
 
-## Nearby historic sites and Significant Places, People and Articles
+##### Related / Near by Historic places
+##### Related People
+##### Related Articles 
 
 [John Wornall House Museum](http://www.wornallmajors.org/the-john-wornall-house/)
 
