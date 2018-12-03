@@ -75,7 +75,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 
 [McGhee's Charge](https://www.hmdb.org/Marker.asp?Marker=29658)
 
-## Related People
+##### Related People
 [Edmund Guerrier](https://en.wikipedia.org/wiki/Edmund_Guerrier)
 
 [Robert Campbell](https://en.wikipedia.org/wiki/Robert_Campbell_(frontiersman))
@@ -83,7 +83,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 [Major General Sterling Price](https://en.wikipedia.org/wiki/Sterling_Price)
 
 
-## Related Places
+##### Related Places
 [Bent's Fort](https://en.wikipedia.org/wiki/Bent%27s_Old_Fort_National_Historic_Site)
 
 [Ward Parkway](https://en.wikipedia.org/wiki/Ward_Parkway)
@@ -91,7 +91,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 [Kansas City's Country Club District](https://en.wikipedia.org/wiki/Country_Club_District)
 
 
-## Realted Articles
+##### Realted Articles
 [The Way to Santa Fe](http://www.kchistory.org/week-kansas-city-history/way-santa-fe)
 
 [Westport: Where the History Began](http://www.experiencekc.com/westport.html)
