@@ -92,12 +92,12 @@ Web sources:
 [^NPSFormp1]: NPS Form, 1963, p.1
 [^NPSFormp1I]: NPS Form, 1963, p.1
 [^NPSFormp1II]: NPS Form, 1963, p.1
-[^NPSFormstatementp1II]: NPS Form, 1963, statement of significance p.1
-[^NPSFormstatementp1III]: NPS Form, 1963, statement of significance p.1
-[^NPSFormstatementp1IV]: NPS Form, 1963, statement of significance p.1
-[^NPSFormstatementp1V]: NPS Form, 1963, statement of significance p.1
-[^NPSFormstatementp1VI]: NPS Form, 1963, statement of significance p.1
-[^NPSFormstatementp1VII]: NPS Form, 1963, statement of significance p.1
+[^NPSstatementp1II]: NPS Form, 1963, statement of significance p.1
+[^NPSstatementp1III]: NPS Form, 1963, statement of significance p.1
+[^NPSstatementp1IV]: NPS Form, 1963, statement of significance p.1
+[^NPSstatementp1V]: NPS Form, 1963, statement of significance p.1
+[^NPSstatementp1VI]: NPS Form, 1963, statement of significance p.1
+[^NPSstatementp1VII]: NPS Form, 1963, statement of significance p.1
 [^Greggs]:J. Gregg, 1845: p. 19 and K. Gregg, 1933
 [^NPSstatementp1]:NPS Form,1963: statement of significance p. 1
 [^NPSstatementp2]:NPS Form, 1963, statement of significance p. 2
