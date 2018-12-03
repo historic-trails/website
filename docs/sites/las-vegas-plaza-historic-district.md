@@ -8,8 +8,6 @@ date: 2018-25-11
 # The Las Vegas Plaza #
 
 
-***
-
 ## 1838 ##
 
 {% include figure.html class="img-right" width="33%" caption="Corner Of Las Vegas Plaza" src="images/PlazaDrugs.JPG" %}
