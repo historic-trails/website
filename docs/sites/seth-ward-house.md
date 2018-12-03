@@ -109,4 +109,8 @@ National Register of Historic Places "Seth Ward House" accessed November 15, 201
 
 [^Weiser-Alexander]: Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America
 
+[^Beckenbaugh]: 
+[^Denver-Public-Library]: 
+[^Shaw]: [Shaw, Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)
+[^Weiser-Alexander]: [Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)
 
