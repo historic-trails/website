@@ -32,7 +32,7 @@ Merchants would stop here and repackage or combine their goods and reduce their 
 
 ## Historic Plaza
 San Miguel has many historic buildings that illustrate architecture from different periods.  San Miguel del Vado's Plaza is bisected by the Santa Fe Trail and the Pecos River, making it function as two plazas.[^NRHP7] Two historic buildings remain on the east side of the plaza, the Dance Hall and Zaguan house retain Spanish period characteristics including low windows and wood ceilings. West of the Plaza lies the foundation of the old San Miguel County courthouse and what may have been a hotel.[^NRHP71]
-Southwest of the historic church, metal and ceramic artifacts can still be spotted littering the ground. This is evidence of the gathering and resting place of traders and travelers on the Santa Fe Trail.[^Jenks1]
+Southwest of the historic church, metal and ceramic artifacts can still be spotted littering the ground. This is evidence of the gathering and resting place of traders and travelers on the Santa Fe Trail.[^Jenks3]
 
 ## San Miguel del Vado Church
 San Miguel del Vado Church is located on the west side of the plaza. The Church is one of the oldest remaining buildings in the Settlement; however, the church's architecture is a mix of Spanish colonial, Gothic windows and spires, wood and linoleum floors, and a bell added in 1821, and other modern amenities. Despite these different design influences, the internal structure of the church is the same as when it was built in 1805, and it still functions as the cultural center of the village.[^NRHP83]
@@ -49,7 +49,7 @@ With Mexico's independence from Spain in 1821, the Southwest was open for trade 
 
 ## Decline in the second half of the 19th century
 
-As an agricultural and cattle dependent economy, the district was effected by industrialization in the region. The productivity and political center of San Miguel county was relocated to Las Vegas in 1860[^NRHP8]. With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas and Santa Fe, NM, or in southern Colorado. This continued into the second half of the 19th century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) when U.S. supreme court decided to shrink the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres.[^Jenks2] This decision cut the village off from their abundant grazing, agricultural and timber resources.
+As an agricultural and cattle dependent economy, the district was effected by industrialization in the region. The productivity and political center of San Miguel county was relocated to Las Vegas in 1860[^NRHP9]. With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas and Santa Fe, NM, or in southern Colorado. This continued into the second half of the 19th century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) when U.S. supreme court decided to shrink the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres.[^Jenks2] This decision cut the village off from their abundant grazing, agricultural and timber resources.
 
 {% include figure.html class="img-right" width="40%" caption="San Miguel del Vado Church remains the center of culture and society in this historic village. Source: Wikimedia Common" src="images/san-miguel-del-vado-church.jpg" %}
 ## San Miguel del Vado today
@@ -83,7 +83,9 @@ Lands of New Mexico Community Land Grants_ University of New Mexico Press. Janua
 * National Register of Historic Places Inventory- Nomination Form, July 20, 1972. [Accessed](https://github.com/historic-trails/santa-fe-itinerary/blob/master/historic-registration-forms/san_miguel_del_vado_historic_district.pdf) November 28, 2018.
 
 [^Jenks1]:Jenks Archeology at San Miguel del Vado, 2010. NMSU Department of Archeology
+[^Jenks3]:Jenks Archeology at San Miguel del Vado, 2010. NMSU Department of Archeology
 [^NRHP8]: National Register of Historic Places, section 8 page 1, paragraph 2.
+[^NRHP9]: National Register of Historic Places, section 8 page 1, paragraph 2.
 [^NRHP7]: National Register of Historic Places, section 7 page 1.
 [^Jenks2]: Jenks Vecinos el La Frontera, 2011 
 [^source2]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
