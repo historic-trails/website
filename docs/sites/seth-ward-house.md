@@ -99,18 +99,19 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 [Civil War on the Western Border](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
 
 ## Bibliography
-[^Beckenbaugh]: Beckenbaugh, Terry. "Battle of Westport" Civil War on the Western Border: The Missouri-Kansas Conflict, 1854-1865. The Kansas City Public Library.
 
-[^Denver-Public-Library]: Denver Public Library, "Seth Edmund Ward Papers", WH1067, Western History Collection
+Beckenbaugh, Terry. "Battle of Westport" Civil War on the Western Border: The Missouri-Kansas Conflict, 1854-1865. The Kansas City Public Library.
+
+Denver Public Library, "Seth Edmund Ward Papers", WH1067, Western History Collection
 
 National Register of Historic Places "Seth Ward House" accessed November 15, 2018.
 
-[^Shaw]: Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
+Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
 
-[^Weiser-Alexander]: Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America
+Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America
 
-[^Beckenbaugh]: 
-[^Denver-Public-Library]: 
+[^Beckenbaugh]: [Battle of Westport](	http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
+[^Denver-Public-Library]: [Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)
 [^Shaw]: [Shaw, Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)
 [^Weiser-Alexander]: [Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)
 
