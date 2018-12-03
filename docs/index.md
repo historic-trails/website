@@ -4,23 +4,16 @@ layout: single-col
 date: 2018-12-12
 ---
 
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Henry Jackson, Indian Territory with Parts of Neighboring States and Territories (New York: J. Bien, 1869). Courtesy of David Rumsey Historical Map Collection"
-  src="sites/images/indian-territory.jpg"
-%}
-
 {% include jumbotron.html
-  title="The Santa Fe Trail"
+  title="Santa Fe Trail Historic Sites"
   caption="Henry Jackson, Indian Territory with Parts of Neighboring States and Territories (New York: J. Bien, 1869). Courtesy of David Rumsey Historical Map Collection"
   image="sites/images/indian-territory.jpg"
-  text="subtitle"
+  text="A Collaboration between the National Park Service and the University of New Mexico"
 %}
 
 # Santa Fe Trail Historic Sites
 
-### "At last all are fairly launched upon the broad prairie--the miseries of preparation are over--the thousand anxities occasioned by wearisome consultations and delays are felt no more. The charioteer, as he smacks his whip, feels a bounding elasticity of soul within him, which he finds it impossible to restrain.... The hilarious song, the _bon mot_ and the witty repartee, go round in quick succession; and before people had had leisure to take cognizance of the fact, the lively village of Independence...is already lost to the eye." -Josiah Gregg, _Commerce of the Prairies_, 26
+> "At last all are fairly launched upon the broad prairie--the miseries of preparation are over--the thousand anxities occasioned by wearisome consultations and delays are felt no more. The charioteer, as he smacks his whip, feels a bounding elasticity of soul within him, which he finds it impossible to restrain.... The hilarious song, the _bon mot_ and the witty repartee, go round in quick succession; and before people had had leisure to take cognizance of the fact, the lively village of Independence...is already lost to the eye." -Josiah Gregg, _Commerce of the Prairies_, 26
 
 ***
 
