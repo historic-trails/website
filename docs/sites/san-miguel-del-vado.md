@@ -2,7 +2,7 @@
 title: San Miguel del Vado Historic District
 author: Zoe Wiesel
 layout: single-col
-date: 2018-11-30
+date: 2018-12-03
 ---
 
 # San Miguel del Vado Historic District
