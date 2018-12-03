@@ -26,6 +26,7 @@ date: 2018-11-24
   
   The University is named for [Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker), a distinguished scholar and bishop of what is now the United Methodist Church (KHS). The university has a rich history, growing up side-by-side with the state of Kansas, Baldwin City began as a trail stop on the Santa Fe Trail named Palmyra. Palmyra, which later became a part of Baldwin was long a favorite place for repairing wagons and for rest, the added commerce of the Santa Fe Trail helped Baldwin grow enough to build a University within the city. [^Santa-Fe-Trail-Association-2](https://www.santafetrail.org/chapters/douglasco/index.html) In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas [^Historic-Campus-Architecture-Project-(HCAP)-2](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153). 
   [^Santa-Fe-Trail-Association-2]:(https://www.santafetrail.org/chapters/douglasco/index.html)
+  
   [^Historic-Campus-Architecture-Project-(HCAP)-2]:(http://hcap.artstor.org/cgi-bin/library?a=d&d=p153). 
 
 {% include figure.html
@@ -40,7 +41,9 @@ date: 2018-11-24
   Baker University is significant because it admitted women early on in its history, the first graduating class in 1866 contained one women, and two men. [^Baker-University](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support) President Abraham Lincoln donated $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. [^Kansaspedia:Baker-University-KHS](https://www.kshs.org/kansapedia/baker-university/17829) Baker University struggled through its first years due to a drought in 1860 and the Civil War, as the war funneled prospective students into military service, the first class didn't graduate until 1866 (KHS).  In 1874 a massive grasshopper plague spread across the region devouring everything in sight, they ate crops out of the ground, as well as the wool from live sheep and clothing off people's backs. Paper, tree bark, and even wooden tool handles were devoured, hoppers were reported to have been several inches deep on the ground. [^Kansaspedia:Grasshopper-Plague-of-1874](https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070)
   
   [^Baker-University]:(https://www.bakeru.edu/about-baker-university/history-mission-vision/#support)
+  
   [^Kansaspedia:Baker-University-KHS]:(https://www.kshs.org/kansapedia/baker-university/17829)
+  
   [^Kansaspedia:Grasshopper-Plague-of-1874]:(https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070)
  
  {% include figure.html
