@@ -8,9 +8,7 @@ date: 2018-12-03
 # San Miguel del Vado Historic District
 
 
-{% include figure.html class="img-center" width="66%" caption="Drawing of San Miguel del Vado dated to 1846 during the heyday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahua.[^image1]" src="images/san-migel-del-vado-1846.jpg" %}
-
-[^image1]: Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant) 
+{% include figure.html class="img-center" width="66%" caption="Drawing of San Miguel del Vado dated to 1846 during the heyday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahua. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant)" src="images/san-migel-del-vado-1846.jpg" %}
 
 San Miguel del Vado in San Miguel County, New Mexico was founded in 1794 and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail.[^Jenks1] Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe Trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860  when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, NM.
 
@@ -79,7 +77,7 @@ The San Miguel del Vado Historic District is 45.7 miles from Santa Fe. Take the 
 * Hall, G. Emlen. _San Miguel del Bado and the Loss of the Common
 Lands of New Mexico Community Land Grants_ University of New Mexico Press. January 1, 1998. [Accessed](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) November 28, 2019.  
 * Jenks, Kelly. Archeology at San Miguel Del Vado, 2010. New Mexico State University Department of Archeology. [Accessed](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/) November 28, 2018.  
-* Jenks, Kelly. _Vecinos en la Frontera: Colonial History and Archaeology at San Miguel del Vado, New Mexico (2011)_. SMRC Revista [Accesses](https://www.academia.edu/837428/Vecinos_en_la_Frontera_Colonial_History_and_Archaeology_at_San_Miguel_del_Vado_New_Mexico_2011_) November 28, 2018.
+* Jenks, Kelly. _Vecinos en la Frontera: Colonial History and Archaeology at San Miguel del Vado, New Mexico (2011)_. SMRC Revista [Accessed](https://www.academia.edu/837428/Vecinos_en_la_Frontera_Colonial_History_and_Archaeology_at_San_Miguel_del_Vado_New_Mexico_2011_) November 28, 2018.
 * Macgoffin, Susan Shelby. _Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847._
 * National Register of Historic Places Inventory- Nomination Form, July 20, 1972. [Accessed](https://github.com/historic-trails/santa-fe-itinerary/blob/master/historic-registration-forms/san_miguel_del_vado_historic_district.pdf) November 28, 2018.
 
