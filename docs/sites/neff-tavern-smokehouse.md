@@ -54,6 +54,8 @@ The Neff tavern is located on an unmarked street, west from the Missouri highway
   src="images/location_neff_tavern.png"
 %}
 
+---
+
 ## Related articles
 * more information on the [Civil War in Missouri](https://www.sos.mo.gov/mdh/CivilWar/Resources.asp)
 
