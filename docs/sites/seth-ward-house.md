@@ -41,7 +41,7 @@ In the early 1800s, the land that would become the town of Westport, Missouri wa
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="The Gettysburg of the West claimed over 3,000 Union and Confederate lives and led to a decisive Union Vicotry in 1864"
+  caption="The Gettysburg of the West claimed over 3,000 Union and Confederate lives and led to a decisive Union Vicotry in 1864 [^Beckenbaugh]"
   src="images/battle-of-westport.jpg"
 %}
 
