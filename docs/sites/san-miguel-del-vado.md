@@ -24,19 +24,18 @@ San Miguel del Vado was a popular stop for merchants and traders on the Santa Fe
 
 
 ## San Miguel del Vado as trading common
-Merchants would stop here and repackage or combine their goods and reduce their loads to avoid taxes and fees once they reached Santa Fe. Some French and American merchants would conduct their business in the San Miguel commons; bypass Santa Fe completely on their way to Chihuahua to avoid Spanish and Mexican duties[^NRHP8]. This of course, was not a welcome practice to the Spanish and later Mexican government, but they had little power to persuade traders to do their taxes. Spanish presidio government stationed troops in San Miguel to stop smuggling and tax evasion by merchants on the Santa Fe Trail.[^NRHP8-1][^LOAsource2]
-[^NRHP8-1]: National Register of Historic Places, section 8 page 2 paragraph 3
-[^LOAsource2]: Legends of America, San Miguel del Vado, New Mexico page 1, paragraph 10
+Merchants would stop here and repackage or combine their goods and reduce their loads to avoid taxes and fees once they reached Santa Fe. Some French and American merchants would conduct their business in the San Miguel commons; bypass Santa Fe completely on their way to Chihuahua to avoid Spanish and Mexican duties[^NRHP8]. This of course, was not a welcome practice to the Spanish and later Mexican government, but they had little power to persuade traders to do their taxes. Spanish presidio government stationed troops in San Miguel to stop smuggling and tax evasion by merchants on the Santa Fe Trail.[^NRHP81][^LOAsource2]
+
 
 {% include figure.html class="img-right" width="33%" caption="1975 Pecos Valley Project Plan. Source: Library of Congress" src="images/san-miguel-del-vado-historic-district.JPG" %}
 
 
 ## Historic Plaza
-San Miguel has many historic buildings that illustrate architecture from different periods.  San Miguel del Vado's Plaza is bisected by the Santa Fe Trail and the Pecos River, making it function as two plazas.[^NRHP7] Two historic buildings remain on the east side of the plaza, the Dance Hall and Zaguan house retain Spanish period characteristics including low windows and wood ceilings. West of the Plaza lies the foundation of the old San Miguel County courthouse and what may have been a hotel.[^NRHP7]
+San Miguel has many historic buildings that illustrate architecture from different periods.  San Miguel del Vado's Plaza is bisected by the Santa Fe Trail and the Pecos River, making it function as two plazas.[^NRHP7] Two historic buildings remain on the east side of the plaza, the Dance Hall and Zaguan house retain Spanish period characteristics including low windows and wood ceilings. West of the Plaza lies the foundation of the old San Miguel County courthouse and what may have been a hotel.[^NRHP71]
 Southwest of the historic church, metal and ceramic artifacts can still be spotted littering the ground. This is evidence of the gathering and resting place of traders and travelers on the Santa Fe Trail.[^Jenks1]
 
 ## San Miguel del Vado Church
-San Miguel del Vado Church is located on the west side of the plaza. The Church is one of the oldest remaining buildings in the Settlement; however, the church's architecture is a mix of Spanish colonial, Gothic windows and spires, wood and linoleum floors, and a bell added in 1821, and other modern amenities. Despite these different design influences, the internal structure of the church is the same as when it was built in 1805, and it still functions as the cultural center of the village.[^NRHP8]
+San Miguel del Vado Church is located on the west side of the plaza. The Church is one of the oldest remaining buildings in the Settlement; however, the church's architecture is a mix of Spanish colonial, Gothic windows and spires, wood and linoleum floors, and a bell added in 1821, and other modern amenities. Despite these different design influences, the internal structure of the church is the same as when it was built in 1805, and it still functions as the cultural center of the village.[^NRHP83]
 
 {% include figure.html class="img-left" width="40%" caption="Aerial image of San Miguel del Vado from 1975 shows how the Santa Fe Trail was the commercial center of this village, and physically went through center of Historic Plaza. Source: Phillip O. Lackman" src="images/san-miguel-del-vado-aerial-1975.JPG" %}
 
@@ -90,4 +89,7 @@ Lands of New Mexico Community Land Grants_ University of New Mexico Press. Janua
 [^Jenks2]: Jenks Vecinos el La Frontera, 2011 
 [^source2]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
 [^source2-1]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
-
+[^NRHP81]: National Register of Historic Places, section 8 page 2 paragraph 3
+[^LOAsource2]: Legends of America, San Miguel del Vado, New Mexico page 1, paragraph 10.
+[^NRHP71]:National Register of Historic Places, section 7 page 1.
+[^NRHP83]: National Register of Historic Places, section 8 page 1, paragraph 2.
