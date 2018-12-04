@@ -17,6 +17,13 @@ date: 2018-12-12
 
 The Santa Fe Trail offers much more than a simple story of America's westward expansion. Pioneered in 1821 by William Becknell, it served as a vital commercial highway until the introduction of the railroad to Santa Fe in 1880. The trail connected Missouri, on the western margin of a growing United States, with New Mexico, at the northern end of a newly-independent, Spanish-speaking nation; Santa Fe was near the end of the [Camino Real de Tierra Adentro](https://www.nps.gov/elca/index.htm)), which carried trade from Mexico City. This massive system of exchange linked different continents, commodities, and cultural groups across vast distances.
 
+{% include figure.html
+class="img-center"
+width="50%"
+caption="The smokehouse at Neff Tavern, at the Santa Fe Trail's eastern end in Missouri"
+src="sites/images/Neff_tavern_smokehouse_picture.PNG
+%}
+
 Starting at the trail's eastern end in Missouri, [Neff Tavern Smokehouse](https://historic-trails.github.io/santa-fe-itinerary/sites/neff-tavern-smokehouse) attests to the role of German Americans in supplying trail travelers. [Blue Mills](https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills.html) proved a crucial outfitting stop, as well as an important river crossing. As the Independence urban area gives way to Kansas City, trail aficionados can see the dwellings of three important Santa Fe Trail merchants: [Alexander Majors](https://historic-trails.github.io/santa-fe-itinerary/sites/alexander-majors-house.html), who helped pioneer the Pony Express; [Seth Ward](https://historic-trails.github.io/santa-fe-itinerary/sites/seth-ward-house.html), a skilled trader and trapper; and [Lewis Jones](https://historic-trails.github.io/santa-fe-itinerary/sites/lewis-jones-house.html), one of the Santa Fe Trail's most successful traders. Southwest of Kansas City sits the [Mahaffie House](https://historic-trails.github.io/santa-fe-itinerary/sites/mahaffie-house.html), the only stage station along the trail that is currently open to the public. [Baker University's Old Castle Hall](https://historic-trails.github.io/santa-fe-itinerary/sites/baker-university-old-castle-building.html) holds the distinction of being the oldest university in Kansas; another school, the nearby [Lanesfield School](https://historic-trails.github.io/santa-fe-itinerary/sites/lanesfield-school.html), serves as the last remnant of a popular mail stop along the Santa Fe Trail. For westbound travelers, the [Council Grove Downtown Historic District](https://historic-trails.github.io/santa-fe-itinerary/sites/council-grove-downtown-historic-district.html) was the last settlement of any size until Santa Fe. 
 
 {% include figure.html
