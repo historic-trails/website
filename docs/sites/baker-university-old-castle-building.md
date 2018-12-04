@@ -118,8 +118,7 @@ The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
  * [Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker)
  * [Joseph Denison](https://en.wikipedia.org/wiki/Joseph_Denison_(pastor))
    
-### Bibliography 
-
+##### Bibliography 
 [Historic Campus Architecture Project (HCAP)](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
 [Kansaspedia: Baker University KHS](https://www.kshs.org/kansapedia/baker-university/17829)
