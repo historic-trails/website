@@ -68,7 +68,7 @@ date: 2018-11-24
 
 
 ## Building uses Through the Years
-  By 1871 another building was completed on campus named [Parmenter Hall](http://hcap.artstor.org/cgi-bin/library?a=d&d=p154), thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, [Joseph Denison](https://en.wikipedia.org/wiki/Joseph_Denison_(pastor)) used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property. [^Historic-Campus-Architecture-Project-four] The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
+  By 1871 another building was completed on campus named [Parmenter Hall](http://hcap.artstor.org/cgi-bin/library?a=d&d=p154), thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, [Joseph Denison](https://en.wikipedia.org/wiki/Joseph_Denison_(pastor)) used it as his home. Other uses over the years have been mill, student rooming, public school, and storage place for athletic materials and other college property. [^Historic-Campus-Architecture-Project-four] The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
   
   [^Historic-Campus-Architecture-Project-four]:[Historic Campus Architecture Project](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
