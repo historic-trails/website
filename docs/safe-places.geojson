@@ -1,0 +1,3544 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Las Animas",
+        "STATE": "CO",
+        "Site_Name": "Hole-in-the-Rock Site",
+        "place_name": "Named for a hole in the bed of Timpas Creek which retained water even during the dry season. CMP, 107-108",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.113917,
+          37.553417
+        ],
+        "type": "Point"
+      },
+      "id": "0058f99d26256cc172253001108443c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Public Spring Site",
+        "place_name": "This spring is located on what might be the first public parkland in the state. CMP, 93",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.423335,
+          39.087457
+        ],
+        "type": "Point"
+      },
+      "id": "03b0d2c9e77ef1d0261b2347910c7471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Upper Independence / Wayne City Landing",
+        "place_name": "Wayne City was named for General Anthony Wayne, who led the Army of the West between 1794 and 1796; he was also a hero of the Revolutionary War. Ramsay, 59",
+        "linguistic origin": "Anglo (other)",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.424767,
+          39.135217
+        ],
+        "type": "Point"
+      },
+      "id": "03c41bda60d3e9741ee98588d8979566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ford",
+        "STATE": "KS",
+        "Site_Name": "Fort Mann Site",
+        "place_name": "Built by Daniel P. Mann, a wagonmaster who carried mail and goods between Santa Fe and Fort Leavenworth. Rydjord, 413.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -100.076517,
+          37.752367
+        ],
+        "type": "Point"
+      },
+      "id": "048fd3e9a6335192a563b6a1dae882fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Starvation Peak (Bernal Hill)",
+        "place_name": "A party of 120 Spanish colonists hid here from an Indian attack; they starved to death. Pearce, 159. Nearby Bernal is so named for the second wife of Juan Griego, who traveled with Don Juan de O_ate in 1598. Pearce, 16. The aforementioned colonists may have lived to tell the tale. No one knows for sure. Julyan, 341.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "event",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.327603,
+          35.376883
+        ],
+        "type": "Point"
+      },
+      "id": "0518bb22f9054f09d2f72c2132f63ec4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Clifton House",
+        "place_name": "Built by a rancher named Tom Stockton. The name's origin is unclear. Pearce, 36; Julyan, 88",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.454328,
+          36.815749
+        ],
+        "type": "Point"
+      },
+      "id": "0634795133d273d3596118f01570c396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Watts Mill Site",
+        "place_name": "Anthony Watts purchased this mill in 1850. CMP, 94",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.605794,
+          38.940955
+        ],
+        "type": "Point"
+      },
+      "id": "08ec3410c896f7bb2381e7428662ae32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rice",
+        "STATE": "KS",
+        "Site_Name": "Beach Ranch (Buffalo Bill's) Well",
+        "place_name": "Named after William Mathewson (the \"original\" Buffalo Bill) who worked at the crossing starting in 1858. He killed up to eighty buffalo per day. McCoy/Hults 26.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.278367,
+          38.336808
+        ],
+        "type": "Point"
+      },
+      "id": "0b6d3f5c0b5c6fe2affd47cd677db61e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Alexander Majors House",
+        "place_name": "Alexander Majors, in concert with his partners William Waddell and William Russell, was one of the important freighters along the trail; their firm was known as Russell, Majors, and Waddell. CMP, 94",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.607767,
+          38.979933
+        ],
+        "type": "Point"
+      },
+      "id": "0bcd4b5296d364a7e67edfc3f0e34dc6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Las Vegas Plaza",
+        "place_name": "Settlers petitioning for a land grant near here referred to it as Las Vegas Grandes ('the big meadows'). Julyan, 199-200.",
+        "linguistic origin": "Spanish",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.226812,
+          35.592698
+        ],
+        "type": "Point"
+      },
+      "id": "0e5b5492f82cc9ed742bc3f8bff306e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Ferril-Henley House",
+        "place_name": "Named for William Ferril, the builder, and Alonzo Henley, a later owner. CMP, 92",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.43408,
+          39.050138
+        ],
+        "type": "Point"
+      },
+      "id": "0fc333bc77125e178e5dffe6c5ea4996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Pawnee",
+        "STATE": "KS",
+        "Site_Name": "Pawnee Fork Crossings",
+        "place_name": "Named \"dark timber river\" by the Pawnee, this major tributary of the Arkansas was named the Pawnee Fork by later white settlers. Rydjord (1968), 140.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "Native American group",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.104085,
+          38.170908
+        ],
+        "type": "Point"
+      },
+      "id": "110291d05ea4f0d7a8c05d843dce0d0a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Tecolote",
+        "place_name": "The town's name is tied to nearby Tecolote Creek and/or Tecolote Peak. In Mexican Spanish, tecolote means 'ground owl.' It is derived from the Nahuatl tecolotl. A linguist speculates that the Mexican term gained credence because owls had religious significance to Mexican Indians. Julyan, 349.",
+        "linguistic origin": "Spanish",
+        "named for": "animal",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.281544,
+          35.461861
+        ],
+        "type": "Point"
+      },
+      "id": "125da95ac46cd464dacde672f02d72df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rice",
+        "STATE": "KS",
+        "Site_Name": "Cow Creek Crossing",
+        "place_name": "Most likely named by nearby tribes in reference to buffalo cows. Rydjord, 83.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "animal",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.277353,
+          38.331927
+        ],
+        "type": "Point"
+      },
+      "id": "182684c952e9c57af1b7a2fabca8b756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Wabaunsee",
+        "STATE": "KS",
+        "Site_Name": "Wilmington",
+        "place_name": "Settlers from Clinton County, Ohio, named this location after Wilmington, North Carolina (which sent Quakers to settle in Clinton County). Rydjord, 276-77.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.964306,
+          38.744694
+        ],
+        "type": "Point"
+      },
+      "id": "18c6336b5331cd2f350a22b6cfa79fe4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Union",
+        "STATE": "NM",
+        "Site_Name": "Turkey Creek Camp",
+        "place_name": "This area was known for its large wild turkey population. Pearce, 172",
+        "linguistic origin": "Anglo (other)",
+        "named for": "animal",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.246217,
+          36.636533
+        ],
+        "type": "Point"
+      },
+      "id": "1bdf8432f3deb520ff8c9208135f4de1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morton",
+        "STATE": "KS",
+        "Site_Name": "Point of Rocks - Morton County, Kansas",
+        "place_name": "A rocky outlook and major trail landmark. CMP, 102",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -101.938483,
+          37.103517
+        ],
+        "type": "Point"
+      },
+      "id": "1c254895de4c8c6de6a8a1500f82f977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Harris- Kearney House",
+        "place_name": "John Harris, trader along the Santa Fe Trail, built this house in 1855. CMP, 93",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.587533,
+          39.05405
+        ],
+        "type": "Point"
+      },
+      "id": "1c6cd832ce1c2f4cb4f1c5bed11b3664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Otero",
+        "STATE": "CO",
+        "Site_Name": "Bent's Old Fort National Historic Site",
+        "place_name": "The fort was operated by William Bent and Ceran St. Vrain from 1833 to 1849. CMP, 108",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.431717,
+          38.0435
+        ],
+        "type": "Point"
+      },
+      "id": "1cea721b90951d1e875b0b0e8969f448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Cimarron Plaza and Well",
+        "place_name": "Cimarron originally referred to a fugitive slave (particularly in the West Indies). In New Mexico, though, it was used to refer to wild bighorn sheep (Ovejas y carneros cimarrones). A wild red-plum (ciruela cimarrona) is common along rivers in the northeastern part of the state. Pearce, 35. The wild rose is also called rosa cimarrona. Julyan, 85.",
+        "linguistic origin": "Spanish",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.919299,
+          36.5052
+        ],
+        "type": "Point"
+      },
+      "id": "201d06b030baf06e4c3fb30ea1aa1776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Jabez Smith Overseer's House",
+        "place_name": "Jabez Smith was a slaveowning farmer with connections to the Santa Fe Trail. CMP, 92",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.401654,
+          39.104104
+        ],
+        "type": "Point"
+      },
+      "id": "22bb99d93bac7d920da5ef1233584712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "La Cueva",
+        "place_name": "While he was constructing Fort Union's future supply ranch, Vicente Romero slept in a cave nearby; cueva is Spanish for 'cave.' Julyan, 189",
+        "linguistic origin": "Spanish",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.2492,
+          35.9419
+        ],
+        "type": "Point"
+      },
+      "id": "2465f6b99b7d68f8397d5bd1c920b70a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Cimarron",
+        "STATE": "OK",
+        "Site_Name": "Willow Bar",
+        "place_name": "",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.3305,
+          36.944722
+        ],
+        "type": "Point"
+      },
+      "id": "256a64f19095c9295444d5db72ca5eb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Rock Crossing of the Canadian River",
+        "place_name": "A partially stone crossing of the Canadian, a river with a surprisingly controversial name. It could come from a Caddoan word for 'Red River,' the early Spanish name for the Canadian River. It could also come from ca_ada, signifying a valley with gradually sloping sides. Or, most obviously, it could refer to Canada itself; indeed, the Mallet brothers led a 1739 expedition to New Mexico, returning via the Canadian River to the Arkansas RIver. Julyan, 57-58",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.494733,
+          36.303583
+        ],
+        "type": "Point"
+      },
+      "id": "26524560a7dbc2aded1e552b9839c0c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Lafayette",
+        "STATE": "MO",
+        "Site_Name": "Tabo Creek Crossing",
+        "place_name": "Possibly named for a Francis Thibaut or Tabeau, who was granted lots in the 1760s by Pierre Laclede (the founder of St. Louis). Could also be named after Charles B. Thibeault, a settler in Lincoln County from the 1790s. Ramsay, 49",
+        "linguistic origin": "French",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -93.744555,
+          39.188469
+        ],
+        "type": "Point"
+      },
+      "id": "26f5cdd0e5922e6fe5da65f3c0ca0432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rice",
+        "STATE": "KS",
+        "Site_Name": "Ralph's Ruts",
+        "place_name": "Named for SFTA member Ralph Hathaway, whose grandparents bought the property containing the ruts in 1878. Ralph Hathaway, \"Ralph's Ruts,\" Wagon Tracks Vol. 6, no. 3 (May 1992): 9-11",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.42465,
+          38.359583
+        ],
+        "type": "Point"
+      },
+      "id": "27948bf24ca952fd26bfb77ca0ca5944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Bent-Ward Houses (William Bent House)",
+        "place_name": "William Bent (of Bent's Fort) stayed here when in Missouri; the house was already built when he bought the land in 1858. CMP, 94",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.601683,
+          39.02815
+        ],
+        "type": "Point"
+      },
+      "id": "28174fa142bbf818863011067009cd35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Woodlawn Cemetery",
+        "place_name": "",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.411098,
+          39.085138
+        ],
+        "type": "Point"
+      },
+      "id": "28185bd46d5daa0b951f2e12615597b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Pilot Knobs",
+        "place_name": "Important landmarks that would have been more significant if they were not so close to Wagon Mound (an even more important landmark). CMP, 104",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.732774,
+          36.008779
+        ],
+        "type": "Point"
+      },
+      "id": "2d389113f6eb7fd7b83d9ef26ff06c31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ford",
+        "STATE": "KS",
+        "Site_Name": "Fort Dodge",
+        "place_name": "Named for Colonel Henry I. Dodge, former Wisconsin Senator and uncle of General Grenville M. Dodge (the fort's commander). McCoy/Hults, 66.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.935733,
+          37.732917
+        ],
+        "type": "Point"
+      },
+      "id": "2fe043172156b0b5332f8582b9b4b35f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Douglas",
+        "STATE": "KS",
+        "Site_Name": "The Narrows",
+        "place_name": "A ridge separating two different drainages, both difficult for wagon travel. Rydjord, 23",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.178016,
+          38.788029
+        ],
+        "type": "Point"
+      },
+      "id": "31192302467464dc55d13299b79f58b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Bent",
+        "STATE": "CO",
+        "Site_Name": "Old Fort Lyon",
+        "place_name": "Originally named Fort Wise (after Virginia Governor Henry Wise). The name was changed in memory of General Nathaniel Lyon, who perished at the Battle of Wilson's Creek in 1861. Eichler, 29-30.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.772812,
+          38.095799
+        ],
+        "type": "Point"
+      },
+      "id": "31d4443476e7ec2fdce071b5dcc0636f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Barton",
+        "STATE": "KS",
+        "Site_Name": "Pawnee Rock",
+        "place_name": "According to one story, the name commemorates a  battle in which Comanches wiped out an entire party of Pawnee. Another story states that Kit Carson took refuge from a battle on the rock; he subsequently killed his first Pawnee there. Rydjord (1968), 141-142. Carson may have also shot one of his party's mules, thinking it an attacker. David Clapsaddle, \"Kit Carson, Dick Wootton, and the Dead Mule,\" Wagon Tracks Vol. 21, no. 2 (February 2007): 7-8.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.981886,
+          38.272064
+        ],
+        "type": "Point"
+      },
+      "id": "35315a3eb6701e5beec7746240c2c645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Noland House",
+        "place_name": "Smallwood Noland owned an inn popular with users of the Santa Fe Trail. CMP, 92",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.436957,
+          39.084303
+        ],
+        "type": "Point"
+      },
+      "id": "36143c483a559fb7a517f0c0e022b681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Cimarron",
+        "STATE": "KS",
+        "Site_Name": "Wolf Mountain",
+        "place_name": "Wolves were plentiful in Kansas until the 1850s and 1860s, when their hides became valuable commodities. McCoy/Hults, 213",
+        "linguistic origin": "Anglo (other)",
+        "named for": "animal",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.504761,
+          36.870862
+        ],
+        "type": "Point"
+      },
+      "id": "3f3c68d977475df859f1fd2a259af758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Douglas",
+        "STATE": "KS",
+        "Site_Name": "Simmon's Point Stage Station",
+        "place_name": "Phillip and Elmira Dodder Simmons operated this station during the post-Civil War years. CMP, 96",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.434639,
+          38.782944
+        ],
+        "type": "Point"
+      },
+      "id": "3f88dfc87d3cca9004d0344d4a2e5f61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "St. James Hotel",
+        "place_name": "",
+        "linguistic origin": "Anglo (other)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.9204,
+          36.504938
+        ],
+        "type": "Point"
+      },
+      "id": "3fd32c4afcc8b1c7081b719fcdea76e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Puertocito Pedragosa",
+        "place_name": "",
+        "linguistic origin": "Spanish",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.243204,
+          35.532173
+        ],
+        "type": "Point"
+      },
+      "id": "41101b09e26870a69c45561329ff2882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Last Chance Store",
+        "place_name": "Run by Thomas C. Hill, a former partner of Malcom Conn, this store was another place that trail merchants could purchase \"last chance\" supplies. Mark Gardner, \"Malcolm Conn: Merchant on the Trail,\" Wagon Tracks Vol. 1, no. 2 (February 1987): 7-8. ",
+        "linguistic origin": "Anglo (other)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.494694,
+          38.659889
+        ],
+        "type": "Point"
+      },
+      "id": "436cdc224152adcb80917ffda45d224e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rice",
+        "STATE": "KS",
+        "Site_Name": "Plum Buttes",
+        "place_name": "Named for plum trees on nearby buttes. When these dried up, they were called 'Bald Buttes.' Rydjord, 46.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.448467,
+          38.358648
+        ],
+        "type": "Point"
+      },
+      "id": "45b8c4b6ce1febcf9708183d18646a58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Kozlowski's Spring/ Stage Station",
+        "place_name": "Martin Kozlowski, a Polish immigrant, constructed this store with materials from the Pecos pueblo and mission.  David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part I,\" Wagon Tracks Vol. 24, no. 2 (February 2010): 21.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.682561,
+          35.54011
+        ],
+        "type": "Point"
+      },
+      "id": "45faca76c02906eb636fdba6bb66b0a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Post Office Oak",
+        "place_name": "A tree near Council Grove where travelers left letters. Rydjord, 45.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "event",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.486361,
+          38.66175
+        ],
+        "type": "Point"
+      },
+      "id": "468ca75e98a400ed01e0fc10e8c53f61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Kearney Gap",
+        "place_name": "Named for Stephen W. Kearney, commander of the Army of the West. He passed through here in 1846 on his way to Santa Fe to meet with the Mexican governor, Manuel Armijo. Kearny took Las Vegas and Santa Fe without any opposition. Pearce, 78.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.243257,
+          35.559222
+        ],
+        "type": "Point"
+      },
+      "id": "46c6197ea81e3ba8699b10fe749f0595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Blue Mills",
+        "place_name": "The flour and lumber mills in this part of the \"Blue Country\" served Fort Leavenworth and Independence primarily. Jane Mallinson, \"Independence: Queen City of the Trails,\" Wagon Tracks Vol. 1, no. 4 (August 2003): 18.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "building",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.307635,
+          39.153189
+        ],
+        "type": "Point"
+      },
+      "id": "471fa709b8bbf1d318ba7b7ff9a31b14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "Site_Name": "Glorieta Pass",
+        "place_name": "In Spanish, glorieta can mean 'bower' or 'arbor,' suggesting that this place was named for its greenery. But, in Mexican Spanish, the term connotes a forested gathering place or intersection. Julyan, 149.",
+        "linguistic origin": "Spanish",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.779032,
+          35.59069
+        ],
+        "type": "Point"
+      },
+      "id": "4a589c8be4a9277778968a3d52652e3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Johnson",
+        "STATE": "KS",
+        "Site_Name": "Lone Elm Campground",
+        "place_name": "Originally a large stand of trees, this popular campsite had been reduced to a single tree by the  1840s. David Clapsaddle, \"The Fort Leavenworth-Round Grove/Lone Elm Road: The Army's First Link to the Santa Fe Trail,\" Wagon Tracks Vol. 8, no. 1 (November 1993): 12.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.832314,
+          38.820718
+        ],
+        "type": "Point"
+      },
+      "id": "4c06d4834742f43543c56f2af2352e2f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Kearny",
+        "STATE": "KS",
+        "Site_Name": "Kearny County Hist. Society (Charlie Bentrop Ruts)",
+        "place_name": "Named for the nephew of Stephen W. Kearny, General Philip Kearny; he died at the battle of Chantilly, Virginia in 1862. McCoy/Hults, 102",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -101.185474,
+          37.974165
+        ],
+        "type": "Point"
+      },
+      "id": "4ec71b32fe9aed1aeb5dc304f3eb33cb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Howard",
+        "STATE": "MO",
+        "Site_Name": "Franklin Site (Old Franklin)",
+        "place_name": "Named after Benjamin Franklin, signer of the Declaration of Independence. Ramsay 55, McMillen 49",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -92.75535,
+          38.987217
+        ],
+        "type": "Point"
+      },
+      "id": "4f83403006d33d9c9ddceb063d1d1d55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Seth Hays Home",
+        "place_name": "Seth Hays, of the Hays House Restaurant, built this house in 1866. CMP, 97",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.488333,
+          38.659417
+        ],
+        "type": "Point"
+      },
+      "id": "4fe31e703ec001110af6ebde381d13e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Westport Landing",
+        "place_name": "A classic example of a place name based solely on direction. Ramsay, 83",
+        "linguistic origin": "Anglo (other)",
+        "named for": "location relative to other sites",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.584383,
+          39.112867
+        ],
+        "type": "Point"
+      },
+      "id": "511246d88f34af0d079c7d66498b9fa0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "Site_Name": "Fort Marcy",
+        "place_name": "Named in honor of Captain R.B. Marcy, who wrote The Prairie Traveller and discovered the headwaters of the Canadian River. Pearce, 58.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.931867,
+          35.689483
+        ],
+        "type": "Point"
+      },
+      "id": "54f86a59b4d1851e104f0a6a971f3468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Marion",
+        "STATE": "KS",
+        "Site_Name": "Durham Ruts",
+        "place_name": "Durham was named for Durham cattle (which originated in Durham County, England). Imported beginning in the 1870s, these shorthorns improved the quality of cattle in the area. McCoy/Hults, 53.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "animal",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -97.278349,
+          38.458818
+        ],
+        "type": "Point"
+      },
+      "id": "55f52d36dd6ddf1c0f2a77178203d461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Owens-McCoy House",
+        "place_name": "Samuel C. Owens was a merchant from Jackson County, MO, that helped found the town of Kansas (which later became Kansas City, MO). Barry, 360.  William McCoy was a trader, financial backer, contract freighter, and the first mayor of Independence. CMP, 93",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.42217,
+          39.09567
+        ],
+        "type": "Point"
+      },
+      "id": "573c4ea6981f324e61c08ffc3af49819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Osage",
+        "STATE": "KS",
+        "Site_Name": "Havana Stage Station",
+        "place_name": "Named after Havana, Illinois. Rydjord, 96; McCoy/Hults, 84",
+        "linguistic origin": "Anglo (other)",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.916056,
+          38.752389
+        ],
+        "type": "Point"
+      },
+      "id": "58c9d2743acaadecaf51ab2d944b3203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Ocate Crossing",
+        "place_name": "This town is possibly named for ocote (Spanish for \"pitch pine\"). However, it could also be derived from the Jicarilla Apache word for \"valley of the winds.\" Jicarillas inhabited the region around the time of Hispanic settlement, making either explanation fairly plausible. Julyan, 246-247. This site is historically significant as a crossing, although it was settled roughly 150 years ago. Mike Olson, \"The UU Bar Ranch Case: A History of the Traces, Trails, Roads, and Highways Connecting Rayado, New Mexico, and the Crossing of Ocate Creek,\" Wagon Tracks, vol. 19, no. 4 (August 2005): 7-16.",
+        "linguistic origin": "Spanish",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.909483,
+          36.1518
+        ],
+        "type": "Point"
+      },
+      "id": "5b09645db0df3b616c6ff21177b90972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Hamilton",
+        "STATE": "KS",
+        "Site_Name": "Fort Aubry and Aubry Crossing",
+        "place_name": "Named for Francois Xavier Aubrey, a French Canadian who broke all speed records on the Santa Fe Trail. Only five feet and two inches tall, he rode eight hundred miles in five days and sixteen hours. He was stabbed to death in a saloon. Rydjord, 122.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -101.680533,
+          37.953067
+        ],
+        "type": "Point"
+      },
+      "id": "5bf7b8408b7677f5cc0f8eb729ba43e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ford",
+        "STATE": "KS",
+        "Site_Name": "Sawlog Creek Crossing",
+        "place_name": "Sawlog Creek was a source of wood for nearby Fort Atkinson. Buffalo hunters named the creek after seeing mules dragging cut logs away from the river bank. Rydjord, 53.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.883427,
+          37.900903
+        ],
+        "type": "Point"
+      },
+      "id": "5c552b30b784d7b976fae53e95fa3dfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rice",
+        "STATE": "KS",
+        "Site_Name": "Little Arkansas River Crossings",
+        "place_name": "Originally called 'Ne Shuta Shinka' by the Osage, which means 'the young' or 'little red water.' McCoy/Hults, 117.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -97.938637,
+          38.307074
+        ],
+        "type": "Point"
+      },
+      "id": "5c7c7ee66350b8bc12dfd5661ceadbb5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Saline",
+        "STATE": "MO",
+        "Site_Name": "Huston Tavern",
+        "place_name": "Built by Joseph Huston in the 1830s. CMP, 90.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -92.945107,
+          39.069774
+        ],
+        "type": "Point"
+      },
+      "id": "5ddf23d9e596851465a07b3795076516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Gilpintown",
+        "place_name": "Politician William Glipin tried--and failed--a real estate ploy at this site. CMP, 93",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.427106,
+          39.128797
+        ],
+        "type": "Point"
+      },
+      "id": "5e01fffc1b46e654b3c017b0e371d672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ford",
+        "STATE": "KS",
+        "Site_Name": "Black Pool",
+        "place_name": "Most likely named for the black shale beneath the feature. Despite its apparently simple name, the site has a convoluted history. David Clapsaddle, \"Black Pool: Real or Ruse?\" Wagon Tracks Vol. 21, no. 4 (August 2007): 7-8.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -99.691506,
+          37.653929
+        ],
+        "type": "Point"
+      },
+      "id": "60e4d5e682c2130cf4e465de130245de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Wyandotte",
+        "STATE": "KS",
+        "Site_Name": "Grinter House and Ferry",
+        "place_name": "Named for Moses Grinter, ferry operator and supposedly the first permanent white inhabitant in what is now Wyandotte County. McCoy/Hults, 81",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.76017,
+          39.074511
+        ],
+        "type": "Point"
+      },
+      "id": "61208c482986a9805e21b854552fcda9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Kaw Mission",
+        "place_name": "There has been much variation in the Anglo-American usage of 'Kansas,' made even more confusing by the fact that it can denote a native group, a river, or a current state. At different times it has been spelled Kansez, Kances, Kanzau, and Kanzas. One authority on Kansas history insisted that the 'n' and 's' were barely audible, and thus the name was 'Kausa' or 'Ka-a.' The French eventually shortened it to 'Quans,' 'Caugh,' 'Caw,' 'Kaw,' and 'Kah.' The eventual usage of this shortened form to denote both the native group and the river clarified things somewhat. Rydjord (1968), 22-24.",
+        "linguistic origin": "French",
+        "named for": "Native American group",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.493611,
+          38.6655
+        ],
+        "type": "Point"
+      },
+      "id": "6212665c9c271202cf9646e134843b40"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Saline",
+        "STATE": "MO",
+        "Site_Name": "Neff Tavern Site",
+        "place_name": "Isaac Neff built this tavern along the trail in 1837. CMP, 90.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -93.04435,
+          39.0965
+        ],
+        "type": "Point"
+      },
+      "id": "6652d0e9c2788934d3408558620e9a64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Jim Bridger's Store",
+        "place_name": "Cyprien Chouteau built this store, but sold it to Jim Bridger in 1866. CMP, 94",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.591783,
+          39.0528
+        ],
+        "type": "Point"
+      },
+      "id": "668621043d684acdb46e908360aac42d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Cimarron",
+        "STATE": "OK",
+        "Site_Name": "Cold Spring and Autograph Rock",
+        "place_name": "Similar to Inscription Rock, Autograph Rock contains the names of many travelers from the 1850s onward. CMP, 103",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.649309,
+          36.831846
+        ],
+        "type": "Point"
+      },
+      "id": "68d8dbc9d00586866f926b6c38439aff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Las Animas",
+        "STATE": "CO",
+        "Site_Name": "Hough-Baca House",
+        "place_name": "Built by trail merchant John Hough, this house was later sold to the Baca family. CMP, 107",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.503017,
+          37.1695
+        ],
+        "type": "Point"
+      },
+      "id": "68e1a50f91a79059fcbea199b6a112e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Leavenworth",
+        "STATE": "KS",
+        "Site_Name": "Fort Leavenworth",
+        "place_name": "Colonel Henry H. Leavenworth established the fort in 1827. McCoy/Hults, 67. It was originally called 'Cantonment Leavenworth,' a name which lasted until 1832. Rydjord, 379",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.918267,
+          39.3553
+        ],
+        "type": "Point"
+      },
+      "id": "6960160ee321780a12b44744be32eb0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Las Animas",
+        "STATE": "CO",
+        "Site_Name": "Wootton Ranch",
+        "place_name": "Richens Lacy \"Uncle Dick\" Wootton first traveled the Santa Fe Trail in 1836. He is famous for constructing the toll road over Raton Pass, which stayed operational until the coming of the Atchison, Topeka, and Santa Fe Railroad in 1878. Benson, 229-230",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.488506,
+          37.017723
+        ],
+        "type": "Point"
+      },
+      "id": "69e017fe18c9d73bde996e10f6d5b506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ford",
+        "STATE": "KS",
+        "Site_Name": "Point of Rocks - Ford County, KS",
+        "place_name": "A major landmark consisting of a rocky face. CMP, 101",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -100.116849,
+          37.767272
+        ],
+        "type": "Point"
+      },
+      "id": "6a96c58fabfd255be42b110407af2bcf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "McPherson",
+        "STATE": "KS",
+        "Site_Name": "1825 Kaw Treaty Site",
+        "place_name": "Site at which Santa Fe Trail survey officials negotiated permission with the Kaw/Kansa to pass through their lands. CMP, 98",
+        "linguistic origin": "Anglo (other)",
+        "named for": "event",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -97.652285,
+          38.292083
+        ],
+        "type": "Point"
+      },
+      "id": "6b0476ea2ef8dbf113be969fe71aa6ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ford",
+        "STATE": "KS",
+        "Site_Name": "Lower Crossing of the Arkansas River",
+        "place_name": "Less used than the Middle and Upper Crossings of the Arkansas because of its longer distance to the Cimarron. CMP, 100-101",
+        "linguistic origin": "French/ Native American",
+        "named for": "location relative to other sites",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.760328,
+          37.660634
+        ],
+        "type": "Point"
+      },
+      "id": "6f0096d59db7b38decbbff0a1276874b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morton",
+        "STATE": "KS",
+        "Site_Name": "Middle (Cimarron) Spring",
+        "place_name": "Despite numerous other names by the Osage and Pawnee, the Cimarron maintained its Spanish name. Meaning 'wild' or 'unruly,' Cimarron likely referred to sheep or cattle. Rydjord (1968), 108. The full Spanish name was 'Rio de los Carneros Cimarron,' or 'River of the Wild Mountain Sheep.' Folklore has it that a traveler's beans were taking too long to cook. Waking in the morning and finding them still inedible, he threw them in the river and yelled \"Simmer on!\" Rydjord, 93. ",
+        "linguistic origin": "Spanish",
+        "named for": "location relative to other sites",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -101.903883,
+          37.123971
+        ],
+        "type": "Point"
+      },
+      "id": "6f40ac8350860fdfc8b0d5121be0a904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Pawnee",
+        "STATE": "KS",
+        "Site_Name": "Ash Creek Crossing",
+        "place_name": "Named after the predominant variety of tree found nearby. David Clapsaddle, \"Ash Creek Crossing,\" Wagon Tracks Vol. 15, no. 1 (November 2000): 17-18",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.0655,
+          38.232954
+        ],
+        "type": "Point"
+      },
+      "id": "6f922715a41ca28da674059fe4a229b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Las Animas",
+        "STATE": "CO",
+        "Site_Name": "Spanish Peaks",
+        "place_name": "So named because they were in what was then Spanish territory. Benson, 198",
+        "linguistic origin": "Anglo (other)",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.920094,
+          37.393305
+        ],
+        "type": "Point"
+      },
+      "id": "717e91ab48b6084c8e8ed73f1593dc2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "McPherson",
+        "STATE": "KS",
+        "Site_Name": "Miller Grave",
+        "place_name": "Eighteen-year old Edward Miller was killed by Cheyennes while riding between two trading ranches in July 1864. David A. Clapsaddle, \"Serendipity in the Cemetery,\" Wagon Tracks Vol. 21, no. 4 (August 2007): 5-6.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -97.385659,
+          38.381118
+        ],
+        "type": "Point"
+      },
+      "id": "734ea2ae2ff7586c49ad93d418d4079e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Osage",
+        "STATE": "KS",
+        "Site_Name": "Soldier Creek Crossing & Swale",
+        "place_name": "One of many thusly named creeks, this one (Osage County) was inspired by a regiment of cholera-ridden soldiers found there in 1851. McCoy/Hults, 185",
+        "linguistic origin": "Anglo (other)",
+        "named for": "event",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.932056,
+          38.746444
+        ],
+        "type": "Point"
+      },
+      "id": "73c3fb120c00655d707197eafa1a6b1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Tiptonville",
+        "place_name": "William B. Tipton married the daughter of Samuel B. Watrous (who was his employer, as well). Originally known as La Junta, the area settled by Tipton and his wife became known as Tiptonville. Julyan, 355",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.996567,
+          35.816767
+        ],
+        "type": "Point"
+      },
+      "id": "73c9bc92166309da4d6413657028fbb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Barton",
+        "STATE": "KS",
+        "Site_Name": "Walnut Creek Crossing - Barton County, KS",
+        "place_name": "There are twenty-seven walnut creeks in Kansas. This one was also called 'Tsodalhente-d Pa' by the Kiowas, which means 'armless man's creek.' McCoy/Hults, 205. Likely named for the (somewhat unusual) stands of walnut trees thereabouts.  David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part II,\" Wagon Tracks Vol. 24, no. 3 (May 2010): 19.  ",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.704666,
+          38.358438
+        ],
+        "type": "Point"
+      },
+      "id": "7583b99b2d924ded5194db5622a444b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Osage",
+        "STATE": "KS",
+        "Site_Name": "McGee-Harris Stage Station",
+        "place_name": "Fry McGee started this station in the 1850s; he also built a toll bridge over a nearby creek. CMP, 96",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.691389,
+          38.770889
+        ],
+        "type": "Point"
+      },
+      "id": "76cca4db0f742d727375602e1625a707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Douglas",
+        "STATE": "KS",
+        "Site_Name": "Black Jack Park Ruts",
+        "place_name": "Named after Jack oak, or 'Black Jack.' Rydjord, 49. The name was likely given by Mexican traders to a creek with blackjack oaks nearby. McCoy/Hults, 22 ",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.129528,
+          38.767361
+        ],
+        "type": "Point"
+      },
+      "id": "7925e5fe91a107939206a50a7848298f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Union",
+        "STATE": "NM",
+        "Site_Name": "Round Mound",
+        "place_name": "Originally named for its appearance, this later became Mount Clayton (named for Sen. Stephen Dorsey's son). Pearce, 105.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.617031,
+          36.537172
+        ],
+        "type": "Point"
+      },
+      "id": "7bd0a1b0ba7fc04988414ec569d8d551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rice",
+        "STATE": "KS",
+        "Site_Name": "Jarvis (Chavez) Creek Crossing",
+        "place_name": "Whoever named this site had originally intended to call It Chavez Creek, after Don Antonio Chavez (a Spanish trader) was murdered there in 1841. McCoy/Hults, 98.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.117118,
+          38.311666
+        ],
+        "type": "Point"
+      },
+      "id": "7dafc4e3825750e963cc4f94d169eb18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "Site_Name": "Santa Fe Plaza",
+        "place_name": "Santa Fe ('holy spirit') was likely named for Santa Fe, Spain (near Granada), which Ferdinand and Isabella named during their expulsion of the Moors in 1492. Pearce, 149.",
+        "linguistic origin": "Spanish",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.938617,
+          35.68735
+        ],
+        "type": "Point"
+      },
+      "id": "7f26c83ea17a849cb5435c4db49a00c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Las Animas",
+        "STATE": "CO",
+        "Site_Name": "Cruz Torres Grave",
+        "place_name": "Cruz Torres was murdered near the site. CMP, 107",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.48929,
+          37.004916
+        ],
+        "type": "Point"
+      },
+      "id": "80fb3d7ef9493d5f9bdac97ab03ea6bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Minor Park Ruts",
+        "place_name": "",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.5752,
+          38.92385
+        ],
+        "type": "Point"
+      },
+      "id": "828fa61a8122e4f2531052053b6f317c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Lucien Maxwell House",
+        "place_name": "Named for Lucien Maxwell, hunter, trapper, and the head of the Maxwell Land Grant. The grant was originally given to a French trapper and his Hispanic wife; however, Maxwell married their daughter and bought out the other heirs. Once over 1.7 million acres, the grant became a hub of milling and ranching activity under Maxwell's supervision. Julyan, 222",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.930618,
+          36.367066
+        ],
+        "type": "Point"
+      },
+      "id": "853531d7584a37d018c150ceca15f1e4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Kritser House",
+        "place_name": "Martin Kritser was a trail merchant that lived in Independence. CMP, 92",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.414868,
+          39.089713
+        ],
+        "type": "Point"
+      },
+      "id": "86049e7c982a31daa874a36499fc5742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Pawnee",
+        "STATE": "KS",
+        "Site_Name": "Fort Larned National Historic Site",
+        "place_name": "Colonel Benjamin F. Larned was the paymaster-general when the fort was constructed. Rydjord, 417.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.213788,
+          38.18229
+        ],
+        "type": "Point"
+      },
+      "id": "8699db5b2b3286372edfd2534c153ac4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Marion",
+        "STATE": "KS",
+        "Site_Name": "Lost Spring",
+        "place_name": "At certain times of year, the spring had no water--hence the name.  David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part I,\" Wagon Tracks Vol. 24, no. 2 (February 2010): 25.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -97.011955,
+          38.567667
+        ],
+        "type": "Point"
+      },
+      "id": "896f04cc92b64385b2c2292e160e0eb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Douglas",
+        "STATE": "KS",
+        "Site_Name": "Blue Mound",
+        "place_name": "Named for its darkly timbered slopes. Rydjord, 29",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.182147,
+          38.904711
+        ],
+        "type": "Point"
+      },
+      "id": "89d84fbdf6d5f5b45042d91db8203173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "Site_Name": "Pigeon's Ranch and Glorieta Battlefield",
+        "place_name": "The site of the best lodging between Santa Fe and Las Vegas. Its owner, Alexander Valle, was a French-American with a distinctive \"pigeon-wing\" dance style. Julyan, 266.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.754933,
+          35.57155
+        ],
+        "type": "Point"
+      },
+      "id": "8a2678891aeeb7ec784be2c64b19356b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Osage",
+        "STATE": "KS",
+        "Site_Name": "Dragoon Creek Crossing",
+        "place_name": "The name memorializes a U.S. soldier that died on the creek's western bank. McCoy/Hults, 53",
+        "linguistic origin": "Anglo (other)",
+        "named for": "event",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.908611,
+          38.759917
+        ],
+        "type": "Point"
+      },
+      "id": "8cb36b70d517ad2b8ec42bc6596b7609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Barton",
+        "STATE": "KS",
+        "Site_Name": "First Fort Zarah Site",
+        "place_name": "General Samuel R. Curtis named the fort for his son. Major H. Zarah Curtis was killed in the Battle of Baxter Springs in 1863. Rydjord, 417.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.711263,
+          38.360988
+        ],
+        "type": "Point"
+      },
+      "id": "8cb4d19b221b95bec3e6bfa77e31e21d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Bent",
+        "STATE": "CO",
+        "Site_Name": "Bent's New Fort",
+        "place_name": "The fort was operated by William Bent and Ceran St. Vrain from 1853 to 1860. CMP, 108",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.760317,
+          38.094383
+        ],
+        "type": "Point"
+      },
+      "id": "8eb75ec11f98258701c2b7bc64f12261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Hermit's Peak",
+        "place_name": "Juan Maria Agostini, an Italian hermit, lived here in the 1860s. Pearce, 70. Agostini took up residence in a cave and became somewhat of a holy man for surrounding communities. Julyan, 164.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.415255,
+          35.744427
+        ],
+        "type": "Point"
+      },
+      "id": "8ff86deb47e69fd0a33f38936deaeb04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Union",
+        "STATE": "NM",
+        "Site_Name": "Mount Dora",
+        "place_name": "Senator Stephen Dorsey (AR) named this feature in honor of his sister-in-law. Julyan, 235",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.459154,
+          36.543134
+        ],
+        "type": "Point"
+      },
+      "id": "93661e45b2ee4b5c884f99bb93c27efe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Watrous Store",
+        "place_name": "Originally named La Junta de los Rios Mora y Sapello, Watrous got its name when the AT&SF came through; Samuel B. Watrous was a merchant and rancher that came to New Mexico from Vermont in the 1830s. Julyan, 377",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.980219,
+          35.799495
+        ],
+        "type": "Point"
+      },
+      "id": "95c30e3eda6b67f8cad0ae11127019e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Big Blue River Crossing",
+        "place_name": "Most likely a descriptive name. Before becoming Jackson County, the region around Kansas City was called the \"Blue Country.\" Ramsay, 83",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.508894,
+          39.07386
+        ],
+        "type": "Point"
+      },
+      "id": "95f966aa6ee4b81220c19cb848fc06a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Saline",
+        "STATE": "MO",
+        "Site_Name": "Grand Pass",
+        "place_name": "A terrace located between the Salt Fork and the Missouri River. CMP, 90. The Osage Trace, which connected with the Santa Fe Trail, passed through Grand Pass. At one point, this important passage is literally a stone's throw across. Eaton, 63. ",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -93.441683,
+          39.20425
+        ],
+        "type": "Point"
+      },
+      "id": "9a66ba0ca1c0e5814b3dbac5c381f7ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "San Miguel del Vado",
+        "place_name": "Located at an important crossing of the Pecos, this community was founded in the late 1700s by gen�zaros (Hispanicized Indians). The name literally means 'Saint Michael of the Ford.' Vado sometimes appears as Bado. Julyan, 318.",
+        "linguistic origin": "Spanish",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.450871,
+          35.37287
+        ],
+        "type": "Point"
+      },
+      "id": "9c8076c162ad775dda765482dcd88dc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Osage",
+        "STATE": "KS",
+        "Site_Name": "Samuel Hunt Grave",
+        "place_name": "Private Samuel Hunt, of Col. Henry Dodge's (First) dragoon command, died here on September 11, 1835. A stone with his name marks the spot. Barry, 293-294.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.925806,
+          38.754333
+        ],
+        "type": "Point"
+      },
+      "id": "9ca2f030e3c7ac8cc8fa8e644a354a90"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "Site_Name": "Johnson's Ranch Site",
+        "place_name": "Anthony Johnson, a teamster from Fort Union, started this mail station--the last one east of Santa Fe.  David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part I,\" Wagon Tracks Vol. 24, no. 2 (February 2010): 21.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.825117,
+          35.550133
+        ],
+        "type": "Point"
+      },
+      "id": "9e2be639a0b53805925f9c301c4d132b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Red Bridge Crossing",
+        "place_name": "Formerly a difficult ford, this crossing was improved by the construction of the Red Bridge in 1859. CMP, 93",
+        "linguistic origin": "Anglo (other)",
+        "named for": "building",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.571811,
+          38.926011
+        ],
+        "type": "Point"
+      },
+      "id": "9e386f712e5141b018179c2ee5d4cfc4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Lewis-Bingham-Waggoner House & Swales",
+        "place_name": "John Lewis built part of the house, which was subsequently occupied by the artist George Caleb Bingham and the Waggoner family. CMP, 93",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.420222,
+          39.084256
+        ],
+        "type": "Point"
+      },
+      "id": "9f1c57378d337f46972645f4105e2959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Swink's Gambling Hall",
+        "place_name": "",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.921343,
+          36.504309
+        ],
+        "type": "Point"
+      },
+      "id": "a088673ff8ef6bdc63b8ecbd47761efb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Cimarron",
+        "STATE": "OK",
+        "Site_Name": "Cedar Spring and Carrizozo Creek",
+        "place_name": "",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.926346,
+          36.756963
+        ],
+        "type": "Point"
+      },
+      "id": "a2a25449779156602e8dfd60c527ae21"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Glorieta Mesa",
+        "place_name": "In Spanish, glorieta can mean 'bower' or 'arbor,' suggesting that this place was named for its greenery. But, in Mexican Spanish, the term connotes a forested gathering place or intersection. Julyan, 149.",
+        "linguistic origin": "Spanish",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.68204,
+          35.466628
+        ],
+        "type": "Point"
+      },
+      "id": "a48890cfc3a84adfcc672170b6de1a31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Barton",
+        "STATE": "KS",
+        "Site_Name": "Allison and Booth's Fort and Peacock Ranch Trading Post Site",
+        "place_name": "William Allison and Francis Booth(e), former employees of a mail outfit,  opened this post in 1855. CMP, 99",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.69761,
+          38.359513
+        ],
+        "type": "Point"
+      },
+      "id": "a799368b50da38bf8987f3813e7ec789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Sapello Stage Station",
+        "place_name": "There are many possible Spanish origins of the name 'sapello': sapillo ('little toad'); sepilio ('burial, interment'); and sapello (New Mexican Spanish for the medicinal usage of cottonwood trees). The name was in use before the area was settled, leading some to believe the name is of Indian origin; it resembles Chapalote, the name of a Kiowa who frequented the New Mexico area. Julyan, 327-328. A French priest, writing in 1853, referred to the area as Chapellon. Pearce, 151.",
+        "linguistic origin": "contested",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.00315,
+          35.779267
+        ],
+        "type": "Point"
+      },
+      "id": "a97d8f1046be0f7a55e99eb75d0af240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Aztec Mill",
+        "place_name": "Named for the nearby pueblo, which was named based on the belief (common in the late 1800s) that New Mexico's ruins were northern branches of Aztec civilization. Pearce, 12.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "Native American group",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.922426,
+          36.505253
+        ],
+        "type": "Point"
+      },
+      "id": "aee0e3e2968cb9d5a78f4f1224ce2efa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Archibald Rice Farmhouse",
+        "place_name": "Archibald Rice built this structure in the 1830s. CMP, 93",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.481667,
+          39.003967
+        ],
+        "type": "Point"
+      },
+      "id": "af5a0184cce55fb92eecc593801a7d32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Lafayette",
+        "STATE": "MO",
+        "Site_Name": "Lexington",
+        "place_name": "Named for the infamous Revolutionary War site, Lexington was settled in 1817 by North Carolinians; it became the seat of Lafayette County soon afterward. Eaton, 183",
+        "linguistic origin": "Anglo (other)",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -93.877813,
+          39.184437
+        ],
+        "type": "Point"
+      },
+      "id": "b17bb52f9159dbc6e0a888e35ae5eb60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Kearny",
+        "STATE": "KS",
+        "Site_Name": "Indian Mound",
+        "place_name": "A lookout used by both Indians and trading parties. CMP, 109",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -101.339267,
+          37.8952
+        ],
+        "type": "Point"
+      },
+      "id": "b1eab5e7a8f0784b395f33d6f3917316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Union",
+        "STATE": "NM",
+        "Site_Name": "Rabbit Ears",
+        "place_name": "A chief of the Comanche--or some say Cheyenne--is the inspiration for this name. Some say that he attacked wagon trains near here; others say that he was killed here. His ears had supposedly been frozen (perhaps giving them a distinctive look). At any rate, the name does not describe the landscape but rather a person. Julyan, 283. Named for a Comanche chief, Orejas de Conejo, who was killed in a battle and buried on the mountainside. Pearce, 128.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.239594,
+          36.532728
+        ],
+        "type": "Point"
+      },
+      "id": "b2595d42645a43e365a81835dbd40638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Overfelt-Johnston House",
+        "place_name": "Mill owner John Overfelt built this house around 1850. CMP, 93",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.421103,
+          39.089639
+        ],
+        "type": "Point"
+      },
+      "id": "b44d0c870b320e03d641178f6c0d77d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Marion",
+        "STATE": "KS",
+        "Site_Name": "Cottonwood Creek Crossing",
+        "place_name": "Home to many tall trees, this was (for westbound travelers)  the last place for many miles where timber could be obtained.  David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part II,\" Wagon Tracks Vol. 24, no. 3 (May 2010): 14.  ",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -97.247133,
+          38.492817
+        ],
+        "type": "Point"
+      },
+      "id": "b5b198a097c166734c639637c260c93a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rice",
+        "STATE": "KS",
+        "Site_Name": "Stone Corral Site",
+        "place_name": "Named for a stone corral, part of a trading ranch and stage station nearby. CMP, 98",
+        "linguistic origin": "Anglo (other)",
+        "named for": "building",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -97.940321,
+          38.306265
+        ],
+        "type": "Point"
+      },
+      "id": "b61efc2d85e14a9c805748ccc8ccc610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Lower Independence / Blue Mills Landing",
+        "place_name": "Roughly five miles from Independence, this landing routed a plethora of trade items (from Blue Mills) to the Santa Fe Trail. CMP, 91",
+        "linguistic origin": "Anglo (other)",
+        "named for": "location relative to other sites",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.365133,
+          39.159483
+        ],
+        "type": "Point"
+      },
+      "id": "b6f3b8d006b3ce0737f96e55415fdb2f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "Site_Name": "Apache Canyon",
+        "place_name": "A Tewa source told an ethnologist that Comanches--not Apaches--used this canyon to srping attacks on unsuspecting foes. There is no historical record of this canyon's assocation with Apache peoples. Julyan, 19.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "Native American group",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.823568,
+          35.548736
+        ],
+        "type": "Point"
+      },
+      "id": "b804e0ea7910459cdc5fab8e7b5807c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Hays House Restaurant (Frame Store)",
+        "place_name": "Seth Hays remodeled this former log cabin in 1859. He originally came to Council Grove to trade with the Kaw Indians. CMP, 97 ",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.489861,
+          38.661222
+        ],
+        "type": "Point"
+      },
+      "id": "b9d53f0d985557d6fbe474cdc3b71c94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Point of Rocks - Colfax County, New Mexico",
+        "place_name": "Major landmark named for its appearance. One of many places named 'Point of Rocks' along the trail. Pearce, 123",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.15185,
+          36.420583
+        ],
+        "type": "Point"
+      },
+      "id": "bbda9db23c9fc269a8808c78b48620dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Kearny",
+        "STATE": "KS",
+        "Site_Name": "Upper Crossing",
+        "place_name": "Named for its relative positioning. It was used less than the Middle Crossings of the Arkansas, but more than the Lower Crossing. CMP, 109",
+        "linguistic origin": "Anglo (other)",
+        "named for": "location relative to other sites",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -101.309892,
+          37.899068
+        ],
+        "type": "Point"
+      },
+      "id": "bd85a3d989ad02ea8cecb1dc134fd6a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Little Blue River Crossing",
+        "place_name": "Most likely a descriptive name. Before becoming Jackson County, the region around Kansas City was called the \"Blue Country.\" Ramsay, 83",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.314336,
+          39.149744
+        ],
+        "type": "Point"
+      },
+      "id": "bda12943f50112b7f0150c8100fbef6a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Barclay's Fort Site",
+        "place_name": "Named for Alexander Barclay, one of the fort's operators. At one point, it was the Santa Fe Trail's only stop west of Council Grove. David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part I,\" Wagon Tracks Vol. 24, no. 2 (February 2010): 21.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.992074,
+          35.804656
+        ],
+        "type": "Point"
+      },
+      "id": "bfbb128d720c56700e597cb4f7c34857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Douglas",
+        "STATE": "KS",
+        "Site_Name": "Palmyra Well (and Baldwin City)",
+        "place_name": "Palmyra originated in Syria, but it also a town name in  New York and Ohio. McCoy/Hults, 153; Rydjord, 8.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.180722,
+          38.785972
+        ],
+        "type": "Point"
+      },
+      "id": "c3e622a4b8ec1f18b58d9a4783dac264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Pawnee",
+        "STATE": "KS",
+        "Site_Name": "Coon Creek Crossing (Wet Route)",
+        "place_name": "Kansas has nine streams with this name. Named for the animal, it has also been known as De Mun's Creek and Buffelow Crick. Rydjord, 69. See also David Clapsaddle, \"Coon Creek Crossings on the Santa Fe Trail,\" Wagon Tracks Vol. 20, no. 1 (November 2005): 5-7.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "animal",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.25565,
+          38.064067
+        ],
+        "type": "Point"
+      },
+      "id": "c3e6e10a51cfbfc67322afdab916743e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Prowers",
+        "STATE": "CO",
+        "Site_Name": "Old Granada Site",
+        "place_name": "Not to be confused with New Granada (which came with the Santa Fe Railroad). Old Granada is a trail town located near the town of Granada, the name of which could refer to the Spanish word for 'pomegranate' or the Moorish stronghold in southern Spain. Benson, 87",
+        "linguistic origin": "Spanish",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.245691,
+          38.049275
+        ],
+        "type": "Point"
+      },
+      "id": "c5657bb30c030ed851e2246aec0319df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Kearny",
+        "STATE": "KS",
+        "Site_Name": "Chouteau's Island",
+        "place_name": "August Pierre Chouteau, of the prominent French-Canadian trading family, was attacked by some Pawnees in 1816. He hid on an island in the Arkansas River. The island no longer exists. Rydjord, 120.",
+        "linguistic origin": "French",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -101.337366,
+          37.888994
+        ],
+        "type": "Point"
+      },
+      "id": "c6516316ce84272b2763ed35cd87ff01"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Bent",
+        "STATE": "CO",
+        "Site_Name": "Boggsville",
+        "place_name": "Scout Thomas O. Boggs gave his name to this frontier outpost settled in the 1860s. Benson, 21. For more information, see Priscilla Shannon Gutierrez, \"Out from the Shadow of Giants: The Life of Thomas Oliver Boggs,\" Wagon Tracks Vol. 23, no. 1 (May 2009): 7-14.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.2098,
+          38.043
+        ],
+        "type": "Point"
+      },
+      "id": "c6545cf170810b0f300fe93fafa5ed70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Osage",
+        "STATE": "KS",
+        "Site_Name": "Switzler Creek Crossing",
+        "place_name": "A wagon rolled over a man named Switzler (and killed him) while he was trying to cross the creek. McCoy/Hults, 190; Rydjorn, 19. The man in question may be John Switzler, who built a bridge across the creek in the 1840s. Barry, 549",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -95.826105,
+          38.753446
+        ],
+        "type": "Point"
+      },
+      "id": "c691d8d3f2c4c9e80f1f11614189d6aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Cimarron",
+        "STATE": "OK",
+        "Site_Name": "Cold Spring and Inscription Rock",
+        "place_name": "Many travelers from the 1840s onward wrote their names on Inscription Rock. CMP, 103",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.634463,
+          36.850249
+        ],
+        "type": "Point"
+      },
+      "id": "c77d5db5cc4f8b5b107b9e927486bd38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Ewing-Boone Store",
+        "place_name": "Built by brothers William and George Ewing, who were licensed to trade with the Shawnees. Albert Gallatin Boone bought the store in 1854. CMP, 93",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.591649,
+          39.052651
+        ],
+        "type": "Point"
+      },
+      "id": "c84be0cfdc7f2e0e83c2f1eab0b7346c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Johnson",
+        "STATE": "KS",
+        "Site_Name": "Shawnee Mission",
+        "place_name": "One of the most active Methodist Missions iin Kansas, at one time housing over 300 Indian children (ostensibly Shawnee). McCoy/Hults, 182",
+        "linguistic origin": "Anglo (other)",
+        "named for": "Native American group",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.624983,
+          39.03305
+        ],
+        "type": "Point"
+      },
+      "id": "ca28fd943f072238e96183a683e7c133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Saline",
+        "STATE": "MO",
+        "Site_Name": "Harvey Spring /  Weinrich Ruts",
+        "place_name": "",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -93.242167,
+          39.1886
+        ],
+        "type": "Point"
+      },
+      "id": "cdc721e2883137663b06fcdf3413752a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Santa Clara Spring",
+        "place_name": "Located on Santa Clara Hill, just outside of Santa Clara (the first settlement at Wagon Mound). Julyan, 375",
+        "linguistic origin": "Spanish",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.729072,
+          36.040049
+        ],
+        "type": "Point"
+      },
+      "id": "ceee3759f9e9d8f702031395d5493c03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Wagon Mound",
+        "place_name": "From the north, this volcanic mound looks like a wagon being pulled by oxen. Marie Belt, \"Wagon Mound,\" Wagon Tracks Vol. 5, no. 1 (November 1990): 7.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.695361,
+          36.00043
+        ],
+        "type": "Point"
+      },
+      "id": "cfdbcdd3172549182adafc576e1d087a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Diamond Spring",
+        "place_name": "First named Jones' Spring after Ben Jones, one of the trail's first surveyors. The sparkle in its water influenced the name change. Rydjord, 13. ",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.763,
+          38.615778
+        ],
+        "type": "Point"
+      },
+      "id": "d418282cb07971646c6adbd49586afaf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ford",
+        "STATE": "KS",
+        "Site_Name": "Fort Atkinson Site",
+        "place_name": "Named for Col. Henry Atkinson, member of an earlier expedition with Stephen F. Long and one-time commander of the Western Deparmtent. Rydjord, 413",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -100.082867,
+          37.752517
+        ],
+        "type": "Point"
+      },
+      "id": "d4f2660ef160127f50599749128017f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Fort Union National Monument",
+        "place_name": "",
+        "linguistic origin": "Anglo (other)",
+        "named for": "abstract idea",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.011283,
+          35.904767
+        ],
+        "type": "Point"
+      },
+      "id": "d5a9bd5a969ec34efad30f38b7cb5088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Union",
+        "STATE": "NM",
+        "Site_Name": "McNees Crossing",
+        "place_name": "Named in honor of a young man killed by the Comanche in 1828. Pearce, 41. An eastbound wagon train stopped here and two of its members fell asleep; they were subsequently killed by Indians. McNees Creek later became Corrumpa Creek, meaning \"wild\" or \"isolated\" in an unspecified Indian dialect. Julyan, 98.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.063467,
+          36.692483
+        ],
+        "type": "Point"
+      },
+      "id": "d6bd7ec50ae15681dcd329a3e911d8db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Las Animas",
+        "STATE": "CO",
+        "Site_Name": "Fisher's Peak (Raton Mountain)",
+        "place_name": "Captain Waldemar Fischer and his troops camped nearby during the Mexican War. Taylor, 292. New Mexicans used raton (\"rat\" or \"mouse\") to refer to rock squirrels and kangaroo rats. Kangaroo rats are especially common in the American Southwest. Pearce, 130.",
+        "linguistic origin": "Spanish",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.462728,
+          37.098171
+        ],
+        "type": "Point"
+      },
+      "id": "d78c42cd1240cbbd0a0e892b542513f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Finney",
+        "STATE": "KS",
+        "Site_Name": "Point of Rocks/Pawnee Fort - Finney County, Kansas",
+        "place_name": "A rocky reference point. CMP, 109",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -100.726283,
+          37.900367
+        ],
+        "type": "Point"
+      },
+      "id": "d85064a175e79de792b92ce2335b1c25"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Conn/Stone/Pioneer Store",
+        "place_name": "Known as the \"Stone Store,\" this enterprise was started by merchant Malcolm Conn in 1858. He was an important resource for the nearby Kaw, as well as trail merchants that needed one \"last chance\" for supplies. Mark Gardner, \"Malcolm Conn: Merchant on the Trail,\" Wagon Tracks Vol. 1, no. 2 (February 1987): 7-8. ",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.49025,
+          38.661028
+        ],
+        "type": "Point"
+      },
+      "id": "d861b8991ee0eea6903603c044b25604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Union",
+        "STATE": "NM",
+        "Site_Name": "Sierra Grande",
+        "place_name": "Spanish for 'big mountain,' this large volcano was named for its massive appearance. Julyan, 334.",
+        "linguistic origin": "Spanish",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.877267,
+          36.705548
+        ],
+        "type": "Point"
+      },
+      "id": "d8664ee15b3d9e452ffd19afa0ca8447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Mora",
+        "place_name": "Potentially derived from the Spanish word demora, meaning 'a camp/stopover.' Its name also appears as Lo de Mora ('stopping place'). There is a possibility the name comes from local residents named Mora, but the name could also come from the Spanish word moras ('mulberries'). Frenchman Ceran St. Vrain is said to have found a dead man on the banks of a nearby river, leading to the name L'Eau de Mort ('the water of the dead'). Julyan, 233-234",
+        "linguistic origin": "Spanish",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.33004,
+          35.974085
+        ],
+        "type": "Point"
+      },
+      "id": "d8ddf0018e398c94541f52cdb8942897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Ford",
+        "STATE": "KS",
+        "Site_Name": "The Caches Site",
+        "place_name": "During the late fall of 1822, James Baird and Samuel Chambers headed west, got snowed on, and were forced to dig pits to save their provisions. The following spring, they returned to the �cache� site, removed their goods, and continued on to the Missouri River. Duffus, 79",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -100.08483,
+          37.763219
+        ],
+        "type": "Point"
+      },
+      "id": "db7e6039c518065a6a8f57ed049c86af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "Site_Name": "Sapello River Crossing",
+        "place_name": "There are many possible Spanish origins of the name 'sapello': sapillo ('little toad'); sepilio ('burial, interment'); and sapello (New Mexican Spanish for the medicinal usage of cottonwood trees). The name was in use before the area was settled, leading some to believe the name is of Indian origin; it resembles Chapalote, the name of a Kiowa who frequented the New Mexico area. Julyan, 327-328. A French priest, writing in 1853, referred to the area as Chapellon. Pearce, 151.",
+        "linguistic origin": "contested",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.005866,
+          35.771425
+        ],
+        "type": "Point"
+      },
+      "id": "dcb72b0388b85758490b867405494b99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "Pecos National Monument",
+        "place_name": "When O�ate arrived in 1598, he used Keres guides. This name is probably derived from the Keresan word payakoma, which may come from a Towa word pa-kyoo-la ('place where there is water'). Julyan, 260.",
+        "linguistic origin": "Native American",
+        "named for": "geographic feature",
+        "": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -105.686083,
+          35.55015
+        ],
+        "type": "Point"
+      },
+      "id": "de75a3c76deba81b234cb35aca9ae33f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Willow Springs",
+        "place_name": "Named for two large willow trees and the springs that fed them. Julyan, 286.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.439433,
+          36.90815
+        ],
+        "type": "Point"
+      },
+      "id": "deb990271f7dab345aa1f563074fcf37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Otero",
+        "STATE": "CO",
+        "Site_Name": "Iron Spring",
+        "place_name": "",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.91195,
+          37.692283
+        ],
+        "type": "Point"
+      },
+      "id": "e0498cb14a6dd003360819fc3d6f0b13"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Grant",
+        "STATE": "KS",
+        "Site_Name": "Lower Cimarron Spring",
+        "place_name": "Despite numerous other names by the Osage and Pawnee, the Cimarron maintained its Spanish name. Meaning 'wild' or 'unruly,' Cimarron likely referred to sheep or cattle. Rydjord (1968), 108. The full Spanish name was 'Rio de los Carneros Cimarron,' or 'River of the Wild Mountain Sheep.' Folklore has it that a traveler's beans were taking too long to cook. Waking in the morning and finding them still inedible, he threw them in the river and yelled \"Simmer on!\" Rydjord, 93. ",
+        "linguistic origin": "Spanish",
+        "named for": "location relative to other sites",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -101.370696,
+          37.398316
+        ],
+        "type": "Point"
+      },
+      "id": "e1c0fc5d2721bf10a1528fe144440ccf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Saline",
+        "STATE": "MO",
+        "Site_Name": "Arrow Rock",
+        "place_name": "The town was founded in 1829, taking its name from a nearby location the French called Pierre a Fleche (Arrow Rock). Local tribes looked for arrowheads here. Eaton, 63. Originally a trading post (founded 1808), it was supposedly named when a group of men engaged in an archery contest to marry a chief's daughter. McMillen, 49-50",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -92.951017,
+          39.06895
+        ],
+        "type": "Point"
+      },
+      "id": "e36dc8be8e054a65d5a1a52c5483aba0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Council Oak",
+        "place_name": "A specific tree at Council Grove, where local tribes would gather to meet after the hunting season. George Sibley met with the Osage here in 1825 to discuss access to the Santa Fe Trail (which had been in use since 1822). Kit Carson supposedly wrote 'Council Grove' on buffalo skin and nailed them to what is now known as Council Oak. Rydjord, 44-45.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "event",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.484278,
+          38.661694
+        ],
+        "type": "Point"
+      },
+      "id": "e446dbde653bd0fd258abf81fd60e81f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Lewis-Webb House",
+        "place_name": "John Lewis, a trader and saddler, built this house in 1834. CMP, 92. William Larkin Webb and Mabel Brown Webb were a local publisher and poet, respectively. National Register Nomination Form, n.p.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.417209,
+          39.100789
+        ],
+        "type": "Point"
+      },
+      "id": "e6f0717f9daeb481499f4e76129cf280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Johnson",
+        "STATE": "KS",
+        "Site_Name": "Mahaffie Farmstead",
+        "place_name": "In 1857, farmer J.B. Mahaffie came from Indiana with his wife and five children. His farmstead became an important stagecoach stop. Michael E. Duncan, \"Mahaffie Farmstead and Stagecoach Stop Historic Site,\" Wagon Tracks Vol. 1, no. 3 *May 1987): 4.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.801483,
+          38.891133
+        ],
+        "type": "Point"
+      },
+      "id": "e92e9df185dc0a97251082cb1387e3df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Jackson County Log Courthouse",
+        "place_name": "The county was named in honor of Andrew Jackson. Ramsay, 51; Eaton, 177",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.416466,
+          39.091393
+        ],
+        "type": "Point"
+      },
+      "id": "e942fe253cc81fd1f6ddf2343c16b868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "San Miguel",
+        "STATE": "NM",
+        "Site_Name": "San Jose del Vado",
+        "place_name": "Many New Mexican places are named after the local parish church. St. Joseph is an especially popular figure throughout the state's history, hence the numerous communities named for him. Pearce, 145",
+        "linguistic origin": "Spanish",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.476532,
+          35.397162
+        ],
+        "type": "Point"
+      },
+      "id": "ea97c68f905863445fb8b779e2fa4843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Hermit's Cave",
+        "place_name": "Giovanni Augustini, an Italian mystic, lived here before setting out for New Mexico. CMP, 97",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.494528,
+          38.662694
+        ],
+        "type": "Point"
+      },
+      "id": "eae99dfd35c563bf9bba38d9ed2f63f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "Site_Name": "Palace of the Governors",
+        "place_name": "Built the same year as Santa Fe's founding (1610), this building served as a seat of government for three centuries. CMP, 106",
+        "linguistic origin": "Anglo (other)",
+        "named for": "event",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -105.938354,
+          35.688197
+        ],
+        "type": "Point"
+      },
+      "id": "eaf772a207a1d3e301b758e42281aab8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Otero",
+        "STATE": "CO",
+        "Site_Name": "Arkansas River Crossing",
+        "place_name": "The French originally used the name Akansa (potentially Algonquin) in reference to an Indian village near the river's mouth. It thus became Acansas, Akansas, Arcansas, and even Arkanzas. Benson, 10.",
+        "linguistic origin": "French/ Native American",
+        "named for": "Native American group",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.528573,
+          37.98947
+        ],
+        "type": "Point"
+      },
+      "id": "eb857224320d3787d195d6a9d26053fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Cimarron",
+        "STATE": "OK",
+        "Site_Name": "Upper (Flag) Spring",
+        "place_name": "",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature"
+      },
+      "geometry": {
+        "coordinates": [
+          -102.546528,
+          36.85775
+        ],
+        "type": "Point"
+      },
+      "id": "ec0f96026149564f54183048934638fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Fort Osage",
+        "place_name": "Originally Fort Clark, Fort Osage was built in 1808. The name changed in 1811 to acknowledge the Osage, who had moved nearby to enjoy military protection. Ramsay, 33",
+        "linguistic origin": "Anglo (other)",
+        "named for": "Native American group",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.195267,
+          39.18795
+        ],
+        "type": "Point"
+      },
+      "id": "ecb4966e7d52560832ac04d9ab0898fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Six Mile Creek Crossing & Stage Station Site",
+        "place_name": "Named for its distance from Diamond Spring.  David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part I,\" Wagon Tracks Vol. 24, no. 2 (February 2010): 25.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "location relative to other sites",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -96.856194,
+          38.605028
+        ],
+        "type": "Point"
+      },
+      "id": "ecf6a53ddb6c322d91e4684e1ddf81d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Bent",
+        "STATE": "CO",
+        "Site_Name": "New Fort Lyon",
+        "place_name": "Named in memory of General Nathaniel Lyon, who perished at the Battle of Wilson's Creek in 1861. Eichler, 29-30.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -103.136467,
+          38.080574
+        ],
+        "type": "Point"
+      },
+      "id": "ed7ee7bc45971b7f7426b39796f01c4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "New Santa Fe",
+        "place_name": "",
+        "linguistic origin": "Spanish",
+        "named for": "other place",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.605833,
+          38.907233
+        ],
+        "type": "Point"
+      },
+      "id": "ee2959ec7df54fb2ab3a664e5977a5e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Howard",
+        "STATE": "MO",
+        "Site_Name": "Boone's Lick State Historic Site",
+        "place_name": "Daniel Boone's sons went into business here in 1806, selling salt left by the spring's water. McMillen, 31",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -92.879233,
+          39.083083
+        ],
+        "type": "Point"
+      },
+      "id": "f174c402a0c41ff5da6f3341956084c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "Site_Name": "Raton Pass",
+        "place_name": "New Mexicans used raton (\"rat\" or \"mouse\") to refer to rock squirrels and kangaroo rats. Kangaroo rats are especially common in the American Southwest. Pearce, 130.",
+        "linguistic origin": "Spanish",
+        "named for": "animal",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -104.490407,
+          36.990091
+        ],
+        "type": "Point"
+      },
+      "id": "f3c2a6af68c291c8f4ac48e27441c139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rice",
+        "STATE": "KS",
+        "Site_Name": "Military Camp (Camp Grierson)",
+        "place_name": "",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -97.9366,
+          38.302683
+        ],
+        "type": "Point"
+      },
+      "id": "f59114eb1405f2f7637e09519bd58cb4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Cimarron",
+        "STATE": "OK",
+        "Site_Name": "Camp Nichols",
+        "place_name": "Named for Major General William A. Nichols. Shirk, 93.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -102.926567,
+          36.7539
+        ],
+        "type": "Point"
+      },
+      "id": "f7b634a3f3107830a791cd6e13aec430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Gray",
+        "STATE": "KS",
+        "Site_Name": "Middle (Arkansas) Crossings",
+        "place_name": "Like the Upper Crossings of the Arkansas, more used than the Lower Crossings because of its shorter distance to the Cimarron. CMP, 100-101",
+        "linguistic origin": "Spanish",
+        "named for": "location relative to other sites",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -100.507856,
+          37.844418
+        ],
+        "type": "Point"
+      },
+      "id": "f7e6ce829ed8d932a8ccac3c54491580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Independence Square ",
+        "place_name": "Like other Missouri towns Freedom and Liberty, Independence is named for the abstract idea itself. Ramsay, 91",
+        "linguistic origin": "Anglo (other)",
+        "named for": "abstract idea",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.416417,
+          39.092717
+        ],
+        "type": "Point"
+      },
+      "id": "f922157de34a2b4f9d3662bf3be2d5c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Rush",
+        "STATE": "KS",
+        "Site_Name": "Walnut Creek Crossing - Rush County, KS",
+        "place_name": "Sixty three different place names in Kansas are named after the walnut tree. McCoy/Hults, 204",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.554733,
+          38.471321
+        ],
+        "type": "Point"
+      },
+      "id": "f9a329ee633bda3e9bd40212ad060927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Jackson",
+        "STATE": "MO",
+        "Site_Name": "Lewis Jones House",
+        "place_name": "In addition to owning Indpendence's Nebraska House hotel, Lewis Jones was also a wagonmaker, trader, and investor in trail-related enterprises. CMP, 92",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -94.415376,
+          39.106264
+        ],
+        "type": "Point"
+      },
+      "id": "fbee38ea005efaa7215240b4b1fabe52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Barton",
+        "STATE": "KS",
+        "Site_Name": "Second Fort Zarah Site",
+        "place_name": "General Samuel R. Curtis named the fort for his son. Major H. Zarah Curtis was killed in the Battle of Baxter Springs in 1863. Rydjord, 417.",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -98.713953,
+          38.366484
+        ],
+        "type": "Point"
+      },
+      "id": "fc879c7473100d9d77f4095426c9f708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Morris",
+        "STATE": "KS",
+        "Site_Name": "Neosho River Crossing",
+        "place_name": "Originally an Osage name, 'Neosho' also contains a Siouan word for water ('ne' or 'ni'). Supposedly, when Kansa people found water after a long search, they yelled\"'Ne-O-sho!\" (meaning \"water in it\" or \"a stream with water\"). Another story attributes the meaning to a scout whose horse pitched him into the river. As he climbed out, he said \"Ugh, Neosho\" ('Neosho' here meaning 'water pocket' or 'pothole'). Yet another possibility comes from the Osage move westward after the Treaty of 1825. As they searched for an attractive river site, scouts let their horses drink. The chief, having been told the water was clear, was disappointed upon seeing water muddied by the horses ('Neosho' in this case means 'water made muddy'). The river's name has also been translated to mean 'bright water' or 'clear, cold water' (it was originally called the White River). Rydjord (1968), 127-128.",
+        "linguistic origin": "Native American",
+        "named for": "geographic feature",
+        "": 1
+      },
+      "geometry": {
+        "coordinates": [
+          -96.488101,
+          38.66138
+        ],
+        "type": "Point"
+      },
+      "id": "feecf1efddc2e13545720889bc75184c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Hodgeman",
+        "STATE": "KS",
+        "Site_Name": "Pawnee Fork (Duncan's Crossing)",
+        "place_name": "Named \"dark timber river\" by the Pawnee, this major tributary of the Arkansas was named the Pawnee Fork by later white settlers. Rydjord (1968), 140. Possibly named for William Duncan, a Missouri volunteer killed on the banks of the Arkansas in 1847. The attackers were thought to be Comanches. Barry, 705",
+        "linguistic origin": "Anglo (other)",
+        "named for": "contested",
+        "": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -99.661989,
+          38.232894
+        ],
+        "type": "Point"
+      },
+      "id": "ffd288b02d442ab241c617fa730edfce"
+    }
+  ],
+  "type": "FeatureCollection"
+}
