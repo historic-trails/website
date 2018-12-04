@@ -86,9 +86,9 @@ date: 2018-11-24
   src="images/old-castle-hall-map.jpg"
 %}
 
-  The Santa Fe Trail entered Douglas County near its southeast corner, a few miles east of Black Jack, from where it took a northwesterly course through Palmyra and on to Willow Springs. Here it turned to the southwest, passing close to Globe and Baden of later days and into Osage county about three miles north of the southwest corner of Douglas County. Wagon ruts are still visible at several locations in Douglas County.  To the east, in Johnson County, the trail splits from the Oregon and California Trail near Gardner, Kansas.   Trail ruts can easily be seen at the Ivan L. Boyd Prairie Preserve which is adjacent to the Battle of Black Jack site, at Black Jack Park near Baldwin City, KS. [Santa-Fe-Trail-Association-three]
+  The Santa Fe Trail entered Douglas County near its southeast corner, a few miles east of Black Jack, from where it took a northwesterly course through Palmyra and on to Willow Springs. Here it turned to the southwest, passing close to Globe and Baden of later days and into Osage county about three miles north of the southwest corner of Douglas County. Wagon ruts are still visible at several locations in Douglas County.  To the east, in Johnson County, the trail splits from the Oregon and California Trail near Gardner, Kansas.   Trail ruts can easily be seen at the Ivan L. Boyd Prairie Preserve which is adjacent to the Battle of Black Jack site, at Black Jack Park near Baldwin City, KS. [^Santa-Fe-Trail-Association-three]
   
- [Santa-Fe-Trail-Association-three]:[Santa Fe Trail Association](https://www.santafetrail.org/chapters/douglasco/index.html)
+ [^Santa-Fe-Trail-Association-three]:[Santa Fe Trail Association](https://www.santafetrail.org/chapters/douglasco/index.html)
  
 ## Location
 The Old Castle Complex is just east of the main campus at 511 Fifth Street, Baldwin City, KS 66006.  
