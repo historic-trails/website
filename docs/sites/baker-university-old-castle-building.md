@@ -73,9 +73,9 @@ date: 2018-11-24
   [^Historic-Campus-Architecture-Project-four]:[Historic Campus Architecture Project](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
 ## Baker University Today 
- Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka. [Baker-University-Vision]
+ Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka. [^Baker-University-Vision]
  
-[Baker-University-Vision]:[Baker University Vision](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
+[^Baker-University-Vision]:[Baker University Vision](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
 
 ## Relation to the Santa Fe Trail 
 
