@@ -129,4 +129,6 @@ National Register of Historic Places, Baker University Old Castle Hall, Baldwin,
 
 [Kansas Historical Society-Grangers versus hoppers](https://www.kansasmemory.org/item/214827)
 
+[Baker University](https://www.kshs.org/kansapedia/baker-university/17829)
+
 
