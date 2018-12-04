@@ -12,7 +12,7 @@ date: 2018-11-19
 {%raw%}{% include figure.html
   class="img-right"
   width="33%"
-  caption="Centennial Hotel"
+  caption="A view of the Kit Carson Mesa in Rayado Ranch"
   src="images/Kit_Carson_Mesa.jpg"
 %}{%endraw%}
 
