@@ -29,7 +29,7 @@ Starting at the trail's eastern end in Missouri, [Neff Tavern Smokehouse](https:
 {% include figure.html
 class="img-center"
 width="50%"
-caption="The Seth Ward House, Kansas City, Missouri--home to one of the trail's most famous merchants"
+caption="The Seth Ward House, Kansas City, Missouri, which two of the trail's most famous merchants called home"
 src="sites/images/seth-ward-house.jpg
 %}
 
