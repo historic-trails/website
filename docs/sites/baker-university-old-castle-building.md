@@ -62,20 +62,20 @@ date: 2018-11-24
 ## Construction 
  Castle Hall was erected off campus because school trustees lacked sufficient funds to build the type of permanent structure they desired and they did not want to erect a temporary structure on the campus. College officials could raise only enough funds to construct two stories of the planned three-story structure. The Palmyra Masonic lodge financed the third floor in exchange for regular use of a room for lodge meetings. [^Historic-Campus-Architecture-Project-three] Old Castle Hall architecturally is a fine example of early Plains Vernacular architecture, it is a crudely quoined three-story rubble-stone building, originally consisted of only two stories. The third story was added later and then afterward torn off because of poor mortar joints; it was then added for a second time and remains to date. [^National-Register-of-Historic-Places-Inventory-Nomination-Form-NRHP]
  
- [^Historic-Campus-Architecture-Project-three]:(http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
+ [^Historic-Campus-Architecture-Project-three]:[Historic-Campus-Architecture-Project-three](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
  
- [^National-Register-of-Historic-Places-Inventory-Nomination-Form-NRHP]:(https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text). 
+ [^National-Register-of-Historic-Places-Inventory-Nomination-Form-NRHP]:[National-Register-of-Historic-Places-Inventory-Nomination-Form-NRHP](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text). 
 
 
 ## Building uses Through the Years
   By 1871 another building was completed on campus named [Parmenter Hall](http://hcap.artstor.org/cgi-bin/library?a=d&d=p154), thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property. [^Historic-Campus-Architecture-Project-four] The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
   
-  [^Historic-Campus-Architecture-Project-four]:(http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
+  [^Historic-Campus-Architecture-Project-four]:[Historic-Campus-Architecture-Project-four](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
 ## Baker University Today 
  Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka. [Baker-University-Vision]
  
-[Baker-University-Vision]:(https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
+[Baker-University-Vision]:[Baker-University-Vision](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
 
 ## Relation to the Santa Fe Trail 
 
