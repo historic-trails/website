@@ -68,7 +68,9 @@ date: 2018-11-24
 
 
 ## Building uses Through the Years
-  By 1871 another building was completed on campus named [Parmenter Hall](http://hcap.artstor.org/cgi-bin/library?a=d&d=p154), thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property [Historic Campus Architecture Project (HCAP)](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153). The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
+  By 1871 another building was completed on campus named [Parmenter Hall](http://hcap.artstor.org/cgi-bin/library?a=d&d=p154), thus in March the students and faculty left Old Castle Hall for the new facility. The Old Castle Hall was no longer used for classes, in 1874 the president of the college, Joseph Denison, used it as his home. Other uses over the years have been mill, student rooming house, public school, and storage place for athletic materials and other college property. [^Historic-Campus-Architecture-Project-four] The Old Castle Hall is now used as museum, showcasing not only the schools long history, but as well as houses artifacts from the State of Kansas and Methodist history.
+  
+  [^Historic-Campus-Architecture-Project-four]:(http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
 ## Baker University Today 
  Today, the University serves 3,000 students through the College of Arts and Sciences on the Baldwin City campus; the School of Professional and Graduate Studies in Overland Park, Lawrence, Lee's Summit, Topeka and Wichita; and the School of Nursing Stormont- Vail Health Care in Topeka [Baker University](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
