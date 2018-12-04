@@ -26,7 +26,7 @@ date: 2018-11-24
   
   The University is named for [Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker), a distinguished scholar and bishop of what is now the United Methodist Church. [^Kansas-Historical-Society-Baker-University] The university has a rich history, growing up side-by-side with the state of Kansas, Baldwin City began as a trail stop on the Santa Fe Trail named Palmyra. Palmyra, which later became a part of Baldwin was long a favorite place for repairing wagons and for rest, the added commerce of the Santa Fe Trail helped Baldwin grow enough to build a University within the city. [^Santa-Fe-Trail-Association-two] In the colleges long history it has survived major events such as, the Civil War, drought, floods, tornadoes, and even grasshoppers to remain one of the most popular universities in the state of Kansas. [^Historic-campus-architecture-project-two]
   
-  [^Kansas-Historical-Society-Baker-University](https://www.kshs.org/kansapedia/baker-university/17829)
+  [^Kansas-Historical-Society-Baker-University]:(https://www.kshs.org/kansapedia/baker-university/17829)
   
   [^Santa-Fe-Trail-Association-two]:[Santa Fe Trail Association](https://www.santafetrail.org/chapters/douglasco/index.html)
   
