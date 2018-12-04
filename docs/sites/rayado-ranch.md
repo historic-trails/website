@@ -13,7 +13,7 @@ date: 2018-11-19
 
 ## Construction
 
-### [The Lucien Maxwell](https://www.legendsofamerica.com/nm-maxwell/House) was built by 1850 when Maxwell founded Rayado Ranch and proposed a settlement here in 1848. The house is a long style adobe ranch home with wooden posts and railing on the veranda. The house originally had a flat roof but untill the 1930s the house was in ruins and was rebuilt with a pitched roof and new adobe. (NPS)
+### [The Lucien Maxwell House](https://www.legendsofamerica.com/nm-maxwell/) was built by 1850 when Maxwell founded Rayado Ranch and proposed a settlement here in 1848. The house is a long style adobe ranch home with wooden posts and railing on the veranda. The house originally had a flat roof but untill the 1930s the house was in ruins and was rebuilt with a pitched roof and new adobe. (NPS)
 
 ### The house shares the historic Rayado with other buildings like the chapel and the Martinez house which was a small shed and barn towards the back of the house, all buildings were generally built the same way in the mid 1800's in Rayado some of them are all still standing and can be visited. (santafetrailnm)
 
