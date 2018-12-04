@@ -11,7 +11,8 @@ date: 2018-12-12
   text="A Collaboration Between the National Park Service and the University of New Mexico's Department of History"
 %}
 
-> "At last all are fairly launched upon the broad prairie–the miseries of preparation are over–the thousand anxities occasioned by wearisome consultations and delays are felt no more. The charioteer, as he smacks his whip, feels a bounding elasticity of soul within him, which he finds it impossible to restrain.... The hilarious song, the _bon mot_ and the witty repartee, go round in quick succession; and before people had had leisure to take cognizance of the fact, the lively village of Independence...is already lost to the eye." -Josiah Gregg, _Commerce of the Prairies_, 26
+> "At last all are fairly launched upon the broad prairie–the miseries of preparation are over–the thousand anxities occasioned by wearisome consultations and delays are felt no more. The charioteer, as he smacks his whip, feels a bounding elasticity of soul within him, which he finds it impossible to restrain.... The hilarious song, the _bon mot_ and the witty repartee, go round in quick succession; and before people had had leisure to take cognizance of the fact, the lively village of Independence...is already lost to the eye." 
+–Josiah Gregg, _Commerce of the Prairies_, 26
 
 ***
 
