@@ -94,6 +94,8 @@ date: 2018-11-24
 The Old Castle Complex is just east of the main campus at 511 Fifth Street, Baldwin City, KS 66006.  
 [View directions on Google Maps](https://www.google.com/maps/place/511+5th+St,+Baldwin+City,+KS+66006/@38.781069,-95.183852,16z/data=!4m5!3m4!1s0x87bf5b9d6032bb7d:0x9888c110bea551ad!8m2!3d38.7775023!4d-95.1848781?hl=en)
 
+---
+
 ##### Related Historic Sites
 * [Santa Fe Trail Park, Baldwin City](https://www.visitbaldwincity.com/aboard-santa-fe-trail/)
 One-half mile to the northwest of Palmyra Well is the Santa Fe Trail Park. It contains a large granite Daughters of the American Revolution (DAR) marker. The diagonal county road adjacent to the park follows the exact route of the trail to the northwest. The property was donated to Baker University in 1907 and was recently placed on the National Registry of Historic Sites. Beyond here, the route traveled through a place called “The Narrows,” a ridge that separated Wakarusa Creek on the north and the Marais des Cygnes River to the south.
