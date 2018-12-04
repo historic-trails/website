@@ -29,10 +29,17 @@ Starting at the trail's eastern end in Missouri, [Neff Tavern Smokehouse](https:
 {% include figure.html
 class="img-center"
 width="50%"
-caption="The Seth Ward House, Kansas City, Missouri"
+caption="The Seth Ward House, Kansas City, Missouri--home to one of the trail's most famous merchants"
 src="sites/images/seth-ward-house.jpg
 %}
 
 Rumored to be less exposed to Native American attacks, the trail's Mountain Route entered present-day New Mexico via [Raton Pass](https://historic-trails.github.io/santa-fe-itinerary/sites/raton-pass.html) connecting the Arkansas River valley with the Pecos and Rio Grande watersheds. Going south, the mill at the [La Cueva Historic District](https://historic-trails.github.io/santa-fe-itinerary/sites/la-cueva-historic-district.html) provided weary wagon trains--as well as nearby Fort Union--with freshly-milled grain. The [Las Vegas Plaza Historic District](https://historic-trails.github.io/santa-fe-itinerary/sites/las-vegas-plaza-historic-district.html), slightly farther south, grew large enough to offer lodging, restaurants, and shops on the trail's home stretch. After dipping farther south to avoid the Sangre de Cristo mountains, travelers reached the [San Miguel del Vado Historic District](https://historic-trails.github.io/santa-fe-itinerary/sites/san-miguel-del-vado.html), where they crossed the Pecos River. [Fort Marcy](https://historic-trails.github.io/santa-fe-itinerary/sites/fort-marcy.html), located in Santa Fe, marked the end (or beginning) of a long journey. Standing at the cross section of two major trails (the Santa Fe Trail and the Camino Real de Tierra Adentro, the fort served as a bulwark against Native American raids.
+
+{% include figure.html
+class="img-center"
+width="50%"
+caption="San Miguel del Vado, as drawn in the 1840s"
+src="sites/images/san-miguel-del-vado-1846.jpg
+%}
 
 Today, the [National Park Service](https://www.nps.gov/safe/index.htm) recognizes a variety of trail sites--ruts, crossings, houses, forts--integral in telling the trail's story. While some of these are more easily accessed than others, cultural resources along the Santa Fe Trail remind us that highways existed long before the automobile. Accordingly, the [Santa Fe Trail National Scenic Byway](https://www.newmexico.org/things-to-do/scenic-byways/santa-fe-trail-national/) follows the general contours of the trail through Kansas, southern Colorado, and northern New Mexico. 
