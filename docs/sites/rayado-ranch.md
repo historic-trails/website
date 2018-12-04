@@ -21,7 +21,7 @@ date: 2018-11-19
 
 ![lucien_b maxwellphotophilmontmuseum](https://user-images.githubusercontent.com/44708187/49032677-79609400-f16a-11e8-8c53-d86e9e814cc4.jpg)
 
-### Lucien Maxwell founded Rayado New Mexico in 1848 shortly after the Mexican American War he settled here with his wife who shortly after gave birth to their child at the ranch. Maxwell married into land and also made deals to obtain even more. By the time he came to Rayado Ranch to start a new settlement he was the owner of the largest single tract of land ever possessed by one person in the United States 1.7 million acres and decided to make the ranch his new home for him and more settlers to come (legendsofamerica). Maxwell was a friend of Kit Carson since they both fought in the Mexican American war and because Kit lived near by in Taos, NM and even ended up living in Rayado for a couple years.
+### Lucien Maxwell founded Rayado New Mexico in 1848 shortly after the Mexican American War he settled here with his wife who shortly after gave birth to their child at the ranch. Maxwell married into land and also made deals to obtain even more. By the time he came to Rayado Ranch to start a new settlement he was the owner of the largest single tract of land ever possessed by one person in the United States 1.7 million acres and decided to make the ranch his new home for him and more settlers to come (legendsofamerica). Maxwell was a friend of [Kit Carson](https://en.wikipedia.org/wiki/Kit_Carson)since they both fought in the Mexican American war and because Kit lived near by in Taos, NM and even ended up living in Rayado for a couple years.
 
 ## Kit Carson
 
