@@ -75,18 +75,18 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 
 ***
 ##### Related Articles
-* Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm) 
-* More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
+Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm) 
+More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
  
 ##### Related People
-* Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
-* Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
+Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
+Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
  
 ##### Nearby
-* [Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
-* [Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
-* [Raton, NM](http://visitraton.org)
-* [Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
+[Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
+[Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
+[Raton, NM](http://visitraton.org)
+[Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
 
 {% include figure.html
   class="img-right"
