@@ -12,7 +12,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Old Castle Building (present day Castle Museum) [source Diana Staresinic-Deane](https://dianastaresinicdeane.wordpress.com/2013/09/29/sunday-snapshot-old-castle-museum-at-baker-university/)"
+  caption="Old Castle Building (present day Castle Museum) source [Diana Staresinic-Deane](https://dianastaresinicdeane.wordpress.com/2013/09/29/sunday-snapshot-old-castle-museum-at-baker-university/)"
   src="images/old-castle-museum.jpg"
 %}
 
@@ -82,7 +82,7 @@ date: 2018-11-24
  {% include figure.html
   class="img-right"
   width="50%"
-  caption="Santa Fe Trail passing near Baldwin, KS.[(source Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)"
+  caption="Santa Fe Trail passing near Baldwin, KS. source [Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)"
   src="images/old-castle-hall-map.jpg"
 %}
 
