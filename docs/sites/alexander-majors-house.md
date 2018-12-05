@@ -7,7 +7,7 @@
   src="images/alexander-majors-house.jpg"
 %}
 
-Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas city and is on [National register of historic buildings](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) [^WPA Guide, 1998]. The house and the grounds were trading centers for 'Russell and Majors and Waddell' freighting firm and its also the house of Alexander majors house. Alexander Majors house ran alongside a dirt path, which is a state line road - a boundary between Kansas and Missouri, from West Port landing to the original Santa Fe trail [^Wornall Majors House Museums, 2018.11.12].
+Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas city and is on [National register of historic buildings](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) [^WPA Guide, 1998]. The house and the grounds were trading centers for 'Russell and Majors and Waddell' freighting firm and its also the house of Alexander majors house. This house ran alongside a dirt path, which is a state line road - a boundary between Kansas and Missouri, from West Port landing to the original Santa Fe trail. [^WornallMajorsHouseMuseums,2018.11.12]
 
 ## Location
 {% include figure.html
@@ -17,7 +17,7 @@ Alexander Majors House is one of the few [Antebellum period](https://www.encyclo
   src="images/alexander-majors-house-location.jpg"
 %}
 
-The house is situated approximately 16 feet in front of the house which is Missouri and Kansas border , the then  US border [^NHRF-1969, MAJORS].  The house sits looking westward which was strategically chosen from the businessman's perspective as Kansas Territory were untaxed and he had huge corrals, grazing lands, oxen pens, barns, wagons and blacksmith shops in the property [^Wornall Majors House Museums, 2018.11.12].
+The house is situated approximately 16 feet in front of the house which is Missouri and Kansas border , the then  US border [^NHRF-1969, MAJORS].  The house sits looking westward which was strategically chosen from the businessman's perspective as Kansas Territory were untaxed and he had huge corrals, grazing lands, oxen pens, barns, wagons and blacksmith shops in the property. [^source-WornallMajorsHouseMuseums,2018.11.12]
 
 ## Who was Alexander Majors?
 
@@ -134,14 +134,12 @@ In 1984, the Alexanders Majors House Museum is open to public for tours and even
 
 Another interesting part of exploring Majors house is Ghost tours about the strange events and open to paranormal investigation groups to explore and experience the ghost haunting which are held between 7 p.m. and 2 a.m. [^Wornall Majors House Museums, 2018.11.12].
 
-## Find it here !!!
+## Visit the house
 
 **Alexander Majors Barn,
 8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114**
 
 ##### Related / Near by Historic places
-##### Related People
-##### Related Articles 
 
 [John Wornall House Museum](http://www.wornallmajors.org/the-john-wornall-house/)
 
@@ -151,21 +149,27 @@ Another interesting part of exploring Majors house is Ghost tours about the stra
 
 [Thomas Farmhouse](http://www.thecivilwarmuse.com/index.php?page=the-battle-of-westport-part-23)
 
-[Leroy Robert "Satchel" Paige (1906-82)](https://shsmo.org/historicmissourians/name/p/paige/); [Paige ś Marker](https://www.hmdb.org/Marker.asp?Marker=26607)
+[Leroy Robert "Satchel" Paige (1906-82)](https://shsmo.org/historicmissourians/name/p/paige/)
+
+[Paige ś Marker](https://www.hmdb.org/Marker.asp?Marker=26607)
 
 [Battle of Big Blue](https://www.hmbḍorg/Marker=30291)
 
-[Pony Express National Museum](ponyexpress.org)
-
-[Photographs of Majors Museum, inside & outside the house, giftshop](http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html)
-
-[National Registration form for Alexander Majors House](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)
+##### Related People
 
 [William H. Russell](https://www.britannica.com/biography/William-Hepburn-Russell)
 
 [William B. Waddell](https://www.britannica.com/biography/William-Bradford-Waddell#ref1175805)
 
 [William Henry Jackson](https://www.wyohistory.org/encyclopedia/william-henry-jackson-foremost-photographer-american-west)
+
+##### Related Articles
+
+[National Registration form for Alexander Majors House](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)
+
+[Pony Express National Museum](ponyexpress.org)
+
+[Photographs of Majors Museum, inside & outside the house, giftshop](http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html)
 
 [Interactive Santa Fe Trail Map](https://www.santafetrail.org/interactive-trail-map/)
 
