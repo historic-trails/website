@@ -68,7 +68,7 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 ***
 ##### Related Articles
 * Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm) 
-* More history of [the pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
+* More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
  
 ##### Related People
 * Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
@@ -89,6 +89,8 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 
 
 ## Bibliography
+
+ADD THE DIARIES
 
 [“Aspen Evening Chronicle.”](www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-) Page 1 Advertisements Column 4 - Rocky Mountain News July 17, 1861 - Colorado Historic Newspapers Collection, 2018.
 
