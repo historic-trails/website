@@ -143,7 +143,7 @@ The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
 
 * [Kansaspedia: Grasshopper Plague of 1874](https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070)
 
-* [Legends of Kansas- Baldwin City](http://www.legendsofkansas.com/baldwincity.html)
+* [Legends of Kansas: Baldwin City](http://www.legendsofkansas.com/baldwincity.html)
 
 * [National Register Of Historic Places Inventory - Nomination Form (NRHP)](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)
 
