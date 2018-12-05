@@ -39,7 +39,7 @@ date: 2018-11-24
   src="images/Baldwin-City-1911.jpg"
 %}
  
-## Significance 
+## Significance of the University
 
   Baker University is significant because it admitted women early on in its history, the first graduating class in 1866 contained one women, and two men. [^Baker-University] President Abraham Lincoln donated $100 in 1864 during the height of the Civil War to help build Parmenter Hall, the only donation he ever gave to any university. [^Kansaspedia-Baker-University-KHS] Baker University struggled through its first years due to a drought in 1860 and the Civil War, as the war funneled prospective students into military service, the first class didn't graduate until 1866. [^Kansas-Historical-Society-Baker-University-two] 1874 a massive grasshopper plague spread across the region devouring everything in sight, they ate crops out of the ground, as well as the wool from live sheep and clothing off people's backs. Paper, tree bark, and even wooden tool handles were devoured, hoppers were reported to have been several inches deep on the ground. [^Kansaspedia-Grasshopper-Plague-of-1874]
   
