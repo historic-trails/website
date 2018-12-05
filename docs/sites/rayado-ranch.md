@@ -40,3 +40,13 @@ Rayado Ranch was never that successful due to frequent raids and was a difficult
 Rayado Ranch now offers a Kit Carson Museum with most of the original buildings still to see. The area was donated to the national Boy Scouts of America and is now called Philmont Scout Ranch. The original building that is the museum today was Kit Carson's home back in the 1850's but was renovated almost 100 years later in 1949 and reopened in 1950 as a museum to portray how life was for Maxwell and Carson during there years at Rayado Ranch. (NPS)
 
 Tours of Rayado Ranch can be achieved by calling (575)-376-2281
+
+# Bibliography
+
+[National Parks Service](https://www.nps.gov/safe/planyourvisit/places-to-go-in-new-mexico.htm)
+
+[Legends of America](https://www.legendsofamerica.com/rayado-new-mexico/)
+
+[Santa Fe Trail NM](https://www.santafetrailnm.org/site184.html)
+
+[NMTTP](https://nmttp.com/colfax/abreu-cemetery-rayado-colfax-county-new-mexico.html)
