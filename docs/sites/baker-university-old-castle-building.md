@@ -104,8 +104,6 @@ One-half mile to the northwest of Palmyra Well is the Santa Fe Trail Park. It co
 
  * [Blackjack Battle Field](http://www.blackjackbattlefield.org)
  The Battle of Black Jack took place on June 2, 1856, when anti-slavery forces, led by the noted abolitionist John Brown, attacked the encampment of Henry C. Pate near Baldwin City, Kansas. The battle is cited as one incident of "Bleeding Kansas" and a contributing factor leading up to the American Civil War of 1861 to 1865.
- 163 E 2000th Rd
-Wellsville, Kansas
 
 * [Black Jack Park Ruts](http://www.santafetrailresearch.com/mileagecharts/sft-kansas.html)
 A dramatic set of parallel ruts are located in Douglas County Prairie Park, adjacent to Black Jack State Park east of Baldwin City. These are among the finest along the entire length of the trail.
