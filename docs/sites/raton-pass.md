@@ -100,9 +100,11 @@ Information about [William Becknell](https://en.wikipedia.org/wiki/William_Beckn
 
 ADD THE DIARIES
 
-[“Aspen Evening Chronicle.”](www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-) Page 1 Advertisements Column 4 - Rocky Mountain News July 17, 1861 - Colorado Historic Newspapers Collection, 2018.
+"[Aspen Evening Chronicle.]"(www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-) Page 1 Advertisements Column 4 - Rocky Mountain News July 17, 1861 - Colorado Historic Newspapers Collection, 2018.
 
 [“Battle of Glorieta Pass.”](www.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm) National Parks Service, U.S. Department of the Interior, March, 2016
+
+NPS Form: National Register of Historic PLaces, Raton Pass, City, State, #. YR
 
 [“Raton Basin.”](www.ratonnm.gov/256/Mystery-about-Raton-Basin) Mystery about Raton Basin | Raton, NM - Official Website, April, 2017. 
 
