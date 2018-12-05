@@ -104,7 +104,7 @@ ADD THE DIARIES
 
 [“Battle of Glorieta Pass.”](www.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm) National Parks Service, U.S. Department of the Interior, March, 2016
 
-NPS Form: National Register of Historic PLaces, Raton Pass, City, State, #. YR
+NPS Form: National Register of Historic PLaces, Raton Pass, City, State, #66000474. YR
 
 [“Raton Basin.”](www.ratonnm.gov/256/Mystery-about-Raton-Basin) Mystery about Raton Basin | Raton, NM - Official Website, April, 2017. 
 
