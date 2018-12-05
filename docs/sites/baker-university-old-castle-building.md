@@ -115,28 +115,28 @@ A dramatic set of parallel ruts are located in Douglas County Prairie Park, adja
 The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
 
 ##### Related People
-[Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker)
+*[Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker)
 
-[Joseph Denison](https://en.wikipedia.org/wiki/Joseph_Denison_(pastor))
+*[Joseph Denison](https://en.wikipedia.org/wiki/Joseph_Denison_(pastor))
    
-##### Bibliography 
-[Historic Campus Architecture Project (HCAP)](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
+## Bibliography 
+*[Historic Campus Architecture Project (HCAP)](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
-[Kansaspedia: Baker University KHS](https://www.kshs.org/kansapedia/baker-university/17829)
+*[Kansaspedia: Baker University KHS](https://www.kshs.org/kansapedia/baker-university/17829)
 
-[National Register Of Historic Places Inventory - Nomination Form (NRHP)](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)
+*[National Register Of Historic Places Inventory - Nomination Form (NRHP)](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)
 National Register of Historic Places, Baker University Old Castle Hall, Baldwin, Brown county, Kansas, reference number 712200013.
 
-[Baker University Vision & Values](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support)
+*[Baker University Vision & Values](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support)
 
-[Kansaspedia: Grasshopper Plague of 1874](https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070)
+*[Kansaspedia: Grasshopper Plague of 1874](https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070)
 
-[Santa Fe Trail Association Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)
+*[Santa Fe Trail Association Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)
 
-[Legends of Kansas- Baldwin City](http://www.legendsofkansas.com/baldwincity.html)
+*[Legends of Kansas- Baldwin City](http://www.legendsofkansas.com/baldwincity.html)
 
-[Kansas Historical Society: Grangers versus hoppers](https://www.kansasmemory.org/item/214827)
+*[Kansas Historical Society: Grangers versus hoppers](https://www.kansasmemory.org/item/214827)
 
-[Kansas Historical Society: Baker University](https://www.kshs.org/kansapedia/baker-university/17829)
+*[Kansas Historical Society: Baker University](https://www.kshs.org/kansapedia/baker-university/17829)
 
 
