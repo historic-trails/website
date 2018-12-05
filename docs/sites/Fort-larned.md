@@ -59,3 +59,4 @@ In the forts twilight years as a U.S military institution it provided protection
 This fort has been one of the lucky historical sites as most of the origanal buildings remain intact. The patron that the site had been sold to decided to use the existing buildings as a housing for ranch workers and equipment which lead to a decent upkeep of the site, saving it from the fate of other historic forts today. The site has been renovated and now serves as a museum that can be visited by the public to see scheduled reenactments of the workings of the fort portrayed by volunteer actors.  
 
 ## bibliography
+NPS.form 
