@@ -114,10 +114,14 @@ A dramatic set of parallel ruts are located in Douglas County Prairie Park, adja
 * [Santa Fe Depot/Midland Historic Railway](http://www.kansastravel.org/midlandrailway.htm)
 The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
 
+---
+
 ##### Related People
 * [Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker)
 
 * [Joseph Denison](https://en.wikipedia.org/wiki/Joseph_Denison_(pastor))
+   
+---   
    
 ## Bibliography 
 * [Historic Campus Architecture Project (HCAP)](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
