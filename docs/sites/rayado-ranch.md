@@ -27,6 +27,8 @@ Lucien Maxwell founded Rayado New Mexico in 1848 shortly after the Mexican Ameri
 
 Carson lived in Rayado in 1849. Carson was a friend of Maxwell and tried starting up a community by buying stock and seed so they could create a working farm by Rayado Creek, but this was difficult at the time because of the rural area and the amount of raiding Native Americans. In 1850 the ranch was raided by apache natives, they stole livestock, horses and killed herders which was a fatal blow to Rayado at this time, so Kit Carson was sent out with other frontiersmen to capture the horses and retrieve revenge. They ended up finding the Apaches and taking them by storm to retrieve their goods. Maxwell and Carson's idea was to put money into the ranch and build a community near the creek which Carson tried doing by investing 2000 dollars into the ranch to start a farming community, but sadly the area was prone to a plethora of raiding (legendsofamerica).
 
+[Map of Rayado and boundries of the ranch](https://www.google.com/maps/d/viewer?mid=1sBrtCrAXFSY8QYo9SBkgCL-WhHo&msa=0&ll=36.48606606713867%2C-104.99002083007815&z=10)
+
 ## Later Down the Line
 
 Rayado Ranch was never that successful due to frequent raids and was a difficult place to settle because of that, later down the line Lucien Maxwell decided to move his settlement and ranch to a safer location called Cimarron. Cimarron is literally about 11 miles north of Rayado Ranch and was Maxwell's point of true settlement (santafetrailnm) (NPS).
