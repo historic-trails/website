@@ -40,7 +40,7 @@ Rumored to be less exposed to Native American attacks, the trail's Mountain Rout
 class="img-center"
 width="50%"
 caption="San Miguel del Vado, as drawn in the 1840s"
-src="sites/images/san-miguel-del-vado-1846.jpg"
+src="sites/images/san-migel-del-vado-1846.jpg"
 %}
 
 Today, the [National Park Service](https://www.nps.gov/safe/index.htm) recognizes a variety of trail sites--ruts, crossings, houses, forts--integral in telling the trail's story. While some of these are more easily accessed than others, cultural resources along the Santa Fe Trail remind us that highways existed long before the automobile. Accordingly, the [Santa Fe Trail National Scenic Byway](https://www.newmexico.org/things-to-do/scenic-byways/santa-fe-trail-national/) follows the general contours of the trail through Kansas, southern Colorado, and northern New Mexico.
