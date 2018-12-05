@@ -73,15 +73,12 @@ The Neff tavern is located on an unmarked street, west from the Missouri highway
 
 ### Bibliography
 
-* „Daily Democrat New“, o. J.
 * Gregg, Josiah. Commerce of the Prairies : or, the Journal of a Santa Fé Trader, during eight expeditions across the great western prairies, and a residence of nearly nine years in Northern Mexico. New York: J. & H.G. Langley, 1845.
-* Ibid, o. J.
 * Kate Gregg. „The Boonslick Road in St. Charles County“. issouri Historical Review, Oktober 1933.
 * Lewis K. Parker. Why German immigrants came to Americ. Barrington, IL: Rigby, 2002.
 * Louis S. Gerteis. The Civil War in Missouri: a military history. Columbia, Mo: University of Missouri Press, 2012.
-* O’Brien, William Patrick. Merchants of Independence : International Trade on the Santa Fe Trail, 1827-1860. Kirksville, Mo.: Truman State University Press, 2013. http://libproxy.unm.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat06111a&AN=unm.EBC3411555&site=eds-live&scope=site.
-* Turner, Frederick Jackson. „The Significance of the Frontier in American History“. Annual Report of the American Historical Association, 1894, 197–227.
-* W.B. Napton. Past and Present in Saline County, Missouri, o. J.
+* O’Brien, William Patrick. Merchants of Independence : International Trade on the Santa Fe Trail, 1827-1860. Kirksville, Mo.: Truman State University Press, 2013. 
+* Turner, Frederick Jackson. „The Significance of the Frontier in American History“. Annual Report of the American Historical Association, 1894, pp. 197–227.
 * NPS Form: National Register of Historic Places, Neff Tavern Smokehouse, Napton, Saline, Missouri, #10.300a, 1963
 
 Web sources:
