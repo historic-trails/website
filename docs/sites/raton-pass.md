@@ -16,12 +16,6 @@ date: 2018-11-19
 
 Raton Pass and the mountains surrounding it stand as a towering border between two worlds, and the control over this route has quite an interesting history. A crooked toll road for miners and tradesman during the infancy of America, a narrow mountain passageway for rail, and a modern convenience, this route was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the Santa Fe Trail.
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Post cards sent from early travelers of Raton Pass. Note the automobile, for scale."
-  src="images/raton_post_cards.jpg"
-%}
 
 ## William Becknell
 
@@ -85,6 +79,14 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 * [Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
 * [Raton, NM](http://visitraton.org)
 * [Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Post cards sent from early travelers of Raton Pass. Note the automobile, for scale."
+  src="images/raton_post_cards.jpg"
+%}
+
 
 ## Bibliography
 
