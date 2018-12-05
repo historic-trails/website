@@ -26,7 +26,9 @@ Raton Pass and the mountains surrounding it stand as a towering border between t
 ## William Becknell
 
 One of the first recorded journeys through the pass is that of [William Becknell](https://en.wikipedia.org/wiki/William_Becknell), a businessman fleeing his failed ventures and political aspirations in Missouri, with hopes of gaining wealth trading beaver pelts from Northern New Mexico. He left Franklin, Missouri with four companions in September, 1821 on his first trip to the western US with a load of freight to deliver to Santa Fe. By 1821, conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the pass. However, that portion of the journey has been called into question after the discovery of the [diary of Pedro Ignacio Gallego](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings, along with Becknell’s own journal describing the landscape, show evidence that he and his men probably mis-identified the Canadian River and instead crossed another river, south of present day Las Vegas, New Mexico. After a month of trading, Becknell left Santa Fe on December 13th, and the men returned to Missouri safely in January, 1822. His investment of $300 in trading goods had returned approximately $6000 in coin. 
+
 The profits made by William Becknell’s first trading trip brought much needed money and valuable goods into central Missouri where the Panic of 1819 had a devastating effect on the economy. The influx of Mexican coins significantly helped Missouri’s economy as farmers and local merchants found a new market for their goods. 
+
 His description scared people away. Instead, most traders hauling heavily laden wagons along the Santa Fé Trail took what was known as the Cimarron Cutoff, which cut diagonally across southwest Kansas and northeast New Mexico to avoid the mountains. Raton Pass, on the other hand, was on the Mountain Branch of the trail, which was longer and more difficult but did have the advantages of more water and less exposure to Indian attacks. It received far less traffic than the Cimarron Cutoff but was used by traders who went up the Arkansas River to Bent’s Fort and then turned south toward Santa Fé, especially those traveling with only a few pack animals or light wagons.
 
 ## Wootton
@@ -41,6 +43,7 @@ His description scared people away. Instead, most traders hauling heavily laden 
 [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton), a trapper akin to Becknell, saw the pass as an economic opportunity and decided to build and operate a toll gate restricting access to the trail. Wootton then claimed to have made improvements on the trail in an attempt to make it more accessible to wagon travel.  The bridges turned out to be narrow, the road laced with culverts with and many curves so sharp the wagons could not pass without damage. Many hills were so steep, the wagons had to use double teams for the assent. The truth was, the 27-mile journey required five days to traverse, and the route and improvements were so poor that many wagons were wrecked in their journey. With few alternatives, the public almost had to use the Wooten Road. that he then made nominal improvements over. On August 1, 1865, before either Colorado or New Mexico, became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by two oxen, horses or mules cost $1. Wagons pulled by four cost $1.50. Wagons pulled by more than this cost $2. One man on horseback or on foot cost 25 cents. Loose cattle, horses or mules, pigs or sheep cost 5 cents each.
 
 Wootton built his house and toll gate on the Colorado side of the pass, Daily stage service on the route started soon after gold was discovered in New Mexico’s Moreno Valley in 1867.
+
 On August 1, 1865, before either territory became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by one span (two) of oxen, horses or mules cost $1. Wagons pulled by two span (four) cost $1.50. Wagons pulled by more than two spans cost $2. One man on horseback or afoot cost 25 cents. Loose cattle, horses or mules, swine or sheep cost 5 cents each.
 
 Many rumors and testimonials by travelers who tried to use these trails told of suffering, harassment and stock stolen by night riders and raiders whom they believed to be hired by Uncle Dick in retaliation for not using his road. He was also known to shoot Native Americans with which he did not agree, and was known to shoot at groups in order to steal their food and supplies with fellow famous New Mexican Kit Carson. [^Aspen Evening Chronicle, November 13] 
@@ -84,4 +87,24 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 * [Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
 
 ## Bibliography
-otw
+
+“Aspen Evening Chronicle.” Page 1 Advertisements Column 4 - Rocky Mountain News July 17, 1861 - Colorado Historic Newspapers Collection, www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-.
+
+“Battle of Glorieta Pass.” National Parks Service, U.S. Department of the Interior, www.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm.
+
+“Raton Basin.” Mystery about Raton Basin | Raton, NM - Official Website, www.ratonnm.gov/256/Mystery-about-Raton-Basin.
+
+“Raton Basin.” Wikipedia, Wikimedia Foundation, 11 Apr. 2018, en.wikipedia.org/wiki/Raton_Basin.
+
+“Raton Pass.” American-Rails.com, www.american-rails.com/raton.html#gallery[pageGallery]/0/.
+
+“Raton Pass On The Santa Fe Trail, National Old Trails Road 1920.” American Road Magazine, 31 Aug. 2016, www.americanroadmagazine.com/forum/topic/1758-raton-pass-on-the-santa-fe-trail-national-old-trails-road-1920/.
+
+“Richens Lacy ‘Uncle Dick’ Wootton.” Sangres, www.sangres.com/history/uncledick.htm#.W_9hd3tKi00.
+
+Weiser-Alexander, Kathy. “Raton, New Mexico.” Legends of America, Aug. 2018, www.legendsofamerica.com/raton-new-mexico/2/.
+
+“The West: Missouri.” PBS, Public Broadcasting Service, www.pbs.org/weta/thewest/resources/archives/two/62_12.htm.
+
+Yongli. “Raton Pass.” Articles | Colorado Encyclopedia, 27 Oct. 2016, coloradoencyclopedia.org/article/raton-pass-0#References.
+
