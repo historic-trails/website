@@ -124,36 +124,36 @@ The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
 ---   
    
 ## Bibliography 
-* [Baker University Vision & Values](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support)
+* [Baker University Vision & Values.](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support)
 
-* [Historic Campus Architecture Project (HCAP)](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
+* [Historic Campus Architecture Project (HCAP).](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
   * Ebright, Homer Kingsley. The History of Baker University. Baldwin, KS: [Baker University], 1951.
 
   * Hall, Charles L., and Richard D. Pankratz. Old Castle Hall [Baker University]. National Register of Historic Places designation
   report. Washington, DC: U.S. Department of the Interior/National Park Service, 1971.
   
-  * Old Castle [Baker University]. Historic American Building Survey report and photographs.Washington, DC: U.S. Department of the  Interior/National Park Service, 1958.
+  * Old Castle [Baker University] Historic American Building Survey report and photographs.Washington, DC: U.S. Department of the  Interior/National Park Service, 1958.
 
-* [Kansas Historical Society: Baker University](https://www.kshs.org/kansapedia/baker-university/17829)
+* [Kansas Historical Society: Baker University.](https://www.kshs.org/kansapedia/baker-university/17829)
 
-* [Kansas Historical Society: Grangers versus hoppers](https://www.kansasmemory.org/item/214827)
+* [Kansas Historical Society: Grangers versus hoppers.](https://www.kansasmemory.org/item/214827)
 
-* [Kansaspedia: Baker University KHS](https://www.kshs.org/kansapedia/baker-university/17829)
+* [Kansaspedia: Baker University KHS.](https://www.kshs.org/kansapedia/baker-university/17829)
 
-* [Kansaspedia: Grasshopper Plague of 1874](https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070)
+* [Kansaspedia: Grasshopper Plague of 1874.](https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070)
 
-* [Legends of Kansas: Baldwin City](http://www.legendsofkansas.com/baldwincity.html)
+* [Legends of Kansas: Baldwin City.](http://www.legendsofkansas.com/baldwincity.html)
 
   * Blackmar, Frank W., A Cyclopedia of State History, 1912.
   
   * Cutler, William G., Kansas: History of the State of Kansas, 1883. 
 
-* [National Register Of Historic Places Inventory - Nomination Form (NRHP)](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)
+* [National Register Of Historic Places Inventory - Nomination Form (NRHP).](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)
 
   * National Register of Historic Places, Baker University Old Castle Hall, Baldwin, Brown county, Kansas, reference number 712200013.
 
-* [Santa Fe Trail Association Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)
+* [Santa Fe Trail Association Douglas County Chapter.](https://www.santafetrail.org/chapters/douglasco/index.html)
 
 
 
