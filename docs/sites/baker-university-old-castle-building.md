@@ -135,9 +135,9 @@ The Midland Railway is a heritage railroad headquartered in Baldwin City, Kansas
   
   * Old Castle [Baker University]. Historic American Building Survey report and photographs.Washington, DC: U.S. Department of the  Interior/National Park Service, 1958.
 
-* [Kansas Historical Society: Grangers versus hoppers](https://www.kansasmemory.org/item/214827)
-
 * [Kansas Historical Society: Baker University](https://www.kshs.org/kansapedia/baker-university/17829)
+
+* [Kansas Historical Society: Grangers versus hoppers](https://www.kansasmemory.org/item/214827)
 
 * [Kansaspedia: Baker University KHS](https://www.kshs.org/kansapedia/baker-university/17829)
 
