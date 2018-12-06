@@ -10,7 +10,7 @@ date: 2018-11-19
 {% include figure.html
   class="img-right"
   width="60%"
-  caption=""The Father of the Santa Fe Trail", William Becknell is credited with expanding trade from New Mexico into Missouri, Kansas and Oklahoma via the Raton Pass."
+  caption="'The Father of the Santa Fe Trail', William Becknell is credited with expanding trade from New Mexico into Missouri, Kansas and Oklahoma via the Raton Pass."
   src="images/williambecknell.jpg"
 %}
 
@@ -19,10 +19,10 @@ Raton Pass and the mountains surrounding it stand as a towering border between t
 
 ## William Becknell
 
-One of the first recorded journeys through the pass is that of [William Becknell](https://en.wikipedia.org/wiki/William_Becknell), a businessman fleeing his failed ventures and political aspirations in Missouri with hopes of gaining wealth trading beaver pelts from Northern New Mexico. He left Franklin, Missouri with four companions in September, 1821 on his first trip to the western US, with a load of freight to deliver to Santa Fe. By 1821, conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the area. However, that portion of the journey has been called into question after the discovery of the [diary of Pedro Ignacio Gallego](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings along with Becknell’s own journal describing the landscape, show evidence that he and his men probably mis-identified the Canadian River and instead crossed at another river south of present day Las Vegas, New Mexico. 
+One of the first recorded journeys through the pass is that of [William Becknell](https://en.wikipedia.org/wiki/William_Becknell), a businessman fleeing his failed ventures and political aspirations in Missouri with hopes of gaining wealth trading beaver pelts from Northern New Mexico. He left Franklin, Missouri with four companions in September, 1821 on his first trip to the western US, with a load of freight to deliver to Santa Fe. By 1821, conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the area. However, that portion of the journey has been called into question after the discovery of the [diary of Pedro Ignacio Gallego](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings along with Becknell’s own journal describing the landscape, show evidence that he and his men probably mis-identified the Canadian River and instead crossed at another river south of present day Las Vegas, New Mexico.
 
-After a month of trading, Becknell left Santa Fe on December 13th, and the men returned to Missouri safely in January, 1822. His investment of $300 in trading goods had returned approximately $6000 in coin. 
-The profits made by William Becknell’s first trading trip brought much needed money and valuable goods into central Missouri where the [Panic of 1819](https://en.wikipedia.org/wiki/Panic_of_1819) had a devastating effect on the economy. The influx of Mexican coins significantly helped Missouri’s economy as farmers and local merchants found a new market for their goods. 
+After a month of trading, Becknell left Santa Fe on December 13th, and the men returned to Missouri safely in January, 1822. His investment of $300 in trading goods had returned approximately $6000 in coin.
+The profits made by William Becknell’s first trading trip brought much needed money and valuable goods into central Missouri where the [Panic of 1819](https://en.wikipedia.org/wiki/Panic_of_1819) had a devastating effect on the economy. The influx of Mexican coins significantly helped Missouri’s economy as farmers and local merchants found a new market for their goods.
 
 {% include figure.html
   class="img-right"
@@ -39,7 +39,7 @@ His description scared people away. Instead, most traders hauling heavily laden 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The famous Wootton house, pictured with “Uncle Dick” and his family."
+  caption="The famous Wootton house, pictured with 'Uncle Dick' and his family."
   src="images/wootton_house.jpg"
 %}
 
@@ -49,7 +49,7 @@ Wootton built his house and toll gate on the Colorado side of the pass, Daily st
 
 On August 1, 1865, before either territory became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by one span (two) of oxen, horses or mules cost $1. Wagons pulled by two span (four) cost $1.50. Wagons pulled by more than two spans cost $2. One man on horseback or afoot cost 25 cents. Loose cattle, horses or mules, swine or sheep cost 5 cents each.
 
-Many rumors and testimonials by travelers who tried to use these trails told of suffering, harassment and stock stolen by night riders and raiders whom they believed to be hired by Uncle Dick in retaliation for not using his road. He was also known to shoot Native Americans with which he did not agree, and was known to shoot at groups in order to steal their food and supplies with fellow famous New Mexican Kit Carson. [^Aspen Evening Chronicle, November 13] 
+Many rumors and testimonials by travelers who tried to use these trails told of suffering, harassment and stock stolen by night riders and raiders whom they believed to be hired by Uncle Dick in retaliation for not using his road. He was also known to shoot Native Americans with which he did not agree, and was known to shoot at groups in order to steal their food and supplies with fellow famous New Mexican Kit Carson. [^Aspen Evening Chronicle, November 13]
 
 As the railroad developed, Wootton declined an offer of $50,000 for his road in favor of lifetime rail passes and groceries for him and his wife. In 1878, the Atchison, Topeka, and Santa Fe Railroad (ATSF) beat the Denver & Rio Grande Railroad (D&RG) to the route up Raton Pass, which had space for only one rail line. ATSF decided to tunnel under the summit of the pass to cut down on what was already a steep and grueling climb, but in the meantime it built a temporary track over the pass to allow trains to start traveling the route in late 1878. This marked the end of most wagon and stagecoach traffic over Raton Pass. The railroad tunnel under the pass opened in September 1879.
 
@@ -76,13 +76,13 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 
 ***
 ##### Related Articles
-Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm) 
+Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
 More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
- 
+
 ##### Related People
 Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
 Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
- 
+
 ##### Nearby
 [Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
 [Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
@@ -107,19 +107,19 @@ ADD THE DIARIES
 
 NPS Form: National Register of Historic PLaces, Raton Pass, City, State, #66000474. YR
 
-[Raton Basin.](www.ratonnm.gov/256/Mystery-about-Raton-Basin) Mystery about Raton Basin | Raton, NM - Official Website, April, 2017. 
+[Raton Basin.](www.ratonnm.gov/256/Mystery-about-Raton-Basin) Mystery about Raton Basin | Raton, NM - Official Website, April, 2017.
 
-[Raton Basin.](en.wikipedia.org/wiki/Raton_Basin) Wikipedia, Wikimedia Foundation, 11 Apr. 2018. 
+[Raton Basin.](en.wikipedia.org/wiki/Raton_Basin) Wikipedia, Wikimedia Foundation, 11 Apr. 2018.
 
 [Raton Pass.]( www.american-rails.com/raton.html#gallery[pageGallery]/0/) American-Rails.com, 2010.
 
-[Raton Pass On The Santa Fe Trail, National Old Trails Road 1920.](www.americanroadmagazine.com/forum/topic/1758-raton-pass-on-the-santa-fe-trail-national-old-trails-road-1920) American Road Magazine, 31 Aug. 2016. 
+[Raton Pass On The Santa Fe Trail, National Old Trails Road 1920.](www.americanroadmagazine.com/forum/topic/1758-raton-pass-on-the-santa-fe-trail-national-old-trails-road-1920) American Road Magazine, 31 Aug. 2016.
 
-[Richens Lacy ‘Uncle Dick’ Wootton.](www.sangres.com/history/uncledick.htm#.W_9hd3tKi00) Sangres, 2016. 
+[Richens Lacy ‘Uncle Dick’ Wootton.](www.sangres.com/history/uncledick.htm#.W_9hd3tKi00) Sangres, 2016.
 
-[Weiser-Alexander, Kathy.](www.legendsofamerica.com/raton-new-mexico/2/.) “Raton, New Mexico.” Legends of America, Aug. 2018. 
+[Weiser-Alexander, Kathy.](www.legendsofamerica.com/raton-new-mexico/2/.) “Raton, New Mexico.” Legends of America, Aug. 2018.
 
 [The West: Missouri.](www.pbs.org/weta/thewest/resources/archives/two/62_12.htm)
- PBS, Public Broadcasting Service, 2017. 
+ PBS, Public Broadcasting Service, 2017.
 
 Yongli. [Raton Pass.](coloradoencyclopedia.org/article/raton-pass-0#References) Articles | Colorado Encyclopedia, 27 Oct. 2016.
