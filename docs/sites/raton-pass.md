@@ -16,7 +16,9 @@ date: 2018-11-19
 ***
 
 Raton Pass and the mountains surrounding it stand as a towering border between two worlds, and the control over this route has quite an interesting history. A crooked toll road for miners and tradesman during the infancy of America, a narrow mountain passageway for rail, and a modern convenience, this route was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the Santa Fe Trail and the National Parks Service's registry of Historic Places.
+
 ***
+
 ## William Becknell
 
 {% include figure.html
@@ -71,8 +73,8 @@ Raton Pass played an important military role again during the Civil War, as the 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Early train traffic through the pass, 1959."
-  src="images/raton-train.jpg"
+  caption="The Raton Pass rail line was even used during the 2004 political campaign. [Source](http://www.railroadforums.com/forum/index.php?media/kerry-2004-campaign-train-raton-pass.5289/)"
+  src="images/kerry-train.jpg"
 %}
 
 In 1908 the rail company ATSF completed a second tunnel under Raton Pass to handle increased traffic, but developments in rail around the West signaled the decline of Raton Pass as a major rail corridor. First, ATSF finished the Belen Cutoff in central New Mexico, giving the railroad an easier route. Raton Pass continued to be used for passengers, but all long-haul trains now took the Belen Cutoff route. In 1908–9 New Mexico used convict labor to build a new highway that crossed the Colorado border near Raton Pass, further reducing traffic through the area.
@@ -91,9 +93,9 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 
 {% include figure.html
   class="img-right"
-  width="33%"
-  caption="Train routes used by ATSF, including Raton Pass through New Mexico and Colorado."
-  src="images/train-map.png"
+  width="66%"
+  caption="Raton Pass as seen starting from Raton looking north"
+  src="images/raton-map.jpg"
 %}
 
 ##### Nearby
@@ -108,11 +110,12 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 * Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
 * More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
 * Richard Wootton [obituary](https://www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-)
+* Map of modern ATSF routes, including through [Raton Pass](https://www.bnsf.com/ship-with-bnsf/maps-and-shipping-locations/pdf/carload_map.pdf)
 
 ##### Related People
 * Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
 * Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
-* The [diary](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) of Pedro Ignacio
+* The diary of [Pedro Ignacio](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html)
 
 ***
 
