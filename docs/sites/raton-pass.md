@@ -117,28 +117,12 @@ Information about [William Becknell](https://en.wikipedia.org/wiki/William_Beckn
 ***
 
 ## Bibliography
-
-ADD THE DIARIES
-
-[Aspen Evening Chronicle.](www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-) Page 1 Advertisements Column 4 - Rocky Mountain News July 17, 1861 - Colorado Historic Newspapers Collection, 2018.
-
-[Battle of Glorieta Pass.](www.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm) National Parks Service, U.S. Department of the Interior, March, 2016
-
-NPS Form: National Register of Historic PLaces, Raton Pass, City, State, #66000474. YR
-
-[Raton Basin.](www.ratonnm.gov/256/Mystery-about-Raton-Basin) Mystery about Raton Basin | Raton, NM - Official Website, April, 2017.
-
-[Raton Basin.](en.wikipedia.org/wiki/Raton_Basin) Wikipedia, Wikimedia Foundation, 11 Apr. 2018.
-
-[Raton Pass.]( www.american-rails.com/raton.html#gallery[pageGallery]/0/) American-Rails.com, 2010.
-
-[Raton Pass On The Santa Fe Trail, National Old Trails Road 1920.](www.americanroadmagazine.com/forum/topic/1758-raton-pass-on-the-santa-fe-trail-national-old-trails-road-1920) American Road Magazine, 31 Aug. 2016.
-
-[Richens Lacy ‘Uncle Dick’ Wootton.](www.sangres.com/history/uncledick.htm#.W_9hd3tKi00) Sangres, 2016.
-
-[Weiser-Alexander, Kathy.](www.legendsofamerica.com/raton-new-mexico/2/.) “Raton, New Mexico.” Legends of America, Aug. 2018.
-
-[The West: Missouri.](www.pbs.org/weta/thewest/resources/archives/two/62_12.htm)
- PBS, Public Broadcasting Service, 2017.
-
-Yongli. [Raton Pass.](coloradoencyclopedia.org/article/raton-pass-0#References) Articles | Colorado Encyclopedia, 27 Oct. 2016.
+* *Diary of Pedro Ignacio*, Mexican Archives of New Mexico (MANM), Twitchell Collection, #3 & 120, New Mexico State Records Center and Archives (NMSRCA), Santa Fe, New Mexico. 
+* *Aspen Evening Chronicle*. Page 1 Advertisements Column 4 - Rocky Mountain News July 17, 1861 - Colorado Historic Newspapers Collection, 2018.
+* *Battle of Glorieta Pass*. National Parks Service, U.S. Department of the Interior, March, 2016. Retrieved from: www.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm
+* NPS Form: National Register of Historic PLaces, Raton Pass, City, State, #66000474. YR
+* Raton Basin. Mystery about Raton Basin | Raton, NM - Official Website, April, 2017. Retrieved from: ratonnm.gov/256/Mystery-about-Raton-Basin) 
+* *Raton Pass On The Santa Fe Trail*, National Old Trails Road 1920. American Road Magazine, 31 Aug. 2016.
+* Weiser-Alexander, Kathy. *Raton, New Mexico* Legends of America, Aug. 2018. 
+* *The West: Missouri.* PBS, Public Broadcasting Service, 2017. Retrieved from: pbs.org/weta/thewest/resources/archives/two/62_12.htm
+* Yongli. *Raton Pass*. Articles | Colorado Encyclopedia, 27 Oct. 2016. Retrieved from: coloradoencyclopedia.org/article/raton-pass-0#References
