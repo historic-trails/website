@@ -10,9 +10,15 @@ date: 2018-11-19
 * *Location*: 	Colfax County, New Mexico and Las Animas County, Colorado, US
 * *Significance*: History of Santa Fe, History of New Mexico, History of Colorado, History of America
 * *Designation*: National Register of Historic Places
-* *Open to the public*: Yes
+* *Traversed by*: I‑25 / US 85 / US 87, Burlington Northern Santa Fe Railroad
+* *Open to the public*: Yes, weather permitting
 
-## Wars and Wagons
+***
+
+Raton Pass and the mountains surrounding it stand as a towering border between two worlds, and the control over this route has quite an interesting history. A crooked toll road for miners and tradesman during the infancy of America, a narrow mountain passageway for rail, and a modern convenience, this route was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the Santa Fe Trail and the National Parks Service's registry of Historic Places.
+
+***
+## William Becknell
 
 {% include figure.html
   class="img-right"
@@ -20,11 +26,6 @@ date: 2018-11-19
   caption="'The Father of the Santa Fe Trail', William Becknell is credited with expanding trade from New Mexico into Missouri, Kansas and Oklahoma via the Raton Pass."
   src="images/williambecknell.jpg"
 %}
-
-Raton Pass and the mountains surrounding it stand as a towering border between two worlds, and the control over this route has quite an interesting history. A crooked toll road for miners and tradesman during the infancy of America, a narrow mountain passageway for rail, and a modern convenience, this route was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the Santa Fe Trail and the National Parks Service's registry of Historic Places.
-
-
-## William Becknell
 
 One of the first recorded journeys through the pass is that of [William Becknell](https://en.wikipedia.org/wiki/William_Becknell), a businessman fleeing his failed ventures and political aspirations in Missouri with hopes of gaining wealth trading beaver pelts from Northern New Mexico. He left Franklin, Missouri with four companions in September, 1821 on his first trip to the western US, with a load of freight to deliver to Santa Fe. By 1821, conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the area. However, that portion of the journey has been called into question after the discovery of the [diary of Pedro Ignacio Gallego](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings along with Becknell’s own journal describing the landscape, show evidence that he and his men probably mis-identified the Canadian River and instead crossed at another river south of present day Las Vegas, New Mexico.
 
@@ -40,8 +41,8 @@ The profits made by William Becknell’s first trading trip brought much needed 
 
 
 William Becknell's description of the pass was accurate enough to scare people away. His depictions of broken wagons, blockading boulders disrupting the path, and a lack of access to basic services led most traders hauling heavily laden wagons along the Santa Fé Trail to what was known as the Cimarron Cutoff, which cut diagonally across southwest Kansas and northeast New Mexico to avoid the mountains. Raton Pass, on the other hand, was on the Mountain Branch of the trail, which was longer and more difficult but did have the advantages of more water and less exposure to violence from nearby populations of Native Americans struggling to cling to their land. It received far less traffic than the Cimarron Cutoff but was used by traders who went up the Arkansas River to Bent’s Fort and then turned south toward Santa Fé, especially those traveling with only a few pack animals or light wagons.
-
-## Wootton
+***
+## Wootton: Charging His Way
 
 {% include figure.html
   class="img-right"
@@ -81,7 +82,17 @@ The majority of traffic through the pass now comes from automobiles. In 1926 the
 
 Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pass has often been seen as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961.
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Train routes used by ATSF, including Raton Pass through New Mexico and Colorado."
+  src="images/train-map.png"
+%}
 ***
+
+##### Location
+36°59′28″N 104°29′12″W 
+
 ##### Related Articles
 Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
 More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
@@ -89,6 +100,7 @@ More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glori
 ##### Related People
 Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
 Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
+***
 
 ##### Nearby
 [Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
@@ -102,7 +114,7 @@ Information about [William Becknell](https://en.wikipedia.org/wiki/William_Beckn
   caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale."
   src="images/raton_post_cards.jpg"
 %}
-
+***
 
 ## Bibliography
 
