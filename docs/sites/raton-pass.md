@@ -82,16 +82,25 @@ The majority of traffic through the pass now comes from automobiles. In 1926 the
 
 Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pass has often been seen as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961.
 
+
+***
+
+##### Location
+36°59′28″N 104°29′12″W 
+
 {% include figure.html
   class="img-right"
   width="33%"
   caption="Train routes used by ATSF, including Raton Pass through New Mexico and Colorado."
   src="images/train-map.png"
 %}
-***
 
-##### Location
-36°59′28″N 104°29′12″W 
+##### Nearby
+[Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
+[Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
+[Raton, NM](http://visitraton.org)
+[Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
+**
 
 ##### Related Articles
 Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
@@ -102,15 +111,9 @@ Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_
 Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
 ***
 
-##### Nearby
-[Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
-[Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
-[Raton, NM](http://visitraton.org)
-[Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
-
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="100%"
   caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale."
   src="images/raton_post_cards.jpg"
 %}
