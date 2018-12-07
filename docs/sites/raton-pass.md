@@ -16,7 +16,6 @@ date: 2018-11-19
 ***
 
 Raton Pass and the mountains surrounding it stand as a towering border between two worlds, and the control over this route has quite an interesting history. A crooked toll road for miners and tradesman during the infancy of America, a narrow mountain passageway for rail, and a modern convenience, this route was first blazed, reportedly, in 1821, and extends from the Upper Arkansas valley into Northern New Mexico. This tract of land through the northern Sangre de Cristo Mountain range has been commodified at every bendy turn, and it’s importance on the surrounding economy is reflected in its inclusion on the Santa Fe Trail and the National Parks Service's registry of Historic Places.
-
 ***
 ## William Becknell
 
@@ -41,7 +40,7 @@ The profits made by William Becknell’s first trading trip brought much needed 
 
 
 William Becknell's description of the pass was accurate enough to scare people away. His depictions of broken wagons, blockading boulders disrupting the path, and a lack of access to basic services led most traders hauling heavily laden wagons along the Santa Fé Trail to what was known as the Cimarron Cutoff, which cut diagonally across southwest Kansas and northeast New Mexico to avoid the mountains. Raton Pass, on the other hand, was on the Mountain Branch of the trail, which was longer and more difficult but did have the advantages of more water and less exposure to violence from nearby populations of Native Americans struggling to cling to their land. It received far less traffic than the Cimarron Cutoff but was used by traders who went up the Arkansas River to Bent’s Fort and then turned south toward Santa Fé, especially those traveling with only a few pack animals or light wagons.
-***
+
 ## Wootton: Charging His Way
 
 {% include figure.html
@@ -53,7 +52,7 @@ William Becknell's description of the pass was accurate enough to scare people a
 
 [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton), a trapper like Becknell, saw the pass as an economic opportunity and decided to build and operate a toll gate restricting access to the trail. Wootton then claimed to have made improvements on the trail in an attempt to make it more accessible to wagon travel.  His bridges turned out to be narrow, the road laced with culverts and many curves so sharp the wagons could not pass without damage. Many hills were so steep, the wagons had to use double teams for the ascent. The truth was, the 27-mile journey required five days to traverse, and the route and improvements were so poor that many wagons were wrecked in their journey. With few alternatives, the public almost had to use the Wootton Road.  On August 1, 1865, before either Colorado or New Mexico, became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by two oxen, horses or mules cost $1. Wagons pulled by four cost $1.50. Wagons pulled by more than this cost $2. One man on horseback or on foot cost 25 cents. Loose cattle, horses or mules, pigs or sheep cost 5 cents each. (CITE IT)
 
-Wootton built his house and toll gate on the Colorado side of the pass, and daily stage service on the route started soon after gold was discovered in New Mexico’s Moreno Valley (LINK THIS)in 1867.
+Wootton built his house and toll gate on the Colorado side of the pass, and daily stage service on the route started soon after gold was discovered in New Mexico’s Moreno Valley [^Angel-Fire]in 1867.
 
 On August 1, 1865, before either territory became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by one span (two) of oxen, horses or mules cost $1. Wagons pulled by two span (four) cost $1.50. Wagons pulled by more than two spans cost $2. One man on horseback or afoot cost 25 cents. Loose cattle, horses or mules, swine or sheep cost 5 cents each. (AGAIN< CITE THIS)
 
@@ -82,11 +81,13 @@ The majority of traffic through the pass now comes from automobiles. In 1926 the
 
 Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pass has often been seen as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961.
 
-
+[^Angel-Fire] (https://www.angelfirechamber.org/areahistory.htm)
 ***
 
 ##### Location
 36°59′28″N 104°29′12″W 
+[Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
+[Raton, NM](http://visitraton.org)
 
 {% include figure.html
   class="img-right"
@@ -96,19 +97,20 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 %}
 
 ##### Nearby
-[Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors. [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
-[Trinidad, Co](https://www.trinidad.co.gov/tourism-board)
-[Raton, NM](http://visitraton.org)
-[Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
-**
+* [Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors.
+* [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
+* [View directions on Google Maps](https://www.google.com/maps/dir/Trinidad,+CO/Raton,+NM+87740/@37.0367697,-104.6297054,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x87111b6317b14511:0xe67a149990f618db!2m2!1d-104.5005407!2d37.1694632!1m5!1m1!1s0x8710f043b7f65153:0xa09ff54108aa82d0!2m2!1d-104.4391532!2d36.9033581)
+* [Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
+***
 
 ##### Related Articles
-Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
-More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
+* Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
+* More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
 
 ##### Related People
-Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
-Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
+* Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
+* Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
+* The [diary](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) of Pedro Ignacio
 ***
 
 {% include figure.html
