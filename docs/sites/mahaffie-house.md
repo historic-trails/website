@@ -10,7 +10,7 @@ date: 2018-11-19
 Positioned in northeastern Kansas just southwest of [Independence, Missouri](https://en.wikipedia.org/wiki/Independence,_Missouri), the Mahaffie farmstead was an important stage stop along the [Santa Fe Trail](https://www.nps.gov/safe/index.htm) where travelers stocked up for their journey westward. the house is a rare historical structure with good integrity and enough space to accommodate the visiting public who desire a taste of Kansas's pioneer spirit.
 
 ## Historic Significance
-The Mahaffie House and its surrounding outbuildings constituted the first hotel and stage station in its section of [Johnson County, Kansas](https://en.wikipedia.org/wiki/Johnson_County,_Kansas). As a whole, the property is testament to the ways that private citizens far from Santa Fe helped open trade with Mexico. Present-day visitors can see the contrast between northeastern Kansas's rural past and its modern urbanized form. The unchecked growth of nearby [Kansas City](https://en.wikipedia.org/wiki/Kansas_City_metropolitan_area) makes the preservation of the Mahaffie House--an important link to Johnson County's yesteryears--even more vital.[^REGISTER1]
+The Mahaffie House and its surrounding outbuildings constituted the first hotel and stage station in its section of [Johnson County, Kansas](https://en.wikipedia.org/wiki/Johnson_County,_Kansas). As a whole, the property is testament to the ways that private citizens far from Santa Fe helped open trade with Mexico. Present-day visitors can see the contrast between northeastern Kansas's rural past and its modern urbanized form. The unchecked growth of nearby [Kansas City](https://en.wikipedia.org/wiki/Kansas_City_metropolitan_area) makes the preservation of the Mahaffie House--an important link to Johnson County's yesteryears--even more vital.[^REGISTER1] The house is the only known Santa Fe Trail stage station that remains open to members of the public.[^CMP2]
 
 {% include figure.html
   class="img-left"
@@ -36,13 +36,13 @@ James Beatty Mahaffie was born in Ohio in 1817; he married Lucinda Henderson in 
 Although a transplant from Ohio, Mahaffie is remembered as "one of the leading farmers of the area." He was also "active in local social and political affairs"; in 1858 he was elected chairman of the Johnson County supervisors. Mahaffie belonged to [the Grange](https://en.wikipedia.org/wiki/National_Grange_of_the_Order_of_Patrons_of_Husbandry), a post-Civil War organization to further the political and economic advancement of rural communities. His passion for developing the county extended to railroad politics; he served on the first board of directors of the Missouri River, Fort Scott, and Gulf Railroad. Later in his life, Mahaffied advocated the preservation of the Santa Fe Trail.[^REGISTER3]
 
 ## The House
-The first night Mahaffie moved his house to his newly-purchased property in 1858, he took in $5 (roughly $150 today) from travelers--just for the privilege of sleeping on his wooden floors! Mahaffie's farmstead soon became known for its hospitality.[^REGISTER4] Communal dinners were served in the basement (Comprehensive Management Plan). Mahaffie completed a large stone addition in 1865; that same year, he had the largest farm (570 acres) and the largest livestock herd in Olathe.[^TRACKS2]
+The first night Mahaffie moved his house to his newly-purchased property in 1858, he took in $5 (roughly $150 today) from travelers--just for the privilege of sleeping on his wooden floors! Mahaffie's farmstead soon became known for its hospitality.[^REGISTER4] Communal dinners were served in the basement[^CMP1]. Mahaffie completed a large stone addition in 1865; that same year, he had the largest farm (570 acres) and the largest livestock herd in Olathe.[^TRACKS2]
 
 ## Architectural Details 
 The house sits roughly 500 feet north of the Kansas City Road, which once served as a portion of the Santa Fe Trail. The house, which sits on a thirteen-acre parcel, was constructed somewhere in Olathe in 1857 and moved to Mahaffie's plot in 1858. It was originally a one-and-a-half stories tall until Mahaffie added a two-story stone addition on the structure's southern side; Mahaffie later raised the adjoining frame structure so it stood two stories tall, as well. A one'story porch on Tuscan columns faces the old Kansas City Road. Though the house is not especially significant architecturally, it conforms to what architectural historians call a [vernacular style](https://commons.wikimedia.org/wiki/Category:Vernacular_architecture_of_Kansas)[^REGISTER5].
 
 ## The End of the Mahaffie Era
-Mahaffie retired from the farm in 1881 and sold the property in 1883. The era of the stage station had largely come to an end, thanks the end of the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) and the beginning of the railroad era.[^REGISTER6] The property passed through different owners until the City of Olathe purchased the property in 1980 with funds from citizens, grants, and the city government. In 1982, a federal grant to imporove the Mahaffie House provided a new roof, forced air heating, and new wiring. It is relatively unusual for a city to own/operate a historic site as important as the Mahaffie House.[^TRACKS3]
+Mahaffie retired from the farm in 1881 and sold the property in 1883. The era of the stage station had largely come to an end, thanks the end of the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) and the beginning of the railroad era.[^REGISTER6] The property passed through different owners until the City of Olathe purchased the property in 1980 with funds from citizens, grants, and the city government. In 1982, a federal grant to imporove the Mahaffie House provided a new roof, forced air heating, and new wiring. It is relatively unusual for a city to own/operate a historic site as important as the Mahaffie House.[^TRACKS3] 
 
 {% include figure.html
   class="img-left"
@@ -93,3 +93,5 @@ The house is located at [1200 E Kansas City Road, Olathe, KS 66061](https://www.
 [^REGISTER5]: Pankratz, 2
 [^REGISTER6]: Pankratz, 4
 [^TRACKS3]: Duncan
+[^CMP1]: NPS, 95
+[^CMP2]: NPS, 95
