@@ -52,13 +52,13 @@ William Becknell's description of the pass was accurate enough to scare people a
   src="images/wootton_house.jpg"
 %}
 
-[Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton), a trapper like Becknell, saw the pass as an economic opportunity and decided to build and operate a toll gate restricting access to the trail. Wootton then claimed to have made improvements on the trail in an attempt to make it more accessible to wagon travel.  His bridges turned out to be narrow, the road laced with culverts and many curves so sharp the wagons could not pass without damage. Many hills were so steep, the wagons had to use double teams for the ascent. The truth was, the 27-mile journey required five days to traverse, and the route and improvements were so poor that many wagons were wrecked in their journey. With few alternatives, the public almost had to use the Wootton Road.  On August 1, 1865, before either Colorado or New Mexico, became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by two oxen, horses or mules cost $1. Wagons pulled by four cost $1.50. Wagons pulled by more than this cost $2. One man on horseback or on foot cost 25 cents. Loose cattle, horses or mules, pigs or sheep cost 5 cents each. (CITE IT)
+[Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton), a trapper like Becknell, saw the pass as an economic opportunity and decided to build and operate a toll gate restricting access to the trail. Wootton then claimed to have made improvements on the trail in an attempt to make it more accessible to wagon travel.  His bridges turned out to be narrow, the road laced with culverts and many curves so sharp the wagons could not pass without damage. Many hills were so steep, the wagons had to use double teams for the ascent. The truth was, the 27-mile journey required five days to traverse, and the route and improvements were so poor that many wagons were wrecked in their journey. With few alternatives, the public almost had to use the Wootton Road.  On August 1, 1865, before either Colorado or New Mexico, became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by two oxen, horses or mules cost $1. Wagons pulled by four cost $1.50. Wagons pulled by more than this cost $2. One man on horseback or on foot cost 25 cents. Loose cattle, horses or mules, pigs or sheep cost 5 cents each.
 
 Wootton built his house and toll gate on the Colorado side of the pass, and daily stage service on the route started soon after gold was discovered in New Mexico’s Moreno Valley [^Angel-Fire]in 1867.
 
-On August 1, 1865, before either territory became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by one span (two) of oxen, horses or mules cost $1. Wagons pulled by two span (four) cost $1.50. Wagons pulled by more than two spans cost $2. One man on horseback or afoot cost 25 cents. Loose cattle, horses or mules, swine or sheep cost 5 cents each. (AGAIN< CITE THIS)
+On August 1, 1865, before either territory became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by one span (two) of oxen, horses or mules cost $1. Wagons pulled by two span (four) cost $1.50. Wagons pulled by more than two spans cost $2. One man on horseback or afoot cost 25 cents. Loose cattle, horses or mules, swine or sheep cost 5 cents each.
 
-Many rumors and testimonials by travelers who tried to use these trails told of suffering, harassment and stock stolen by night riders and raiders whom they believed to be hired by Uncle Dick in retaliation for not using his road. He was also known to shoot Native Americans with which he did not agree, and was known to shoot at groups in order to steal their food and supplies with fellow famous New Mexican Kit Carson. [^Aspen Evening Chronicle, November 13]
+Many rumors and testimonials by travelers who tried to use these trails told of suffering, harassment and stock stolen by night riders and raiders whom they believed to be hired by Uncle Dick in retaliation for not using his road. He was also known to shoot Native Americans with which he did not agree, and was known to shoot at groups in order to steal their food and supplies with fellow famous New Mexican Kit Carson. [^Aspen-Evening-Chronicle]
 
 As the railroad developed, Wootton declined an offer of $50,000 for his road in favor of lifetime rail passes and groceries for him and his wife. In 1878, the Atchison, Topeka, and Santa Fe Railroad (ATSF) beat the Denver & Rio Grande Railroad (D&RG) to the route up Raton Pass, which had space for only one rail line. ATSF decided to tunnel under the summit of the pass to cut down on what was already a steep and grueling climb, but in the meantime it built a temporary track over the pass to allow trains to start traveling the route in late 1878. This marked the end of most wagon and stagecoach traffic over Raton Pass. The railroad tunnel under the pass opened in September 1879.
 
@@ -83,7 +83,7 @@ The majority of traffic through the pass now comes from automobiles. In 1926 the
 
 Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pass has often been seen as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961.
 
-[^Angel-Fire] (https://www.angelfirechamber.org/areahistory.htm)
+[^Angel-Fire] (https://www.angelfirechamber.org/areahistory.htm) [^Aspen-Evening-Chronicle](https://www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-)
 ***
 
 ##### Location
@@ -94,7 +94,7 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 {% include figure.html
   class="img-right"
   width="66%"
-  caption="Raton Pass as seen starting from Raton looking north"
+  caption="Raton Pass as seen starting from Raton looking north. [Source](https://wildfiretoday.com/2011/06/15/update-on-track-fire-near-raton-nm-june-15-2011/)"
   src="images/raton-map.jpg"
 %}
 
