@@ -101,16 +101,19 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 * [Capulin Mountain National Monument](https://www.nps.gov/cavo/index.htm), a symmetrical volcanic cone rising 1,500 feet, lies 32 miles to the southeast.
 * [View directions on Google Maps](https://www.google.com/maps/dir/Trinidad,+CO/Raton,+NM+87740/@37.0367697,-104.6297054,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x87111b6317b14511:0xe67a149990f618db!2m2!1d-104.5005407!2d37.1694632!1m5!1m1!1s0x8710f043b7f65153:0xa09ff54108aa82d0!2m2!1d-104.4391532!2d36.9033581)
 * [Santa Fe Plaza](https://www.nps.gov/nr/travel/american_latino_heritage/Santa_Fe_Plaza.html)
+
 ***
 
 ##### Related Articles
 * Information on the [Santa Fe Trail.](https://www.nps.gov/peco/learn/historyculture/santa-fe-trail.htm)
 * More history of [Raton Pass](https://www.nps.gov/nr/twhp/wwwlps/lessons/117glorietaraton/117getting.htm)
+* Richard Wootton [obituary](https://www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-)
 
 ##### Related People
 * Information about [Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton)
 * Information about [William Becknell](https://en.wikipedia.org/wiki/William_Becknell)
 * The [diary](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) of Pedro Ignacio
+
 ***
 
 {% include figure.html
@@ -119,6 +122,7 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
   caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale."
   src="images/raton_post_cards.jpg"
 %}
+
 ***
 
 ## Bibliography
