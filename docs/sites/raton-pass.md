@@ -83,7 +83,7 @@ The majority of traffic through the pass now comes from automobiles. In 1926 the
 
 Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pass has often been seen as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961.
 
-[^Angel-Fire] (https://www.angelfirechamber.org/areahistory.htm) [^Aspen-Evening-Chronicle](https://www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-)
+[^Angel-Fire](https://www.angelfirechamber.org/areahistory.htm) [^Aspen-Evening-Chronicle](https://www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-)
 ***
 
 ##### Location
