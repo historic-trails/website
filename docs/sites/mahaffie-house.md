@@ -15,12 +15,12 @@ The Mahaffie House and its surrounding outbuildings constituted the first hotel 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="The Mahaffie House today. [Wikimedia Commons user Rmprit](https://commons.wikimedia.org/wiki/File:1100_Kansas_City_Rd.,_Olathe,_KS_J.B._Mahaffie_House.jpg)
+  caption="The Mahaffie House today. [Wikimedia Commons user Rmprit](https://commons.wikimedia.org/wiki/File:1100_Kansas_City_Rd.,_Olathe,_KS_J.B._Mahaffie_House.jpg)"
   src="images/mahaffie-modern.jpg"
 %}
 
 ## Property Details
-The Santa Fe Trail ran right across the southwest corner of the property, providing travelers with ready access to the farmstead. Stage stops were essentially multi-dimensional convenience stores--in addition to hot meals and other provisions, they offered hospitality, shelter, and relative safety. The property actually contains three structures listed on the National Register of Historic Places: the house, a wood peg barn, and a stone ice house. [^TRACKS1] 
+The Santa Fe Trail ran right across the southwest corner of the property, providing travelers with ready access to the farmstead. Stage stops were essentially multi-dimensional convenience stores--in addition to hot meals and other provisions, they offered hospitality, shelter, and relative safety. The property actually contains three structures listed on the National Register of Historic Places: the house, a wood peg barn, and a stone ice house. [^TRACKS1]
 
 {% include figure.html
   class="img-right"
@@ -38,11 +38,11 @@ Although a transplant from Ohio, Mahaffie is remembered as "one of the leading f
 ## The House
 The first night Mahaffie moved his house to his newly-purchased property in 1858, he took in $5 (roughly $150 today) from travelers--just for the privilege of sleeping on his wooden floors! Mahaffie's farmstead soon became known for its hospitality.[^REGISTER4] Communal dinners were served in the basement[^CMP1]. Mahaffie completed a large stone addition in 1865; that same year, he had the largest farm (570 acres) and the largest livestock herd in Olathe.[^TRACKS2]
 
-## Architectural Details 
+## Architectural Details
 The house sits roughly 500 feet north of the Kansas City Road, which once served as a portion of the Santa Fe Trail. The house, which sits on a thirteen-acre parcel, was constructed somewhere in Olathe in 1857 and moved to Mahaffie's plot in 1858. It was originally a one-and-a-half stories tall until Mahaffie added a two-story stone addition on the structure's southern side; Mahaffie later raised the adjoining frame structure so it stood two stories tall, as well. A one'story porch on Tuscan columns faces the old Kansas City Road. Though the house is not especially significant architecturally, it conforms to what architectural historians call a [vernacular style](https://commons.wikimedia.org/wiki/Category:Vernacular_architecture_of_Kansas)[^REGISTER5].
 
 ## The End of the Mahaffie Era
-Mahaffie retired from the farm in 1881 and sold the property in 1883. The era of the stage station had largely come to an end, thanks the end of the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) and the beginning of the railroad era.[^REGISTER6] The property passed through different owners until the City of Olathe purchased the property in 1980 with funds from citizens, grants, and the city government. In 1982, a federal grant to imporove the Mahaffie House provided a new roof, forced air heating, and new wiring. It is relatively unusual for a city to own/operate a historic site as important as the Mahaffie House.[^TRACKS3] 
+Mahaffie retired from the farm in 1881 and sold the property in 1883. The era of the stage station had largely come to an end, thanks the end of the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) and the beginning of the railroad era.[^REGISTER6] The property passed through different owners until the City of Olathe purchased the property in 1980 with funds from citizens, grants, and the city government. In 1982, a federal grant to imporove the Mahaffie House provided a new roof, forced air heating, and new wiring. It is relatively unusual for a city to own/operate a historic site as important as the Mahaffie House.[^TRACKS3]
 
 {% include figure.html
   class="img-left"
