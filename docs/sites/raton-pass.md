@@ -129,10 +129,11 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 ***
 
 ## Bibliography
+* National Park Service, Draft Comprehensive Management Plan. Denver: U.S. Department of the Interior, 1989.
 * *Diary of Pedro Ignacio*, Mexican Archives of New Mexico (MANM), Twitchell Collection, #3 & 120, New Mexico State Records Center and Archives (NMSRCA), Santa Fe, New Mexico. 
 * *Aspen Evening Chronicle*. Page 1 Advertisements Column 4 - Rocky Mountain News July 17, 1861 - Colorado Historic Newspapers Collection, 2018.
 * *Battle of Glorieta Pass*. National Parks Service, U.S. Department of the Interior, March, 2016. Retrieved from: www.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm
-* NPS Form: National Register of Historic PLaces, Raton Pass, City, State, #66000474. YR
+* NPS Form: National Register of Historic PLaces, Raton Pass, Torrance County, New Mexico, #66000474. YR
 * Raton Basin. Mystery about Raton Basin | Raton, NM - Official Website, April, 2017. Retrieved from: ratonnm.gov/256/Mystery-about-Raton-Basin) 
 * *Raton Pass On The Santa Fe Trail*, National Old Trails Road 1920. American Road Magazine, 31 Aug. 2016.
 * Weiser-Alexander, Kathy. *Raton, New Mexico* Legends of America, Aug. 2018. 
