@@ -13,7 +13,7 @@ date: 2018-11-19
 * *Significance*: History of Santa Fe, History of New Mexico, History of Colorado, History of America
 * *Designation*: National Register of Historic Places
 * *Traversed by*: I‑25 / US 85 / US 87, Burlington Northern Santa Fe Railroad
-* *Open to the public*: Yes, weather permitting o public land
+* *Open to the public*: Yes, weather permitting, on public land
 
 ***
 
@@ -26,7 +26,7 @@ Raton Pass and the mountains surrounding it stand as a towering border between t
 {% include figure.html
   class="img-right"
   width="60%"
-  caption="'The Father of the Santa Fe Trail', William Becknell is credited with expanding trade from New Mexico into Missouri, Kansas and Oklahoma via the Raton Pass."
+  caption="'The Father of the Santa Fe Trail', William Becknell is credited with expanding trade from New Mexico into Missouri, Kansas and Oklahoma via the Raton Pass. [Source](https://en.wikipedia.org/wiki/William_Becknell)"
   src="images/williambecknell.jpg"
 %}
 
@@ -94,7 +94,7 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 
 ##### Location
 36°59′28″N 104°29′12″W
-The 7,881-foot summit is accessible via I-25, and a New Mexico Welcome Center allows visitors to step out of their vehiclesand sretch or take photos. An informative historic marker for Raton Pass interprets the landmark both at the center and on the Colorado side of the State border. Public access to the land, however, is restricted, as the wilderness is privately owned. The nearby city of Raton, New Mexico celebrates its trail heritage and the [Raton Museum,](http://www.theratonmuseum.org/) located at 108 2nd Street, interprets the area’s past for curious visitors. 
+The 7,881-foot summit is accessible via I-25, and a New Mexico Welcome Center allows visitors to step out of their vehicles and stretch or take photos. An informative historic marker for Raton Pass interprets the landmark both at the center and on the Colorado side of the State border. Public access to the land, however, is restricted, as the wilderness is privately owned. The nearby city of Raton, New Mexico celebrates its trail heritage and the [Raton Museum,](http://www.theratonmuseum.org/) located at 108 2nd Street, interprets the area’s past for curious visitors. 
 
 {% include figure.html
   class="img-right"
