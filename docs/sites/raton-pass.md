@@ -66,7 +66,7 @@ As the railroad developed, Wootton declined an offer of $50,000 for his road in 
 
 ## Warfare
 
-Two nineteenth-century military crossings are especially notable in the history of Raton Pass. The first came in August 1846, during the Mexican-American War, when Stephen Kearny’s Army used the pass to invade New Mexico. Kearny chose Raton Pass for two reasons: first, he could use Bent’s Fort(HYPERLINK THIS) as a base, and second, it had more water than the Cimarron Cutoff, an especially important advantage in the summer. Kearny left [Bent’s Fort](https://www.nps.gov/beol/index.htm) on August 2, sending road crews in advance to try to improve the route for the advancing army. Nevertheless, the army still had difficulty getting over the pass and lost many wagons descending into New Mexico, which Kearny’s army quickly claimed for the US.
+Two nineteenth-century military crossings are especially notable in the history of Raton Pass. The first came in August 1846, during the Mexican-American War, when Stephen Kearny’s Army used the pass to invade New Mexico. Kearny chose Raton Pass for two reasons: first, he could use [Bent’s Fort](https://www.nps.gov/beol/index.htm) as a base, and second, it had more water than the Cimarron Cutoff, an especially important advantage in the summer. Kearny left Bent's Fort on August 2, sending road crews in advance to try to improve the route for the advancing army. Nevertheless, the army still had difficulty getting over the pass and lost many wagons descending into New Mexico, which Kearny’s army quickly claimed for the US.
 
 Raton Pass played an important military role again during the Civil War, as the Union used Raton Pass to supply troops stationed in New Mexico. In 1862, when Confederate troops were advancing north through New Mexico, a regiment of Colorado Volunteers marched over Raton Pass to reinforce Union troops and win a major victory at the [Battle of Glorieta Pass](https://www.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm).
 
@@ -89,6 +89,7 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 
 [^Angel-Fire](https://www.angelfirechamber.org/areahistory.htm) 
 [^Aspen-Evening-Chronicle](https://www.coloradohistoricnewspapers.org/cgi-bin/colorado?a=d&d=ADC18911113.2.40&e=-------en-20--1--txt-txIN--------0-)
+[^NPS](NPS Form: National Register of Historic PLaces, Raton Pass, Torrance County, New Mexico, #66000474. 1989)
 ***
 
 ##### Location
@@ -127,18 +128,17 @@ The 7,881-foot summit is accessible via I-25, and a New Mexico Welcome Center al
 {% include figure.html
   class="img-right"
   width="100%"
-  caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale."
+  caption="Automobile travel before pavement was tenuous."
   src="images/1900s_raton.jpg"
 %}
 
 ***
 
 ## Bibliography
-* National Park Service, Draft Comprehensive Management Plan. Denver: U.S. Department of the Interior, 1989.
 * *Diary of Pedro Ignacio*, Mexican Archives of New Mexico (MANM), Twitchell Collection, #3 & 120, New Mexico State Records Center and Archives (NMSRCA), Santa Fe, New Mexico. 
 * *Aspen Evening Chronicle*. Page 1 Advertisements Column 4 - Rocky Mountain News July 17, 1861 - Colorado Historic Newspapers Collection, 2018.
 * *Battle of Glorieta Pass*. National Parks Service, U.S. Department of the Interior, March, 2016. Retrieved from: www.nps.gov/peco/learn/historyculture/battle-of-glorieta-pass.htm
-* NPS Form: National Register of Historic PLaces, Raton Pass, Torrance County, New Mexico, #66000474. YR
+* NPS Form: National Register of Historic PLaces, Raton Pass, Torrance County, New Mexico, #66000474. 1989
 * Raton Basin. Mystery about Raton Basin | Raton, NM - Official Website, April, 2017. Retrieved from: ratonnm.gov/256/Mystery-about-Raton-Basin) 
 * *Raton Pass On The Santa Fe Trail*, National Old Trails Road 1920. American Road Magazine, 31 Aug. 2016.
 * Weiser-Alexander, Kathy. *Raton, New Mexico* Legends of America, Aug. 2018. 
