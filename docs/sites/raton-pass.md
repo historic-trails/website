@@ -143,7 +143,7 @@ A family of road signs has been initiated across the Santa Fe Trail to help you 
 ***
 
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="100%"
   caption="Automobile travel before pavement was tenuous."
   src="images/1900s_raton.jpg"
