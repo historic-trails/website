@@ -49,7 +49,7 @@ The Santa Fe Trail was utilized by Spanish merchants moving goods between Santa 
 As an agricultural and cattle dependent economy, the district was effected by industrialization in the region. The productivity and political center of San Miguel county was relocated to Las Vegas in 1860[^NRHP9]. With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas and Santa Fe, NM, or in southern Colorado. This continued into the second half of the 19th century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) when U.S. supreme court decided to shrink the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres.[^Jenks2] This decision cut the village off from their abundant grazing, agricultural and timber resources.
 
 {% include figure.html class="img-right" width="40%" caption="San Miguel del Vado Church remains the center of culture and society in this historic village. Source: Wikimedia Common" src="images/san-miguel-del-vado-church.jpg" %}
-## San Miguel del Vado today
+## San Miguel del Vado 20th century and today
 Today, NM State Route 3 follows the same route the Santa Fe Trail did during its heyday. The village was bypassed by construction of the national highways. Because San Miguel del Vado is off the beaten path, it was able to maintain its identity as a prime example of a Spanish colonial and early Mexican settlement. This historic district has been saved as gem of Santa Fe Trail history.
 
 ## How to get there
