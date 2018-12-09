@@ -75,13 +75,20 @@ Raton Pass played an important military role again during the Civil War, as the 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The Raton Pass rail line was even used during the 2004 political campaign. [Source](http://www.railroadforums.com/forum/index.php?media/kerry-2004-campaign-train-raton-pass.5289/)"
-  src="images/kerry_train.jpg"
+  caption="Artist representation of a train on Raton Pass. Locomotive traffic still dominates parts of the pass. [Source](http://streamlinermemories.info/?p=4737)"
+  src="images/sketch_train.jpg"
 %}
 
 When Spain controlled what is now the southwestern United States, the Spanish officially banned international trade of all kinds. After Mexico gained its independence from Spain in 1821, the Mexicans lifted the ban and opened the area to both commercial and cultural exchange. The Santa Fe Trail, which spanned 1,200 miles from Franklin, Missouri to Santa Fe, New Mexico passing through deserts, mountains, and forests along its route, became the main means of transportation to and from the area.
 
 In 1908 the rail company ATSF completed a second tunnel under Raton Pass to handle increased traffic, but developments in rail around the West signaled the decline of Raton Pass as a major rail corridor. First, ATSF finished the Belen Cutoff in central New Mexico, giving the railroad an easier route. Raton Pass continued to be used for passengers, but all long-haul trains now took the Belen Cutoff route. In 1908–9 New Mexico used convict labor to build a new highway that crossed the Colorado border near Raton Pass, further reducing traffic through the area.
+
+{% include figure.html
+  class="img-right"
+  width="66%"
+  caption="A map of rail line completion as of 1880, including Raton Pass. [Source](https://www.nps.gov/safe/learn/historyculture/map-timeline-5.htm)"
+  src="images/raton_maps.jpg"
+%}
 
 The majority of traffic through the pass now comes from automobiles. In 1926 the highway over Raton Pass was designated as US 85 and improved. In 1942 it was realigned to the old Wootton route along the Santa Fé Trail, which was more navigable. This route was incorporated into Interstate 25 in the early 1960s, and now provides tourism dollars for the nearby towns of Raton and Trinidad.
 
@@ -96,12 +103,15 @@ Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pa
 36°59′28″N 104°29′12″W
 The 7,881-foot summit is accessible via I-25, and a New Mexico Welcome Center allows visitors to step out of their vehicles and stretch or take photos. An informative historic marker for Raton Pass interprets the landmark both at the center and on the Colorado side of the State border. Public access to the land, however, is restricted, as the wilderness is privately owned. The nearby city of Raton, New Mexico celebrates its trail heritage and the [Raton Museum,](http://www.theratonmuseum.org/) located at 108 2nd Street, interprets the area’s past for curious visitors. 
 
+A family of road signs has been initiated across the Santa Fe Trail to help you find original routes, trail crossings, and local sites. Follow the signs exhibiting the distinctive Santa Fe Trail National Historic Trail logo.
+
 {% include figure.html
   class="img-right"
   width="66%"
-  caption="Raton Pass as seen starting from Raton looking north. [Source](https://wildfiretoday.com/2011/06/15/update-on-track-fire-near-raton-nm-june-15-2011/)"
-  src="images/raton_map.jpg"
+  caption="Follow these signs for information along the Santa Fe Trail."
+  src="images/signs.jpg"
 %}
+
 
 ##### Nearby
 * [Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors.
