@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8' />
+  <title>Display a map</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    body { margin:0; padding:0; }
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+    .markers {
+        background-size: cover;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        cursor: pointer;
+        }
+   </style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ21jY2xlbGxhbiIsImEiOiJjaW01OGt2ZHcwMWtidTFtM2JhOGdvdWVvIn0.YBtaw0cwl4PxdbFIiJHobw';
+const map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/gmcclellan/cjp7gtvfn2hyk2snu0m7hbzes',
+  center: [-101.062327, 36.481559],
+  zoom: 5.0
+});
+
+map.on('load', function () {
+
+	map.addLayer({
+      "id": "markers",
+      "type": "circle",
+      "source": {
+   		type: 'geojson',
+   		data: 'https://raw.githubusercontent.com/historic-trails/santa-fe-itinerary/master/docs/safe-places.geojson'
+   	},
+      "paint": {
+          "circle-radius": 10,
+          "circle-color": "#ff442b",
+          "circle-opacity": 0.2,
+       }
+  	})
+
+  	map.addLayer({
+      "id": "fall-2018-markers",
+      "type": "circle",
+      "source": {
+   		type: 'geojson',
+   		data: 'https://raw.githubusercontent.com/historic-trails/santa-fe-itinerary/master/docs/safe-fall-2018-url-img.geojson'
+   	},
+      "paint": {
+          "circle-radius": 10,
+          "circle-color": "#4ceef0",
+          "circle-opacity": 1,
+       }
+  	})
+});
+
+var popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: true
+    });
+
+map.on('click', 'markers', function (e) {
+	var coordinates = e.features[0].geometry.coordinates.slice();
+	var Site_Name = e.features[0].properties.Site_Name;
+
+  popup.setLngLat(e.features[0].geometry.coordinates)
+    .setHTML('<h3>' + e.features[0].properties.Site_Name + '</h3><p>' + e.features[0].properties.COUNTY + ', ' + e.features[0].properties.STATE +'</p>')
+    .setLngLat(e.features[0].geometry.coordinates)
+    .addTo(map);
+});
+
+
+map.on('mouseenter', 'fall-2018-markers', function (e) {
+	var coordinates = e.features[0].geometry.coordinates.slice();
+	var Site_Name = e.features[0].properties.site-name;
+
+  popup.setLngLat(e.features[0].geometry.coordinates)
+    .setHTML('<h3>' + '<a href=' + '"' + e.features[0].properties.url + '"' + '>' + e.features[0].properties.site_name + '</a>' + ', ' + e.features[0].properties.State + '</h3><p>' + e.features[0].properties.teaser + '</p>' )
+    .setLngLat(e.features[0].geometry.coordinates)
+    .addTo(map);
+});
+/*
+  map.on('mouseleave', 'fall-2018-markers', function() {
+          map.getCanvas().style.cursor = '';
+          popup.remove();
+  })
+*/
+</script>
+
+</body>
+</html>
