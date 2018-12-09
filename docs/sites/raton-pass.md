@@ -62,6 +62,13 @@ On August 1, 1865, before either territory became a state, Uncle Dick ran an ad 
 
 Many rumors and testimonials by travelers who tried to use these trails told of suffering, harassment and stock stolen by night riders and raiders whom they believed to be hired by Uncle Dick in retaliation for not using his road. He was also known to shoot Native Americans with which he did not agree, and was known to shoot at groups in order to steal their food and supplies with fellow famous New Mexican Kit Carson. [^Aspen-Evening-Chronicle]
 
+{% include figure.html
+  class="img-right"
+  width="60%"
+  caption="The historic Santa Fe Trail traversed the present-day states of Missouri, Kansas, Oklahoma, Colorado, and New Mexico. [Source](https://www.nps.gov/safe/planyourvisit/directions.htm)"
+  src="images/trail-map-nps.jpg"
+%}
+
 As the railroad developed, Wootton declined an offer of $50,000 for his road in favor of lifetime rail passes and groceries for him and his wife. In 1878, the Atchison, Topeka, and Santa Fe Railroad (ATSF) beat the Denver & Rio Grande Railroad (D&RG) to the route up Raton Pass, which had space for only one rail line. ATSF decided to tunnel under the summit of the pass to cut down on what was already a steep and grueling climb, but in the meantime it built a temporary track over the pass to allow trains to start traveling the route in late 1878. This marked the end of most wagon and stagecoach traffic over Raton Pass. The railroad tunnel under the pass opened in September 1879.
 
 ## Warfare
