@@ -131,9 +131,9 @@ Koman, R. G., & National Park Service (Dept. of Interior), W., DC. National Regi
 
 Mays, L. (2010). Ancient Water Technologies. Springer Science & Business Media.
 
-[National Register of Historic Places Multiple Property Documentation Form; Santa Fe Trail,](https://dnr.mo.gov/shpo/nps-nr)
+[National Register of Historic Places, La Cueva Historic District, Mora County, New Mexico, National Register #73001144](https://npgallery.nps.gov/AssetDetail/NRIS/73001144)
 
-[National Register of Historical Places - NEW MEXICO (NM), Mora County. (n.d.).](https://nationalregisterofhistoricplaces.com/NM/Mora/districts.html)
+[National Register of Historic Places Multiple Property Documentation Form; Santa Fe Trail, National Register #10240018](https://dnr.mo.gov/shpo/nps-nr)
 
 San Rafael, La Cueva, New Mexico. Shadows in the light of darkness. (2018, April 8). Retrieved November 9, 2018, from http://geraintsmith.com/shadows-san-rafael-la-cueva-new-mexico/
 
