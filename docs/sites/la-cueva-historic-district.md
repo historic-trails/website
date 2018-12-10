@@ -46,7 +46,7 @@ La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero,
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Built on a natural stone foundation, the grist mill of La Cueva milled grains to ship to Ft.Union"
+  caption="Built on a natural stone foundation, the grist mill of La Cueva milled grains to ship to Ft.Union[google](https://goo.gl/maps/sau7G8nzfHu)"
   src="images/la-cueva-mill.jpg"
 %}
 
