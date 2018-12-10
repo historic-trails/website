@@ -81,6 +81,7 @@ Vicente also commissioned a church to be built on the property that would become
 ## La Cueva Today
 Today La Cueva is a private residence as well as a [farm](https://www.lacuevafarm.com/).  In the summer months travelers seeking fun can pick raspberries and bring them home.  But the current day use still has nods to the history of La Cueva.  Mora County is home to many historic landmarks on the historic register, this could be a way for the economically depressed area to benefit from it's rich past.   
 
+***
 ##### Nearby Places
 [Ft.Union National Monument](https://www.nps.gov/foun/index.htm)
 
