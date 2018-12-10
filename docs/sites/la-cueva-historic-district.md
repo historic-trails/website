@@ -53,7 +53,7 @@ La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero,
 
 While the La Cueva Historic District is located miles from the [Santa Fe trail](https://www.nps.gov/safe/index.htm), it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would  divert a portion of the streamflow of the Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill [^NPS-lchd-3].  In the 1850's electricity had not yet come to the masses and it was common for hydro power to be used to enable grain mills. [^Mays-1] In addition to powering the mill wheel, the acequia would also provide irrigation to the Romero Farm [^Water-1].  Regional mills were important along the trail during the 1800's before rail travel was possible in the Santa Fe region in the late 1870's into 1880, due to the slow speed and volume at which supplies could travel by horse.  [^NPS-SFT-1].  Mills provided processed grain to many stops along trails to keep a constant supply of food from stop to stop as people traveled.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  Ft. Union was integral to Union Army during the Civil war, and was the largest military base in the Southwest at times between 1851-1891 [^NPS-SFT-2]. Regional mills in Mora county, like that in La Cueva, provided the fort with much needed grain. As many as 60 horse and oxen delivered milled grain to Ft.Union each day [^Ranchos-1].  The close proximity of the farmland, mill, and Ft.Union made La Cueva a sustainable ranch in which to live for the Romero family.  
 
-[^NPS-lchd-form-3]: NPS La Cueva form p.3
+[^NPS-lchd-3]: NPS La Cueva form p.3
 
 [^Mays-1]: Mays, p.134
 
@@ -94,11 +94,11 @@ The Romero's also called the property home. Dubbed "The Romero Hacienda", the ho
 %}
 
 
-Vicente also commissioned a church to be built on the property that would become known as the [San Rafael Mission Church](https://www.cstones.org/current-projects/2018/3/8/san-rafael-church-la-cueva-new-mexico) [^NPS-LCHD-7].  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romero's, and subsequent families that would own the property would use this as a family chapel as well. Priests from the Lamy, NM area came to help build the mission.  Missionaries were an addition to the travelers seen along the Santa Fe Trail by the late 1840's.  This was a departure from the merchants, wagon masters, muleteers and ox drovers that preceded them [^NPS-SFT-4]. 
+Vicente also commissioned a church to be built on the property that would become known as the [San Rafael Mission Church](https://www.cstones.org/current-projects/2018/3/8/san-rafael-church-la-cueva-new-mexico) [^NPS-LCHD-7].  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romero's, and subsequent families that would own the property would use this as a family chapel as well. Priests from the Lamy, NM area came to help build the mission.  Missionaries were an addition to the travelers seen along the Santa Fe Trail by the late 1840's.  This was a departure from the merchants, wagon masters, muleteers and ox drovers that preceded them [^NPS-SFT-5]. 
 
 [^NPS-LCHD-7]: NPS La Cueva Historic District form p.4
 
-[^NPS-SFT-4]: NPS History of the Sant Fe Trail Sec E. p. 45
+[^NPS-SFT-5]: NPS History of the Sant Fe Trail Sec E. p. 45
 
 ## La Cueva Today
 Today La Cueva is a private residence as well as a [farm](https://www.lacuevafarm.com/).  In the summer months travelers seeking fun can pick raspberries and bring them home.  But the current day use still has nods to the history of La Cueva.  Mora County is home to many historic landmarks on the historic register, this could be a way for the economically depressed area to benefit from it's rich past.   
