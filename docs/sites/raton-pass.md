@@ -119,6 +119,7 @@ A family of road signs has been initiated across the Santa Fe Trail to help you 
   src="images/signs.jpg"
 %}
 
+***
 
 ##### Nearby
 * [Sugarite Canyon State Park](http://www.emnrd.state.nm.us/spd/sugaritecanyonstatepark.html) is located 12 miles northeast of Raton, featuring the ruins of the old Sugarite coal mining town. The park also provides camping, fishing, and hiking to visitors.
