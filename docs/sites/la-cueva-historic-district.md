@@ -10,7 +10,7 @@ date: 2018-11-26
 {% include figure.html
   class="img-right"
   width="30%"
-  caption="La Cueva in context of the Santa Fe Trail.  Ft.Union was a major destination for milled grains leaving La Cueva"
+  caption="The mill at La Cueva, corn and wheat were milled here and served Ft.Union"
   src="images/la-cueva-mill2.jpg"
 %}
 
