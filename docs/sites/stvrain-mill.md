@@ -13,7 +13,7 @@ date: 2018-11-24
 %}
 
 # St. Vrain's Mill #
- Created in or around 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand for flour by the US government during the tail-end of the Civil-War and to feed thousands of Navajo Indians during a period where Navajo Indians were held captive in Fort Union. Many revolts in Taos, NM, saw a number of the mills owned by Ceran St. Vrain be burned to the ground. This mill, though rushed and crudely made, served a valuable function to not only the area but to other useful areas as well, such as military forts and holding encampments.  The mill is currently standing in Mora, NM, and is maintained by the ‘[St. Vrain's Mill Preservation and Historical Society](https://www.stvrainmill.org/)’, also located in Mora, NM. The Mill is located at approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. [^formpg1]
+ Created in 1864, the St. Vrain's mill, located in Mora, New Mexico, and was used to fill the high-demand for flour by the US government during the tail-end of the Civil-War and to feed thousands of Navajo Indians during a period where Navajo Indians were held in Fort Union. Many revolts in Taos, NM, saw a number of the mills owned by Ceran St. Vrain be burned to the ground. This mill, though rushed and crudely made, served a valuable function to not only the area but to other useful areas as well, such as military forts and holding encampments.  The mill is currently standing in Mora, NM, and is maintained by the ‘[St. Vrain's Mill Preservation and Historical Society](https://www.stvrainmill.org/)’, also located in Mora, NM. The Mill is located at approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. [^formpg1]
   
 {% include figure.html
   class="img-right"
@@ -36,7 +36,7 @@ date: 2018-11-24
  The mill was created in a rush to meet high-demand and to replace mills that were lost in Taos. The overall main goal was to fireproof the mill, which was accomplished by crudely making the mill out of stone blocks and different adhesives such as what was around: dirt, rocks, etc. combined with water. Each of the stone blocks used was of varying size, which was not standard to do in this time.  The mill from the ground to top of the roof is 43 feet high and had a total of three floors. The water-wheel which is no longer attached to the building was also rushed and crude in the making for the time. The mill is currently still standing and the equipment still mostly intact; and so deemed crude in manufacturing, it seemed to have served its purpose. [^formpg1]
 
 ## Closing of the Mill
- Ceran St. Vrain held on to the mill until his death in 1870. It was then owned by his son, Vincente, until his death 1877, passing on to Vicente's wife, Amelia. Amelia, traded her newly acquired mill to her brother William Rohman, who then sold it Franky Gambly until his death in 1922. St. Vrain's Mill has remained closed eversince. [^formpg1]
+ Ceran St. Vrain held on to the mill until his death in 1870. The mill was then owned by his son, Vincente, until his death 1877, passing on to Vicente's wife, Amelia. Amelia, traded her newly acquired mill to her brother William Rohman, who then sold it Franky Gambly until his death in 1922. St. Vrain's Mill has remained closed eversince. [^formpg1]
 
 ## Current State of the Mill
 Currently, this mill is being restored by the local Historical and Preserbation society. Due to the lack of upkeep in the past, the mill was in a state of decay until the local Mill Preservation and Historical Society took the charge to preserve this historical landmark. Whole areas are in need of repair, which is laid out in the letter to Mr. Ken Earl from R. Gordon McKeen, P.E. of McKeen Consulting Engineers, LLC. The mill's windows currently are boarded shut and graffitti is removed. The wood frame, structuraly, is in relatively good condition. The east-wall is in need of stabilization due to rotation, which has led to stone and wood damage. [^McKeenpg1] 
@@ -47,15 +47,16 @@ Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the Fr
 {% include figure.html
   class="img-right"
   width="30%"
-  caption="Ceran St. Vrain, circa?"
+  caption="Ceran St. Vrain"
   src="images/st_vrain.jpg"
 %}
  
 
 ## Location of St. Vrain's Mill ##
- The Mill is located at approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM
+The Mill is located at approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM
 
 ## Importance and Location to the Santa Fe Trail. 
+Though not a major importance to the Sante Fe Trail overall, the importance the mill did have was that of a secondary nature and to  provide flour to the nearby instilations and people. 
 
 ## Nearby Sites
 [Fort Union](https://www.nps.gov/foun/index.htm) 
