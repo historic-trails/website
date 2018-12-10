@@ -51,13 +51,18 @@ La Cueva was founded by Vicente Romero around 1851.  Previous to Vicente Romero,
 %}
 
 
-While the La Cueva Historic District is located miles from the [Santa Fe trail](https://www.nps.gov/safe/index.htm), it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would  divert a portion of the streamflow of the Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill [^NPS-lchd-3].  In the 1850's electricity had not yet come to the masses and it was common for hydro power to be used to enable grain mills. [^Mays-1] In addition to powering the mill wheel, the acequia would also provide irrigation to the Romero Farm [Water-1].  Regional mills were important along the trail during the 1800's before rail travel was possible in the Santa Fe region in the late 1870's into 1880, due to the slow speed and volume at which supplies could travel by horse.  [^NPS-SFT-1].  Mills provided processed grain to many stops along trails to keep a constant supply of food from stop to stop as people traveled.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  Ft. Union was integral to Union Army during the Civil war, and was the largest military base in the Southwest at times between 1851-1891 [NPS-SFT-2]. Regional mills in Mora county, like that in La Cueva, provided the fort with much needed grain. As many as 60 horse and oxen delivered milled grain to Ft.Union each day [^Ranchos-1].  The close proximity of the farmland, mill, and Ft.Union made La Cueva a sustainable ranch in which to live for the Romero family.  
+While the La Cueva Historic District is located miles from the [Santa Fe trail](https://www.nps.gov/safe/index.htm), it's importance to shaping the region went hand in hand with Ft.Union.  Vicinte Romero would  divert a portion of the streamflow of the Mora River into a network of irrigation ditches called "acequias" that would power an on-site grist mill: The La Cueva Mill [^NPS-lchd-3].  In the 1850's electricity had not yet come to the masses and it was common for hydro power to be used to enable grain mills. [^Mays-1] In addition to powering the mill wheel, the acequia would also provide irrigation to the Romero Farm [^Water-1].  Regional mills were important along the trail during the 1800's before rail travel was possible in the Santa Fe region in the late 1870's into 1880, due to the slow speed and volume at which supplies could travel by horse.  [^NPS-SFT-1].  Mills provided processed grain to many stops along trails to keep a constant supply of food from stop to stop as people traveled.  In La Cueva, the Grist Mill provided milled flour and wheat to Ft. Union.  Ft. Union was integral to Union Army during the Civil war, and was the largest military base in the Southwest at times between 1851-1891 [^NPS-SFT-2]. Regional mills in Mora county, like that in La Cueva, provided the fort with much needed grain. As many as 60 horse and oxen delivered milled grain to Ft.Union each day [^Ranchos-1].  The close proximity of the farmland, mill, and Ft.Union made La Cueva a sustainable ranch in which to live for the Romero family.  
 
 [^NPS-lchd-form-3]: NPS La Cueva form p.3
+
 [^Mays-1]: Mays, p.134
+
 [^Water-1]: Water for the southwest p. 90
+
 [^NPS-SFT-1]: NPS History of the Santa Fe Trail Sec E p. 108
+
 [NPS-SFT-2]: NPS Santa Fe trail history sec. E. p.109
+
 [^Ranchos-1]: Ranchos of Northern NM p.19
 
 ## A Place to Meet, Trade, & Rest
@@ -70,11 +75,14 @@ While the La Cueva Historic District is located miles from the [Santa Fe trail](
 %}
 
 
-The Romero's also called the property home. Dubbed "The Romero Hacienda", the house would also serve as a community center for the region [^NPS-LCHD-5].  While the specific groups that met here have been obscured by passing time, we do know that ranchers and travelers in the region would stop at the house to meet.  The Hacienda was attached to a mercantile store and a large stable where travelers could buy supplies and rest their horses [NPS-LCHD-6]. Trade also took place at La Cueva, and the network of mercantile stores very much helped the Santa Fe Trail become a major avenue for the United States acquire the American Southwest. The trail became a military supply route during the civil war, and the mercantile stores that flanked the trail made this possible [^NPS-SFT-3].  The exact mercantile that the Romero's sold are unknown, but items recorded being brought into Santa Fe could account for some of what could have been sold here: Dry Goods, Hardware, Clothing, Guns, Books, Liquor, and groceries are just a few items that were sold along the trail. [^NPS-SFT-4]
+The Romero's also called the property home. Dubbed "The Romero Hacienda", the house would also serve as a community center for the region [^NPS-LCHD-5].  While the specific groups that met here have been obscured by passing time, we do know that ranchers and travelers in the region would stop at the house to meet.  The Hacienda was attached to a mercantile store and a large stable where travelers could buy supplies and rest their horses [^NPS-LCHD-6]. Trade also took place at La Cueva, and the network of mercantile stores very much helped the Santa Fe Trail become a major avenue for the United States acquire the American Southwest. The trail became a military supply route during the civil war, and the mercantile stores that flanked the trail made this possible [^NPS-SFT-3].  The exact mercantile that the Romero's sold are unknown, but items recorded being brought into Santa Fe could account for some of what could have been sold here: Dry Goods, Hardware, Clothing, Guns, Books, Liquor, and groceries are just a few items that were sold along the trail. [^NPS-SFT-4]
 
 [^NPS-LCHD-5]: NPS La Cueva form p.4
+
 [^NPS-LCHD-6]: NPS la Cueva Historic District form p.4
+
 [^NPS-SFT-3]: NPS History of Santa Fe Trail sec.E p.44
+
 [^NPS-SFT-4]: NPS History of the Santa Fe Trail Sec E p. 46
 
 ## A Mission Arrives
@@ -89,6 +97,7 @@ The Romero's also called the property home. Dubbed "The Romero Hacienda", the ho
 Vicente also commissioned a church to be built on the property that would become known as the [San Rafael Mission Church](https://www.cstones.org/current-projects/2018/3/8/san-rafael-church-la-cueva-new-mexico) [^NPS-LCHD-7].  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romero's, and subsequent families that would own the property would use this as a family chapel as well. Priests from the Lamy, NM area came to help build the mission.  Missionaries were an addition to the travelers seen along the Santa Fe Trail by the late 1840's.  This was a departure from the merchants, wagon masters, muleteers and ox drovers that preceded them [^NPS-SFT-4]. 
 
 [^NPS-LCHD-7]: NPS La Cueva Historic District form p.4
+
 [^NPS-SFT-4]: NPS History of the Sant Fe Trail Sec E. p. 45
 
 ## La Cueva Today
