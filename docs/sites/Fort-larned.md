@@ -64,6 +64,14 @@ This fort has been one of the lucky historical sites as most of the origanal bui
 
 *[fort Dodge](https://www.legendsofamerica.com/ks-fortdodge/)
 ##### related people 
+*[Black Kettle](https://en.wikipedia.org/wiki/Black_Kettle)
+
+*[Lean Bear](https://en.wikipedia.org/wiki/Lean_Bear)
+
+*[Winfield Scott Hancock](https://en.wikipedia.org/wiki/Winfield_Scott_Hancock)
 ##### Articles 
+*[treaty of fort wise](https://en.wikipedia.org/wiki/Treaty_of_Fort_Wise)
+
+*[the santa fe rail road](https://en.wikipedia.org/wiki/Atchison,_Topeka_and_Santa_Fe_Railway)
 ## bibliography
 NPS.form
