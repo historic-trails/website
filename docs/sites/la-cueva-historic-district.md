@@ -59,7 +59,7 @@ While the La Cueva Historic District is located miles from the [Santa Fe trail](
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Hacienda Romero, a meeting place for the ranchers of the Mora valley"
+  caption="Hacienda Romero, a meeting place for the ranchers of the Mora valley[google](https://goo.gl/maps/xTKt66UbKZU2)"
   src="images/la-cueva-hacienda-mercantile.jpg"
 %}
 
