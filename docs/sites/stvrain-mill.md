@@ -7,7 +7,7 @@ date: 2018-11-24
 ---
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="20%"
   caption="St. Vrain Mill, Mora, NM"
   src="images/stvmill1.jpg"
 %}
@@ -15,13 +15,6 @@ date: 2018-11-24
 # St. Vrain's Mill #
  Created in 1864, St. Vrain's mill which is located in Mora, New Mexico, was used to fill the high-demand for flour by the US government during the tail-end of the Civil-War and to feed thousands of Navajo Indians during a period where Navajo Indians were held in Fort Union. Many revolts in Taos, NM, saw a number of the mills owned by Ceran St. Vrain burnt to the ground. This mill, though rushed and crudely made, served a valuable function to not only the area but to other useful areas as well, such as military forts and holding encampments.  The mill is currently standing in Mora, NM, and is maintained by the ‘[St. Vrain's Mill Preservation and Historical Society](https://www.stvrainmill.org/)’, also located in Mora, NM. The Mill is located at approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM. [^formpg1]
   
-{% include figure.html
-  class="img-right"
-  width="20%"
-  caption="Mill's Exact Location"
-  src="images/stvmill3.jpg"
-%}
-
 ## The Mill's Purpose
  The mill's overall main purpose was to replace mills that were destroyed in Taos, NM. The United States government had reached out to St. Vrain to be the primary supplier of flour to the military installations around the area, the neighboring regions, and the Navajo Indians which were currently being held captive at Fort Union, in present-day Mora, NM. [^formpg1]
  
@@ -40,7 +33,7 @@ Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the Fr
 
 {% include figure.html
   class="img-right"
-  width="30%"
+  width="20%"
   caption="Ceran St. Vrain"
   src="images/stvmill2.jpg"
 %}
