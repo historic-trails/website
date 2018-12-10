@@ -9,7 +9,7 @@ date: 2018-11-24
   class="img-right"
   width="33%"
   caption="St. Vrain Mill, Mora, NM"
-  src="images/stvrain-mill.jpg"
+  src="images/stvmill1.jpg"
 %}
 
 # St. Vrain's Mill #
@@ -19,18 +19,12 @@ date: 2018-11-24
   class="img-right"
   width="20%"
   caption="Mill's Exact Location"
-  src="images/Stvrain-millloc.jpg"
+  src="images/stvmill3.jpg"
 %}
 
 ## The Mill's Purpose
  The mill's overall main purpose was to replace mills that were destroyed in Taos, NM. The United States government had reached out to St. Vrain to be the primary supplier of flour to the military installations around the area, the neighboring regions, and the Navajo Indians which were currently being held captive at Fort Union, in present-day Mora, NM. [^formpg1]
  
- {% include figure.html
-  class="img-right"
-  width="33%"
-  caption="St. Vrain's Mill by Jodi Muphy"
-  src="images/the-reawakening-the-st-vrain-mill-jodi-murphy.jpg"
-%}
           
 ## St. Vrain's Fire Resistant Stone Mill
  The mill was created in a rush to meet high-demand and to replace mills that were lost in Taos. The overall main goal was to fireproof the mill, which was accomplished by crudely making the mill out of stone blocks and different adhesives such as what was around: dirt, rocks, etc. combined with water. Each of the stone blocks used was of varying size, which was not standard to do in this time.  The mill from the ground to top of the roof is 43 feet high and had a total of three floors. The water-wheel which is no longer attached to the building was also rushed and crude in the making for the time. The mill is currently still standing and the equipment still mostly intact; and so deemed crude in manufacturing, it seemed to have served its purpose. [^formpg1]
@@ -48,7 +42,7 @@ Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the Fr
   class="img-right"
   width="30%"
   caption="Ceran St. Vrain"
-  src="images/st_vrain.jpg"
+  src="images/stvmill2.jpg"
 %}
  
 
