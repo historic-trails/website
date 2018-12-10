@@ -53,7 +53,7 @@ Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the Fr
  
 
 ## Location of St. Vrain's Mill ##
-The Mill's location is approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM
+[The Mill's location is approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM](https://www.google.com/maps/place/St+Vrain+Mill+Preservation+%26+Historical+Foundation/@35.9757229,-105.3291799,15z/data=!4m2!3m1!1s0x0:0x3b82c89a49b1ccde?ved=2ahUKEwjj1M2GopXfAhV-HjQIHdtIDYcQ_BIwDnoECAUQCA)
 
 ## Importance and Location to the Santa Fe Trail. 
 Though not primary importance to the Sante Fe Trail overall, the influence the mill did have was that of a secondary nature and to provide flour to the nearby installations and people. 
