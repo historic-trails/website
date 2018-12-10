@@ -6,7 +6,7 @@ date: 2018-11-24
 
 ---
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="20%"
   caption="St. Vrain Mill, Mora, NM"
   src="images/stvmill1.jpg"
