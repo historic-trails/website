@@ -112,24 +112,24 @@ Today La Cueva is a private residence as well as a [farm](https://www.lacuevafar
 ### Bibliography
 
 
-Art Latham. (1995). Lost in the Land of Enchantment. Arroyo Press. Retrieved from http://archive.org/details/lostinlandofench00lath
+[Art Latham. (1995). Lost in the Land of Enchantment. Arroyo Press.](http://archive.org/details/lostinlandofench00lath)
 
-Babs Suzanne Harrison. (1994). Exploring New Mexico wine country. Coyote Press. Retrieved from http://archive.org/details/exploringnewmexi00harr
+[Babs Suzanne Harrison. (1994). Exploring New Mexico wine country. Coyote Press.](http://archive.org/details/exploringnewmexi00harr)
 
-Baker, T. L., Historic American Engineering Record, & Texas Tech University. Water Resources Center. (1973). Water for the Southwest; historical survey and guide to historic sites. New York, American Society of Civil Engineers. Retrieved from http://archive.org/details/waterforsouthwes00bake
+[Baker, T. L., Historic American Engineering Record, & Texas Tech University. Water Resources Center. (1973). Water for the Southwest; historical survey and guide to historic sites. New York, American Society of Civil Engineers.](http://archive.org/details/waterforsouthwes00bake)
 
 Catholic Church., A., & Chavez. (1957). Archives of the Archdiocese of Santa Fe, 1678-1900. Washington, D.C. : Academy of American Franciscan History,.
 
 Engineer, N. M. O. of T. (1908). Biennial Report of the Territorial Engineer to the Governor of New Mexico Including Water Supply. Albuquerque Morning Journal.
-Freitag, A. L. (1994). Cultural landscape study of Fort Union National Monument. Retrieved from http://archive.org/details/culturallandscap00frei
+[Freitag, A. L. (1994). Cultural landscape study of Fort Union National Monument.](http://archive.org/details/culturallandscap00frei)
 
 Koman, R. G., & National Park Service (Dept. of Interior), W., DC. National Register of Historic Places. (2002). The Hispano Ranchos of Northern New Mexico: Continuity and Change. Teaching with Historic Places.
 
 Mays, L. (2010). Ancient Water Technologies. Springer Science & Business Media.
 
-National Register of Historic Places Multiple Property Documentation Form; Santa Fe Trail, https://dnr.mo.gov/shpo/nps-nr
+[National Register of Historic Places Multiple Property Documentation Form; Santa Fe Trail,](https://dnr.mo.gov/shpo/nps-nr)
 
-National Register of Historical Places - NEW MEXICO (NM), Mora County. (n.d.). Retrieved November 9, 2018, from https://nationalregisterofhistoricplaces.com/NM/Mora/districts.html
+[National Register of Historical Places - NEW MEXICO (NM), Mora County. (n.d.).](https://nationalregisterofhistoricplaces.com/NM/Mora/districts.html)
 
 San Rafael, La Cueva, New Mexico. Shadows in the light of darkness. (2018, April 8). Retrieved November 9, 2018, from http://geraintsmith.com/shadows-san-rafael-la-cueva-new-mexico/
 
