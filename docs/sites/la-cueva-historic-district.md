@@ -61,7 +61,7 @@ While the La Cueva Historic District is located miles from the [Santa Fe trail](
 
 [^NPS-SFT-1]: NPS History of the Santa Fe Trail Sec E p. 108
 
-[NPS-SFT-2]: NPS Santa Fe trail history sec. E. p.109
+[^NPS-SFT-2]: NPS Santa Fe trail history sec. E. p.109
 
 [^Ranchos-1]: Ranchos of Northern NM p.19
 
