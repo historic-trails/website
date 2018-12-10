@@ -10,7 +10,7 @@ date: 2018-11-26
 {% include figure.html
   class="img-right"
   width="30%"
-  caption="The mill at La Cueva, corn and wheat were milled here and served Ft.Union"
+  caption="The mill at La Cueva, corn and wheat were milled here and served Ft.Union [source](https://commons.wikimedia.org/wiki/File:Mill_at_La_Cueva_NM.jpg) "
   src="images/la-cueva-mill2.jpg"
 %}
 
