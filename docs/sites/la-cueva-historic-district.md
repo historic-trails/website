@@ -82,6 +82,10 @@ Vicente also commissioned a church to be built on the property that would become
 Today La Cueva is a private residence as well as a [farm](https://www.lacuevafarm.com/).  In the summer months travelers seeking fun can pick raspberries and bring them home.  But the current day use still has nods to the history of La Cueva.  Mora County is home to many historic landmarks on the historic register, this could be a way for the economically depressed area to benefit from it's rich past.   
 
 ***
+
+## Visit
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9136.533004941797!2d-105.25550118652758!3d35.940799449544464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x871992ee53938995%3A0x53d6d9ce3bed58fc!2sLa+Cueva%2C+NM+87736!5e0!3m2!1sen!2sus!4v1544478774477" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ##### Nearby Places
 [Ft.Union National Monument](https://www.nps.gov/foun/index.htm)
 
