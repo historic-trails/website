@@ -104,7 +104,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 
 ## Bibliography
 
-Beckenbaugh, Terry. "Battle of Westport" Civil War on the Western Border: The Missouri-Kansas Conflict, 1854-1865. The Kansas City Public Library.
+Beckenbaugh, Terry. "["Battle of Westport" Civil War on the Western Border: The Missouri-Kansas Conflict, 1854-1865.](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)" Civil War on the Western Border. Accessed November 11, 2018.
 
 Denver Public Library, "Seth Edmund Ward Papers", WH1067, Western History Collection
 
