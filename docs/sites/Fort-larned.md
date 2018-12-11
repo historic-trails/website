@@ -10,7 +10,7 @@ date: 2018-11-26
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="This a modern view of the fort"
+  caption="The fort in modern day"
   src="images/fort larned.jpg"
 %}
  The fort is a military institution constructed of stone that was
@@ -30,6 +30,13 @@ the forts on the trail. Fort Larned would distribute protection by sending patro
 
 
 ## A Gold River
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption=" The men and women hard at work looking for prospects of gold"
+  src="images/gold-rush.jpg"
+%}
 The forts construction had largely to do with the discovery
 of Gold in California in 1848. The discovery was possible thanks to the acquisition of land
 from the treaty of Guadalupe from the American Mexican war.
@@ -50,7 +57,7 @@ fort wise treaty would go to get annuities. The treaty allowed the U.S  settlers
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="This image depict a train traveling the recencently compleate santa fe railroad"
+  caption=" a train traveling the recencently compleate santa fe railroad"
   src="images/Fort-lennard-md.jpg"
 %}
 In the forts twilight years as a U.S military institution it provided protection for workers on the construction of the Santa Fe rail road in 1872. The forts troops would patrol the areas under construction instead of the trail. Once the rail road was completed the fort began to lose its relevance as goods and travelers would begin to choose traveling by train over traveling the trail. Due to its purpose no longer being needed, the fort operated for an additional six years when it was abandoned in 1878. The property was then auctioned off as army surplus in 1883.
