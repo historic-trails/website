@@ -108,7 +108,7 @@ Beckenbaugh, Terry. "["Battle of Westport" Civil War on the Western Border: The 
 
 "[Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)." Western History Collection. Denver Public Library. 2007. Accessed November 11, 2018.
 
-National Register of Historic Places, Seth Ward House, Kansas City, Jackson County, Missouri, 78001664
+National Register of Historic Places, [Seth Ward House](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf), Kansas City, Jackson County, Missouri, 78001664
 
 Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
 
