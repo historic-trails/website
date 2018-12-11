@@ -28,6 +28,13 @@ The house shares the historic Rayado with other buildings like the chapel and th
 
 ![lucien_b maxwellphotophilmontmuseum](https://user-images.githubusercontent.com/44708187/49032677-79609400-f16a-11e8-8c53-d86e9e814cc4.jpg)
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Lucien Maxwell the leading founder of Rayado Ranch"
+  src="../images/Lucien_B.MaxwellPhotoPhilmontMuseum.jpg"
+%}
+
 Lucien Maxwell founded Rayado New Mexico in 1848 shortly after the Mexican American War he settled here with his wife who shortly after gave birth to their child at the ranch. Maxwell married into land and also made deals to obtain even more. By the time he came to Rayado Ranch to start a new settlement he was the owner of the largest single tract of land ever possessed by one person in the United States 1.7 million acres and decided to make the ranch his new home for him and more settlers to come (legendsofamerica). Maxwell was a friend of [Kit Carson](https://en.wikipedia.org/wiki/Kit_Carson) since they both fought in the Mexican American war and because Kit lived near by in Taos, NM and even ended up living in Rayado for a couple years.
 
 ## Kit Carson
@@ -43,6 +50,13 @@ Rayado Ranch was never that successful due to frequent raids and was a difficult
 ## Recent Rayado
 
 ![kit_carson_museum](https://user-images.githubusercontent.com/44708187/49117451-f15bb680-f25d-11e8-8542-10687da6a38e.jpg)
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Kit Carson Museum at Rayado Ranch has tours available for people interested about more information"
+  src="../images/Kit_Carson_Museum.jpg"
+%}
 
 Rayado Ranch now offers a Kit Carson Museum with most of the original buildings still to see. The area was donated to the national Boy Scouts of America and is now called Philmont Scout Ranch. The original building that is the museum today was Kit Carson's home back in the 1850's but was renovated almost 100 years later in 1949 and reopened in 1950 as a museum to portray how life was for Maxwell and Carson during there years at Rayado Ranch. (NPS)
 
