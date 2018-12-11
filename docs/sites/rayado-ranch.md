@@ -12,7 +12,7 @@ date: 2018-11-19
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Centennial Hotel"
+  caption="new text"
   src="../images/Kit_Carson_Mesa.jpg"
 %}
 
