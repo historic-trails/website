@@ -108,15 +108,17 @@ Beckenbaugh, Terry. "["Battle of Westport" Civil War on the Western Border: The 
 
 "[Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)." Western History Collection. Denver Public Library. 2007. Accessed November 11, 2018.
 
+Lubers, H.L. "[William Bent's Family and the Indians of the Plains](http://legacy.historycolorado.org/sites/default/files/files/Researchers/ColoradoMagazine_v13n1_January1936.pdf)." Colorado Magazine, 19-22.
+
 National Register of Historic Places, [Seth Ward House](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf), Kansas City, Jackson County, Missouri, 78001664
 
-Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
+Shaw, Beverly. "[2013-Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)." Symphony Designers Showhouse. 2013. Accessed November 28, 2018.
 
-Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America 
+Weiser-Alexander, Kathy. "[Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)." Legends of America. July 2018. Accessed November 15, 2018.
 
 [^Beckenbaugh]: [Battle of Westport](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
 [^Denver-Public-Library]: [Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)
 [^Shaw]: [Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)
 [^Weiser-Alexander]: [Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)
-[^Lubers]: [William Bent's Family and the Indians of the Plains](https://files.zotero.net/19958922333/Lubers%20-%20William%20Bent%27s%20Family%20and%20the%20Indians%20of%20the%20Plain.pdf)
+[^Lubers]: [William Bent's Family and the Indians of the Plains](http://legacy.historycolorado.org/sites/default/files/files/Researchers/ColoradoMagazine_v13n1_January1936.pdf)
 [^National Register of Historic Places]: [NRHP Registration Form](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf)
