@@ -7,7 +7,6 @@ date: 2018-11-19
 
 # Rayado Ranch
 
-![kit_carson_mesa](https://user-images.githubusercontent.com/44708187/49032346-83ce5e00-f169-11e8-8a12-9a7e58986759.jpg)
 
 {% include figure.html
   class="img-right"
@@ -26,7 +25,6 @@ The house shares the historic Rayado with other buildings like the chapel and th
 
 ## Lucien Maxwell
 
-![lucien_b maxwellphotophilmontmuseum](https://user-images.githubusercontent.com/44708187/49032677-79609400-f16a-11e8-8c53-d86e9e814cc4.jpg)
 
 {% include figure.html
   class="img-right"
@@ -49,7 +47,6 @@ Rayado Ranch was never that successful due to frequent raids and was a difficult
 
 ## Recent Rayado
 
-![kit_carson_museum](https://user-images.githubusercontent.com/44708187/49117451-f15bb680-f25d-11e8-8542-10687da6a38e.jpg)
 
 {% include figure.html
   class="img-right"
