@@ -100,6 +100,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 
 -[Civil War on the Western Border](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
 
+***
 
 ## Bibliography
 
