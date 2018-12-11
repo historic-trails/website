@@ -84,6 +84,10 @@ The Council Grove Downtown Historic District has many sites of interest still st
 * [Last Chance Store](https://www.nps.gov/articles/new-chances-for-the-last-chance-store-council-grove-kansas.htm)
 * [Seth Hays Home](https://morriscountyhistory.us/our-collections/)
 
+##### Related Articles
+* [Santa Fe Trail](https://www.nps.gov/safe/index.htm)
+* [National Register of Historic Places Registration Form](https://www.kshs.org/resource/national_register/nominationsNRDB/Morris_CouncilGroveDowntownHistoricDistrictNR.pdf)
+
 ***
 
 ## Bibliography
