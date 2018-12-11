@@ -32,13 +32,12 @@ Due to the lack of upkeep in the past, the mill was in a state of decay until th
 Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the French Revolution to French Territory in St. Louis, Missouri. He ventured to New Mexico in 1825 at the age 23 and in his young adulthood, he made his living selling fur. In 1834 he with the help of [Charles Bent](http://newmexicohistory.org/people/charles-bent-bio) and [William Bent](https://www.coloradovirtuallibrary.org/digital-colorado/colorado-histories/beginnings/william-bent-frontiersman/), the three of them helped establish ‘Brent’s Fort' on the Arkansas River. His firm also created the St. Vrain's trading post on the Platte River. In 1847, St. Vrain was given 4,000,000 acres of land in southern Colorado. The land grant was granted to St. Vrain after revolts in Taos caused the death of his friend and Governor, Charles Bent. In 1847. St. Vrain led a militia (mostly) to crush the revolts in [Taos](http://dev.newmexicohistory.org/filedetails.php?fileID=515), perpetrated by rebels made up of mostly Mexican and Pueblo Indians. In 1855 he was promoted to lieutenant colonel to break marauding bands of Utes and Apaches. During the civil war, he was promoted to Colonel but only kept the rank for a short amount of time before he retired and passed the status on to another. St. Vrain seemed to be a jack of all trades and even dabbled in local politics, but after being defeated in his first and only run, he soon retired from politics. He retired shortly after and went to go live with his son, until Ceran died on October 28, 1870. [^formpg1]
 
 {% include figure.html
-  class="img-right"
+  class="img-middle"
   width="20%"
   caption="Ceran St. Vrain"
   src="images/stvmill2.jpg"
 %}
  
-
 ## Location of St. Vrain's Mill ##
 [The Mill's location is approximately 1500 feet north of the junction state roads 3 and 30 in Mora, NM](https://www.google.com/maps/place/St+Vrain+Mill+Preservation+%26+Historical+Foundation/@35.9757229,-105.3291799,15z/data=!4m2!3m1!1s0x0:0x3b82c89a49b1ccde?ved=2ahUKEwjj1M2GopXfAhV-HjQIHdtIDYcQ_BIwDnoECAUQCA)
 
@@ -46,6 +45,7 @@ Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the Fr
 Though not primary importance to the Sante Fe Trail overall, the influence the mill did have was that of a secondary nature and to provide flour to the nearby installations and people. 
 
 ---
+
 ## Nearby Sites
 [Fort Union](https://www.nps.gov/foun/index.htm) 
 
@@ -54,7 +54,6 @@ Though not primary importance to the Sante Fe Trail overall, the influence the m
 [William and Charles Bent](https://www.nps.gov/articles/bentsold.htm) 
 
 ## Related Places
-
 
 [Fort Union](https://www.nps.gov/foun/index.htm) 
 
