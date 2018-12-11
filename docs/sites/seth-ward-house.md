@@ -106,7 +106,7 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 
 Beckenbaugh, Terry. "["Battle of Westport" Civil War on the Western Border: The Missouri-Kansas Conflict, 1854-1865.](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)" Civil War on the Western Border. Accessed November 11, 2018.
 
-Denver Public Library, "Seth Edmund Ward Papers", WH1067, Western History Collection
+"[Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)." Western History Collection. Denver Public Library. 2007. Accessed November 11, 2018.
 
 National Register of Historic Places, Seth Ward House, Kansas City, Jackson County, Missouri, 78001664
 
