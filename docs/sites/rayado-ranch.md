@@ -9,6 +9,13 @@ date: 2018-11-19
 
 ![kit_carson_mesa](https://user-images.githubusercontent.com/44708187/49032346-83ce5e00-f169-11e8-8a12-9a7e58986759.jpg)
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Centennial Hotel"
+  src="../images/Kit_Carson_Mesa.jpg"
+%}
+
 Rayado Ranch was one of the first settlement camps in Colfax County New Mexico along the historic Santa Fe Trail. Rayado is a spanish word which translates to streaked. Rayado Ranch was an important trading area because there were few other trading communities in the vicinity. The Rayado Ranch was visted by many trading travelers along the Santa Fe Trail. The Ranch was used as a resting area, trading facility, and a stage stop where travelrs on the Santa Fe Trail would relax or maybe even change parts on their stagecoaches (santafetrailnm). This settlement is located about 11 miles south of [Cimarron](https://en.wikipedia.org/wiki/Cimarron,_New_Mexico) New Mexico on highway 21 (NPS). Rayado Ranch was home to a few buildings and one of them is the most famous Ranch style home that Lucien Maxwell started building in 1848 for his family, the original building was found in ruins and was renovated because it is an important historical landmark (NPS). Rayado Ranch also had a working post office that was open only from 1873 to about 1911. The ranch also had a federal garrison post that protected the area from different native american tribes including the Apache and Comanchee, the post was erect from 1850 to 1854 till Fort Union was erected in Mora, NM. the Garrison post was created on the ranch because of the area they were in was inhabited by many plains Native Americans that stole horses and other goods. The cemetery here in Rayado has 14 people buried there. it is approximately .2 miles west of the Kit Carson Museum (NMTTP). Some of the people buried there date back to the late 1860's and the last person burried there was even in the 1990's. The Ranch also included a small church called the Chapel of the Holy Child that still stands today and can be visited.
 
 ## Construction
