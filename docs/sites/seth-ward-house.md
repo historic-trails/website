@@ -119,4 +119,4 @@ Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends
 [^Shaw]: [Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)
 [^Weiser-Alexander]: [Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)
 [^Lubers]: [William Bent's Family and the Indians of the Plains](https://files.zotero.net/19958922333/Lubers%20-%20William%20Bent%27s%20Family%20and%20the%20Indians%20of%20the%20Plain.pdf)
-[^National Register of Historic Places]: [^National Register of Historic Places](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf)
+[^National Register of Historic Places]: [National Register of Historic Places](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf)
