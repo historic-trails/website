@@ -73,4 +73,4 @@ Tours of Rayado Ranch can be achieved by calling (575)-376-2281
 
 “Places To Go: New Mexico.” National Parks Service, U.S. Department of the Interior, www.nps.gov/safe/planyourvisit/places-to-go-in-new-mexico.htm.
 
-
+“Rayado New Mexico, On the Santa Fe Trail.” Legends of America, www.legendsofamerica.com/rayado-new-mexico/.
