@@ -70,36 +70,36 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 1032 West 55th Street, Kansas City, Missouri 64112
 
 ##### Nearby Sites
-[Battle of Westport](https://www.hmdb.org/Marker.asp?Marker=28114) 
+-[Battle of Westport](https://www.hmdb.org/Marker.asp?Marker=28114) 
 
-[First Home of the Kansas City Country Club](https://www.hmdb.org/Marker.asp?Marker=88252)
+-[First Home of the Kansas City Country Club](https://www.hmdb.org/Marker.asp?Marker=88252)
 
-[The French and the Osage](https://www.hmdb.org/Marker.asp?Marker=86416)
+-[The French and the Osage](https://www.hmdb.org/Marker.asp?Marker=86416)
 
-[McGhee's Charge](https://www.hmdb.org/Marker.asp?Marker=29658)
+-[McGhee's Charge](https://www.hmdb.org/Marker.asp?Marker=29658)
 
 ##### Related People
-[Edmund Guerrier](https://en.wikipedia.org/wiki/Edmund_Guerrier)
+-[Edmund Guerrier](https://en.wikipedia.org/wiki/Edmund_Guerrier)
 
-[Robert Campbell](https://en.wikipedia.org/wiki/Robert_Campbell_(frontiersman))
+-[Robert Campbell](https://en.wikipedia.org/wiki/Robert_Campbell_(frontiersman))
 
-[Major General Sterling Price](https://en.wikipedia.org/wiki/Sterling_Price)
+-[Major General Sterling Price](https://en.wikipedia.org/wiki/Sterling_Price)
 
 
 ##### Related Places
-[Bent's Fort](https://en.wikipedia.org/wiki/Bent%27s_Old_Fort_National_Historic_Site)
+-[Bent's Fort](https://en.wikipedia.org/wiki/Bent%27s_Old_Fort_National_Historic_Site)
 
-[Ward Parkway](https://en.wikipedia.org/wiki/Ward_Parkway)
+-[Ward Parkway](https://en.wikipedia.org/wiki/Ward_Parkway)
 
-[Kansas City's Country Club District](https://en.wikipedia.org/wiki/Country_Club_District)
+-[Kansas City's Country Club District](https://en.wikipedia.org/wiki/Country_Club_District)
 
 
 ##### Realted Articles
-[The Way to Santa Fe](http://www.kchistory.org/week-kansas-city-history/way-santa-fe)
+-[The Way to Santa Fe](http://www.kchistory.org/week-kansas-city-history/way-santa-fe)
 
-[Westport: Where the History Began](http://www.experiencekc.com/westport.html)
+-[Westport: Where the History Began](http://www.experiencekc.com/westport.html)
 
-[Civil War on the Western Border](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
+-[Civil War on the Western Border](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
 
 ***
 
