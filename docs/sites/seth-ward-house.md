@@ -64,7 +64,6 @@ On October 23, 1864 [Confederate Major General Sterling Price](https://en.wikipe
 %}
 Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate aficionado who purchased the homestead of the recently deceased William Bent, Ward's personal trading friend and partner, in 1871. Ward manned a prosperous mercantile store outside of Fort Laramie, Wyoming catering to the needs of settlers traveling westward as well as traders along the Santa Fe and Oregon Trails. [^Denver-Public-Library] Ward was a lucrative trader and trapper, learning these skills at a young age, which allowed him to understand the necesseties of the people he would encounter at a mercantile store. Ward tenured at [Fort Laramie](https://en.wikipedia.org/wiki/Fort_Laramie_National_Historic_Site) from 1848 to 1871, when he moved his wife and children to Westport, Missouri. Ward built another small brick home in addition to the massive home constructed by William Bent that was already on the property. Ward's considerable wealth and skills made him a prominent figure in Westport and helped bring commerce to the area. Ward died in 1903, but his legacy remained in Kansas City history, including [Ward Parkway](https://en.wikipedia.org/wiki/Ward_Parkway), a boulevard dedicated to the distinguished tradesman. The Seth Ward house was added to the [National Register of Historic Places](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf) in 1979. (NRHP)
 
-***
 
 ##### Location
 1032 West 55th Street, Kansas City, Missouri 64112
@@ -101,7 +100,6 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 
 -[Civil War on the Western Border](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
 
-***
 
 ## Bibliography
 
