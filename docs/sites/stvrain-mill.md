@@ -44,7 +44,7 @@ Ceran St. Vrain was born on May 5, 1802, by aristocratic parents who fled the Fr
 ## Importance and Location to the Santa Fe Trail. 
 Though not primary importance to the Sante Fe Trail overall, the influence the mill did have was that of a secondary nature and to provide flour to the nearby installations and people. 
 
----
+***
 
 ## Nearby Sites
 [Fort Union](https://www.nps.gov/foun/index.htm) 
