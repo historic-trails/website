@@ -22,7 +22,7 @@ Situated outside of the city limits of the town of Westport, Missouri, the site 
 Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward House is near present-day Kansas City, Missouri. This homestead is positioned in the [Country Club District](https://en.wikipedia.org/wiki/Country_Club_District), a group of neighborhoods containing upscale historical residences. Nearby in Jacob L. Loose park, visitors can see what was once the original farmland of the Ward homestead, which in 1864, also doubled as the battlefield in the "Gettysburg of the West." This site is situated along the [Santa Fe Trail](https://www.legendsofamerica.com/santa-fe-trail/), and was the home of two prominent tradesmen of the nineteenth century, William Bent and Seth Ward.
 
 
-## Diverse Range of Ownership
+## Diverse Range of Ownership 
 {% include figure.html
   class="img-right"
   width="25%"
