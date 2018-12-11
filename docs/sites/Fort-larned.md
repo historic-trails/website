@@ -14,7 +14,7 @@ date: 2018-11-26
   src="images/fort larned.jpg"
 %}
  The fort is a military institution constructed of stone that was
-built in Pawnee, Texas in 1854. It was created for the purpose of patrolling the Santa Fe trail.
+built in Pawnee, knsas in 1854. It was created for the purpose of patrolling the Santa Fe trail.
 
  The fort consisted of 92 buildings used to house the generals
  and the regiments of solders. The fort served as the
@@ -81,9 +81,10 @@ This fort has been one of the lucky historical sites as most of the origanal bui
 
 *[the santa fe rail road](https://en.wikipedia.org/wiki/Atchison,_Topeka_and_Santa_Fe_Railway)
 ## bibliography
-[Fort larned National Historic Registration Form](
+[Fort larned National Historic Registration Form](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/66000107_text)
 
 [national park service](https://www.nps.gov/fols/index.htm)
 
 [Nineteenth Century U.S. Newspapers from GALE A cange compeny](http://galeapps.galegroup.com/apps/auth/albu78484?cause=http%3A%2F%2Ffind.galegroup.com%2Fncnp%2Flogout.do%3FuserGroupName%3Dalbu78484%26prodId%3DNCNP%26finalAuth%3Dtrue)
+
 
