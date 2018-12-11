@@ -19,7 +19,7 @@ Rayado Ranch was one of the first settlement camps in Colfax County New Mexico a
 
 ## Construction
 
-[The Lucien Maxwell House](https://www.legendsofamerica.com/nm-maxwell/) was built by 1850 when Maxwell founded Rayado Ranch and proposed a settlement here in 1848. The house is a long style adobe ranch home with wooden posts and railing on the veranda. The house originally had a flat roof but untill the 1930s the house was in ruins and was rebuilt with a pitched roof and new adobe. (NPS)
+[The Lucien Maxwell House](https://www.legendsofamerica.com/nm-maxwell/) was built by 1850 when Maxwell founded Rayado Ranch and proposed a settlement here in 1848. The house is a long style adobe ranch home with wooden posts, stucco, asphalt shingles, brick chimneys, and railing on the veranda. The house originally had a flat roof but untill the 1930s the house was in ruins and was rebuilt with a pitched roof and new adobe. The house consists of a 147 ft.long by 20.5 ft. wide main section, originally containing seven rooms, that runs from east to west and two shorter wings extending to the south. The interior of the house contains several large rooms. The original rooms as defined by the adobe walls, ranged in size from 14 ft. by 17 ft. to 17 ft. by 31 ft.(NPS) (NPGallery)
 
 The house shares the historic Rayado with other buildings like the chapel and the Martinez house which was a small shed and barn towards the back of the house, all buildings were generally built the same way in the mid 1800's in Rayado some of them are all still standing and can be visited. (santafetrailnm)
 
@@ -69,6 +69,8 @@ Tours of Rayado Ranch can be achieved by calling (575)-376-2281
 
 [NMTTP](https://nmttp.com/colfax/abreu-cemetery-rayado-colfax-county-new-mexico.html)
 
+[National Parks Gallery](https://npgallery.nps.gov/GetAsset/b4e175d8-8274-40ad-9f29-60926622ee59)
+
 ##### Bibliography
 
 “Places To Go: New Mexico.” National Parks Service, U.S. Department of the Interior, www.nps.gov/safe/planyourvisit/places-to-go-in-new-mexico.htm.
@@ -78,3 +80,5 @@ Tours of Rayado Ranch can be achieved by calling (575)-376-2281
 “Rayado.” Santa Fe Trail New Mexico National Scenic Byway Site, www.santafetrailnm.org/site184.html.
 
 “Abreu Cemetery, Rayado, Colfax County, New Mexico.” New Mexico Tombstone Transcription Project, 4 Apr. 2017, nmttp.com/colfax/abreu-cemetery-rayado-colfax-county-new-mexico.html.
+
+"National Registration of Historic Places" https://npgallery.nps.gov/GetAsset/b4e175d8-8274-40ad-9f29-60926622ee59"
