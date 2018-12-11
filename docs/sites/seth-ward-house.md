@@ -112,7 +112,7 @@ National Register of Historic Places "Seth Ward House" accessed November 15, 201
 
 Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
 
-Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America
+Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends of America 
 
 [^Beckenbaugh]: [Battle of Westport](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
 [^Denver-Public-Library]: [Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)
