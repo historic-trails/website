@@ -24,4 +24,4 @@ date: 2017-12-19
 - [Alexander Majors House](sites/alexander-majors-house): Satya Rakurty
 - [Council Grove Historic District](sites/council-grove-downtown-historic-district): Lane
 - [St. Vrain's Mill](sites/stvrain-mill): Evan
-- Rayado Ranch: Amiel
+- [Rayado Ranch](https://historic-trails.github.io/santa-fe-itinerary/sites/rayado-ranch): Amiel
