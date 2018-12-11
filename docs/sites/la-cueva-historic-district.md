@@ -89,8 +89,8 @@ The Romero's also called the property home. 'The Romero Hacienda' would also ser
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The San Rafael Mission, a family chapel for the Romero's, had ornate gothic styles and Belgian rafter architecture which were uncommon in the area in the 1860's"
-  src="images/la-cueva-san-rafael.jpg"
+  caption="The San Rafael Mission, a family chapel for the Romero's, had ornate gothic styles and Belgian rafter architecture which were uncommon in the area in the 1860's [source](https://www.flickr.com/photos/auvet/4725613711/in/photostream/)"
+  src="images/la-cueva-san-rafael2.jpg"
 %}
 
 
