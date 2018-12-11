@@ -30,7 +30,7 @@ Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward Hou
   src="images/william-bent.jpg"
 %}
 
-In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the [Mormon Wars](https://en.wikipedia.org/wiki/1838_Mormon_War) had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead. [^Shaw]  In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property. Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman, Seth Ward.  William Bent was the founder of [Fort Bent](https://www.legendsofamerica.com/co-bentsfort/), located in present-day La Junta, Colorado. Fort Bent was created to trade with the Plains Indians and other trappers traders in a peaceful and economical manner. The fort was the only major white American settlement along the Santa Fe Trail between Mexico and Missouri. [^Weiser-Alexander] William Bent was a negotiator between Native American Tribes, which helped fuel the massive success of the trading empire he had created. Bent married three Cheyenne women who bore him five children, making him a Cheyenne sub-chief. Bent is considered to be the first permanent white settler in the area. [^Shaw]
+In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the [Mormon Wars](https://en.wikipedia.org/wiki/1838_Mormon_War) had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead. [^Shaw]  In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property.[^Lubers] Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman, Seth Ward.  William Bent was the founder of [Fort Bent](https://www.legendsofamerica.com/co-bentsfort/), located in present-day La Junta, Colorado. Fort Bent was created to trade with the Plains Indians and other trappers traders in a peaceful and economical manner. The fort was the only major white American settlement along the Santa Fe Trail between Mexico and Missouri. [^Weiser-Alexander] William Bent was a negotiator between Native American Tribes, which helped fuel the massive success of the trading empire he had created. Bent married three Cheyenne women who bore him five children, making him a Cheyenne sub-chief. Bent is considered to be the first permanent white settler in the area. [^Shaw]
 
 
 
@@ -108,7 +108,7 @@ Beckenbaugh, Terry. "["Battle of Westport" Civil War on the Western Border: The 
 
 Denver Public Library, "Seth Edmund Ward Papers", WH1067, Western History Collection
 
-National Register of Historic Places "Seth Ward House" accessed November 15, 2018.
+National Register of Historic Places, Seth Ward House, Kansas City, Jackson County, Missouri, 78001664
 
 Shaw, Beverly. "2013-Bent Ward Home" Showhouse.org 
 
@@ -118,4 +118,4 @@ Weiser-Alexander, Kathy. "Bent Brothers - Trading on the Santa Fe Trail" Legends
 [^Denver-Public-Library]: [Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)
 [^Shaw]: [Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)
 [^Weiser-Alexander]: [Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)
-
+[^Lubers]: [William Bent's Family and the Indians of the Plains](https://files.zotero.net/19958922333/Lubers%20-%20William%20Bent%27s%20Family%20and%20the%20Indians%20of%20the%20Plain.pdf)
