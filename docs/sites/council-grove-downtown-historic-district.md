@@ -99,6 +99,6 @@ Davis, Christy and Brenda Spencer. “Council Grove Downtown Historic District.�
 
 Juracek, K.E., C.A. Perry, and J.E. Putnam. [“The 1951 Floods in Kansas Revisited.”](http://pubs.er.usgs.gov/publication/fs04101) USGS Numbered Series. Fact Sheet, 2001.
 
-Kansas Department of Transportation. [“KDOT: Historic State Maps.”](https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp) 
+Kansas Department of Transportation. [“KDOT: Historic State Maps.”](https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp) 1932.
 
 Maloy, John. _History of Morris County, 1820 to 1890_. Kansas: Morris County Historical Society, 1981.
