@@ -5,6 +5,7 @@ layout: single-col
 date: 2018-11-24
 
 ---
+***
 {% include figure.html
   class="img-left"
   width="20%"
