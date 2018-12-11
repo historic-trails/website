@@ -10,8 +10,7 @@ date: 2018-11-21
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Seth Ward House, home of the two most prominent traders in Missouri history. 
-  [Source](http://hyperblogal.blogspot.com/2013/05/bent-ward-home-kansas-city-treasure.html)"
+  caption="Seth Ward House, home of the two most prominent traders in Missouri history. [Source](http://hyperblogal.blogspot.com/2013/05/bent-ward-home-kansas-city-treasure.html)"
   src="images/seth-ward-house.jpg"
 %}
 
