@@ -59,7 +59,7 @@ Rayado Ranch now offers a Kit Carson Museum with most of the original buildings 
 
 Tours of Rayado Ranch can be achieved by calling (575)-376-2281
 
-## Bibliography
+##### Related Articles
 
 [National Parks Service](https://www.nps.gov/safe/planyourvisit/places-to-go-in-new-mexico.htm)
 
@@ -68,3 +68,7 @@ Tours of Rayado Ranch can be achieved by calling (575)-376-2281
 [Santa Fe Trail NM](https://www.santafetrailnm.org/site184.html)
 
 [NMTTP](https://nmttp.com/colfax/abreu-cemetery-rayado-colfax-county-new-mexico.html)
+
+##### Bibliography
+
+
