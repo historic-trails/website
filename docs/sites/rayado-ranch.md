@@ -12,7 +12,7 @@ date: 2018-11-19
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="new text"
+  caption="Kit Carson Mesa, this is the view one recieves when entering to Rayado Ranch"
   src="../images/Kit_Carson_Mesa.jpg"
 %}
 
