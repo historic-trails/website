@@ -77,4 +77,4 @@ Tours of Rayado Ranch can be achieved by calling (575)-376-2281
 
 “Rayado.” Santa Fe Trail New Mexico National Scenic Byway Site, www.santafetrailnm.org/site184.html.
 
-
+“Abreu Cemetery, Rayado, Colfax County, New Mexico.” New Mexico Tombstone Transcription Project, 4 Apr. 2017, nmttp.com/colfax/abreu-cemetery-rayado-colfax-county-new-mexico.html.
