@@ -113,7 +113,7 @@ The 7,881-foot summit is accessible via I-25, and a New Mexico Welcome Center al
 A family of road signs has been initiated across the Santa Fe Trail to help you find original routes, trail crossings, and local sites. Follow the signs exhibiting the distinctive Santa Fe Trail National Historic Trail logo.
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="66%"
   caption="Follow these signs for information along the Santa Fe Trail."
   src="images/signs.jpg"
