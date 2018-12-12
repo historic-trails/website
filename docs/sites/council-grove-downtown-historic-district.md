@@ -37,7 +37,7 @@ With the advent of the railroad, Council Grove looked to cash in on the extra po
 
 [^Maloy50]: Maloy, 50.
 [^Brigham40]: Brigham, 40.
-[^Brighm62]: Brigham, 62.
+[^Brigham62]: Brigham, 62.
 
 ## Twentieth Century to Post War Era
 Looking to connect more farmers, ranchers, and businesses to more people, Council Grove began to develop a road system for automobiles in the early 20th century. In 1901, W.E. Dennison rode around town on his new automobile. [^NRHP8501] By 1913 there were over 200 automobiles in Council Grove and by 1921 there were 47 miles of hard surface roads to be built in the town. [^NRHP850-Brigham98] While Kansas began implementing plans on a unified road network, Council Grove was able to bring three highways through the town by 1932. [^KDOT]
