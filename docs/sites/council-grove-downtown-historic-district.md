@@ -95,7 +95,7 @@ Andreas, A. T. [History of the State of Kansas.](http://hdl.handle.net/2027/osu.
 
 Brigham, Lalla Maloy. _The Story of Council Grove on the Santa Fe Trail_. 1921.
 
-Davis, Christy and Brenda Spencer. “Council Grove Downtown Historic District.” National Register of Historic Places Registration Form. Spencer Preservation, Wamego, KS, January 20, 2009.
+Davis, Christy and Brenda Spencer. [“Council Grove Downtown Historic District.”](https://www.kshs.org/resource/national_register/nominationsNRDB/Morris_CouncilGroveDowntownHistoricDistrictNR.pdf) National Register of Historic Places Registration Form. Spencer Preservation, Wamego, KS, January 20, 2009.
 
 Juracek, K.E., C.A. Perry, and J.E. Putnam. [“The 1951 Floods in Kansas Revisited.”](http://pubs.er.usgs.gov/publication/fs04101) USGS Numbered Series. Fact Sheet, 2001.
 
