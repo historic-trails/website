@@ -149,7 +149,7 @@ HOME PAGE
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-    text-shadow: black 0.3em 0.3em 0.3em;
+    //text-shadow: black 0.3em 0.3em 0.3em;
     max-height: 60%;
   }
 
@@ -193,6 +193,17 @@ h1 {
 
 h1#page-title {
   margin-bottom:1rem;
+  color:#111;
+  text-shadow: white 0.2em 0.2em 0.2em;
+
+}
+
+p#page-subtitle {
+color:#000;
+font-family: 'Georgia', sans-serif;
+font-weight:0;
+text-shadow: white 0.3em 0.3em 0.3em;
+font-size: 2em;
 }
 
 h2 {
