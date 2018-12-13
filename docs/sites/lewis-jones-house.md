@@ -52,6 +52,7 @@ The Lewis Jones house was constructed in 1840 in the middle of Independence, Mis
 
 ##  The Visit
 The Lewis Jones house is located on [104 Elizabeth Street in Independence, Missouri](https://www.google.com/maps/place/104+W+Elizabeth+St,+Independence,+MO+64050/@39.1062364,-94.4176848,17z/data=!3m1!4b1!4m8!1m2!2m1!1s104+elizabeth+street+independence+missouri!3m4!1s0x87c0fd739fa73565:0x307d7e0223917e1f!8m2!3d39.1062323!4d-94.4154961). It is very easy to access the area and it is easily located on a map of the city. The house unfortunately is not avaliable for tours, due to it's private ownership. If you are visiting the house, please be respectful of the owners and other inhabitants of the neighborhood. When visiting this area you may want to check weather forcasts to determine clothing options and possible items to bring along. A camera is optional but also recommended in order to capture the historical site. If driving to the site, please be aware of any parking laws nearby. Since the house is located in the historical goldmine that is Independence, Missouri, there are many other sites to look at. Take advantage of the rich history and cultural significance of the area and enjoy your visit to the Lewis Jones house.
+***
 ## Related Articles
 * Information on [Independence, Missouri](http://visitindependence.com/)
 * Original [NPS Form](https://dnr.mo.gov/shpo/nps-nr/94000320.pdf)
