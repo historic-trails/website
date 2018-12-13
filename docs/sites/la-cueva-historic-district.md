@@ -30,7 +30,7 @@ Just a short drive from [Ft. Union National Monument](https://www.nps.gov/foun/i
   width="66%"
   width="90%"
   caption="La Cueva in context of the Santa Fe Trail.  Ft.Union was a major destination for milled grains leaving La Cueva [source](https://www.nps.gov/safe/planyourvisit/maps.htm)"
-  src="images/la-cueva-region-map.jpg"
+  src="images/la-cueva-region-map2.jpg"
 %}
 
 
