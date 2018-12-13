@@ -38,7 +38,7 @@ Majors was particular in hiring trustworthy people and made them to pledge that 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72)[source](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg)"
+  caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72) [source](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg)"
   src="images/alexander-majors-russell-waddell-images.jpg"
 %}
 
@@ -71,7 +71,7 @@ In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Wa
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Pony Express, advertisement for its fast delivery and Job opening poster[source]()"
+  caption="Pony Express, advertisement for its fast delivery and Job opening poster [source](hd.housedivided.dickinson.edu/node/17841)"
   src="images/alexander-majors-pony-express-poster.jpg"
 %}
 
@@ -188,8 +188,6 @@ Godfrey, Anthony. [Historic Resource Study: Pony Express National Historic Trail
 Kirkman, Paul. The Battle of Westport: Missouri’s Great Confederate Raid. Arcadia Publishing, 2011.
 
 “[LC Zoom Viewer - Pony Express Route](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=) April 3, 1860 - October 24, 1861 / W.H. Jackson ; Issued by the Union Pacific Railroad Company in Commemoration of the Pony Express Centennial, April 3, 1960 - October 24, 1961.” Accessed November 28, 2018.
-
-———. Missouri, Kansas, Alexander Majors House. May 10, 2015. [Photo](https://www.flickr.com/photos/23711298@N07/18281558759/).
 
 Majors, Alexander, Prentiss Ingraham, and 1846-1917 Buffalo Bill. [Seventy Years on the Frontier](http://archive.org/details/yearsonseventyfr00majorich); Alexander Major’s Memoirs of a Lifetime on the Border; Chicago and New York, Rand, McNally & company, 1893.
 
