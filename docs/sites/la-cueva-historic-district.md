@@ -7,6 +7,13 @@ date: 2018-11-26
 
 # La Cueva Historic District
 
+
+##### Quick Facts
+* *Location*: [35.9417032,-105.2666875](https://goo.gl/maps/Hd93fYYUcLD2)
+* *Significance*: History of Santa Fe Trail, History of Fort Union, History of Food
+* *Designation*: National Register of Historic Places
+* *Open to the public*: Private Residence; [Areas open to public according to schedule](https://www.lacuevafarm.com/hoursofoperation/)
+
 {% include figure.html
   class="img-right"
   width="30%"
