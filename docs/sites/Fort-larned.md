@@ -22,8 +22,7 @@ built in Pawnee, knsas in 1854. It was created for the purpose of patrolling the
   of the Santa Fe trail.
  The territory at the time only had small law enforcement,
  like sheriffs, who had limited control over areas outside their
- towns' limits. Travelers that would leave towns to travel the trail
- would take grate risks as soon as they left the town's boundaries.
+ towns' limits. Traveling outside towns was done with grate risk as soon as They left the town boundaries.
 Their best bet for safe travel would be to use the protection provided from
 the forts on the trail. Fort Larned would distribute protection by sending patrols
  of at least 12 men from one fort to the next to escort civilians and enforce the new law.
