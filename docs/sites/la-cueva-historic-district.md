@@ -9,10 +9,6 @@ date: 2018-11-26
 
 
 ##### Quick Facts
-* *Location*: [35.9417032,-105.2666875](https://goo.gl/maps/Hd93fYYUcLD2)
-* *Significance*: History of Santa Fe Trail, History of Fort Union, History of Food
-* *Designation*: National Register of Historic Places
-* *Open to the public*: Private Residence; [Areas open to public according to schedule](https://www.lacuevafarm.com/hoursofoperation/)
 
 {% include figure.html
   class="img-right"
@@ -20,6 +16,13 @@ date: 2018-11-26
   caption="The mill at La Cueva, corn and wheat were milled here and delivered to Ft.Union [source](https://commons.wikimedia.org/wiki/File:Mill_at_La_Cueva_NM.jpg) "
   src="images/la-cueva-mill2.jpg"
 %}
+
+* *Location*: [35.9417032,-105.2666875](https://goo.gl/maps/Hd93fYYUcLD2)
+* *Significance*: History of Santa Fe Trail, History of Fort Union, History of Food
+* *Designation*: National Register of Historic Places
+* *Open to the public*: Private Residence; [Areas open to public according to schedule](https://www.lacuevafarm.com/hoursofoperation/)
+
+
 
 Just a short drive from [Ft. Union National Monument](https://www.nps.gov/foun/index.htm), across the northern plains of New Mexico and nearing the foothils of Santa Fe National Forest, you will find the La Cueva Historic District. The La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of Ft.Union National Monument. La Cueva Historic District had a historically significant time period from around 1851 to 1895 and helped shape the surrounding region and had direct impacts to the Santa Fe Trail.  The site consists of several structures: the Romero Hacienda, [a grist mill](https://en.wikipedia.org/wiki/Gristmill), a mercantile building, the Church of San Rafel, stables, a farm, [aquecia](http://www.nmacequiacommission.state.nm.us/Publications/kfrancis_harvard_proposal04.pdf), and a few outbuildings.  
 {% include figure.html
