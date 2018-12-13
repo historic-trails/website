@@ -37,7 +37,7 @@ Independence was not only the starting point of the Santa Fe trail but also many
 [^MOI037]: Merchants of Independence, 37
 [^MOI056]: Merchants of Independence, 56
 ## The House Itself
-The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two story, three bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it.
+The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two story, three bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it. This house signifies the distinct architecture style that was popular in the 19th century. It's importance to society in general comes from the people who built it and resided in it. Lewis Jones made a lasting impact on Independence, Missouri as a whole and his home allows us insight on what his life may have looked like to a degree. This house is important to preserve and appreciate because it connects to the historical ideals and events that have shaped our nation. 
 {% include figure.html
   class="img-right"
   width="40%"
