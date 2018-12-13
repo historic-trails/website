@@ -84,7 +84,7 @@ In 1862, Russell, Majors and Waddell firm closed as they were bankrupt and in sc
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors House still owned by his family, 1860 [source](Morton, La Dena - 'The Waldo story'-The home of friendly merchants, Arcadia Publishing, 2012, Chapter1-p13)"
+  caption="Alexander Majors House still owned by his family, 1860 [source](https://books.google.com/books?id=1YZ2CQAAQBAJ&printsec=frontcover&dq=Morton,+La+Lena+-+%27The+Waldo+story%27-The+home+of+friendly+merchants&hl=en&sa=X&ved=0ahUKEwjK37TxxZvfAhVJzlQKHQrKAqAQ6AEIKjAA#v=onepage&q&f=false - Chapter1-p13)"
   src="images/alexander-majors-house-1860.PNG"
 %}
 
@@ -177,7 +177,7 @@ Another interesting part of exploring Majors house is Ghost tours about the stra
 
 ## Bibliography
 
-Billington, Ray Allen. Westward Expansion : A History of the American Frontier. New York [N.Y.] : Macmillan, ©1967., 1967.
+Billington, Ray Allen. Westward Expansion : A History of the American Frontier. New York [N.Y.] : Macmillan, ©1967.
 
 Bixler, Ashley. “Historical Narrative: Westward Expansion.” [WESTWARD MOVEMENT by Ashley Bixler](https://icss.uni.edu/timeline/5narrative.html). Accessed November 26, 2018.
 
@@ -212,17 +212,11 @@ Wood, Toni, and Jilian Mincer. Wow!: Where Families Can Find Awe & Wonder in and
 
 
 
-National Historic Registration Form (July 1969)- [Alexander Majors House - 70000335.pdf. (n.d.)](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf).
-
 [Majors, Russell, Waddell]( https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg) a6cc92ae0ef4549ffb8f016199cd9454.jpg (842×492). (n.d.). Retrieved November 28, 2018, from
 
 [Alexander Majors & Family]( http://www.wornallmajors.org/explore/majors-house/alexander-majors-his-family/) - Alexander Majors House. (n.d.). Retrieved November 28, 2018, from
 
-Billington, R. A. (1967). Westward expansion: a history of the American frontier. New York [N.Y.] : Macmillan, ©1967.
-
 Earngey, B. (1995). Missouri Roadsides: The Traveler’s Companion. University of Missouri Press.
-
-Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
 [John and Sigrid’s Adventures]( http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html): Alexander Majors Home Museum Tour - 11/7/2013. (n.d.). Retrieved November 28, 2018, from
 
