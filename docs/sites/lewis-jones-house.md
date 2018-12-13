@@ -26,7 +26,7 @@ Independence, Missouri was the gateway to the west in the 1840s and it was the c
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Independence, Missouri in the 1840s. Depicting the begining of the Santa Fe Trail. [Source](https://www.pinterest.com/pin/312085449171317067/?lp=true)"
+  caption="Independence, Missouri in the 1840s. Depicting the begining of the Santa Fe Trail. Independence soon became part of the greater Kansas City area and became a bustling metropolis. [Source](https://www.pinterest.com/pin/312085449171317067/?lp=true)"
   src="images/independence-missouri-picture.jpg"
 %}
 Independence was not only the starting point of the Santa Fe trail but also many other wagon routes such as the [Oregon trail](https://www.britannica.com/topic/Oregon-Trail) and the route to California. [^MOI038] Independence quickly became a bustling center for trade and migration after the Louisiana Purchase in 1803. [^MOI015] The United States centered their trade with Mexico in Independence through the Santa Fe trail. [^MOI138] They also built a steady trade network with the Indian tribes of the west and various fur traders throughout the Rocky Mountains. [^MOI037] Another prominent endeavor in Independence during the 1800s was the railroad industry. The Missouri and Independence river railroad began in Independence, Missouri in 1849 and this became a lucrative investment for local businessmen. [^MOI056] Because of these deep roots placed in Independence, the United States was able to capitalize on the trade and natural resources of the land they had purchased.  
@@ -41,7 +41,7 @@ The Lewis Jones house was constructed in 1840 in the middle of Independence, Mis
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="The Lewis Jones House in the modern day. [Source](https://www.flickr.com/photos/51038527@N03/24831664933/in/photostream/)"
+  caption="The Lewis Jones House in the modern day. The Unique L-shape and beautiful land that it sits on make this house a interesting place to visit. [Source](https://www.flickr.com/photos/51038527@N03/24831664933/in/photostream/)"
   src="images/lewis-jones-house-photo.jpg"
 %}
 
