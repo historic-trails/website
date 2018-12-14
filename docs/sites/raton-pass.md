@@ -44,9 +44,9 @@ After a month of trading, Becknell left Santa Fe on December 13th, and the men r
 
 William Becknell's description of the pass was accurate enough to scare people away. His depictions of broken wagons, blockading boulders disrupting the path, and a lack of access to basic services led most traders hauling heavily laden wagons along the [Santa Fé Trail](https://www.nps.gov/nr/travel/american_latino_heritage/Raton_Pass.html) to what was known as the Cimarron Cutoff, which cut diagonally across southwest Kansas and northeast New Mexico to avoid the mountains. Raton Pass, on the other hand, was on the Mountain Branch of the trail, which was longer and more difficult but did have the advantages of more water and less exposure to violence from nearby populations of Native Americans struggling to cling to their land. It received far less traffic than the Cimarron Cutoff but was used by traders who went up the Arkansas River to Bent’s Fort and then turned south toward Santa Fé, especially those traveling with only a few pack animals or light wagons.
 
-[^Ignacio-Journal]: Diary of Pedro Ignacio
+[^Ignacio-Journal]: Diary of Pedro Ignacio p-13
 
-[^Ignacio-Journal]: Diary of Pedro Ignacio
+[^Ignacio-Journal]: Diary of Pedro Ignacio p-14
 
 
 
