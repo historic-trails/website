@@ -9,7 +9,7 @@ date: 2018-11-19
 
 ***
 ##### Quick Facts
-* *Location*: 	Colfax County, New Mexico and Las Animas County, Colorado, US
+* *Location*: [36°59′28″N 104°29′12″W](https://goo.gl/maps/GxNvNh9768q)
 * *Significance*: History of Santa Fe, History of New Mexico, History of Colorado, History of America
 * *Designation*: National Register of Historic Places
 * *Traversed by*: I‑25 / US 85 / US 87, Burlington Northern Santa Fe Railroad
@@ -30,7 +30,7 @@ Raton Pass and the mountains surrounding it stand as a towering border between t
   src="images/williambecknell.jpg"
 %}
 
-One of the first recorded journeys through the pass is that of [William Becknell](https://en.wikipedia.org/wiki/William_Becknell), a businessman fleeing his failed ventures and political aspirations in Missouri with hopes of gaining wealth trading beaver pelts from Northern New Mexico. He left Franklin, Missouri with four companions in September, 1821 on his first trip to the western US, with a load of freight to deliver to Santa Fe. By 1821, conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the area. However, that portion of the journey has been called into question after the discovery of the [diary of Pedro Ignacio Gallego](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings along with Becknell’s own journal describing the landscape, show evidence that he and his men probably mis-identified the Canadian River and instead crossed at another river south of present day Las Vegas, New Mexico.
+One of the first recorded journeys[^Ignacio-Journal] through the pass is that of [William Becknell](https://en.wikipedia.org/wiki/William_Becknell), a businessman fleeing his failed ventures and political aspirations in Missouri with hopes of gaining wealth trading beaver pelts from Northern New Mexico. He left Franklin, Missouri with four companions in September, 1821 on his first trip to the western US, with a load of freight to deliver to Santa Fe. By 1821, conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the area. However, that portion of the journey has been called into question after the discovery of the [diary of Pedro Ignacio Gallego](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings along with Becknell’s own journal describing the landscape, show evidence that he and his men probably mis-identified the Canadian River and instead crossed at another river south of present day Las Vegas, New Mexico[^Ignacio-Journal].
 
 After a month of trading, Becknell left Santa Fe on December 13th, and the men returned to Missouri safely in January, 1822. His investment of $300 in trading goods had returned approximately $6000 in coin. The profits made by William Becknell’s first trading trip brought much needed money and valuable goods into central Missouri where the [Panic of 1819](https://en.wikipedia.org/wiki/Panic_of_1819) had a devastating effect on the economy. The influx of Mexican coins significantly helped Missouri’s economy as farmers and local merchants found a new market for their goods.
 
@@ -44,6 +44,12 @@ After a month of trading, Becknell left Santa Fe on December 13th, and the men r
 
 William Becknell's description of the pass was accurate enough to scare people away. His depictions of broken wagons, blockading boulders disrupting the path, and a lack of access to basic services led most traders hauling heavily laden wagons along the [Santa Fé Trail](https://www.nps.gov/nr/travel/american_latino_heritage/Raton_Pass.html) to what was known as the Cimarron Cutoff, which cut diagonally across southwest Kansas and northeast New Mexico to avoid the mountains. Raton Pass, on the other hand, was on the Mountain Branch of the trail, which was longer and more difficult but did have the advantages of more water and less exposure to violence from nearby populations of Native Americans struggling to cling to their land. It received far less traffic than the Cimarron Cutoff but was used by traders who went up the Arkansas River to Bent’s Fort and then turned south toward Santa Fé, especially those traveling with only a few pack animals or light wagons.
 
+[^Ignacio-Journal]: Diary of Pedro Ignacio
+
+[^Ignacio-Journal]: Diary of Pedro Ignacio
+
+
+
 ## Wootton: Charging His Way
 
 {% include figure.html
@@ -54,9 +60,9 @@ William Becknell's description of the pass was accurate enough to scare people a
 %}
 
 
-[Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton), a trapper like Becknell, saw the pass as an economic investment and decided to build and operate a toll gate restricting access to the trail. Wootton then claimed to have made improvements on the trail in an attempt to make it more accessible to wagon travel.  His bridges turned out to be narrow, the road laced with culverts and many curves so sharp the wagons could not pass without damage. Many hills were so steep, the wagons had to use double teams for the ascent. The truth was, the 27-mile journey required five days to traverse, and the route and improvements were so poor that many wagons were wrecked in their journey. With few alternatives, the public almost had to use the Wootton Road.  On August 1, 1865, before either Colorado or New Mexico, became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by two oxen, horses or mules cost $1. Wagons pulled by four cost $1.50. Wagons pulled by more than this cost $2. One man on horseback or on foot cost 25 cents. Loose cattle, horses or mules, pigs or sheep cost 5 cents each.
+[Richens Wootton](https://en.wikipedia.org/wiki/Richens_Lacey_Wootton), a trapper like Becknell, saw the pass as an economic investment and decided to build and operate a toll gate restricting access to the trail. Wootton then claimed to have made improvements on the trail in an attempt to make it more accessible to wagon travel.  His bridges turned out to be narrow, the road laced with culverts and many curves so sharp the wagons could not pass without damage. Many hills were so steep, the wagons had to use double teams for the ascent. The truth was, the 27-mile journey required five days to traverse, and the route and improvements were so poor that many wagons were wrecked in their journey. With few alternatives, the public almost had to use the Wootton Road.  On August 1, 1865, before either Colorado or New Mexico, became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by two oxen, horses or mules cost $1. Wagons pulled by four cost $1.50. Wagons pulled by more than this cost $2. One man on horseback or on foot cost 25 cents. Loose cattle, horses or mules, pigs or sheep cost 5 cents each[^Apsen].
 
-Wootton built his house and toll gate on the Colorado side of the pass, and daily stage service on the route started soon after gold was discovered in New Mexico’s Moreno Valley in 1867.
+Wootton built his house and toll gate on the Colorado side of the pass, and daily stage service on the route started soon after gold was discovered in New Mexico’s Moreno Valley in 1867[^Wootton].
 
 On August 1, 1865, before either territory became a state, Uncle Dick ran an ad in the Las Vegas, N.M., Territory Gazette listing charges at the toll gate. Wagons pulled by one span (two) of oxen, horses or mules cost $1. Wagons pulled by two span (four) cost $1.50. Wagons pulled by more than two spans cost $2. One man on horseback or afoot cost 25 cents. Loose cattle, horses or mules, swine or sheep cost 5 cents each.
 
@@ -70,6 +76,10 @@ Many rumors and testimonials by travelers who tried to use these trails told of 
 %}
 
 As the railroad developed, Wootton declined an offer of $50,000 for his road in favor of lifetime rail passes and groceries for him and his wife. In 1878, the Atchison, Topeka, and Santa Fe Railroad (ATSF) beat the Denver & Rio Grande Railroad (D&RG) to the route up Raton Pass, which had space for only one rail line. ATSF decided to tunnel under the summit of the pass to cut down on what was already a steep and grueling climb, but in the meantime it built a temporary track over the pass to allow trains to start traveling the route in late 1878. This marked the end of most wagon and stagecoach traffic over Raton Pass. The railroad tunnel under the pass opened in September 1879.
+
+[^Aspen]: Aspen Evening Chronicle p-1
+
+[^Wootton]: NPS Raton Pass p-3
 
 ## Warfare
 
@@ -99,12 +109,12 @@ In 1908 the rail company ATSF completed a second tunnel under Raton Pass to hand
 
 The majority of traffic through the pass now comes from automobiles. In 1926 the highway over Raton Pass was designated as US 85 and improved. In 1942 it was realigned to the old Wootton route along the Santa Fé Trail, which was more navigable. This route was incorporated into Interstate 25 in the early 1960s, and now provides tourism dollars for the nearby towns of Raton and Trinidad.
 
-Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pass has often been seen as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961.
+Despite being on the less popular Mountain Branch of the Santa Fé Trail, the pass has often been seen as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961[^NPS-Form].
 
+[^NPS-Form]: NPS Form p-4
 ***
 
 ##### Location
-36°59′28″N 104°29′12″W
 The 7,881-foot summit is accessible via I-25, and a New Mexico Welcome Center allows visitors to step out of their vehicles and stretch or take photos. An informative historic marker for Raton Pass interprets the landmark both at the center and on the Colorado side of the State border. Public access to the land, however, is restricted, as the wilderness is privately owned. The nearby city of Raton, New Mexico celebrates its trail heritage and the [Raton Museum,](http://www.theratonmuseum.org/) located at 108 2nd Street, interprets the area’s past for curious visitors. 
 
 A family of road signs has been initiated across the Santa Fe Trail to help you find original routes, trail crossings, and local sites. Follow the signs exhibiting the distinctive Santa Fe Trail National Historic Trail logo.
