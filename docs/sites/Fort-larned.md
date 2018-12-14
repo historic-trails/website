@@ -13,19 +13,9 @@ date: 2018-11-26
   caption="The fort in modern day"
   src="images/fort larned.jpg"
 %}
- The fort is a military institution constructed of stone that was
-built in Pawnee, knsas in 1854. It was created for the purpose of patrolling the Santa Fe trail.
+The fort is a historical military institution constructed of stone that was built in Pawnee, Kansas in 1854. It was created for the purpose of patrolling the Santa Fe trail.
 
- The fort consisted of 92 buildings used to house the generals
- and the regiments of solders. The fort served as the
- main force to uphold the law of the United States in the Kansas portion
-  of the Santa Fe trail.
- The territory at the time only had small law enforcement,
- like sheriffs, who had limited control over areas outside their
- towns' limits. Traveling outside towns was done with grate risk as soon as They left the town boundaries.
-Their best bet for safe travel would be to use the protection provided from
-the forts on the trail. Fort Larned would distribute protection by sending patrols
- of at least 12 men from one fort to the next to escort civilians and enforce the new law.
+The fort consisted of 92 buildings used to house the generals and the regiments of solders. The fort served as the main force to uphold the law of the United States along the Santa Fe Trail in the Kansas territory. The Kansas territory at the time only had small law enforcement, like sheriffs, who had limited control over areas outside their town limits. Traveling outside towns and between towns was done with great risk.  The Santa Fe Trail was patrolled by the military and provided safer travel. Forts were lined throughout the Santa Fe Trail.  Fort Larned was one of these forts. Fort Larned provided protetcion by sending out military patrols consisting of at least 12 men. The military patrols went between Fort Larned and it's neighboring forts along the Santa Fe Trail. Civilians could choose to travel with the patrols for safer travel. The military patrol not only provided safe travel but also enforced the new law. 
 
 
 ## A Gold River
@@ -36,21 +26,11 @@ the forts on the trail. Fort Larned would distribute protection by sending patro
   caption=" The men and women hard at work looking for prospects of gold"
   src="images/gold-rush.jpg"
 %}
-The forts construction had largely to do with the discovery
-of Gold in California in 1848. The discovery was possible thanks to the acquisition of land
-from the treaty of Guadalupe from the American Mexican war.
-The new acquired territory needed to incorporate the new law
-of the United States . This was Accomplished by implementing various military
-forts to support and protect important resource hubs such as the Santa Fe trail,
-one of these forts being Fort Larned. The increased traffic of gold seekers
-and gold transporters made the trails going west a prime target for raiders and
-bandits to try and gain a score from the travelers of the trail.
+The forts construction had largely to do with the discovery of gold in California in 1848. The discovery of gold was due to the acquisition of land from the Treaty of Guadalupe. The Treaty of Guadalupe resulted from the American-Mexican War. The new acquired territory needed to incorporate the laws of the United States. The laws were incorporated by implementing a military solution that utilized a fort centered infrastructure to support and protect important resource hubs, such as, the Santa Fe Trail. One of these forts was Fort Larned. The increased traffic of gold seekers and gold transporters made the trails going west a prime target for raiders and
+bandits. 
 
 ## Native affairs
-The fort maintained its purpose of patrolling its portion of the Santa Fe trail
-from 1861-1868, then it was granted the function of being the bureau of Indian
-affairs. This made the fort become a place where native peoples who singed the
-fort wise treaty would go to get annuities. The treaty allowed the U.S  settlers to travel and use the native land in exchange of annuities granted by the U.S government.  The chefs of the tribes who signed this treaty ended up causing unrest amongst their tribes and the fort. That continued until 1868 when the treaty was abolished and the native people where moved to reservations
+The fort maintained its purpose of patrolling its portion of the Santa Fe Trail from 1861-1868. In 1869, it was granted the function of being the Bureau of Indian Affairs. This made the fort become a place where native people who signed the Fort Wise Treaty would go to get annuities. The treaty allowed the United States settlers to travel and use the native land in exchange for annuities granted by the United States government. The chiefs of the tribes who signed this treaty ended up causing unrest amongst their tribes and the fort. This unrest continued until the treaty was abolished and the native people where moved to reservations.
 
 ## a trail of worn earth gives way to one of steel and wood.
 {% include figure.html
@@ -59,10 +39,10 @@ fort wise treaty would go to get annuities. The treaty allowed the U.S  settlers
   caption=" a train traveling the recencently compleate santa fe railroad"
   src="images/Fort-lennard-md.jpg"
 %}
-In the forts twilight years as a U.S military institution it provided protection for workers on the construction of the Santa Fe rail road in 1872. The forts troops would patrol the areas under construction instead of the trail. Once the rail road was completed the fort began to lose its relevance as goods and travelers would begin to choose traveling by train over traveling the trail. Due to its purpose no longer being needed, the fort operated for an additional six years when it was abandoned in 1878. The property was then auctioned off as army surplus in 1883.
+In the forts twilight years as a United States military institution, it provided protection for workers on the construction of the Santa Fe Railroad in 1872. The forts troops would patrol the areas under construction instead of the Santa Fe Trail. Once the railroad was completed, the fort began to loose its relevance. Goods and travelers where transported by train and no longer needed protection. The fort operated for an additional six years. It was abandoned in 1878. The property was then auctioned off as Army surplus in 1883.
 
 ## The fort today
-This fort has been one of the lucky historical sites as most of the origanal buildings remain intact. The patron that the site had been sold to decided to use the existing buildings as a housing for ranch workers and equipment which lead to a decent upkeep of the site, saving it from the fate of other historic forts today. The site has been renovated and now serves as a museum that can be visited by the public to see scheduled reenactments of the workings of the fort portrayed by volunteer actors.  
+The fort today is pretty much what it looked like at its prime.  Most of the original buildings remain intact. When the fort was auctioned off, the new owner decided to use the existing buildings as housing for ranch workers and equipment. Since the buildings were repurposed, they have survived the passing of time. The site has been renovated. It now serves as a museum that can be visited by the public. The fort also has scheduled reenactments of a working fort.  
 ##### Nearby Places
 *[Council Grove Historic District](https://en.wikipedia.org/wiki/Council_Grove_Historic_District)
 
