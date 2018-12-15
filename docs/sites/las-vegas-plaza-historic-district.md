@@ -61,7 +61,7 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - [Las Vegas Outlaws](https://www.legendsofamerica.com/nm-lasvegas/)
 
-- [Quick Reading of Las Vegas](https://en.wikipedia.org/wiki/Las_Vegas,_New_Mexico#History)
+- [Quick Reading of Las Vegas](https://en.wikipedia.org/wiki/Las_Vegas,_New_Mexico)
 
 - [The Plaza Hotel](http://www.plazahotellvnm.com/)
 
@@ -88,7 +88,7 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - Land, Barbara, and Myrick Land. A Short History of Las Vegas. Reno: University of Nevada Press, 1999.
 
--[“Las Vegas Optic.” Las Vegas Optic. 1967.](https://access-newspaperarchive-com.libproxy.unm.edu/us/new-mexico/east-las-vegas)
+- [“Las Vegas Optic.” Las Vegas Optic. 1967.](https://access-newspaperarchive-com.libproxy.unm.edu/us/new-mexico/east-las-vegas)
 
 - Lynn, Sandra. Windows on the Past: Historic Lodgings of New Mexico. Albuquerque, N.M.: University of New Mexico Press, 1999.
 
@@ -100,7 +100,7 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - Rippel, Ellen S. Outlaws & Outcasts: The Lost Cemetery of Las Vegas, New Mexico, 2013.
 
-- [ Las Vegas Record. East Las Vegas, N.M.: Record Pub. Co., 1900.](http://infoweb.newsbank.com/?db=EANX&s_browseRef=decades/11E0DB2E6A202321/all.xml.)
+- [Las Vegas Record. East Las Vegas, N.M.: Record Pub. Co., 1900.](http://infoweb.newsbank.com/?db=EANX&s_browseRef=decades/11E0DB2E6A202321/all.xml.)
 
 - Threinen, Ellen. Architecture and Preservation in Las Vegas: A Study of Six Districts, 1977.
 
