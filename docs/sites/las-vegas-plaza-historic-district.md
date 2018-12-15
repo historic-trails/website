@@ -28,10 +28,10 @@ By August 15, 1846 the town had undergone several modifications and had been sig
 
 Between its founding and the beginning of the Civil War, Las Vegas thrived as frontier town operating on the Santa Fe Trail. Records Traveler, trader and military accounts describe a small but thriving town growing off the commerce brought by the trail, "As we drew near Las Vegas we noted that the "bottoms" of the little creek running near the town were cultivated in corn,
 with occasional patches of vegetables, the land enclosed by fences, but flanked by irrigation ditches supplying the necessary water and the crops were looking remarkably well, although the weather had been dry for some weeks...Las Vegas was a compactly-built town of probably two or three hundred inhabitants, the houses are for the most part built of adobe bricks or tufts of sod, with a corral in the
-rear. The herds...were driven in about sunset."[^2]: Las Vegas had begun to be documented the increasing stability and buildup of the town. The town was simple yet thriving, despite it being a architecturally simple town. On July 4, 1879 the railroad was brought to Las Vegas and with it came influx of new American architectural styles utilizing stone-cut bricks, most notable was Victorian style buildings which heavily influenced the new redesigns of the buildings that formed the plaza. Most of these buildings underwent various changes but the most notable of the plaza structures that remained largely unchanged was the three-story plaza hotel that appeared as a cornerstone gem to the town. [The Plaza Hotel](http://www.plazahotellvnm.com)[^3]: was among the various Victorian style buildings that made up the plaza. 
+rear. The herds...were driven in about sunset."[^2]: Las Vegas had begun to be documented the increasing stability and buildup of the town. The town was simple yet thriving, despite it being a architecturally simple town. On July 4, 1879 the railroad was brought to Las Vegas and with it came influx of new American architectural styles utilizing stone-cut bricks, most notable was Victorian style buildings which heavily influenced the new redesigns of the buildings that formed the plaza. Most of these buildings underwent various changes but the most notable of the plaza structures that remained largely unchanged was the three-story plaza hotel that appeared as a cornerstone gem to the town. [The Plaza Hotel](https://www.plazahotellvnm.com)[^3]: was among the various Victorian style buildings that made up the plaza. 
 
 [^2]: William B. Napton, a traveler along the Santa Fe Trail, Registration Form
-[^3]: The Plaza Hotel still operates today and can be found here; [Plaza Hotel](http://www.plazahotellvnm.com)
+[^3]: The Plaza Hotel still operates today and can be found here; [Plaza Hotel](https://www.plazahotellvnm.com)
 
 
 ## War, Bandits, and Money ##
@@ -62,11 +62,11 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - [Quick Reading of Las Vegas](https://en.wikipedia.org/wiki/Las_Vegas,_New_Mexico)
 
-- [The Plaza Hotel](http://www.plazahotellvnm.com)
+- [The Plaza Hotel](https://www.plazahotellvnm.com)
 
 - [History of Charles Ilfeld; A local buisness man/Community Leader](http://newmexicohistory.org/people/charles-ilfeld-biography)
 
-- [New Mexico Highlands Univeristy](http://www.nmhu.edu)
+- [New Mexico Highlands Univeristy](https://www.nmhu.edu)
 
 - [World College, 10 miles from Las Vegas](https://www.uwc-usa.org/page.cfm?p=527)
 
@@ -83,7 +83,7 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - Gottschalk, Marcus Charles. Pioneer Merchants of the Las Vegas Plaza. Las Vegas, N.M.: M.C. Gottschalk, 2000.
 
-- “Home - The Plaza Hotel Las Vegas, New Mexico.” Accessed December 15, 2018. http://www.plazahotellvnm.com.
+- “Home - The Plaza Hotel Las Vegas, New Mexico.” Accessed December 15, 2018. https://www.plazahotellvnm.com.
 
 - Land, Barbara, and Myrick Land. A Short History of Las Vegas. Reno: University of Nevada Press, 1999.
 
@@ -99,7 +99,7 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - Rippel, Ellen S. Outlaws & Outcasts: The Lost Cemetery of Las Vegas, New Mexico, 2013.
 
-- [Las Vegas Record. East Las Vegas, N.M.: Record Pub. Co., 1900.](http://infoweb.newsbank.com/?db=EANX&s_browseRef=decades/11E0DB2E6A202321/all.xml.)
+- [Las Vegas Record. East Las Vegas, N.M.: Record Pub. Co., 1900.](https://infoweb.newsbank.com/?db=EANX&s_browseRef=decades/11E0DB2E6A202321/all.xml.)
 
 - Threinen, Ellen. Architecture and Preservation in Las Vegas: A Study of Six Districts, 1977.
 
