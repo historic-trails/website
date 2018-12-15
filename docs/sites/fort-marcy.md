@@ -30,7 +30,7 @@ Fort Marcy would play its role in guarding American rule over the newly acquired
 ***
 ## An American symbole
 
-{% include figure.html class="img-right" width="40%" caption="1880 picture of Santa Fe from the perspective of Fort Marcy. This picture showing how Fort Marcy was seen as a symbol of American rule. [source](https://econtent.unm.edu/cdm/singleitem/collection/wittick/id/233/rec/99) 
+{% include figure.html class="img-right" width="40%" caption="1880, Santa Fe from the perspective of Fort Marcy. This picture showing how Fort Marcy was seen as a symbol of American rule. [source](https://econtent.unm.edu/cdm/singleitem/collection/wittick/id/233/rec/99) 
 " src="images/townfrommarcy.jpg" %}
 
 General Kearly wrote a 1846 report to the Adjutant General of the Army at Washington that stated:  "A large number of the troops are daily employed under the direction of Lieutenant Gilmer of the Engineers in erecting a fort for the defense and protection of the city, and as this is the capital of the Territory, a new acquisition to the United States, the fort will be an important and permanent one, and I have this day named it Fort Marcy, and now ask for a confirmation of it." General Kearly and Lieutenant Emory's statements illustrate that the main importance of this fortification was that Fort Marcy was the key to the newly acquired land and was the most important building in the area as it served as a symbol of American rule over the territory. [^5]
@@ -47,7 +47,7 @@ Though Fort Marcys usage as a defensive fortification would end up being neglect
 ***
 ## Description Past and Present
 
-{% include figure.html class="img-right" width="40%" caption="picture of Fort Marcys crumbling walls in 1992. [source](https://econtent.unm.edu/cdm/singleitem/collection/santa/id/17/rec/34) 
+{% include figure.html class="img-right" width="40%" caption="Fort Marcys crumbling walls in 1992. [source](https://econtent.unm.edu/cdm/singleitem/collection/santa/id/17/rec/34) 
 " src="images/wall-marcy.jpg" %}
 
 At the time of Fort Macy finished construction it stood with adobe walls that where nine feet tall and five feet thick which made up the forts irregular shaped star outlining. The fort also had an eight feet deep moat that ran along its wall and a log building that served as a powder house that stored explosive gun powder [^8]. The fort made up an area of about 270 feet by 80 feet and could of hold up to one thousand soldiers. [^9]
