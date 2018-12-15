@@ -36,7 +36,9 @@ rear. The herds...were driven in about sunset."[^2]: Las Vegas had begun to be d
 
 ## War, Bandits, and Money ##
 
-"After the defeat of the Union forces in the Battle of Valverde, February 21, 1862, Confederate forces marched through Albuquerque and occupied Santa Fe. Governor Henry L. Connelly had already removed the capital to Las Vegas and established his office in the Exchange Hotel on the plaza. He returned to Santa Fe after the [the Battle of Glorietta Pass](https://www.nps.gov/peco/learn/historyculture/copy-of-battleofglorietta.htm) March 26-28, 1862 which destroyed Confederate hopes of capturing Fort Union" (Historical Registry Doc). In 1877 Las Vegas suffered from an outbreak of small pox leading to a ban on livestock on the plaza itself. Cattle were only allowed on the plaza for loading and unloading only and were to move immediately after.[^4]: Until the arrival of the railroad Las Vegas remained at steady growth from the travelers along the Santa Fe trail, hotels like the Plaza Hotel and the Exchange Hotel thrived from continued tourism and business, colleges were established, and Las Vegas became synonymous with the western lifestyle. "During the 1850's, the well in the center of the plaza was surrounded by a low wooden wall. Later, a high platform was added to support a wooden superstructure topped by a circular blade and fan assembly. By 1879, the blade assembly had been removed and the windmill was no longer in use, but served as a hanging gallows by the Vigilantes. Citizen complaints that the hanging bodies could be seen by the incoming railroad passengers led to the removal of the "Hanging Windmill" in 1881."[^5]: The railroad brought with it an assortment of problems, but most prevalent were outlaws of the west.. "Jesse James the outlaw arrived in December, 1880, taking the shuttle carriage from the Exchange Hotel to the famous Montezuma Resort Hotel. His killer, former gang member Bob Ford, became a familiar and much disliked figure on the plaza until he left. Sheriff Pat Garrett placed "Billy the Kid" and his gang in the jail just off the plaza after capturing them at Stinking Springs on December 23, 1880. Sheriff Garrett nearly lost the outlaw, Dave Rudabaugh, to an angry mob on the plaza while enroute to the train depot on the following day. Rudabaugh had killed the jailer earlier. "Doc" Holliday topped over on his way from Dodge City to Tucson and visited one of the saloons on the southside of the plaza where he shot a Charles White, an acquaintance from his "Dodge City Days." A vigilante Committee was formed in East Las Vegas in the 1880's, they would often march in force on the jail and take the prisoners and hang them on the "Hanging Windmill". In The violence continued into the 1890's when the notorious Vicente Silva and his "Society of Bandits of New Mexico" controlled West Las Vegas from his "Imperial Saloon" on the south side of the plaza."[^6]:
+"After the defeat of the Union forces in the Battle of Valverde, February 21, 1862, Confederate forces marched through Albuquerque and occupied Santa Fe. Governor Henry L. Connelly had already removed the capital to Las Vegas and established his office in the Exchange Hotel on the plaza. He returned to Santa Fe after the [the Battle of Glorietta Pass](https://www.nps.gov/peco/learn/historyculture/copy-of-battleofglorietta.htm) March 26-28, 1862 which destroyed Confederate hopes of capturing Fort Union" (Historical Registry Doc). In 1877 Las Vegas suffered from an outbreak of small pox leading to a ban on livestock on the plaza itself. Cattle were only allowed on the plaza for loading and unloading only and were to move immediately after.[^4]: Until the arrival of the railroad Las Vegas remained at steady growth from the travelers along the Santa Fe trail, hotels like the Plaza Hotel and the Exchange Hotel thrived from continued tourism and business, colleges were established, and Las Vegas became synonymous with the western lifestyle. "During the 1850's, the well in the center of the plaza was surrounded by a low wooden wall. Later, a high platform was added to support a wooden superstructure topped by a circular blade and fan assembly. By 1879, the blade assembly had been removed and the windmill was no longer in use, but served as a hanging gallows by the Vigilantes. Citizen complaints that the hanging bodies could be seen by the incoming railroad passengers led to the removal of the "Hanging Windmill" in 1881."[^5]: 
+
+The railroad brought with it an assortment of problems, but most prevalent were outlaws of the west.. "Jesse James the outlaw arrived in December, 1880, taking the shuttle carriage from the Exchange Hotel to the famous Montezuma Resort Hotel. His killer, former gang member Bob Ford, became a familiar and much disliked figure on the plaza until he left. Sheriff Pat Garrett placed "Billy the Kid" and his gang in the jail just off the plaza after capturing them at Stinking Springs on December 23, 1880. Sheriff Garrett nearly lost the outlaw, Dave Rudabaugh, to an angry mob on the plaza while enroute to the train depot on the following day. Rudabaugh had killed the jailer earlier. "Doc" Holliday topped over on his way from Dodge City to Tucson and visited one of the saloons on the southside of the plaza where he shot a Charles White, an acquaintance from his "Dodge City Days." A vigilante Committee was formed in East Las Vegas in the 1880's, they would often march in force on the jail and take the prisoners and hang them on the "Hanging Windmill". In The violence continued into the 1890's when the notorious Vicente Silva and his "Society of Bandits of New Mexico" controlled West Las Vegas from his "Imperial Saloon" on the south side of the plaza."[^6]:
 
 
 [^4]: The smallpox outbreak was almost certainly due to the excessive amount of travelers moving through the city in massive wagon trains said to be in the hundreds; Registry Form
@@ -64,13 +66,13 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - [The Plaza Hotel](https://www.plazahotellvnm.com)
 
-- [History of Charles Ilfeld; A local buisness man/Community Leader](http://newmexicohistory.org/people/charles-ilfeld-biography)
+- [History of Charles Ilfeld; A local buisness man/Community Leader](https://newmexicohistory.org/people/charles-ilfeld-biography)
 
 - [New Mexico Highlands Univeristy](https://www.nmhu.edu)
 
 - [World College, 10 miles from Las Vegas](https://www.uwc-usa.org/page.cfm?p=527)
 
-- [San Miguel de Vado Historic District](https://www.uwc-usa.org/page.cfm?p=527)
+- [San Miguel de Vado Historic District](https://historic-trails.github.io/santa-fe-itinerary/sites/san-miguel-del-vado.html)
 
 
 ### Sources ###
@@ -83,11 +85,11 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - Gottschalk, Marcus Charles. Pioneer Merchants of the Las Vegas Plaza. Las Vegas, N.M.: M.C. Gottschalk, 2000.
 
-- “Home - The Plaza Hotel Las Vegas, New Mexico.” Accessed December 15, 2018. https://www.plazahotellvnm.com.
+- “Home - The Plaza Hotel Las Vegas, New Mexico.” Accessed December 15, 2018.
 
 - Land, Barbara, and Myrick Land. A Short History of Las Vegas. Reno: University of Nevada Press, 1999.
 
-- [“Las Vegas Optic.” Las Vegas Optic. 1967.](https://access-newspaperarchive-com.libproxy.unm.edu/us/new-mexico/east-las-vegas)
+- “Las Vegas Optic.” Las Vegas Optic. 1967.
 
 - Lynn, Sandra. Windows on the Past: Historic Lodgings of New Mexico. Albuquerque, N.M.: University of New Mexico Press, 1999.
 
@@ -95,11 +97,11 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - “National Historic Registration Form- Las Vegas Plaza Historic District,” December 10, 1974.
 
-- [New Mexico Department of Tourism. “Historic Plaza Hotel Las Vegas, NM.” New Mexico Tourism Department.]( https://www.newmexico.org/listing/historic-plaza-hotel-las-vegas-nm/1620.)
+- New Mexico Department of Tourism. “Historic Plaza Hotel Las Vegas, NM.” New Mexico Tourism Department.
 
 - Rippel, Ellen S. Outlaws & Outcasts: The Lost Cemetery of Las Vegas, New Mexico, 2013.
 
-- [Las Vegas Record. East Las Vegas, N.M.: Record Pub. Co., 1900.](https://infoweb.newsbank.com/?db=EANX&s_browseRef=decades/11E0DB2E6A202321/all.xml.)
+- Las Vegas Record. East Las Vegas, N.M.: Record Pub. Co., 1900.
 
 - Threinen, Ellen. Architecture and Preservation in Las Vegas: A Study of Six Districts, 1977.
 
