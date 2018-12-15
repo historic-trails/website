@@ -2,7 +2,7 @@
 title: Las Vegas Plaza Historic District
 author: Jacob Martinez
 layout: single-col
-date: 2018-25-11
+date: 2018-14-12
 ---
 
 # The Las Vegas Plaza #
@@ -45,7 +45,7 @@ rear. The herds...were driven in about sunset."[^2]: Las Vegas had begun to be d
 
 ## Railroads and Las Vegas Today ##
 
-{% include figure.html class="img-right" width="33%" caption="Historic Map of Las Vegas NM" src="images/plazamap.JPG%}
+{% include figure.html class="img-right" width="33%" caption="Historic Map of Las Vegas NM" src="images/plazamap.JPG %}
 
 Las Vegas was one of first towns to receive significant access to booming rail industry. When it did wagon traffic through Las Vegas declined heavily and became a town devoted to the railroad. The well at the center of town was eventually filled in and replaced with park. However, the Plaza was located west of Gaillenas River that had formed one of the natural boarders in the town center making it difficult to lay tracks near the plaza. So train station was established in the new town East Las Vegas forming a heated rivalry between two locales. Commerce diverted from West Las Vegas, which held the plaza, and led to noticeable decline to the livelihood of the Western town. The dramatic booming tourist industry declined steadily and the Western ethos began fading slowly bringing about a much more Americanized civilization imported from the East. The rivalry between the two towns was accentuated by the clashing economies driving up a sense of importance from both towns. Unforntuantely one of the primary cultural results of this divide were racial stereotypes being attached to side town citizens lived in.[^7]: East and West Las Vegas were eventually combined into one singular town during the 1970’s but still faces decline due to depressed economy rooted firmly in historic tourism and the New Mexico Highlands University. Las Vegas is still considerably large with a stabile population and an impressive amount of historical tourism present mostly centered on its history as a frontier town, outlaw mysticism, and railroad legacy. The town is currently intent on preserving its physical historical legacy through its buildings and infrastructure of the plaza. 
 
@@ -54,7 +54,7 @@ Las Vegas was one of first towns to receive significant access to booming rail i
 ***
 ## Visit ###
 
-Address 230 Plaza Park, Las Vegas, NM 87701
+Address: 230 Plaza Park, Las Vegas, NM 87701
 
 ##### Related Readings #####
 
