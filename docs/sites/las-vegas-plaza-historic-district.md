@@ -66,8 +66,6 @@ Address: 230 Plaza Park, Las Vegas, NM 87701
 
 - [History of Charles Ilfeld; A local buisness man/Community Leader](https://newmexicohistory.org/people/charles-ilfeld-biography)
 
-- [New Mexico Highlands Univeristy](https://www.nmhu.edu)
-
 - [World College, 10 miles from Las Vegas](https://www.uwc-usa.org/page.cfm?p=527)
 
 - [San Miguel de Vado Historic District]
