@@ -38,7 +38,7 @@ Majors was particular in hiring trustworthy people and made them to pledge that 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72)[source](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg)"
+  caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72) [source](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg)"
   src="images/alexander-majors-russell-waddell-images.jpg"
 %}
 
@@ -71,7 +71,7 @@ In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Wa
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Pony Express, advertisement for its fast delivery and Job opening poster[source]()"
+  caption="Pony Express, advertisement for its fast delivery and Job opening poster [source](hd.housedivided.dickinson.edu/node/17841)"
   src="images/alexander-majors-pony-express-poster.jpg"
 %}
 
@@ -189,59 +189,31 @@ Kirkman, Paul. The Battle of Westport: Missouri’s Great Confederate Raid. Arca
 
 “[LC Zoom Viewer - Pony Express Route](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=) April 3, 1860 - October 24, 1861 / W.H. Jackson ; Issued by the Union Pacific Railroad Company in Commemoration of the Pony Express Centennial, April 3, 1960 - October 24, 1961.” Accessed November 28, 2018.
 
-Leatherberry, Earl. Missouri, Kansas, [Alexander Majors House](https://www.flickr.com/photos/23711298@N07/18281558759/). May 10, 2015. Photo.
-
-———. Missouri, Kansas, Alexander Majors House. May 10, 2015. [Photo](https://www.flickr.com/photos/23711298@N07/18281558759/).
-
 Majors, Alexander, Prentiss Ingraham, and 1846-1917 Buffalo Bill. [Seventy Years on the Frontier](http://archive.org/details/yearsonseventyfr00majorich); Alexander Major’s Memoirs of a Lifetime on the Border; Chicago and New York, Rand, McNally & company, 1893.
 
 “Majors House - [The Alexander Majors House Museum](http://www.wornallmajors.org/explore/majors-house/)” Wornall Majors House Museums (blog). Accessed November 12, 2018.
 
 Missouri : The WPA Guide to the “Show Me” State. St. Louis : Missouri Historical Society Press ; [Columbia] : Distributed by University of Missouri Press, ©1998., 1998.
 
-Morton, LaDene. The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing, 2012.
-
 “National Register of Historic Places, Alexander Majors House, Kansas City, Jackson County, Missouri, National Register No:[70000335](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf).” Accessed November 16, 2018.
 
 Settle, Raymond W., and Mary Lund Settle. War Drums and Wagon Wheels : The Story of Russell, Majors, and Waddell. Lincoln : University of Nebraska Press, [1966], 1966.
 
-“[William Rusell, Alexander Majors, William Waddell](https://in.pinterest.com/pin/336292297158117442/).” Pinterest. Accessed December 12, 2018.
+“[William Rusell, Alexander Majors, William Waddell](https://in.pinterest.com/pin/336292297158117442/).” Pinterest. Accessed November 28, 2018.
 
 Wood, Toni, and Jilian Mincer. Wow!: Where Families Can Find Awe & Wonder in and Around Kansas City. Kansas City Star Books, 2000.
 
-
-
-
-[Majors, Russell, Waddell]( https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg) a6cc92ae0ef4549ffb8f016199cd9454.jpg (842×492). (n.d.). Retrieved November 28, 2018, from
-
 [Alexander Majors & Family]( http://www.wornallmajors.org/explore/majors-house/alexander-majors-his-family/) - Alexander Majors House. (n.d.). Retrieved November 28, 2018, from
-
-Earngey, B. (1995). Missouri Roadsides: The Traveler’s Companion. University of Missouri Press.
 
 [John and Sigrid’s Adventures]( http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html): Alexander Majors Home Museum Tour - 11/7/2013. (n.d.). Retrieved November 28, 2018, from
 
-Kirkman, P. (2011). The Battle of Westport: Missouri’s Great Confederate Raid. Arcadia Publishing.
+Leatherberry, E. (2015). Missouri, Kansas, [Alexander Majors House Photo]( https://www.flickr.com/photos/23711298@N07/18281558759/) May 10, 2015. Photo.
 
-LC Zoom Viewer – [Pony express route April 3, 1860 - October 24, 1861]( http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=) / W.H. Jackson ; issued by the Union Pacific Railroad Company in commemoration of the Pony Express Centennial, April 3, 1960 - October 24, 1961. (n.d.). Retrieved November 28, 2018.
-
-Leatherberry, E. (2015). Missouri, Kansas, [Alexander Majors House Photo]( https://www.flickr.com/photos/23711298@N07/18281558759/)
-
-Majors, A., Ingraham, P., & Buffalo Bill, 1846-1917. (1893). [Seventy years on the frontier; Alexander Major’s memoirs of a lifetime on the border]( http://archive.org/details/yearsonseventyfr00majorich); Chicago and New York, Rand, McNally & company. Retrieved from
-
-[Majors’ Efforts](http://www.kchistory.org/week-kansas-city-history/majors-efforts
-). (2015, September 21). Retrieved November 28, 2018
-
-Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018
-
-Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum.
+[Majors’ Efforts](http://www.kchistory.org/week-kansas-city-history/majors-efforts). (2015, September 21). Retrieved November 28, 2018.
 
 Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing.
 
 Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: [comprehensive management and use plan]( http://hdl.handle.net/2027/pur1.32754061290353). (1990). [Washington, D.C.?]
-
-Settle, R. W., & Settle, M. L. (1966). War drums and wagon wheels: the story of Russell, Majors, and Waddell. Lincoln: University of Nebraska Press, [1966].
-
-Wood, T., & Mincer, J. (2000). Wow! Where Families Can Find Awe & Wonder in and Around Kansas City. Kansas City Star Books.
 
 
 [^WPAGuide1998i]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. P

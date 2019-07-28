@@ -9,7 +9,7 @@ The Lewis Jones House was home to one of the most significant traders and busine
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Routes of migration in the 1800s, including the Santa Fe Trail and the Oregon Trail which set off from Independence, Missouri. [Source](https://www.google.com/search?rlz=1C1MSIM_enUS530US530&biw=1920&bih=969&tbm=isch&sa=1&ei=jVQDXOxAquCPBNeZvtAF&q=santa+fe+trail+1840+independence+missouri&oq=santa+fe+trail+1840+independence+missouri&gs_l=img.3...18051.25075..25385...2.0..0.139.2090.22j2......1....1..gws-wiz-img.8QzhBGUWfqc#imgrc=0g6KaGBWrzuWCM:)"
+  caption="Routes of migration in the 1800s, including the Santa Fe Trail and the Oregon Trail which set off from Independence, Missouri. Independence became known as the gateway to the west because of these trails. [Source](https://www.google.com/search?rlz=1C1MSIM_enUS530US530&biw=1920&bih=969&tbm=isch&sa=1&ei=jVQDXOxAquCPBNeZvtAF&q=santa+fe+trail+1840+independence+missouri&oq=santa+fe+trail+1840+independence+missouri&gs_l=img.3...18051.25075..25385...2.0..0.139.2090.22j2......1....1..gws-wiz-img.8QzhBGUWfqc#imgrc=0g6KaGBWrzuWCM:)"
   src="images/santa-fe-trail-picture.jpg"
 %}
 In 19th century Missouri, it was very difficult to make a living. It was very rare and very lucky if you were able to make a steady living during this time period and those who did were able to capitalize on the benefits. One of the obvious benefits that Lewis Jones was able to take part in was his house. This large and comfortable house symbolizes Jones' wealth and status in Independence, Missouri and gives us a picture to how lucrative trade on the trail actually was.
@@ -26,10 +26,10 @@ Independence, Missouri was the gateway to the west in the 1840s and it was the c
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Independence, Missouri in the 1840s. Depicting the begining of the Santa Fe Trail. [Source](https://www.pinterest.com/pin/312085449171317067/?lp=true)"
+  caption="Independence, Missouri in the 1840s. Depicting the begining of the Santa Fe Trail. Independence soon became part of the greater Kansas City area and became a bustling metropolis. [Source](https://www.pinterest.com/pin/312085449171317067/?lp=true)"
   src="images/independence-missouri-picture.jpg"
 %}
-Independence was not only the starting point of the Santa Fe trail but also many other wagon routes such as the oregon trail and the route to California. [^MOI038] Independence quickly became a bustling center for trade and migration after the Louisiana Purchase in 1803. [^MOI015] The United States centered their trade with Mexico in Independence through the Santa Fe trail. [^MOI138] They also built a steady trade network with the Indian tribes of the west and various fur traders throughout the Rocky Mountains. [^MOI037] Another prominent endeavor in Independence during the 1800s was the railroad industry. The Missouri and Independence river railroad began in Independence, Missouri in 1849 and this became a lucrative investment for local businessmen. [^MOI056] Because of these deep roots placed in Independence, the United States was able to capitalize on the trade and natural resources of the land they had purchased.  
+Independence was not only the starting point of the Santa Fe trail but also many other wagon routes such as the [Oregon trail](https://www.britannica.com/topic/Oregon-Trail) and the route to California. [^MOI038] Independence quickly became a bustling center for trade and migration after the Louisiana Purchase in 1803. [^MOI015] The United States centered their trade with Mexico in Independence through the Santa Fe trail. [^MOI138] They also built a steady trade network with the Indian tribes of the west and various fur traders throughout the Rocky Mountains. [^MOI037] Another prominent endeavor in Independence during the 1800s was the railroad industry. The Missouri and Independence river railroad began in Independence, Missouri in 1849 and this became a lucrative investment for local businessmen. [^MOI056] Because of these deep roots placed in Independence, the United States was able to capitalize on the trade and natural resources of the land they had purchased.  
 
 [^MOI038]: Merchants of Independence, 38
 [^MOI015]: Merchants of Independence, 15
@@ -37,11 +37,11 @@ Independence was not only the starting point of the Santa Fe trail but also many
 [^MOI037]: Merchants of Independence, 37
 [^MOI056]: Merchants of Independence, 56
 ## The House Itself
-The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two story, three bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it.
+The Lewis Jones house was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two story, three bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical wholeness despite a changing city around it. This house signifies the distinct architecture style that was popular in the 19th century. It's importance to society in general comes from the people who built it and resided in it. Lewis Jones made a lasting impact on Independence, Missouri as a whole and his home allows us insight on what his life may have looked like to a degree. This house is important to preserve and appreciate because it connects to the historical ideals and events that have shaped our nation. 
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="The Lewis Jones House in the modern day. [Source](https://www.flickr.com/photos/51038527@N03/24831664933/in/photostream/)"
+  caption="The Lewis Jones House in the modern day. The Unique L-shape and beautiful land that it sits on make this house a interesting place to visit. [Source](https://www.flickr.com/photos/51038527@N03/24831664933/in/photostream/)"
   src="images/lewis-jones-house-photo.jpg"
 %}
 
@@ -51,7 +51,10 @@ The Lewis Jones house was constructed in 1840 in the middle of Independence, Mis
 [^NPS13]: NPS, 1
 
 ##  The Visit
-The Lewis Jones house is located on 104 Elizabeth Street in Independence, Missouri. It is very easy to access the area and it is easily located on a map of the city. The house unfortunately is not avaliable for tours, due to it's private ownership. If you are visiting the house, please be respectful of the owners and other inhabitants of the neighborhood. When visiting this area you may want to check weather forcasts to determine clothing options and possible items to bring along. A camera is optional but also recommended in order to capture the historical site. If driving to the site, please be aware of any parking laws nearby. Since the house is located in the historical goldmine that is Independence, Missouri, there are many other sites to look at. Take advantage of the rich history and cultural significance of the area and enjoy your visit to the Lewis Jones house.
+The Lewis Jones house is located on [104 Elizabeth Street in Independence, Missouri](https://www.google.com/maps/place/104+W+Elizabeth+St,+Independence,+MO+64050/@39.1062364,-94.4176848,17z/data=!3m1!4b1!4m8!1m2!2m1!1s104+elizabeth+street+independence+missouri!3m4!1s0x87c0fd739fa73565:0x307d7e0223917e1f!8m2!3d39.1062323!4d-94.4154961). It is very easy to access the area and it is easily located on a map of the city. The house unfortunately is not avaliable for tours, due to it's private ownership. If you are visiting the house, please be respectful of the owners and other inhabitants of the neighborhood. When visiting this area you may want to check weather forcasts to determine clothing options and possible items to bring along. A camera is optional but also recommended in order to capture the historical site. If driving to the site, please be aware of any parking laws nearby. Since the house is located in the historical goldmine that is Independence, Missouri, there are many other sites to look at. Take advantage of the rich history and cultural significance of the area and enjoy your visit to the Lewis Jones house.
+
+
+***
 ## Related Articles
 * Information on [Independence, Missouri](http://visitindependence.com/)
 * Original [NPS Form](https://dnr.mo.gov/shpo/nps-nr/94000320.pdf)

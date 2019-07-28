@@ -7,6 +7,9 @@ date: 2018-11-26
 
 # La Cueva Historic District
 
+
+##### Quick Facts
+
 {% include figure.html
   class="img-right"
   width="30%"
@@ -14,13 +17,20 @@ date: 2018-11-26
   src="images/la-cueva-mill2.jpg"
 %}
 
-Just a short drive from [Ft. Union National Monument](https://www.nps.gov/foun/index.htm), across the northern plains of New Mexico and nearing the foothils of Santa Fe National Forest, you will find the La Cueva Historic District. The La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of Ft.Union National Monument. La Cueva Historic District had a historically significant time period from around 1851 to 1895 and helped shape the surrounding region and had direct impacts to the Santa Fe Trail.  The site consists of several structures: the Romero Hacienda, [a grist mill](https://en.wikipedia.org/wiki/Gristmill), a mercantile building, the Church of San Rafel, stables, a farm, [aquecia](http://www.nmacequiacommission.state.nm.us/Publications/kfrancis_harvard_proposal04.pdf), and a few outbuildings.  
+* *Location*: [35.9417032,-105.2666875](https://goo.gl/maps/Hd93fYYUcLD2)
+* *Significance*: History of Santa Fe Trail, History of Fort Union, History of Food
+* *Designation*: National Register of Historic Places
+* *Open to the public*: Private Residence; [Areas open to public according to schedule](https://www.lacuevafarm.com/hoursofoperation/)
+
+
+
+The La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of [Ft. Union National Monument](https://www.nps.gov/foun/index.htm). La Cueva Historic District had a historically significant time period from around 1851 to 1895 and helped shape the surrounding region and had direct impacts to the Santa Fe Trail.  The site consists of several structures: the Romero Hacienda, [a grist mill](https://en.wikipedia.org/wiki/Gristmill), a mercantile building, the Church of San Rafel, stables, a farm, [aquecia](http://www.nmacequiacommission.state.nm.us/Publications/kfrancis_harvard_proposal04.pdf), and a few outbuildings.  
 {% include figure.html
   class="img-center"
   width="66%"
   width="90%"
   caption="La Cueva in context of the Santa Fe Trail.  Ft.Union was a major destination for milled grains leaving La Cueva [source](https://www.nps.gov/safe/planyourvisit/maps.htm)"
-  src="images/la-cueva-region-map.jpg"
+  src="images/la-cueva-region-map2.jpg"
 %}
 
 
