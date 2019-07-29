@@ -1,3 +1,9 @@
+---
+title: Alexander Majors House
+layout: single-col
+date: 2018-11-24
+---
+
 # Alexander Majors House
 
 {% include figure.html
