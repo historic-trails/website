@@ -4,6 +4,9 @@ layout: single-col
 date: 2019-09-23
 ---
 
+
+# Loading Images
+
 *This page provides a summary of how to display images on your essay pages. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
