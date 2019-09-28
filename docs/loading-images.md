@@ -1,6 +1,6 @@
 ---
 title: Loading images
-layout: default
+layout: single-col
 date: 2019-09-23
 ---
 
