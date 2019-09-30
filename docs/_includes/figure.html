@@ -1,6 +1,6 @@
-<figure class="{{ include.class }}" style="width:{{include.width | default: 33%}}">
-  <a class="image" href="{{ include.src }}"><img src="{{ include.image-url }}" alt="{{ include.caption }}" width="100%"></a>
+<figure class="{{ include.class }}" style="width: {{include.width | default: '33%' }}">
+  <a class="image" href="images/{{ include.image-url }}"><img src="images/{{ include.image-url }}" alt="{{ include.caption }}" width="100%"></a>
 <figcaption class="{{ include.class }}">
-  {{ include.caption | markdownify }} {% if include.source-url %} [<a href="{{ include.source-url }}">source</a>] {% endif }
+  {{ include.caption | markdownify }} {% if include.source-url %} [<a href="{{ include.source-url }}">source</a>] {% endif %}
 </figcaption>
 </figure>
