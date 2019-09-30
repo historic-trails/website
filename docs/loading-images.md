@@ -13,6 +13,9 @@ date: 2019-09-23
 
 **• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
 
+**• You CANNOT see image previews with Dillinger.io.**
+
+
 ---
 There is one basic way we will embed images in our essay files. Note that it is totally different how you would it with pure Markdown. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way. Using the small code blocks make this as easy as it can be.
 
@@ -63,14 +66,14 @@ Wait a few minutes, then reload/refresh your essay's webpage. Your images should
 ### Troubleshooting
 If you've waited more than 5 minutes and your image is still not appearing, you probably made a silly typo somewhere and you have to find it.
 - Most common problem is a mismatch between image filename and what you put in the `image-url` field.
-- Relatedly, double check you filename extension---it might be `jpg` or `jpeg` or `png`. Make sure your code and the filename match EXACTLY.
+- Relatedly, double check you filename extension---it might be `jpg`, `JPG`, `jpeg`, or `png`---or some other variant. Make sure your code and the filename match EXACTLY.
 - Double check your code against the model for a missing quote or bracket.
 - Make sure you do not have double quotes anywhere in your caption.
 - Make sure your files are in the `/essays/images` folder in our repository.
 
 
 ### Standard Usage
-{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" image-url="../../assets/images/default.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" abs-image-url=true image-url="assets/images/default.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -90,7 +93,7 @@ To embed the image above, we use:
 You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
 ### Half-width
-{% include figure.html class="img-left" width="50%" image-url="../../assets/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
+{% include figure.html class="img-left" width="50%" abs-image-url=true image-url="assets/images/Augustine_Lateran.jpg" source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 

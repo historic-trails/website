@@ -1,5 +1,10 @@
 <figure class="{{ include.class }}" style="width: {{include.width | default: '33%' }}">
-  <a class="image" href="images/{{ include.image-url }}"><img src="images/{{ include.image-url }}" alt="{{ include.caption }}" width="100%"></a>
+  {% unless include.abs-image-url %}
+    {% assign img-path =  include.image-url | prepend: "images/" %}
+  {% else %}
+    {% assign img-path =  include.image-url %}
+  {% endunless %}
+  <a class="image" href="{{ img-path }}"><img src="{{ img-path }}" alt="{{ include.caption }}" width="100%"></a>
 <figcaption class="{{ include.class }}">
   {{ include.caption | markdownify }} {% if include.source-url %} [<a href="{{ include.source-url }}">source</a>] {% endif %}
 </figcaption>
