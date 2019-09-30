@@ -16,7 +16,7 @@ The Mahaffie House and its surrounding outbuildings constituted the first hotel 
   class="img-left"
   width="33%"
   caption="The Mahaffie House today. [Wikimedia Commons user Rmprit](https://commons.wikimedia.org/wiki/File:1100_Kansas_City_Rd.,_Olathe,_KS_J.B._Mahaffie_House.jpg)"
-  src="images/mahaffie-modern.jpg"
+  image-url="mahaffie-modern.jpg"
 %}
 
 ## Property Details
@@ -26,7 +26,7 @@ The Santa Fe Trail ran right across the southwest corner of the property, provid
   class="img-right"
   width="33%"
   caption="The Mahaffie House in the 1950s (featured in the obituary of Ella Mahaffie). Newspaper clipping from _The History of Our Public Schools: Wyandotte County, Kansas_ <http://www.kckps.org/disthistory/images/park/index.htm>"
-  src="images/mahaffie-house-newspaper.jpg"
+  image-url="mahaffie-house-newspaper.jpg"
 %}
 
 ## Who Was J.B. Mahaffie?
@@ -48,7 +48,7 @@ Mahaffie retired from the farm in 1881 and sold the property in 1883. The era of
   class="img-left"
   width="33%"
   caption="Google Maps imagery showing residential development surrounding the the Mahaffie House."
-  src="images/mahaffie-suburban.png"
+  image-url="mahaffie-suburban.png"
 %}
 
 ***

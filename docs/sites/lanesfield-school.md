@@ -11,7 +11,7 @@ Lanesfield School is a one-room schoolhouse near [Edgerton Kansas](https://edger
   class="img-right"
   width="25%"
   caption="James Lane was an abolitionst Union Army general in the Civil War and founder of the town of Lanesfield [source](https://www.kshs.org/kansapedia/frontier-guard/16898)"
-  src="images/james-lane.jpg"
+  image-url="james-lane.jpg"
 %}
 ### James Lane and the Town of Lanesfield
 The town was founded by [James Lane](https://en.wikipedia.org/wiki/James_Henry_Lane_(Union_general))in 1858 [^NRF1] and he began construction of the town very quickly. Lane served as a United States Senator and a Union Army general during the Civil War. He was an outspoken abolitionist who worked to abolish slavery in Kansas. [^nyt1] Lane began the construction of a hotel, three stores, a blacksmith shop, three churches, residential houses and a one-room schoolhouse in the town [^NRF2], even though he never saw the school opened as he committed suicide in 1866 [^nyt2].
@@ -25,7 +25,7 @@ The one-room schoolhouse was an institution that had its heyday in America durin
   class="img-left"
   width="33%"
   caption="Lanesfield School is the last standing building in Lanesfield, Kansas, a mail stop along the Santa Fe Trail [source](http://freedomsfrontier.org/Visitors/Sites/Comments/aspx?id=70)"
-  src="images/lanesfield-school.jpg"
+  image-url="lanesfield-school.jpg"
 %}
 ### The Lanesfield School as Representative of One-Room Schoolhouses
 The Lanesfield School also suffered from many of the same issues that other one-room schoolhouses faced. In 1870 the school had 69 students enrolled ages 5 to 20 but only had an average attendance of 51. In 1897, the county superintendent stated that the schoolhouse was in disrepair which sparked a major cleanup effort by the town [^NRF3]. Despite difficulties, the school played an essential role in the community. In addition to being a school, the building also served as a community meeting place, pollint station, a venue for school reunions, and a meeting place for many community groups [^NRF4].
@@ -37,7 +37,7 @@ Following an increasingly frequent trend of one-room schoolhouses being consolid
   class="img-right"
   width="33%"
   caption="Visiting children learn about life in one-room schoolhouse at Lanesfield School [source](https://www.jcprd.com/435/Lanesfield-Historic-Site)"
-  src="images/lanesfield-school-inside.jpeg"
+  image-url="lanesfield-school-inside.jpeg"
 %}
 ### Lanesfield School is Now a Public Museum
 The school was turned into a museum in 1967 and it is still open to the public today. Visitors can visit the school and experience writing on slates, cleaning the blackboard, and what general life in a one-room schoolhouse was like during the late 19th and early 20th centuries along the Santa Fe Trail.

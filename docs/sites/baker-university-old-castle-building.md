@@ -13,7 +13,7 @@ date: 2018-11-24
   class="img-right"
   width="43%"
   caption="Old Castle Building (present day Castle Museum) source [Diana Staresinic-Deane](https://dianastaresinicdeane.wordpress.com/2013/09/29/sunday-snapshot-old-castle-museum-at-baker-university/)"
-  src="images/old-castle-museum.jpg"
+  image-url="old-castle-museum.jpg"
 %}
 
   Baker University first opened its doors to students in November 1858, in East Central Kansas, in the city of [Baldwin](https://www.visitbaldwincity.com/). The school holds the honor of being the first university in Kansas, Old Castle Hall was the first building of Baker University, and classes were held there through 1871. [^Historic-campus-architecture-project] Baldwin City is one of the oldest settlements in Kansas, located about 15 miles south of Lawrence, the city got its start during the opening days of [Kansas Territory](https://en.wikipedia.org/wiki/Kansas_Territory) when it was little more than a trail stop on the Santa Fe Trail. [^Santa-Fe-Trail-Association]
@@ -36,7 +36,7 @@ date: 2018-11-24
   class="img-right"
   width="43%"
   caption="Main Street of Baldwin City, KS 1911 source [Kathy Weiser/ Legends of Kansas](http://www.legendsofkansas.com/baldwincity.html)"
-  src="images/Baldwin-City-1911.jpg"
+  image-url="Baldwin-City-1911.jpg"
 %}
  
 ## Significance of the University
@@ -55,7 +55,7 @@ date: 2018-11-24
   class="img-right"
   width="50%"
   caption="Copy of a cartoon by Kansas artist Henry Worrall showing Kansas farmers battling grasshoppers 1874. source [Kansas Historical Society](https://www.kansasmemory.org/item/214827)"
-  src="images/baker-grasshoppers.jpg"
+  image-url="baker-grasshoppers.jpg"
 %}
   	
  
@@ -83,7 +83,7 @@ date: 2018-11-24
   class="img-right"
   width="50%"
   caption="Santa Fe Trail passing near Baldwin, KS. source [Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)"
-  src="images/old-castle-hall-map.jpg"
+  image-url="old-castle-hall-map.jpg"
 %}
 
   The Santa Fe Trail entered Douglas County near its southeast corner, a few miles east of [Blackjack Battle Field](http://www.blackjackbattlefield.org), from where it took a northwesterly course through Palmyra and on to Willow Springs. Here it turned to the southwest, passing close to Globe and Baden of later days and into Osage county about three miles north of the southwest corner of Douglas County. Wagon ruts are still visible at several locations in Douglas County.  To the east, in Johnson County, the trail splits from the [Oregon Trail](https://www.nps.gov/oreg/learn/historyculture/index.htm) and [California Trail](https://www.nps.gov/nr/travel/american_latino_heritage/California_National_Historic_Trail.html) near Gardner, Kansas. Trail ruts can easily be seen at the Ivan L. Boyd Prairie Preserve which is adjacent to the Battle of Black Jack site, at Black Jack Park near Baldwin City, KS. [^Santa-Fe-Trail-Association-three]

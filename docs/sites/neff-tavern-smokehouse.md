@@ -11,7 +11,7 @@ date: 2018-11-24
   class="img-right"
   width="33%"
   caption="The Neff tavern smokehouse was used to cure meat, sourced through hunting and farming in the region, as mostly venison and pork meat was processed.[^NPSForm]"
-  src="images/Neff_tavern_smokehouse_picture.PNG"
+  image-url="Neff_tavern_smokehouse_picture.PNG"
 %}
 
 The Neff Tavern Smokehouse was part of the Neff tavern complex, that offered shelter to travellers on the northern Santa Fe Trail close to Arrow Rock, Missouri in the late 18th century. [^NPSFormp1]  Throughout the history of the greater building as the Neff family residence, its inhabitants lived through many important stages of national American history: European immigration, westward migration and the Civil War. These events impacted the ongoing live and form of the tavern and its annex the smokehouse. 
@@ -29,7 +29,7 @@ The emergence of high traffic made a tavern be a place of high demand. Furthermo
   class="img-right"
   width="33%"
   caption="This picture was taken of a tavern in Illinois, which was built about the time as the Neff tavern smokehouse. Although smokehouses were inferior in their importance for the tavern building complex, it was built as massive as the main building.[^Number2]"
-  src="images/sunderlage-smokehouse_il.jpg"
+  image-url="sunderlage-smokehouse_il.jpg"
 %}
 
 ## Isaac's history
@@ -52,7 +52,7 @@ The Neff tavern is located on an unmarked street, west from the Missouri highway
   class="img-right"
   width="33%"
   caption="The location of the former tavern can be found through the orange circle. The map shows how related the Neff property was to the Santa Fe Trail is, as it goes through the posession [^NPSFormI]."
-  src="images/location_neff_tavern.png"
+  image-url="location_neff_tavern.png"
 %}
 
 ---

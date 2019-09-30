@@ -12,6 +12,7 @@ body {
   line-height: 1.4em;
   background-color: #fefefe;
   font-size: 15px;
+  margin-top:5rem;
 }
 
 main {
@@ -32,7 +33,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 2.5rem;
   text-align: center;
   margin-bottom:1em;
 }
@@ -40,26 +41,26 @@ h1 {
 .home-title h1 {
   font-family: 'Abril Fatface', sans-serif;
   color:#fff;
-  font-size: 4em;
+  font-size: 3rem;
   margin-top: -1.2em;
   margin-bottom: .2em;
 }
 
 h2 {
-  font-size: 2.3rem;
+  font-size: 1.8rem;
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 h4 {
-  font-size:1.5rem;
+  font-size:1.2rem;
 }
 
 h5 {
   text-transform:uppercase;
-  font-size:1.3rem;
+  font-size:1rem;
 }
 
 hr {
@@ -67,8 +68,6 @@ hr {
   height: 1px;
   border: 0;
   border-top: 1px solid #999;
-  margin: 0em 2rem;
-  padding: 0;
   clear:both;
 }
 
@@ -103,12 +102,11 @@ a:hover {
 }
 
 ul {
-  margin-bottom:1.4em;
+  margin-bottom:1rem;
 }
 
 li {
-  margin-bottom:.4em;
-  font-size:1.2rem;
+  margin-bottom:.4rem;
 }
 
 li ul li {
@@ -128,12 +126,12 @@ li ul li {
   font-style: italic;
 }
 
-.single-col aside {
+aside {
   width: 30%;
   float:right;
 }
 
-.single-col aside p{
+aside p{
   font-size:90%;
   line-height:1.6rem;
   padding:0 0rem;
@@ -142,19 +140,6 @@ li ul li {
   width:100%;
 }
 
-aside.pullquote {
-  border-top:.3rem solid #333;
-  border-bottom:.3rem solid #333;
-  margin-left:1rem;
-}
-
-aside.pullquote p{
-  font-family:'Oswald';
-  font-size:1.5rem;
-  padding: 1rem;
-  line-height:1.8rem;
-  text-align:left;;
-}
 
 aside.aside-right {
 float:left;

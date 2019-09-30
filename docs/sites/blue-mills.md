@@ -11,7 +11,7 @@ date: 2018-11-12
   class="img-right"
   width="33%"
   caption="Centennial Hotel"
-  src="images/little-blue-river.jpg"
+  image-url="little-blue-river.jpg"
 %}
 
 ## Positioned approximately halfway between Fort Osage and the town of Independence, Blue Mills was an important center for provisioning traders and settlers on the Santa Fe Trail between 1835 and the mid 1860s.

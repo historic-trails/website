@@ -10,7 +10,7 @@ date: 2018-11-24
   class="img-right"
   width="33%"
   caption="Alexander Majors house, Kansas City, 1856 [source]( https://www.flickr.com/photos/23711298@N07/18281558759/)"
-  src="images/alexander-majors-house.jpg"
+  image-url="alexander-majors-house.jpg"
 %}
 
 Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas city and is on [National register of historic buildings](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) [^WPAGuide1998i]. The house and the grounds were trading centers for 'Russell and Majors and Waddell' freighting firm and its also the house of Alexander majors house. This house ran alongside a dirt path, which is a state line road - a boundary between Kansas and Missouri, from West Port landing to the original Santa Fe trail. [^WornallMajorsHouseMuseumsi]
@@ -20,7 +20,7 @@ Alexander Majors House is one of the few [Antebellum period](https://www.encyclo
   class="img-right"
   width="33%"
   caption="**Alexander Majors house is on the east side of road near 85th street** [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
-  src="images/alexander-majors-house-location.jpg"
+  image-url="alexander-majors-house-location.jpg"
 %}
 
 The house is situated approximately 16 feet in front of the house which is Missouri and Kansas border , the then  US border [^NPSFormi].  The house sits looking westward which was strategically chosen from the businessman's perspective as Kansas Territory were untaxed and he had huge corrals, grazing lands, oxen pens, barns, wagons and blacksmith shops in the property.[^WornallMajorsHouseMuseumsii]
@@ -33,7 +33,7 @@ Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Lau
   class="img-left"
   width="33%"
   caption="Alexander Majors record breaking freight-hauler, creator of Pony Express [source](http://www.wornallmajors.org/welcome/the-alexander-majors-house/)"
-  src="images/alexander-majors-portrait.jpg"
+  image-url="alexander-majors-portrait.jpg"
 %}
 
 In August 1848 Majors started carrying freight from Independence to Santa Fe, New Mexico, an 800 mile distance [^Morton2012b]. Majors became the first western Missouri traders to freight supplies to Santa Fe after the [Mexican war](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War), he started with 6 wagons and made a round trip in a record time 92 days. The war with the Mexico ended, military presence in the south west made the journey safer [^Godfrey1994B]. Majors had increase in opportunities and success due opening of [Oregon Territory](https://en.wikipedia.org/wiki/Oregon_Territory) for settlement in 1848, [California gold fields](https://en.wikipedia.org/wiki/California_Gold_Rush) in 1849, expansion of military forts  in the west through 1850ś [^Morton2012c].  
@@ -45,7 +45,7 @@ Majors was particular in hiring trustworthy people and made them to pledge that 
   class="img-left"
   width="33%"
   caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72) [source](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg)"
-  src="images/alexander-majors-russell-waddell-images.jpg"
+  image-url="alexander-majors-russell-waddell-images.jpg"
 %}
 
 In 1855 he joined partnership with William H. Russell and William B. Waddell and contracted with US Government to freight supplies to army posts along Oregon and Santa Fe Trails  [^WoodMincer2000i]. They employed more than four thousand men and owned 3,500 wagons and nearly forty thousand oxen and 1000 mules [^Morton2012d]. Usually shipments were sent in a set of 25 wagons, 12 oxen, a teamster and each of that set had additional oxen, mules and men in case of emergency and soon the firm made about $300,000 profits in 1855-56 [^WPAGuide1998iii].
@@ -55,7 +55,7 @@ In 1855 he joined partnership with William H. Russell and William B. Waddell and
   class="img-right"
   width="33%"
   caption="Alexander Majors House & Barn located close to state line of Missouri and Kansas states [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
-  src="images/alexander-majors-house-site-plan.PNG"
+  image-url="alexander-majors-house-site-plan.PNG"
 %}
 
 The house is built in 1856 on 300 acre farmstead property on the state line purchased by Majors firm. This property served both as family home and headquarters for Majors freighting company [^WPAGuide1998iv]. Two years later the contract system changed, Majors wife died and he remarried, he decided to move his family to Nebraska city in 1858 to oversee the shipments to Utah and gave away the state line property to his daughter Rebecca [^Morton2012e] [^WPAGuide1998v].
@@ -65,7 +65,7 @@ The house is built in 1856 on 300 acre farmstead property on the state line purc
   class="img-left"
   width="100%"
   caption="Map of Pony Express 1860, created by William Henry Jackson an American artist in c. 1935, obtained & rendered by Gwillhickers and restored by Crisco 1492 [source](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=)"
-  src="images/alexander-majors-pony-express-route-map.PNG"
+  image-url="alexander-majors-pony-express-route-map.PNG"
 %}
 
 > The **Pony Express** began in April 1860 and **ran between St. Joseph, Missouri and Sacramento, California, it was a colourful chapter in American History**, which also benefited Majors freighting firm [^Godfrey1994vi].
@@ -78,7 +78,7 @@ In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Wa
   class="img-left"
   width="33%"
   caption="Pony Express, advertisement for its fast delivery and Job opening poster [source](hd.housedivided.dickinson.edu/node/17841)"
-  src="images/alexander-majors-pony-express-poster.jpg"
+  image-url="alexander-majors-pony-express-poster.jpg"
 %}
 
 Pony Express first ride began on April 3rd, 1860, run from St. Joseph centers which reached 2 hours late, contained 49 letters, 5 private telegrams and few papers for San Francisco. Before it was delivered to the first rider whose identity was unknown, Majors addressed the crowd how the Pony express is a ancestor/father of transcontinental railroad [^Godfrey1994viii].
@@ -91,7 +91,7 @@ In 1862, Russell, Majors and Waddell firm closed as they were bankrupt and in sc
   class="img-right"
   width="33%"
   caption="Alexander Majors House still owned by his family, 1860 [source](https://books.google.com/books?id=1YZ2CQAAQBAJ&printsec=frontcover&dq=Morton,+La+Lena+-+%27The+Waldo+story%27-The+home+of+friendly+merchants&hl=en&sa=X&ved=0ahUKEwjK37TxxZvfAhVJzlQKHQrKAqAQ6AEIKjAA#v=onepage&q&f=false - Chapter1-p13)"
-  src="images/alexander-majors-house-1860.PNG"
+  image-url="alexander-majors-house-1860.PNG"
 %}
 
 His old friend Buffalo Bill Cody arranged in publishing a book "Majors ś seventy years on the frontier" in 1893 by Rand McNally, which was one of the great narratives about the frontier west. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas city [^Morton2012g].
@@ -101,7 +101,7 @@ His old friend Buffalo Bill Cody arranged in publishing a book "Majors ś sevent
   class="img-right"
   width="33%"
   caption="Alexander Majors House side view, additions to 'T' floor plan [source](Alexander Majors House - 70000335.pdf. (n.d.))"
-  src="images/alexander-majors-house-side-view-image.PNG"
+  image-url="alexander-majors-house-side-view-image.PNG"
 %}
 
 Architectural style of the building is [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html), "T" shaped floor plan, 9 room two storied house in [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the third oldest houses with light wood frame construction in Kansas facing towards west [^NPSFormii].
@@ -115,7 +115,7 @@ The outbuildings next to the house no longer survive. There is a barn is approxi
   class="img-right"
   width="33%"
   caption="Alexander Majors House first floor plan, several modifications are made to stairway, central fireplace and fire places in kitchen, dining room & bedroom [source](Alexander Majors House - 70000335.pdf. (n.d.))"
-  src="images/alexander-majors-house-first-floor-plan.PNG"
+  image-url="alexander-majors-house-first-floor-plan.PNG"
 %}
 
 The house was sold to Mr. and Mrs. A. Louis Rhul in 1904 who later built additions to the house and owned it till 1924. The increase in residential growth, property was subdivided to development called Cresthills Acres [^Morton2012h]. The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) and few of them are enlarging dining room and master bedroom on second floor by the addition on southern extension of 'T' and terminates in a bay. The rooms sizes increased from 15 x 17 feet to 15 x 27 feet [^NPSFormiv].
@@ -133,7 +133,7 @@ In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and 
   class="img-right"
   width="33%"
   caption="Alexander Majors House second floor plan, several modifications are made to bathroom at the northern end, adding closets to western wall of master bedroom, moving the entrance of the door from north side to south [source](Alexander Majors House - 70000335.pdf. (n.d.))"
-  src="images/alexander-majors-house-second-floor-plan.PNG"
+  image-url="alexander-majors-house-second-floor-plan.PNG"
 %}
 
 In 1984, the Alexanders Majors House Museum is open to public for tours and events. In 2010, the house was joined with John Wornall house and museum and functioned together reinforcing the historic legacy of the area and house on the edge of the frontier [^Morton2012l]. Wornall-Majors Museum has organized events and celebrations like weddings, event rentals, on site photography, school field trips, summer camps, field trips, Holiday candlelight tours, birthday parties and private and group tours [^WornallMajorsHouseMuseumsiii].

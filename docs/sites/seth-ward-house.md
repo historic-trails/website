@@ -11,7 +11,7 @@ date: 2018-11-21
   class="img-right"
   width="50%"
   caption="Seth Ward House, home of the two most prominent traders in Missouri history [Source](http://hyperblogal.blogspot.com/2013/05/bent-ward-home-kansas-city-treasure.html)"
-  src="images/seth-ward-house.jpg"
+  image-url="seth-ward-house.jpg"
 %}
 
 Situated outside of the city limits of the town of Westport, Missouri, the site of the Ward Homestead has been associated with several prominent figures in the exploration, conquest, and settelement of the American West. Also, during the Civil War, major actions of the Battle of Westport occurred here. [^NRHP]
@@ -27,7 +27,7 @@ Positioned a quarter mile from the Kansas/Missouri state line, the Seth Ward Hou
   class="img-right"
   width="25%"
   caption="Fort Builder, Trader, and Indian Peace-Maker William Bent [Source](https://www.legendsofamerica.com/bent-brothers/)"
-  src="images/william-bent.jpg"
+  image-url="william-bent.jpg"
 %}
 
 In the early 1800s, the land that would become the town of Westport, Missouri was home to Plains Indians and Mormon settlers who traveled across the west in the quest of converting Native Americans. By 1838 the [Mormon Wars](https://en.wikipedia.org/wiki/1838_Mormon_War) had come to an end, and with that more settlers flooded into the Missouri region, eventually establishing the grassroots of the Seth Ward homestead. [^Shaw]  In 1858, prominent tradesman, fort builder, and Indain peace-maker William Bent purchased the farmland and soon built a larger two story brick home on the property.[^Lubers] Throughout the following decades, the house erected by Bent would endure a Civil War battle, the death of Bent himself, and the exchange of ownership to another distinguished frontiersman, Seth Ward.  William Bent was the founder of [Fort Bent](https://www.legendsofamerica.com/co-bentsfort/), located in present-day La Junta, Colorado. Fort Bent was created to trade with the Plains Indians and other trappers traders in a peaceful and economical manner. The fort was the only major white American settlement along the Santa Fe Trail between Mexico and Missouri. [^Weiser-Alexander] William Bent was a negotiator between Native American Tribes, which helped fuel the massive success of the trading empire he had created. Bent married three Cheyenne women who bore him five children, making him a Cheyenne sub-chief. Bent is considered to be the first permanent white settler in the area. [^Shaw]
@@ -42,7 +42,7 @@ In the early 1800s, the land that would become the town of Westport, Missouri wa
   class="img-right"
   width="50%"
   caption="The Gettysburg of the West claimed over 3,000 Union and Confederate lives and led to a decisive Union Vicotry in 1864. [Source](http://www.historynet.com/but-for-a-horse.htm)"
-  src="images/battle-of-westport.jpg"
+  image-url="battle-of-westport.jpg"
 %}
 
 On October 23, 1864 [Confederate Major General Sterling Price](https://en.wikipedia.org/wiki/Sterling_Price) led a legendary raid into Missouri in hopes of forcing the loss of a border state. If the raid was successful, Abraham Lincoln would have had faced a challenging reelection, allowing the Confederacy the chance to negotiate a settlement. However, this raid was met head on by the Army of Missouri, leading to the largest Civil War battle west of the Mississippi River, with Confederate forces numbering 8,500 troops and 22,000 Union soldiers. [^Beckenbaugh] The [Battle of Westport](https://en.wikipedia.org/wiki/Battle_of_Westport), often referred to as the "Gettysburg of the West," was a major Union victory. This battle occurred on the pastureland of the William Bent farmstead. With about 3,000 Union and Confederate casualties combined, the Battle of Westport is forever entrenched in the ground of the Bent-Ward property. Today, the battleground is now a part of the [Jacob L. Loose Park](https://en.wikipedia.org/wiki/Loose_Park) in Kansas City, Missouri.
@@ -59,7 +59,7 @@ On October 23, 1864 [Confederate Major General Sterling Price](https://en.wikipe
   class="img-right"
   width="18%"
   caption="Seth Ward was one of the most prominent residents of Westport, Missouri [Source](https://www.geni.com/people/Seth-Edmund-Ward/6000000000943820263)"
-  src="images/seth-ward.jpg"
+  image-url="seth-ward.jpg"
 %}
 Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate aficionado who purchased the homestead of the recently deceased William Bent, Ward's personal trading friend and partner, in 1871. Ward manned a prosperous mercantile store outside of Fort Laramie, Wyoming catering to the needs of settlers traveling westward as well as traders along the Santa Fe and Oregon Trails. [^Denver-Public-Library] Ward was a lucrative trader and trapper, learning these skills at a young age, which allowed him to understand the necesseties of the people he would encounter at a mercantile store. Ward tenured at [Fort Laramie](https://en.wikipedia.org/wiki/Fort_Laramie_National_Historic_Site) from 1848 to 1871, when he moved his wife and children to Westport, Missouri. Ward built another small brick home in addition to the massive home constructed by William Bent that was already on the property. Ward's considerable wealth and skills made him a prominent figure in Westport and helped bring commerce to the area. Ward died in 1903, but his legacy remained in Kansas City history, including [Ward Parkway](https://en.wikipedia.org/wiki/Ward_Parkway), a boulevard dedicated to the distinguished tradesman. The Seth Ward house was added to the [National Register of Historic Places](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf) in 1979. (NRHP)
 

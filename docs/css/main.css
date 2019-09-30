@@ -17,23 +17,27 @@ body {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.4em;
   background-color: #fefefe;
-  font-size: 15px;
+  font-size: 12px;
+  margin-top: 4em;
 }
 
 .navbar {
   background-color:#00274c;
   color:#efefef;
   margin:0;
+  height:4em;
 }
 
 .navbar-nav .nav-item a.nav-link, .navbar-nav a.navbar-brand {
   color:#ccc;
   border-bottom:none;
+  font-weight:normal;
 }
 
 .navbar-nav .nav-item a.nav-link:visited, .navbar-nav a.navbar-brand:visited {
   color:#ccc;
   border-bottom:none;
+  font-weight:normal;
 }
 
 .navbar-inverse .navbar-brand {
@@ -51,6 +55,10 @@ body {
 
 .nav-item {
   background:
+}
+
+li.nav-item {
+  margin-bottom:0;
 }
 
 
@@ -279,15 +287,6 @@ ul {
   margin-bottom:1.4em;
 }
 
-.lg-left-col ul {
-  width:62%
-}
-
-li {
-margin-bottom:.4em;
-font-size:1.2rem;
-}
-
 li ul li {
   color:#666666;
   list-style: none;
@@ -299,13 +298,6 @@ main {
   margin: 0 1.5%;
 }
 
-.lg-left-col p {
-    width: 63%;
-}
-
-.full-width {
-  margin-bottom:2rem;
-}
 
 .full-width p {
   width:100%;
@@ -329,58 +321,9 @@ main {
 }
 
 
-.lg-left-col aside {
-position:absolute;
-width: 30%;
-float:left;
+.highlight {
+  background-color:#ccc;
 }
-
-.lg-left-col aside p{
-  font-size:90%;
-  line-height:1.6rem;
-  padding:0 0rem;
-  margin:0;
-  text-align:left;
-  width:100%;
-}
-
-
-
-aside.pullquote {
-  border-top:.3rem solid #333;
-  border-bottom:.3rem solid #333;
-  margin-left:1rem;
-}
-
-aside.pullquote p{
-  font-family:'Oswald';
-  font-size:1.5rem;
-  padding: 1rem;
-  line-height:1.8rem;
-  text-align:left;;
-}
-
-aside.aside-right {
-float:left;
-margin-left:64%;
-}
-
-aside.aside-left {
-float:left;
-left:0;
-margin:0 1rem 0 0;
-margin-top:.6rem;
-}
-
-
-.lg-left-col .pullquote p{
-    font-size:130%;
-    font-family:'Raleway';
-    font-size:130%;
-    padding: 1rem 0;
-    line-height:2.3rem;
-}
-
 
 /*****************************************************
 IMAGES
@@ -392,16 +335,6 @@ figure.img-right-col {
   position:absolute;
   width: 30%;
   margin-left:64%;
-}
-
-.img-right-side {
-  display:inline;
-  clear:none;
-  float:right;
-  margin-right:-140px;
-  /* no bottom padding; handled with caption */
-  padding:0 0px 0px 0em;
-  width:250px;
 }
 
 figure {
@@ -429,7 +362,6 @@ figure {
 }
 
 figcaption {
-  font-size: 1rem;
   color:#888;
   font-family: 'Oxygen', sans-serif;
   display:block;
@@ -457,6 +389,7 @@ figcaption p {
   margin:0;
   padding:0;
   line-height: 1.2rem;
+  font-size:.8rem;
 }
 
 figcaption a {
@@ -476,19 +409,14 @@ footer {
 /*****************************************************
 DIRECTORY CARDS
 *****************************************************/
-.headshot {
-float:left;
-width:150px;
-margin-right:2rem;
-}
-
 .card {
 width:21%;
 min-width:235px;
-height:350px;
+height:400px;
 margin: 3rem 2rem 0rem 0;
 float:left;
 opacity:.8;
+font-size:12px;
 }
 
 .card:hover {
@@ -524,30 +452,19 @@ height:50%;
 
 .card h4 {
 font-family:'Open Sans';
-font-size:1.8rem;
+font-size:1.2rem;
 margin-top:.5rem;
 }
 
 .card-text {
-font-size:1.2rem;
+font-size:.8rem;
 font-weight:normal;
-}
-
-
-.card-home {
-width:49%;
-margin-right:0;
-}
-
-.card-img-top-home {
-height:250px;
 }
 
 
 /*****************************************************
 IMAGE CAROUSEL
 *****************************************************/
-
 
 .slick-slide img {
 padding:0 2rem;

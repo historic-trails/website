@@ -8,7 +8,7 @@ date: 2018-14-12
 # The Las Vegas Plaza #
 
 
-{% include figure.html class="img-right" width="33%" caption="Corner Of Las Vegas Plaza" src="images/PlazaDrugs.JPG" %}
+{% include figure.html class="img-right" width="33%" caption="Corner Of Las Vegas Plaza" image-url="PlazaDrugs.JPG" %}
 
 Scenic Las Vegas New Mexico is a city founded with strong historic roots in the Santa Fe Trail. The Plaza acts as a centerpiece for the town and represents a continued dedication to the town’s important origins. Las Vegas was founded in 1838 as a land grant approved by Governor Francisco Sarracino. Las Vegas began as part of the growing effort to expand Mexican settlements along the Santa Fe Trail; it quickly became an essential stop for the extraordinary pioneers, explorers, and traders. But, As result of the Spanish American war New Mexico was annexed by the United States thus trading ownership of the land to the United States. Las Vegas remained an important stop along the Santa Fe Trail allowing it to remain economically resilient as unique encapsulation of the western ethos. 
 
@@ -24,7 +24,7 @@ By August 15, 1846 the town had undergone several modifications and had been sig
 
 ## Las Vegas on the Trail ##
 
-{% include figure.html class="img-right" width="33%" caption="Plaza Hotel" src="images/PlazaHotelFront1.JPG" %}
+{% include figure.html class="img-right" width="33%" caption="Plaza Hotel" image-url="PlazaHotelFront1.JPG" %}
 
 Between its founding and the beginning of the Civil War, Las Vegas thrived as frontier town operating on the Santa Fe Trail. Records Traveler, trader and military accounts describe a small but thriving town growing off the commerce brought by the trail, *"As we drew near Las Vegas we noted that the "bottoms" of the little creek running near the town were cultivated in corn, with occasional patches of vegetables, the land enclosed by fences, but flanked by irrigation ditches supplying the necessary water and the crops were looking remarkably well, although the weather had been dry for some weeks...Las Vegas was a compactly-built town of probably two or three hundred inhabitants, the houses are for the most part built of adobe bricks or tufts of sod, with a corral in the rear. The herds...were driven in about sunset."*[^2]: Las Vegas had begun to be documented the increasing stability and buildup of the town. The town was simple yet thriving, despite it being a architecturally simple town. On July 4, 1879 the railroad was brought to Las Vegas and with it came influx of new American architectural styles utilizing stone-cut bricks, most notable was Victorian style buildings which heavily influenced the new redesigns of the buildings that formed the plaza. Most of these buildings underwent various changes but the most notable of the plaza structures that remained largely unchanged was the three-story plaza hotel that appeared as a cornerstone gem to the town. The Plaza Hotel[^3] was among the various Victorian style buildings that made up the plaza. 
 
@@ -45,7 +45,7 @@ The railroad brought with it an assortment of problems, but most prevalent were 
 
 ## Railroads and Las Vegas Today ##
 
-{% include figure.html class="img-right" width="33%" caption="Historic Map of Las Vegas NM" src="images/plazamap.JPG" %}
+{% include figure.html class="img-right" width="33%" caption="Historic Map of Las Vegas NM" image-url="plazamap.JPG" %}
 
 Las Vegas was one of first towns to receive significant access to booming rail industry. When it did wagon traffic through Las Vegas declined heavily and became a town devoted to the railroad. The well at the center of town was eventually filled in and replaced with park. However, the Plaza was located west of Gaillenas River that had formed one of the natural boarders in the town center making it difficult to lay tracks near the plaza. So train station was established in the new town East Las Vegas forming a heated rivalry between two locales. Commerce diverted from West Las Vegas, which held the plaza, and led to noticeable decline to the livelihood of the Western town. The dramatic booming tourist industry declined steadily and the Western ethos began fading slowly bringing about a much more Americanized civilization imported from the East. The rivalry between the two towns was accentuated by the clashing economies driving up a sense of importance from both towns. Unforntuantely one of the primary cultural results of this divide were racial stereotypes being attached to side town citizens lived in.[^7] East and West Las Vegas were eventually combined into one singular town during the 1970’s but still faces decline due to depressed economy rooted firmly in historic tourism and the New Mexico Highlands University. Las Vegas is still considerably large with a stabile population and an impressive amount of historical tourism present mostly centered on its history as a frontier town, outlaw mysticism, and railroad legacy. The town is currently intent on preserving its physical historical legacy through its buildings and infrastructure of the plaza. 
 
