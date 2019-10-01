@@ -18,13 +18,14 @@
 
   <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot-number.css" rel="stylesheet">
 
   <link href="{{site.baseurl}}/assets/css/main.css" rel="stylesheet">
   <link href="{{site.baseurl}}/assets/css/essay.css" rel="stylesheet">
+  {% if page.css %}
   <link href="{{site.baseurl}}/assets/css/{{page.css}}" rel="stylesheet">
-  <link href="{{site.baseurl}}/assets/css/bigfoot-number.css" rel="stylesheet">
+  {% endif %}
 
 
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->

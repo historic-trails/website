@@ -1,11 +1,32 @@
-<figure class="{{ include.class }}" style="width: {{include.width | default: '33%' }}">
-  {% unless include.abs-image-url %}
-    {% assign img-path =  include.image-url | prepend: "images/" %}
-  {% else %}
-    {% assign img-path =  include.image-url %}
-  {% endunless %}
-  <a class="image" href="{{ img-path }}"><img src="{{ img-path }}" alt="{{ include.caption }}" width="100%"></a>
+{% if include.abs-image-url %}
+  {% capture img-url %}
+    {{ site.baseurl }}{{ include.image-url }}
+    {% endcapture %}
+{% else %}
+  {% capture img-url %}
+    {{ site.baseurl }}{{site.essay-images}}/{{ include.image-url }}
+  {% endcapture %}
+{% endif %}
+
+
+{% if include.source-url %}
+
+{% capture full-caption %}
+  {{ include.caption | markdownify | remove: '<p>' | remove: '</p>'}} [<a href="{{ include.source-url }}">source</a>]
+{% endcapture %}
+
+{% else %}
+
+{% capture full-caption %}
+  {{ include.caption | markdownify | remove: '<p>' | remove: '</p>' }}
+{% endcapture %}
+
+{% endif %}
+
+<figure class="{{ include.class }}" style="width:{{include.width | default: '40%'}}">
+  <a class="image" href="{{ img-url }}"><img src="{{ img-url }}" alt="{{ include.caption }}" width="100%"></a>
+
 <figcaption class="{{ include.class }}">
-  {{ include.caption | markdownify }} {% if include.source-url %} [<a href="{{ include.source-url }}">source</a>] {% endif %}
+  {{ full-caption }}
 </figcaption>
 </figure>
