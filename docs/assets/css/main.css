@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 
 
@@ -61,13 +60,9 @@ li.nav-item {
   margin-bottom:0;
 }
 
-
-.lg-left-col div.highlighter-rouge {
-  width:64%;
 }
-
   .main {
-    margin-top:0px;
+    margin: 0 1.5%;
   }
 
   .container-fluid {
@@ -78,70 +73,6 @@ li.nav-item {
     margin: 0 15%;
   }
 
-  .lg-left-col {
-    margin: 0 1.5%;
-  }
-
-
-/*****************************************************
-MAP PAGE
-*****************************************************/
-
-
-
-#mapid {
-    width: 100%;
-    height: 100%;
-}
-
-#slider {
-  margin:1em 1em;
-}
-
-.leaflet-popup, .leaflet-popup-content-wrapper {
-  min-width:40rem;
-  clear:both;
-  //float:left;
-}
-
-.map-popup {
-  margin:0rem 0 1rem;
-}
-
-.map-popup img {
-  height:60px;
-  width:60px;
-  float:left;
-  margin-right:1rem;
-  clear:both;
-}
-
-.map-popup h3{
-  font-family:'Oswald';
-  font-size:1.2rem;
-  margin:0;
-  padding:0;
-}
-
-.map-popup h4{
-  font-family:'Oswald';
-  margin:1rem 0 0 0;
-  padding:0;
-}
-
-.map-popup p {
-  padding:0;
-  margin:.4rem 0 1rem 0;
-  line-height:1.4rem;
-}
-
-.map-popup a:hover {
-  text-decoration:none;
-}
-
-.leaflet-popup-content a:hover{
-  text-decoration:none;
-}
 
 
 /*****************************************************
@@ -329,14 +260,6 @@ main {
 IMAGES
 *****************************************************/
 
-
-figure.img-right-col {
-  float:left;
-  position:absolute;
-  width: 30%;
-  margin-left:64%;
-}
-
 figure {
   margin-bottom:0;
   clear:none;
@@ -467,7 +390,7 @@ IMAGE CAROUSEL
 *****************************************************/
 
 .slick-slide img {
-padding:0 2rem;
+  padding:0 2rem;
 }
 
 .slick-prev:before, .slick-next:before { font-family: FontAwesome; font-size: 40px; line-height: 1; color: gray; opacity: 0.5; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
@@ -480,29 +403,26 @@ padding:0 2rem;
 [dir="rtl"] .slick-next:before { content: "\f053"; }
 
 .carousel img{
-max-width:100%;
+  max-width:100%;
 }
 
 p.carousel-caption {
-color:black;
-text-align:left;
-font-face:'Open Sans';
-font-size:1.4rem;
-text-shadow:none;
-border:0px solid black;
-line-height:1.8rem;
-bottom: 0;
-left: 0;
-position: relative;
-width: 100%;
-z-index: 2;
-color:#666;
-padding:0;
-margin:.5rem 0 0 2rem;
+  color:black;
+  text-align:left;
+  font-face:'Open Sans';
+  font-size:1.4rem;
+  text-shadow:none;
+  border:0px solid black;
+  line-height:1.8rem;
+  bottom: 0;
+  left: 0;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+  color:#666;
+  padding:0;
+  margin:.5rem 0 0 2rem;
 }
-
-
-
 
 
 } /* end media screen */

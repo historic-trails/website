@@ -15,10 +15,6 @@ body {
   margin-top:5rem;
 }
 
-main {
-  margin: 0 1.5%;
-}
-
 p {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6em;
@@ -157,120 +153,6 @@ margin-top:.6rem;
 /*****************************************************
 IMAGES
 *****************************************************/
-
-.jumbotron {
-  margin-bottom: 2rem;
-  opacity:.6;
-  background-position: 0% 25%;
-  text-align:center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: white;
-  //text-shadow: black 0.3em 0.3em 0.3em;
-  max-height: 60%;
-  }
-
-  .jumbotron p {
-    text-align:center;
-  }
-
-
-figure {
-  margin-bottom:0;
-  clear:none;
-  margin:none;
-  /* no bottom padding; handled with caption */
-}
-
-.img-right {
-  float:right;
-  padding:0 0px 0px 2rem;
-  text-align:left;
-}
-
-.img-left {
-  float:left;
-  padding:0 2rem 0px 0px;
-}
-
-.img-center {
-  text-align:center;
-  margin-left:auto;
-  margin-right:auto;
-}
-
-figcaption {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 1rem;
-  color:#888;
-  display:block;
-  margin:.4rem 0 2rem 0;
-  line-height: 1.1rem;
-  clear:both;
-}
-
-figcaption.img-right {
-  text-align: justify;
-  padding:0 0px 0px 0rem;
-}
-
-figcaption.img-left {
-  text-align: justify;
-  padding:0;
-}
-
-figcaption.img-center {
-  text-align:justify;
-  padding:0;
-}
-
-figcaption p {
-  margin:0;
-  padding:0;
-  line-height: 1.2rem;
-
-}
-
-
-/*****************************************************
-IMAGE CAROUSEL
-*****************************************************/
-
-.slick-slide img {
-  padding:0 2rem;
-}
-
-.slick-prev:before, .slick-next:before { font-family: FontAwesome; font-size: 40px; line-height: 1; color: gray; opacity: 0.5; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
-
-.slick-prev:before { content: "\f053"; margin-right:5rem;}
-[dir="rtl"] .slick-prev:before { content: "\f054"; }
-
-[dir="rtl"] .slick-next { left: -10px; top: 70px; right: auto; }
-.slick-next:before { content: "\f054"; }
-[dir="rtl"] .slick-next:before { content: "\f053"; }
-
-.carousel img{
-  max-width:100%;
-}
-
-p.carousel-caption {
-  color:black;
-  text-align:left;
-  font-face:'Open Sans';
-  font-size:1.4rem;
-  text-shadow:none;
-  border:0px solid black;
-  line-height:1.8rem;
-  bottom: 0;
-  left: 0;
-  position: relative;
-  width: 100%;
-  z-index: 2;
-  color:#666;
-  padding:0;
-  margin:.5rem 0 0 2rem;
-}
-
 
 } /* end media screen */
 
