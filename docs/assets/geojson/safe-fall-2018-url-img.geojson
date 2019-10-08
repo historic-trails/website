@@ -44,7 +44,7 @@
         "State": "NM",
         "site_name": "Fort Marcy",
         "teaser": "Fort Marcy served as an important symbol of the American rule of New Mexico during the Mexican American War.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/fort-marcy",
+        "url": "/sites/fort-marcy",
         "image_filename": "marcyxchurch.jpg"
       },
       "geometry": {

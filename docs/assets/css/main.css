@@ -12,13 +12,13 @@
     display:none;
   }
 
-body {
-  font-family: 'Open Sans', sans-serif;
-  line-height: 1.4em;
-  background-color: #fefefe;
-  font-size: 12px;
-  margin-top: 4em;
-}
+  body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.4em;
+    background-color: #fefefe;
+    font-size: 15px;
+  }
+
 
 .navbar {
   background-color:#00274c;
@@ -61,9 +61,6 @@ li.nav-item {
 }
 
 }
-  .main {
-    margin: 0 1.5%;
-  }
 
   .container-fluid {
     text-align:left;
@@ -81,7 +78,6 @@ HOME PAGE
 
 .jumbotron {
     margin-bottom: 2rem;
-    background-image: url('../images/church.jpg');
     opacity:.6;
     background-position: 0% 25%;
     text-align:center;
@@ -104,79 +100,52 @@ p {
 }
 
 /*****************************************************
-HEADERS
+TYPOGRAPHY
 *****************************************************/
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Abril Fatface', sans-serif;
+  font-family: 'Georgia', sans-serif;
   text-align:left;
   margin: 3rem 0 .4rem 0;
 }
 
 h1 {
-  font-family: 'Abril Fatface', sans-serif;
-  font-weight: 700;
-  font-size: 4rem;
+  font-size: 2.5rem;
   text-align: center;
   margin-bottom:1em;
 }
 
-
 .home-title h1 {
   font-family: 'Abril Fatface', sans-serif;
   color:#fff;
-  font-size: 4em;
+  font-size: 3rem;
   margin-top: -1.2em;
   margin-bottom: .2em;
 }
 
-h1#page-title {
-  margin-bottom:1rem;
-  color:#111;
-  text-shadow: #666 0.2em 0.2em 0.2em;
-
-}
-
-p#page-subtitle {
-color:#000;
-font-family: 'Georgia', sans-serif;
-font-weight:0;
-text-shadow: #666 0.3em 0.3em 0.3em;
-font-size: 1.8em;
-}
-
 h2 {
-  font-size: 2.3rem;
+  font-size: 1.8rem;
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 h4 {
-  font-size:1.5rem;
-  text-transform:uppercase;
-  font-weight:bold;
+  font-size:1.2rem;
 }
 
 h5 {
   text-transform:uppercase;
-  font-size:1.4rem;
+  font-size:1rem;
 }
 
 hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #999;
-    margin: 1em 0;
-    padding: 0;
-    clear:both;
-}
-
-hr {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #999;
+  clear:both;
 }
 
 p.abstract {
@@ -193,29 +162,34 @@ p.author {
   text-transform: uppercase;
   color:#666;
 }
-
 blockquote {
   margin: -1em 4em 1em 4em;
   font-size: 90%;
   border:none;
 }
 
-
 a {
-  color: #337ab7;
-  color: #9a4031;
+  color: #005999;
+  font-weight:bold;
+  border-bottom: 2px dotted #87a7be;
 }
 
-a:visitd {
- color: #9a4031;
+a:visited {
+ color: #44136c;
+ border-bottom: 2px dotted #956cb7;
 }
 
 a:hover {
- color: #9a4031;
+  text-decoration:none;
 }
 
+
 ul {
-  margin-bottom:1.4em;
+  margin-bottom:1rem;
+}
+
+li {
+  margin-bottom:.4rem;
 }
 
 li ul li {
@@ -224,37 +198,60 @@ li ul li {
   margin-bottom:1em;
 }
 
-
-main {
-  margin: 0 1.5%;
+.full-width {
+  margin-bottom:2rem;
 }
-
 
 .full-width p {
   width:100%;
   padding: 0 15%;
   margin:0;
-  font-style:italic;
+  font-style: italic;
 }
 
-.single-col aside {
-  width: 30%;
-  float:right;
-}
-
-.single-col aside p{
-  font-size:90%;
-  line-height:1.6rem;
-  padding:0 0rem;
-  margin:0;
-  text-align:left;
-  width:100%;
-}
 
 
 .highlight {
   background-color:#ccc;
 }
+
+
+
+/*****************************************************
+PULLQUOTES
+*****************************************************/
+
+
+aside {
+  border-top:.3rem solid black;
+  border-bottom:.3rem solid black;
+  margin: 1rem 0 1rem 0;
+}
+
+aside p{
+  font-size:90%;
+  font-weight:bold;
+  text-align:justify;
+  line-height:1.2rem;
+  padding:0;
+  margin:0;
+  width:100%;
+}
+
+
+aside.right {
+float:right;
+margin-left: 1rem;
+
+}
+
+aside.left {
+float:left;
+left:0;
+margin-right: 1rem;
+margin-top:.6rem;
+}
+
 
 /*****************************************************
 IMAGES
@@ -288,7 +285,8 @@ figcaption {
   color:#888;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:.4rem 0 2rem 0;
+  font-size:.8rem;
+  margin:.4rem 0 1rem 0;
   clear:both;
   line-height: 1.1rem;
 }

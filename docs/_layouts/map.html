@@ -1,5 +1,92 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html>
 
-{{ content }}
+{% include header-default.html %}
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css' rel='stylesheet' />
+
+<link href='/assets/css/map.css' rel='stylesheet' />
+
+<body>
+
+{% include nav.html %}
+
+<div class="main container">
+
+<div id='map'></div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ';
+const map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/mapbox/streets-v11',
+  center: [-101.062327, 36.481559],
+  zoom: 5.0
+});
+
+map.on('load', function () {
+
+	map.addLayer({
+      "id": "markers",
+      "type": "circle",
+      "source": {
+   		type: 'geojson',
+   		data: '/assets/geojson/safe-places.geojson'
+   	},
+      "paint": {
+          "circle-radius": 10,
+          "circle-color": "#ff442b",
+          "circle-opacity": 0.2,
+       }
+  	})
+
+  	map.addLayer({
+      "id": "fall-2018-markers",
+      "type": "circle",
+      "source": {
+   		type: 'geojson',
+   		data: '/assets/geojson/safe-fall-2018-url-img.geojson'
+   	},
+      "paint": {
+          "circle-radius": 10,
+          "circle-color": "#4ceef0",
+          "circle-opacity": .5,
+       }
+  	})
+});
+
+var popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: true
+    });
+
+map.on('click', 'markers', function (e) {
+
+  popup.setLngLat(e.features[0].geometry.coordinates)
+    .setHTML('<div class="map-popup"><h3>' + e.features[0].properties.Site_Name + '</h3><p>' + e.features[0].properties.COUNTY + ', ' + e.features[0].properties.STATE +'</p></div>')
+    .addTo(map);
+});
+
+
+map.on('mouseenter', 'fall-2018-markers', function (e) {
+
+  popup.setLngLat(e.features[0].geometry.coordinates)
+    .setHTML('<div class="map-popup"><h3>' + '<a href=' + '"' + e.features[0].properties.url + '"' + '>' + e.features[0].properties.site_name + '</a>' + '</h3><p>' + e.features[0].properties.teaser + '</p></div>' )
+    .addTo(map);
+});
+/*
+  map.on('mouseleave', 'fall-2018-markers', function() {
+          map.getCanvas().style.cursor = '';
+          popup.remove();
+  })
+*/
+</script>
+
+
+</div> <!-- /main -->
+
+{% include bottom-js.html %}
+
+</body>
+</html>
