@@ -1,6 +1,6 @@
 ---
 title: Santa Fe Trail Sites
-layout: single-col
+layout: base
 date: 2018-12-12
 ---
 
