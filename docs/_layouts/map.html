@@ -70,9 +70,10 @@ map.on('click', 'markers', function (e) {
 
 
 map.on('mouseenter', 'fall-2018-markers', function (e) {
-
+  url = "sites/" + e.features[0].properties.url;
+  image_path = "sites/images/" + e.features[0].properties.image_filename;
   popup.setLngLat(e.features[0].geometry.coordinates)
-    .setHTML('<div class="map-popup"><h3>' + '<a href=' + '"' + e.features[0].properties.url + '"' + '>' + e.features[0].properties.site_name + '</a>' + '</h3><p>' + e.features[0].properties.teaser + '</p></div>' )
+    .setHTML('<div class="map-popup"><img src="' + image_path +'"/><h3>' + '<a href=' + '"' + url + '"' + '>' + e.features[0].properties.site_name + '</a>' + '</h3><p>' + e.features[0].properties.teaser + '</p></div>' )
     .addTo(map);
 });
 /*

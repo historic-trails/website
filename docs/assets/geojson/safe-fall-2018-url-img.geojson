@@ -8,7 +8,7 @@
         "State": "KS",
         "site_name": "Mahaffie Farmstead",
         "teaser": "The Mahaffie House provided food, shelter, and hospitality to travelers along the Santa Fe Trail.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/mahaffie-house",
+        "url": "mahaffie-house",
         "image_filename": "mahaffie-modern.jpg"
       },
       "geometry": {
@@ -26,7 +26,7 @@
         "State": "KS",
         "site_name": "Fort Larned National Historic Site",
         "teaser": "Fort Larned is a surviving example of US law enforcement on historic trails.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/Fort-larned",
+        "url": "Fort-larned",
         "image_filename": ""
       },
       "geometry": {
@@ -44,7 +44,7 @@
         "State": "NM",
         "site_name": "Fort Marcy",
         "teaser": "Fort Marcy served as an important symbol of the American rule of New Mexico during the Mexican American War.",
-        "url": "/sites/fort-marcy",
+        "url": "fort-marcy",
         "image_filename": "marcyxchurch.jpg"
       },
       "geometry": {
@@ -62,7 +62,7 @@
         "State": "NM",
         "site_name": "Las Vegas Plaza",
         "teaser": "The Las Vegas Plaza was a premier stop on the Santa Fe Trail, host to many amenities like hotels, bars, and shops.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/las-vegas-plaza-historic-district",
+        "url": "las-vegas-plaza-historic-district",
         "image_filename": "PlazaDrugs.JPG"
       },
       "geometry": {
@@ -80,7 +80,7 @@
         "State": "MO",
         "site_name": "Lewis Jones House",
         "teaser": "The Lewis Jones House is essential to the history of Independence, Missouri--the gateway to exploration of the American West.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/lewis-jones-house",
+        "url": "lewis-jones-house",
         "image_filename": "lewis-jones-house-photo.jpg"
       },
       "geometry": {
@@ -98,7 +98,7 @@
         "State": "MO",
         "site_name": "Neff Tavern Site",
         "teaser": "Isaac Neff's tavern and smokehouse provided travelers with shelter and food.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/neff-tavern-smokehouse",
+        "url": "neff-tavern-smokehouse",
         "image_filename": "Neff_tavern_smokehouse_picture.PNG"
       },
       "geometry": {
@@ -116,7 +116,7 @@
         "State": "NM",
         "site_name": "Raton Pass",
         "teaser": "Raton Pass shaped surrounding economies and impacted the formation of the American West.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/raton-pass",
+        "url": "raton-pass",
         "image_filename": "raton-pass-chain-guards.jpg"
       },
       "geometry": {
@@ -134,7 +134,7 @@
         "State": "NM",
         "site_name": "San Miguel del Vado",
         "teaser": "This historic village was a popular crossing of the Pecos River.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/san-miguel-del-vado",
+        "url": "san-miguel-del-vado",
         "image_filename": "san-miguel-del-vado-church.jpg"
       },
       "geometry": {
@@ -152,7 +152,7 @@
         "State": "MO",
         "site_name": "Seth Ward House",
         "teaser": "Prominent traders William Bent and Seth Ward occupied this house at different times.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/seth-ward-house",
+        "url": "seth-ward-house",
         "image_filename": "bent-ward-house.jpg"
       },
       "geometry": {
@@ -170,7 +170,7 @@
         "State": "MO",
         "site_name": "Alexander Majors House",
         "teaser": "Alexander Majors, one of the men behind the Pony Express, made his home here.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/alexander-majors-house",
+        "url": "alexander-majors-house",
         "image_filename": "alexander-majors-house-1860.PNG"
       },
       "geometry": {
@@ -188,7 +188,7 @@
         "State": "KS",
         "site_name": "Council Grove Historic District",
         "teaser": "Council Grove's historic downtown served as an important stopover point along the Santa Fe Trail.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/council-grove-downtown-historic-district",
+        "url": "council-grove-downtown-historic-district",
         "image_filename": "council-grove-downtown-historic-district.jpg"
       },
       "geometry": {
@@ -206,7 +206,7 @@
         "State": "KS",
         "site_name": "Lanesfield School",
         "teaser": "This schoolhouse is the last remnant of Lanesfield, a mail stop along the trail.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/lanesfield-school",
+        "url": "lanesfield-school",
         "image_filename": "lanesfield-school.jpg"
       },
       "geometry": {
@@ -224,7 +224,7 @@
         "State": "KS",
         "site_name": "Baker University Old Castle Hall",
         "teaser": "Part of the oldest university in Kansas, this structure dates back to the 1850s.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/baker-university-old-castle-building",
+        "url": "baker-university-old-castle-building",
         "image_filename": "old-castle-building.jpeg"
       },
       "geometry": {
@@ -242,7 +242,7 @@
         "State": "NM",
         "site_name": "La Cueva Historic District",
         "teaser": "The La Cueva Historic District consists of a mill, a mission, a hacienda, a farm, and a system of acequias.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/la-cueva-historic-district",
+        "url": "la-cueva-historic-district",
         "image_filename": "la-cueva-acequia.JPG"
       },
       "geometry": {
@@ -260,7 +260,7 @@
         "State": "MO",
         "site_name": "Blue Mills",
         "teaser": "The Blue Mills area was a crucial outfitting stop, as well as an important river crossing.",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/blue-mills",
+        "url": "blue-mills",
         "image_filename": "little-blue-river.jpg"
       },
       "geometry": {
@@ -278,7 +278,7 @@
         "State": "NM",
         "site_name": "St. Vrain's Mill",
         "teaser": "St. Vrain's fireproof mill helped replace mill lost and was used to feed nearby forts. ",
-        "url": "https://historic-trails.github.io/santa-fe-itinerary/sites/stvrain-mill",
+        "url": "stvrain-mill",
         "image_filename": "stvrain-mill.jpg"
       },
       "geometry": {
