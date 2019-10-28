@@ -17,7 +17,7 @@ Alexander Majors House is one of the few [Antebellum period](https://www.encyclo
 
 ## Location
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="**Alexander Majors house is on the east side of road near 85th street** [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
   image-url="alexander-majors-house-location.jpg"
