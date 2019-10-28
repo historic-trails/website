@@ -7,7 +7,7 @@ date: 2018-11-19
 
 # Mahaffie House
 
-Positioned in northeastern Kansas just southwest of [Independence, Missouri](https://en.wikipedia.org/wiki/Independence,_Missouri), the Mahaffie farmstead was an important stage stop along the [Santa Fe Trail](https://www.nps.gov/safe/index.htm) where travelers stocked up for their journey westward. the house is a rare historical structure with good integrity and enough space to accommodate the visiting public who desire a taste of Kansas's pioneer spirit.
+Positioned in northeastern Kansas just southwest of [Independence, Missouri](https://en.wikipedia.org/wiki/Independence,_Missouri), the Mahaffie farmstead was an important stage stop along the [Santa Fe Trail](https://www.nps.gov/safe/index.htm) where travelers stocked up for their journey westward. The house is a rare historical structure with good integrity and enough space to accommodate the visiting public who desire a taste of Kansas's pioneer spirit.
 
 ## Historic Significance
 The Mahaffie House and its surrounding outbuildings constituted the first hotel and stage station in its section of [Johnson County, Kansas](https://en.wikipedia.org/wiki/Johnson_County,_Kansas). As a whole, the property is testament to the ways that private citizens far from Santa Fe helped open trade with Mexico. Present-day visitors can see the contrast between northeastern Kansas's rural past and its modern urbanized form. The unchecked growth of nearby [Kansas City](https://en.wikipedia.org/wiki/Kansas_City_metropolitan_area) makes the preservation of the Mahaffie House--an important link to Johnson County's yesteryears--even more vital.[^REGISTER1] The house is the only known Santa Fe Trail stage station that remains open to members of the public.[^CMP2]
@@ -32,7 +32,7 @@ The Santa Fe Trail ran right across the southwest corner of the property, provid
 ## Who Was J.B. Mahaffie?
 James Beatty Mahaffie was born in Ohio in 1817; he married Lucinda Henderson in 1844. When he first arrived in Kansas in 1857, he found that [proslavery Missourians](http://www.civilwaronthewesternborder.org/encyclopedia/border-ruffians) had taken all the good plots of land so he returned to the Midwest for a while. Kansas did not become a state until 1861, and Kansas Terrtitory was organized under popular sovereignty--meaning that the state's voters would decide whether or not slavery could be practiced there. Mahaffie eventually returned to Kansas and bought a house and a separate plot of land; he moved the house to the plot in 1858.[^REGISTER2]
 
-## Mahaffie the pioneer
+## Mahaffie the Pioneer
 Although a transplant from Ohio, Mahaffie is remembered as "one of the leading farmers of the area." He was also "active in local social and political affairs"; in 1858 he was elected chairman of the Johnson County supervisors. Mahaffie belonged to [the Grange](https://en.wikipedia.org/wiki/National_Grange_of_the_Order_of_Patrons_of_Husbandry), a post-Civil War organization to further the political and economic advancement of rural communities. His passion for developing the county extended to railroad politics; he served on the first board of directors of the Missouri River, Fort Scott, and Gulf Railroad. Later in his life, Mahaffied advocated the preservation of the Santa Fe Trail.[^REGISTER3]
 
 ## The House
