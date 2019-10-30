@@ -4,75 +4,71 @@ layout: single-col
 date: 2018-11-24
 ---
 
-# Alexander Majors House
+# The Alexander Majors House
 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors house, Kansas City, 1856 [source]( https://www.flickr.com/photos/23711298@N07/18281558759/)"
+  caption="Alexander Majors house, Kansas City, 1856 [source](https://www.flickr.com/photos/23711298@N07/18281558759/)"
   image-url="alexander-majors-house.jpg"
 %}
 
-Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas city and is on [National register of historic buildings](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places) [^WPAGuide1998i]. The house and the grounds were trading centers for 'Russell and Majors and Waddell' freighting firm and its also the house of Alexander majors house. This house ran alongside a dirt path, which is a state line road - a boundary between Kansas and Missouri, from West Port landing to the original Santa Fe trail. [^WornallMajorsHouseMuseumsi]
+The Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas City and is on the [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places).[^WPAGuide1998i] The house and the grounds served as the center of operations for [Russell, Majors and Waddell](https://www.britannica.com/topic/Russell-Majors-and-Waddell), a freighting firm famous for serving the American West and Southwest in the 1850s.
 
 ## Location
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
-  caption="**Alexander Majors house is on the east side of road near 85th street** [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
+  caption="Alexander Majors house is on the east side of road near 85th street [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
   image-url="alexander-majors-house-location.jpg"
 %}
 
-The house is situated approximately 16 feet in front of the house which is Missouri and Kansas border , the then  US border [^NPSFormi].  The house sits looking westward which was strategically chosen from the businessman's perspective as Kansas Territory were untaxed and he had huge corrals, grazing lands, oxen pens, barns, wagons and blacksmith shops in the property.[^WornallMajorsHouseMuseumsii]
+The house is situated approximately 16 feet from the Missouri-Kansas border, which--at the time of construction--also served as the  western boundary of the United States.[^NPSFormi]  Majors, an astute businessman, chose a strategic location for his homestead; Kansas Territory was not yet a state, meaning that Majors owed no taxes on his corrals, grazing lands, oxen pens, barns, wagons, and blacksmith shops. The Santa Fe Trail also ran right past the property, granting Majors and his firm easy access to one of their economic lifelines.[^WornallMajorsHouseMuseumsii]
 
-## Who was Alexander Majors?
+## Who Was Alexander Majors?
 
-Alexander Majors (1814-1900) was born in Kentucky and moved with his parents Laurania and Benjamin Majors in 1819 to Lafayette County, Missouri and later moved to Jackson county [^WPAGuide1998ii]. In 1827, Majors father explored silver ore mine with no prominent value he returned to farming, his tales put great impression on Majors towards possibilities in [Western Frontier](https://en.wikipedia.org/wiki/American_frontier) and to travel on the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and  together they joined his fathers footstep into farming [^Morton2012a]. His large family had mostly daughters and no son to help him in farming made him to look for other options [^Godfrey1994i].
+Alexander Majors (1814-1900) was born in Kentucky and moved with his parents, Laurania and Benjamin Majors, to Lafayette County, Missouri in 1819; they later moved to Jackson County.[^WPAGuide1998ii] In 1827, Majors' father returned to farming after trying his hand at silver mining. His tales impressed upon the younger Majors the numerous possibilities beyond the American frontier, inspiring Alexander to explore the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and together they joined his father's farming operation.[^Morton2012a]Since he had no son to help around the farm, Alexander looked for other ways to make a living. [^Godfrey1994i]
 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Alexander Majors record breaking freight-hauler, creator of Pony Express [source](http://www.wornallmajors.org/welcome/the-alexander-majors-house/)"
+  caption="Alexander Majors, record breaking freight-hauler and co-creator of the Pony Express [source](http://www.wornallmajors.org/welcome/the-alexander-majors-house/)"
   image-url="alexander-majors-portrait.jpg"
 %}
 
-In August 1848 Majors started carrying freight from Independence to Santa Fe, New Mexico, an 800 mile distance [^Morton2012b]. Majors became the first western Missouri traders to freight supplies to Santa Fe after the [Mexican war](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War), he started with 6 wagons and made a round trip in a record time 92 days. The war with the Mexico ended, military presence in the south west made the journey safer [^Godfrey1994B]. Majors had increase in opportunities and success due opening of [Oregon Territory](https://en.wikipedia.org/wiki/Oregon_Territory) for settlement in 1848, [California gold fields](https://en.wikipedia.org/wiki/California_Gold_Rush) in 1849, expansion of military forts  in the west through 1850ś [^Morton2012c].  
+In August 1848 Majors started carrying freight from Independence, Missouri to Santa Fe, New Mexico, a distance of 800 miles. [^Morton2012b] Majors became the first Missouri traders to freight supplies to Santa Fe after the [Mexican War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War), taking six wagons there and back in a record time of 92 days. The increased military presence in the Southwest made the journey safer.[^Godfrey1994B] The opening of [Oregon Territory](https://en.wikipedia.org/wiki/Oregon_Territory) for settlement in 1848 and the [California Gold Rush](https://en.wikipedia.org/wiki/California_Gold_Rush) in 1849, and the expansion of military forts in the West throughout the 1850s presented Majors with many opportunities to expand his business.[^Morton2012c]  
 
-Majors was particular in hiring trustworthy people and made them to pledge that they would treat animals with kindness, use no profanity, stay sober all the time, and behave like gentlemen while they were his employee. Majors had great work ethics, great experience and he rested his oxen and men on Saturday afternoon to Monday morning and held worship services on Sundays. In 1854, Majors earned a respectable reputation as a successful freighter on the Western Missouri frontier [^Godfrey1994iii].  
+Majors made his workers pledge that they would treat his animals with kindness, use no profanity, stay sober all the time, and behave like gentlemen while they were his employees. Majors had a great work ethic, but he rested his oxen and men from Saturday afternoon to Monday morning and held worship services on Sundays. By 1854, Majors had earned a reputation as one of the most successful freighters on the Western frontier.[^Godfrey1994iii]  
 
-## Freighting firm
+## Russell, Majors, and Waddell
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72) [source](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg)"
   image-url="alexander-majors-russell-waddell-images.jpg"
 %}
 
-In 1855 he joined partnership with William H. Russell and William B. Waddell and contracted with US Government to freight supplies to army posts along Oregon and Santa Fe Trails  [^WoodMincer2000i]. They employed more than four thousand men and owned 3,500 wagons and nearly forty thousand oxen and 1000 mules [^Morton2012d]. Usually shipments were sent in a set of 25 wagons, 12 oxen, a teamster and each of that set had additional oxen, mules and men in case of emergency and soon the firm made about $300,000 profits in 1855-56 [^WPAGuide1998iii].
+In 1855 Majors partnered with William H. Russell and William B. Waddell to win a government contract to supply Army posts along the Oregon and Santa Fe Trails.[^WoodMincer2000i] Together they controlled 4,000 men; 3,500 wagons; 1,000 mules; and nearly 40,000 oxen.[^Morton2012d] Shipments were usually composed of twenty-five wagons, twelve oxen, and a teamster (with additional oxen, mules, and men in case of emergency). Russell, Majors, and Waddell made about $300,000 profits in 1855-56.[^WPAGuide1998iii]
 
-## Majors 's House
+## Majors' House
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors House & Barn located close to state line of Missouri and Kansas states [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
+  caption="The Alexander Majors House and its grounds [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
   image-url="alexander-majors-house-site-plan.PNG"
 %}
 
-The house is built in 1856 on 300 acre farmstead property on the state line purchased by Majors firm. This property served both as family home and headquarters for Majors freighting company [^WPAGuide1998iv]. Two years later the contract system changed, Majors wife died and he remarried, he decided to move his family to Nebraska city in 1858 to oversee the shipments to Utah and gave away the state line property to his daughter Rebecca [^Morton2012e] [^WPAGuide1998v].
+The house was built in 1856 on a 300-acre farmstead on the Missouri-Kansas border. This property served both as family home and headquarters for Majors' freighting company.[^WPAGuide1998iv] Two years later, when the contract system changed and Majors' wife died, he remarried and moved his family to Nebraska City to oversee shipments to Utah; he gave away the state line property to his daughter Rebecca. [^Morton2012e][^WPAGuide1998v]
 
 ## Pony Express
 {% include figure.html
   class="img-left"
   width="100%"
-  caption="Map of Pony Express 1860, created by William Henry Jackson an American artist in c. 1935, obtained & rendered by Gwillhickers and restored by Crisco 1492 [source](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=)"
+  caption="Map of Pony Express 1860, created by William Henry Jackson in c. 1935 [source](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=)"
   image-url="alexander-majors-pony-express-route-map.PNG"
 %}
 
-> The **Pony Express** began in April 1860 and **ran between St. Joseph, Missouri and Sacramento, California, it was a colourful chapter in American History**, which also benefited Majors freighting firm [^Godfrey1994vi].
-
-In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Waddell and Russell firm which later became Central Overland California & Pikeś Peak Express company which is otherwise known as ["Pony Express"](http://ponyexpress.org/). This helped in filling the need for reduced postal service by government for budget reasons. This literally connected several dynamic western events with the commercial opportunities in the express business [^Godfrey1994v].
-
-> **Pony express** is not the first mail service, in 13th century China had post stations 25 miles apart and stations for foot carriers 3 miles apart, but **a first time mail service attempted in America in large scale** [^Godfrey1994vii].
+The Pony Express marked the first attempt at large-scale mail service in America.[^Godfrey1994vii] In late 1859 Russell, wanting a large mail contract from the federal government, convinced his partners to go along with the idea. Originally named the Central Overland California & Pikes Peak Express Company, the Pony Express offered service between St. Joseph, Missouri and Sacramento, California. A large stable of horses and evenly spaced relay stations allowed the Express's riders to deliver the mail in only ten days--a record that would stand until the first transcontinental railroad arrived after the Civil War.[^ponytimeline] 
 
 {% include figure.html
   class="img-left"
@@ -81,11 +77,9 @@ In early 1859, with the start of Leavenworth & Pikeś Peak Express by Majors, Wa
   image-url="alexander-majors-pony-express-poster.jpg"
 %}
 
-Pony Express first ride began on April 3rd, 1860, run from St. Joseph centers which reached 2 hours late, contained 49 letters, 5 private telegrams and few papers for San Francisco. Before it was delivered to the first rider whose identity was unknown, Majors addressed the crowd how the Pony express is a ancestor/father of transcontinental railroad [^Godfrey1994viii].
+## Closing of Freighting Firm and Other Changes in Majors life
 
-## Closing of Freighting firm and Change in Majors life
-
-In 1862, Russell, Majors and Waddell firm closed as they were bankrupt and in scandal with U.S. Department of the Interior. Later Majors marriage and family fell apart, his second wife and child moved and changed their names due to shame and his first wife children grew up and were on their own. Majors left Nebraska and spent time in Salt Lake City and witnessed the completion of [transcontinental railroad](https://en.wikipedia.org/wiki/Transcontinental_railroad) in 1869 while he was working in the support of Union Pacific Railroads drive west later he lived for a while in Denver [^Morton2012f].
+In 1862 Russell, Majors and Waddell closed due to bankruptcy and a dispute with the U.S. Department of the Interior. Later Majors' marriage and family fell apart, causing his second wife and child to move and change their names. Majors left Nebraska and spent time in Salt Lake City, where he witnessed the completion of the [transcontinental railroad](https://en.wikipedia.org/wiki/Transcontinental_railroad) in 1869 while he was working in the support of Union Pacific Railroad's drive west. He later lived in Denver.[^Morton2012f]
 
 {% include figure.html
   class="img-right"
@@ -94,9 +88,9 @@ In 1862, Russell, Majors and Waddell firm closed as they were bankrupt and in sc
   image-url="alexander-majors-house-1860.PNG"
 %}
 
-His old friend Buffalo Bill Cody arranged in publishing a book "Majors ś seventy years on the frontier" in 1893 by Rand McNally, which was one of the great narratives about the frontier west. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas city [^Morton2012g].
+His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *Seventy Years on the Frontier*, in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
 
-## Architectural style of the house
+## Architectural Style
 {% include figure.html
   class="img-right"
   width="33%"
@@ -104,31 +98,29 @@ His old friend Buffalo Bill Cody arranged in publishing a book "Majors ś sevent
   image-url="alexander-majors-house-side-view-image.PNG"
 %}
 
-Architectural style of the building is [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html), "T" shaped floor plan, 9 room two storied house in [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the third oldest houses with light wood frame construction in Kansas facing towards west [^NPSFormii].
+The Majors House was built in a [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html). It employs a "T" shaped floor plan and contains nine rooms and two stories of [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the oldest houses with light wood frame construction in Kansas.[^NPSFormii]
 
-* ### Outbuildings and Grounds
+### Outbuildings and Grounds
 
-The outbuildings next to the house no longer survive. There is a barn is approximately 100' to the southeast and smoke house around 40' to the north to the house. Present day we can see a well, cistern to the south of the house, a shed 20' north to the house and a cottage 60' north of the house [^NPSFormiii].
+The outbuildings next to the house no longer survive. There is a barn is approximately 100' to the southeast and a smokehouse around 40' to the north to the house. There also remains a well, a cistern (to the south of the house), a shed (20' north to the house), and a cottage (60' north of the house).[^NPSFormiii]
 
-## Alteration to the house
+## Alterations to the House
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors House first floor plan, several modifications are made to stairway, central fireplace and fire places in kitchen, dining room & bedroom [source](Alexander Majors House - 70000335.pdf. (n.d.))"
+  caption="Alexander Majors House first floor plan. Note the several modifications made to the stairway, central fireplace, and fireplaces in the kitchen, dining room & bedroom [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-first-floor-plan.PNG"
 %}
 
-The house was sold to Mr. and Mrs. A. Louis Rhul in 1904 who later built additions to the house and owned it till 1924. The increase in residential growth, property was subdivided to development called Cresthills Acres [^Morton2012h]. The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) and few of them are enlarging dining room and master bedroom on second floor by the addition on southern extension of 'T' and terminates in a bay. The rooms sizes increased from 15 x 17 feet to 15 x 27 feet [^NPSFormiv].
+Mr. and Mrs. A. Louis Rhul owned the house from 1904 to 1924. who later built additions to the house and owned it till 1924. [^Morton2012h] The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf), such as enlarging the dining room and master bedroom on second floor.[^NPSFormiv]
 
-The house was turned into school and community meeting space for residential needs, partition walls between 3 chambers of the first floor were formed to make a single large space [^NPSFormv]. Later the house was set to demolition to built a new school but due to its timber framing and iron nails the cost of demolition estimated more that they ended up abandoning the house and building the school elsewhere [^Morton2012i].
+## Majors' House Bought by His Descendant
 
-## Majors house bought by his descendant
+In 1930 Louisa P. Johnston, Majors's great grand-daughter, travelled to visit her ancestral home and found the house abandoned. She bought the house in 1932 and, for the next forty years, worked to transform the property into a memorial for her ancestors. In 1945, then-Senator Harry Truman initiated a bill to purchase and maintain the house but it never passed. Finally, in 1970, the [American Historical Association](https://en.wikipedia.org/wiki/American_Historical_Association) got the house listed on the National Register of Historic Places.[^Morton2012j]
 
-In 1930, Louisa P. Johnston, Majors's great grand-daughter travelled to visit her ancestral home and found the abandoned state of the house. She brought the house and started working on it in 1932 and for forty years she put effort in turning the property into a memorial for her ancestor and for its history. In 1945, the then Senator Harry Truman initiated a bill that the house will be purchased and maintained but the bill never passed. After many efforts of Louisa to get that funded money but couldn't succeed. Finally in 1970, [National Historic Association](https://en.wikipedia.org/wiki/American_Historical_Association) aided by Rusell-Majors-Waddell the house got listed in register of National Historic sites [^Morton2012j].
+In 1976, Kansas City adopted a plan to develop between Ward Parkway and State Line Road, leaving a six-acre park surrounding the house; unfortunately, the plan did not proceed for another decade. In 1979 Louisa Johnston died, leaving the house to Terry W. Chapman who worked as the restoration architect for the house. The structural work was finished in 1983.[^Morton2012k]
 
-In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and State Line Road which gave 6 acre park surrounding the house but despite the plan it couldn't proceed for nearly 10 years. In 1979, Louisa Johnston died leaving the house to Terry W. Chapman who worked as the restoration architect for the house. The structural work was finished in 1983 and was a show case project in Kansas city Symphony, which provided interior finishes [^Morton2012k].
-
-## Alexander Majors House - Todays' Museum
+## Today's Museum
 {% include figure.html
   class="img-right"
   width="33%"
@@ -136,50 +128,14 @@ In 1976, city of Kansas city adopted a plan to develop between Ward Parkway and 
   image-url="alexander-majors-house-second-floor-plan.PNG"
 %}
 
-In 1984, the Alexanders Majors House Museum is open to public for tours and events. In 2010, the house was joined with John Wornall house and museum and functioned together reinforcing the historic legacy of the area and house on the edge of the frontier [^Morton2012l]. Wornall-Majors Museum has organized events and celebrations like weddings, event rentals, on site photography, school field trips, summer camps, field trips, Holiday candlelight tours, birthday parties and private and group tours [^WornallMajorsHouseMuseumsiii].
+In 1984 the Alexanders Majors House Museum was opened to the public for tours and events. In 2010 the house partnered with the John Wornall House and Museum to reinforce the area's historic importance.[^Morton2012l] Wornall-Majors Museum has organized events and celebrations like weddings, event rentals, on site photography, school field trips, summer camps, field trips, holiday candlelight tours, birthday parties and private and group tours.[^WornallMajorsHouseMuseumsiii]
 
-Another interesting part of exploring Majors house is Ghost tours about the strange events and open to paranormal investigation groups to explore and experience the ghost haunting which are held between 7 p.m. and 2 a.m. [^WornallMajorsHouseMuseumsiv].
+The Majors House hosts ghost tours between 7 p.m. and 2 a.m. [^WornallMajorsHouseMuseumsiv].
 
-## Visit the house
+## Visit the House
 
 [Alexander Majors Barn](https://www.google.com/maps/place/Alexander+Majors+Barn/@38.9797432,-94.6100891,817m/data=!3m1!1e3!4m5!3m4!1s0x87c0e92b4620bb13:0x3c91d6fed8fab8e1!8m2!3d38.9797391!4d-94.6078951?hl=en&authuser=0),
 8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114
-
-##### Related / Near by Historic places
-
-[John Wornall House Museum](http://www.wornallmajors.org/the-john-wornall-house/)
-
-[Wornall Majors House Museum](http://www.wornallmajors.org/welcome/the-alexander-majors-house/)
-
-[Frank S. Land Memorial](https://www.kcfountains.com/single-post/2017/01/15/Frank-S-Land-Memorial)
-
-[Thomas Farmhouse](http://www.thecivilwarmuse.com/index.php?page=the-battle-of-westport-part-23)
-
-[Leroy Robert "Satchel" Paige (1906-82)](https://shsmo.org/historicmissourians/name/p/paige/)
-
-[Paige ś Marker](https://www.hmdb.org/Marker.asp?Marker=26607)
-
-[Battle of Big Blue](https://www.hmbḍorg/Marker=30291)
-
-##### Related People
-
-[William H. Russell](https://www.britannica.com/biography/William-Hepburn-Russell)
-
-[William B. Waddell](https://www.britannica.com/biography/William-Bradford-Waddell#ref1175805)
-
-[William Henry Jackson](https://www.wyohistory.org/encyclopedia/william-henry-jackson-foremost-photographer-american-west)
-
-##### Related Articles
-
-[National Registration form for Alexander Majors House](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)
-
-[Pony Express National Museum](ponyexpress.org)
-
-[Photographs of Majors Museum, inside & outside the house, giftshop](http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html)
-
-[Interactive Santa Fe Trail Map](https://www.santafetrail.org/interactive-trail-map/)
-
-[10 things to know about Pony Express](https://www.history.com/news/10-things-you-may-not-know-about-the-pony-express)
 
 ## Bibliography
 
@@ -203,6 +159,8 @@ Missouri : The WPA Guide to the “Show Me” State. St. Louis : Missouri Hi
 
 “National Register of Historic Places, Alexander Majors House, Kansas City, Jackson County, Missouri, National Register No:[70000335](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf).” Accessed November 16, 2018.
 
+Pony Express National Museum, ["Pony Express Historical Timeline"](http://ponyexpress.org/pony-express-historical-timeline/)
+
 Settle, Raymond W., and Mary Lund Settle. War Drums and Wagon Wheels : The Story of Russell, Majors, and Waddell. Lincoln : University of Nebraska Press, [1966], 1966.
 
 “[William Rusell, Alexander Majors, William Waddell](https://in.pinterest.com/pin/336292297158117442/).” Pinterest. Accessed November 28, 2018.
@@ -222,7 +180,7 @@ Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publ
 Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: [comprehensive management and use plan]( http://hdl.handle.net/2027/pur1.32754061290353). (1990). [Washington, D.C.?]
 
 
-[^WPAGuide1998i]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. P
+[^WPAGuide1998i]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
 
 [^WornallMajorsHouseMuseumsi]: Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018.
 
@@ -230,31 +188,31 @@ Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Me
 
 [^WornallMajorsHouseMuseumsii]: Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018.
 
-[^WPAGuide1998ii]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. P
+[^WPAGuide1998ii]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
 
-[^Morton2012a]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012a]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
 [^Godfrey1994i]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-[^Morton2012b]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012b]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
 [^Godfrey1994ii]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-[^Morton2012c]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012c]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
 [^Godfrey1994iii]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
 [^WoodMincer2000i]: Wood, T., & Mincer, J. (2000). Wow! Where Families Can Find Awe & Wonder in and Around Kansas City. Kansas City Star Books.
 
-[^Morton2012d]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012d]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
-[^WPAGuide1998iii]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. p
+[^WPAGuide1998iii]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
 
-[^WPAGuide1998iv]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. p
+[^WPAGuide1998iv]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
 
-[^Morton2012e]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012e]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
-[^WPAGuide1998v]: In 1858 when the firm received a contract from government to freight supplies to General A. S. Johnston ś Army in Mormon War, Majors moved to Nebraska city leaving the state line property to his **eldest daughter Mrs. Samuel Poteet**, whose descendants owned it until 1910. - Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. p
+[^WPAGuide1998v]: In 1858 when the firm received a contract from government to freight supplies to General A. S. Johnston ś Army in Mormon War, Majors moved to Nebraska city leaving the state line property to his **eldest daughter Mrs. Samuel Poteet**, whose descendants owned it until 1910. - Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
 
 [^Godfrey1994vi]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
@@ -266,26 +224,28 @@ Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Me
 
 [^Morton2012f]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing.
 
-[^Morton2012g]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012g]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
 [^NPSFormii]: NPS Form-1969, No:70000335, P2
 
 [^NPSFormiii]: NPS Form-1969, No:70000335, P2
 
-[^Morton2012h]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012h]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
 [^NPSFormiv]: NPS Form-1969, No:70000335, P2
 
 [^NPSFormv]: NPS Form-1969, No:70000335, P2
 
-[^Morton2012i]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012i]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
-[^Morton2012j]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012j]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
-[^Morton2012k]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012k]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
-[^Morton2012l]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. p
+[^Morton2012l]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
 
 [^WornallMajorsHouseMuseumsiii]: Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018.
 
 [^WornallMajorsHouseMuseumsiv]: Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018.
+
+[^ponytimeline]: Pony Express National Museum, ["Pony Express Historical Timeline"](http://ponyexpress.org/pony-express-historical-timeline/)
