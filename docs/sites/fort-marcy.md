@@ -20,7 +20,7 @@ Fort Marcy was built at the start of the [Mexican American War](https://en.wikip
 
 ## Construction of Fort Marcy
 
-Fort Marcy was an adobe fortification built by General [Stephen W. Kearny](https://en.wikipedia.org/wiki/Stephen_W._Kearny) during the Mexican American War. On August 19, 1846, New Mexico was annexed and Mexican Governor [Juan Bautista Vigil y Alarid](https://en.wikipedia.org/wiki/Juan_Bautista_Vigil_y_Alarid) peacefully surrendered New Mexico to the United States. Soon after, Kearny was sent to occupy Santa Fe and ordered the construction of Fort Marcy on August 26, 1846[^1]. General Kearny named the fort after the U.S. Secretary of War, [William L. Marcy](https://en.wikipedia.org/wiki/William_L._Marcy). Lieutenant William H. Emory and Jeremy F. Gilmer, Kearny's subordinates, determined that the best place for the fort was on top of a large hill overlooking Santa Fe just 600 yards north from the Santa Fe Plaza[^2].This was ideal for General Kearny as he needed to both secure the United States rule over New Mexico and to guard against an uprising from the people. Lieutenant William H. Emory stated that the fort's site was "the only point which commands the entire town and which itself is commanded by no other".[^3]
+Fort Marcy was an adobe fortification built by General [Stephen W. Kearny](https://en.wikipedia.org/wiki/Stephen_W._Kearny) during the Mexican American War. On August 19, 1846, New Mexico was annexed and Mexican Governor [Juan Bautista Vigil y Alarid](https://en.wikipedia.org/wiki/Juan_Bautista_Vigil_y_Alarid) peacefully surrendered New Mexico to the United States. Soon after, Kearny was sent to occupy Santa Fe and ordered the construction of Fort Marcy on August 26, 1846.[^1] General Kearny named the fort after the U.S. Secretary of War, [William L. Marcy](https://en.wikipedia.org/wiki/William_L._Marcy). Lieutenant William H. Emory and Jeremy F. Gilmer, Kearny's subordinates, determined that the best place for the fort was on top of a large hill overlooking Santa Fe just 600 yards north from the Santa Fe Plaza.[^2] This was ideal for General Kearny as he needed to both secure the United States rule over New Mexico and to guard against an uprising from the people. Lieutenant William H. Emory stated that the fort's site was "the only point which commands the entire town and which itself is commanded by no other".[^3]
 
 [^1]: Purdy, 3
 [^2]: Purdy, 3
@@ -33,15 +33,15 @@ Fort Marcy was an adobe fortification built by General [Stephen W. Kearny](https
 
 In 1846 General Kearny wrote a report to the Adjutant General of the Army in Washington that stated:  
 
-> A large number of the troops are daily employed under the direction of Lieutenant Gilmer of the Engineers in erecting a fort for the defense and protection of the city, and as this is the capital of the Territory, a new acquisition to the United States, the fort will be an important and permanent one, and I have this day named it Fort Marcy, and now ask for a confirmation of it. 
+> A large number of the troops are daily employed under the direction of Lieutenant Gilmer of the Engineers in erecting a fort for the defense and protection of the city, and as this is the capital of the Territory, a new acquisition to the United States, the fort will be an important and permanent one, and I have this day named it Fort Marcy, and now ask for a confirmation of it.[^4]
 
-General Kearny's words illustrate that Fort Marcy was the key to the newly acquired land and was the most important building in the area-- a symbol of American rule over the territory.[^4] On January 19, 1847, Colonel Sterling Price--the commander at Fort Marcy--received word that [Charles Bent](https://en.wikipedia.org/wiki/Charles_Bent), the Governor of New Mexico, had been killed in the [Taos Revolt](https://en.wikipedia.org/wiki/Taos_Revolt) by Hispano and Puebloan adversaries of American rule. Colonel Price sent the 1st Dragoons from Fort Marcy to successfully quell the rebellion.[^5]
+General Kearny's words illustrate that Fort Marcy was the key to the newly acquired land and was the most important building in the area-- a symbol of American rule over the territory. On January 19, 1847, Colonel Sterling Price--the commander at Fort Marcy--received word that [Charles Bent](https://en.wikipedia.org/wiki/Charles_Bent), the Governor of New Mexico, had been killed in the [Taos Revolt](https://en.wikipedia.org/wiki/Taos_Revolt) by Hispano and Puebloan adversaries of American rule. Colonel Price sent the 1st Dragoons from Fort Marcy to successfully quell the rebellion.[^5]
 
 [^4]: Bradford, 4 
 [^5]: Matthew, 22
 
 ## Fort Marcy's Role on the Santa Fe Trail
-Like many of the other fortifications in the area, Fort Marcy helped protect travelers on the Santa Fe Trail and El Camino Real de Tierra Adentro trail from Native American raids. [Fort Craig](https://en.wikipedia.org/wiki/Fort_Craig), almost two hundred miles south near Socorro, was the “base for Indian operations” during the late nineteenth century; its commanders send armed escorts with traders as they traveled northward toward Santa Fe along El Camino Real de Tierra Adentro[^6]. Fort Marcy would serve a similar function as it was a combat post at the cross section of two major trails, Santa Fe and the Camino Real de Tierra Adentro trail.[^7] 
+Like many of the other fortifications in the area, Fort Marcy helped protect travelers on the Santa Fe Trail and El Camino Real de Tierra Adentro trail from Native American raids. [Fort Craig](https://en.wikipedia.org/wiki/Fort_Craig), almost two hundred miles south near Socorro, was the “base for Indian operations” during the late nineteenth century; its commanders send armed escorts with traders as they traveled northward toward Santa Fe along El Camino Real de Tierra Adentro.[^6] Fort Marcy would serve a similar function as it was a combat post at the cross section of two major trails, Santa Fe and the Camino Real de Tierra Adentro trail.[^7] 
 
 After the Mexican American War, traffic along the Santa Fe Trail increased dramatically; much of the trade along the trail consisted of military supplies for the occupied region. Fort Marcy thus played a major role in Santa Fe's economic development and the eventual formation of [New Mexico Territory](https://en.wikipedia.org/wiki/New_Mexico_Territory) in 1850.  
      
@@ -53,9 +53,9 @@ After the Mexican American War, traffic along the Santa Fe Trail increased drama
 {% include figure.html class="img-right" width="40%" caption="Fort Marcys crumbling walls in 1992. [source](https://econtent.unm.edu/cdm/singleitem/collection/santa/id/17/rec/34) 
 " image-url="wall-marcy.jpg" %}
 
-Adobe walls nine feet tall and five feet thick formed Fort Marcy's unique star-shaped outline. The fort also had a moat approximately eight feet deep running along its walls and a log building that served as a powder house[^8]. Roughly 270' x 80', Fort Union could hold up to one thousand soldiers. [^9]
+Adobe walls nine feet tall and five feet thick formed Fort Marcy's unique star-shaped outline. The fort also had a moat approximately eight feet deep running along its walls and a log building that served as a powder house.[^8] Roughly 270' x 80', Fort Union could hold up to one thousand soldiers.[^9]
 
-After a while, the fort's walls began to arode. Visitors today can only see several tall mounds of earth where the walls used to be; the moat that ran around the fort is barely visible[^10]. A lack of maintenance after the U.S. took complete control of New Mexico ensured the fort's degradation[^11]
+After a while, the fort's walls began to arode. Visitors today can only see several tall mounds of earth where the walls used to be; the moat that ran around the fort is barely visible[^10]. A lack of maintenance after the U.S. took complete control of New Mexico ensured the fort's degradation.[^11]
 
 [^8]: Purdy, 2
 [^9]: Bradford, 5
