@@ -10,23 +10,24 @@ date: 2018-14-12
 
 {% include figure.html class="img-right" width="33%" caption="Corner Of Las Vegas Plaza" image-url="PlazaDrugs.JPG" %}
 
-Scenic Las Vegas New Mexico is a city founded with strong historic roots in the Santa Fe Trail. The Plaza acts as a centerpiece for the town and represents a continued dedication to the town’s important origins. Las Vegas was founded in 1838 as a land grant approved by Governor Francisco Sarracino. Las Vegas began as part of the growing effort to expand Mexican settlements along the Santa Fe Trail; it quickly became an essential stop for the extraordinary pioneers, explorers, and traders. But, As result of the Spanish American war New Mexico was annexed by the United States thus trading ownership of the land to the United States. Las Vegas remained an important stop along the Santa Fe Trail allowing it to remain economically resilient as unique encapsulation of the western ethos. 
-
- Las Vegas was started as a land grant given to an assortment to families in the Northern New Mexican region named the *“Vegas Grandes”*[^1]. Nestled at the base of the Pecos Mountains in the Santa Fe Forest Wilderness home to Hermits Peak. Sitting on the vast plains  extend from the mountains. The Las Vegas settlement began as fledging town with its citizens huddled within its walls that marked the boundaries of the “plaza”. Soon the town gained traction and had begun to build permanent homes and buildings of adobe bricks. The plaza became the first completed goal of the settlement and to this day has traditionally marked the center of the historic town
- 
+Scenic Las Vegas, New Mexico has strong historic roots in the Santa Fe Trail. The city was founded in 1838 as part of a land grant approved by Governor Francisco Sarracino; *Vegas Grandes*, as it was called, quickly became an essential stop for the pioneers, explorers, and traders that traversed the Santa Fe Trail.[^1] As a result of the Mexican American War, the American Southwest switched from Mexican to American ownerhsip. Las Vegas remained an important stop along the trail, allowing the city to grow economically despite its newfound political affiliation.
  
 [^1]: The Great Meadows, Registry Form
 
  
 ## Building a City ##
 
-By August 15, 1846 the town had undergone several modifications and had been significantly built up from its fledgling past. Citizens had begun to grow the town adding many more buildings extending from the plaza. The population of Las Vegas had gone through a small boom somewhere between 200/300 people living in the village. Despite its growing size, Las Vegas was still reliant on the Adobe Bricks to make housing. Its during this time that members of the American army had begun to circulate through the town taking note of unremarkable yet functioning it was. 
+By 1846 the town's stock of adobe structures had grown considerably, especially around the plaza--the focal point of commerce and government in many Hispano settlements. The population of Las Vegas had gone through a small boom, with somewhere between two and three hundred people living in the village. During this transition to American rule, members of the United States Army began to circulate through the town taking note of unremarkable yet functioning it was. 
 
 ## Las Vegas on the Trail ##
 
 {% include figure.html class="img-right" width="33%" caption="Plaza Hotel" image-url="PlazaHotelFront1.JPG" %}
 
-Between its founding and the beginning of the Civil War, Las Vegas thrived as frontier town operating on the Santa Fe Trail. Records Traveler, trader and military accounts describe a small but thriving town growing off the commerce brought by the trail, *"As we drew near Las Vegas we noted that the "bottoms" of the little creek running near the town were cultivated in corn, with occasional patches of vegetables, the land enclosed by fences, but flanked by irrigation ditches supplying the necessary water and the crops were looking remarkably well, although the weather had been dry for some weeks...Las Vegas was a compactly-built town of probably two or three hundred inhabitants, the houses are for the most part built of adobe bricks or tufts of sod, with a corral in the rear. The herds...were driven in about sunset."*[^2]: Las Vegas had begun to be documented the increasing stability and buildup of the town. The town was simple yet thriving, despite it being a architecturally simple town. On July 4, 1879 the railroad was brought to Las Vegas and with it came influx of new American architectural styles utilizing stone-cut bricks, most notable was Victorian style buildings which heavily influenced the new redesigns of the buildings that formed the plaza. Most of these buildings underwent various changes but the most notable of the plaza structures that remained largely unchanged was the three-story plaza hotel that appeared as a cornerstone gem to the town. The Plaza Hotel[^3] was among the various Victorian style buildings that made up the plaza. 
+Between its founding and the beginning of the Civil War, Las Vegas thrived as frontier town operating on the Santa Fe Trail. Traveler, trader, and military accounts describe a small but important town dependent on the commerce brought by the trail: 
+
+>"As we drew near Las Vegas we noted that the "bottoms" of the little creek running near the town were cultivated in corn, with occasional patches of vegetables, the land enclosed by fences, but flanked by irrigation ditches supplying the necessary water and the crops were looking remarkably well, although the weather had been dry for some weeks...Las Vegas was a compactly-built town of probably two or three hundred inhabitants, the houses are for the most part built of adobe bricks or tufts of sod, with a corral in the rear. The herds...were driven in about sunset."[^2]
+
+On July 4, 1879 the railroad came to Las Vegas. With it came new American architectural styles utilizing stone-cut bricks--most notably the Victorian style, visible today in many of the buildings surrounding the plaza. The Plaza Hotel, a fixture on the plaza since the mid-nineteenth century,remains one of the most important examples of Victorian architecture in Las Vegas.[^3] 
 
 [^2]: William B. Napton, a traveler along the Santa Fe Trail, Registration Form
 [^3]: The Plaza Hotel still operates today equipped with modern conviences 
@@ -34,20 +35,22 @@ Between its founding and the beginning of the Civil War, Las Vegas thrived as fr
 
 ## War, Bandits, and Money ##
 
-"After the defeat of the Union forces in the Battle of Valverde, February 21, 1862, Confederate forces marched through Albuquerque and occupied Santa Fe. Governor Henry L. Connelly had already removed the capital to Las Vegas and established his office in the Exchange Hotel on the plaza. He returned to Santa Fe after the Battle of Glorietta Pass March 26-28, 1862 which destroyed Confederate hopes of capturing Fort Union" (Historical Registry Doc). In 1877 Las Vegas suffered from an outbreak of small pox leading to a ban on livestock on the plaza itself. Cattle were only allowed on the plaza for loading and unloading only and were to move immediately after.[^4] Until the arrival of the railroad Las Vegas remained at steady growth from the travelers along the Santa Fe trail, hotels like the Plaza Hotel and the Exchange Hotel thrived from continued tourism and business, colleges were established, and Las Vegas became synonymous with the western lifestyle. "During the 1850's, the well in the center of the plaza was surrounded by a low wooden wall. Later, a high platform was added to support a wooden superstructure topped by a circular blade and fan assembly. By 1879, the blade assembly had been removed and the windmill was no longer in use, but served as a hanging gallows by the Vigilantes. Citizen complaints that the hanging bodies could be seen by the incoming railroad passengers led to the removal of the "Hanging Windmill" in 1881."[^5]
+The Confederate Army occupied Santa Fe in 1862, leading Territorial Governor Henry L. Connelly to move the capital temporarily to Las Vegas; he kept an office in the Exchange Hotel on the plaza. After the Battle of Glorieta Pass dashed Confederate hopes of capturing Fort Union, Connelly moved back to Santa Fe.[^4]
 
-The railroad brought with it an assortment of problems, but most prevalent were outlaws of the west."Jesse James the outlaw arrived in December, 1880, taking the shuttle carriage from the Exchange Hotel to the famous Montezuma Resort Hotel. His killer, former gang member Bob Ford, became a familiar and much disliked figure on the plaza until he left. Sheriff Pat Garrett placed "Billy the Kid" and his gang in the jail just off the plaza after capturing them at Stinking Springs on December 23, 1880. Sheriff Garrett nearly lost the outlaw, Dave Rudabaugh, to an angry mob on the plaza while enroute to the train depot on the following day. Rudabaugh had killed the jailer earlier. "Doc" Holliday topped over on his way from Dodge City to Tucson and visited one of the saloons on the southside of the plaza where he shot a Charles White, an acquaintance from his "Dodge City Days." A vigilante Committee was formed in East Las Vegas in the 1880's, they would often march in force on the jail and take the prisoners and hang them on the "Hanging Windmill". In The violence continued into the 1890's when the notorious Vicente Silva and his "Society of Bandits of New Mexico" controlled West Las Vegas from his "Imperial Saloon" on the south side of the plaza."[^6]
+In 1877 Las Vegas suffered from an outbreak of smallpox, leading to a ban on livestock on the plaza itself. Cattle were only allowed on the plaza for loading and unloading only and were to move immediately after.[^5] 
+
+Until the arrival of the railroad, Las Vegas sustained itself from Santa Fe Trail-related business. The railroad brought with it an assortment of problems, but most prevalent were outlaws of the west. Jesse James arrived in December 1880. Around that same time, Sheriff Pat Garrett caught Billy the Kid and his associates at nearby Stinking Springs; he jailed them just off of the Las Vegas Plaza. 'Doc' Holliday shot a man named Charles White in a saloon on the plaza's south side. Because of these disturbances, citizens formed a vigilante committee in the 1880s; they often took prisoners from the jail and hung them on a defunct windwill. The area's lawlessness continued into the 1890s, when Vicente Silva's 'Society of Bandits of New Mexico' controlled the western part of Las Vegas from a saloon on the plaza.[^6]
 
 
-[^4]: The smallpox outbreak was almost certainly due to the excessive amount of travelers moving through the city in massive wagon trains said to be in the hundreds, Registry Form
-[^5]: Registry form
+[^4]: Registry form
+[^5]: The smallpox outbreak was almost certainly due to the excessive amount of travelers moving through the city in massive wagon trains said to be in the hundreds, Registry Form
 [^6]: Registry form, Significance of the Plaza
 
 ## Railroads and Las Vegas Today ##
 
 {% include figure.html class="img-right" width="33%" caption="Historic Map of Las Vegas NM" image-url="plazamap.JPG" %}
 
-Las Vegas was one of first towns to receive significant access to booming rail industry. When it did wagon traffic through Las Vegas declined heavily and became a town devoted to the railroad. The well at the center of town was eventually filled in and replaced with park. However, the Plaza was located west of Gaillenas River that had formed one of the natural boarders in the town center making it difficult to lay tracks near the plaza. So train station was established in the new town East Las Vegas forming a heated rivalry between two locales. Commerce diverted from West Las Vegas, which held the plaza, and led to noticeable decline to the livelihood of the Western town. The dramatic booming tourist industry declined steadily and the Western ethos began fading slowly bringing about a much more Americanized civilization imported from the East. The rivalry between the two towns was accentuated by the clashing economies driving up a sense of importance from both towns. Unforntuantely one of the primary cultural results of this divide were racial stereotypes being attached to side town citizens lived in.[^7] East and West Las Vegas were eventually combined into one singular town during the 1970’s but still faces decline due to depressed economy rooted firmly in historic tourism and the New Mexico Highlands University. Las Vegas is still considerably large with a stabile population and an impressive amount of historical tourism present mostly centered on its history as a frontier town, outlaw mysticism, and railroad legacy. The town is currently intent on preserving its physical historical legacy through its buildings and infrastructure of the plaza. 
+Las Vegas was one of first towns in New Mexico to experience a boom in railroad tourism, causing a major decline in wagon traffic. It was difficult to lay tracks near the plaza, as it was located west of the Gallinas River--a natural impediment to travel through town. Thus, the train station was constructed in a new part of town, East Las Vegas, forming a heated rivalry between the area's two commercial centers. Despite the plaza, West Las Vegas steadily declined. One of the primary cultural consequences was a rise of racial stereotypes associated with each side of town.[^7] East and West Las Vegas were eventually combined into one singular town during the 1970s but still faced a depressed economy rooted firmly in historic tourism and the New Mexico Highlands University. Its tourism, in particular, focuses on its history as a frontier town, outlaw haven, and railroad legacy. The town is currently intent on preserving its architectural history, especially around the plaza. 
 
 [^7]: This information comes from the Authors background of family legacy from Las Vegas, including many still living relatives. 
 
@@ -56,17 +59,7 @@ Las Vegas was one of first towns to receive significant access to booming rail i
 
 230 Plaza Park, Las Vegas, NM 87701
 
-##### Related Readings #####
-
-- [Las Vegas Outlaws](https://www.legendsofamerica.com/nm-lasvegas)
-
-- [Quick Reading of Las Vegas](https://en.wikipedia.org/wiki/Las_Vegas,_New_Mexico)
-
-- [History of Charles Ilfeld; A local buisness man/Community Leader](https://newmexicohistory.org/people/charles-ilfeld-biography)
-
-- [World College, 10 miles from Las Vegas](https://www.uwc-usa.org/page.cfm?p=527)
-
-- [San Miguel de Vado Historic District](https://historic-trails.github.io/santa-fe-itinerary/sites/san-miguel-del-vado.html)
+***
 
 
 ### Sources ###
