@@ -14,16 +14,17 @@ date: 2018-11-24
   image-url="Neff_tavern_smokehouse_picture.PNG"
 %}
 
-The Neff Tavern Smokehouse was part of the Neff tavern complex, that offered shelter to travellers on the northern Santa Fe Trail close to Arrow Rock, Missouri in the late 18th century. [^NPSFormp1]  Throughout the history of the greater building as the Neff family residence, its inhabitants lived through many important stages of national American history: European immigration, westward migration and the Civil War. These events impacted the ongoing live and form of the tavern and its annex the smokehouse. 
+The Neff Tavern Smokehouse adjoined Neff Tavern, which offered shelter to travellers on the northern Santa Fe Trail close to Arrow Rock, Missouri.[^NPSFormp1]  The Neff family lived through many important stages of American history: European immigration, westward migration, and the Civil War. These important connections live on through the Neff Tavern Smokehouse, the only surviving part of the Neff family's complex. 
 
-## The tavern's setting
-The tavern was set at one of the trailheads of the [Santa Fe Trail](https://www.nps.gov/safe/index.htm) in central Missouri. [^NPSFormp1I] This region was experiencing a very wealthy period, as the Santa Fe Trail traders and travellers brought many goods to the central US, which established tight trading and economic relations.[^Greggs]
+## The Tavern's Setting
 
+The tavern was set at one of the trailheads of the [Santa Fe Trail](https://www.nps.gov/safe/index.htm) in central Missouri.[^NPSFormp1I] Beginning in the 1820s this region experienced an economic boom, as the Santa Fe Trail traders and travellers established lucrative commercial relationships between the central United States and the American West (then largely held by Mexico).[^Greggs]
 
+## Wealth Through the Trail
 
-## Wealth through the trail
-Especially, when the founder, Isaac Neff (1798 – early 19th century)[^NPSstatementp1II] moved to the area, these trading relations were strengthened, as Missouri became a state and part of the United States and Mexico reached [independency](https://en.wikipedia.org/wiki/Mexican_War_of_Independence) of Spain.[^OBrien] Both trading partners were now in the position to sovereignly follow their own interests.Especially, the traders from Mexico brought very valuable things, such as silver to the region, which contributed to the material wealth of region, as they spent this money on goods produced in Missouri.
-The emergence of high traffic made a tavern be a place of high demand. Furthermore, as will be shown later, the tavern was located on a big land possession, that was crossed by the Santa Fe Trail.[^NPSstatementp1III] The tavern was therefore set right on the pulse of trade and travel on the trail. As there is evidence on many reformations on the house, the Neff family earned much money from the travellers and expanded their buisness.[^NPSstatementp2]
+Isaac Neff (1798–early 19th century),[^NPSstatementp1II] moved to the area around the time that Mexico reached [independence](https://en.wikipedia.org/wiki/Mexican_War_of_Independence) from Spain in 1821.[^OBrien] Traders from the newly independent nation brought very valuable things (like silver) to Missouri, often spending their profits on American goods. Likewise, merchants from the United States began traveling to Santa Fe along what became known as the Santa Fe Trail.
+
+The Neff family's tavern was ideally positioned profit from traffic along the Santa Fe Trail.[^NPSstatementp1III] As time passed, the Neff family used money earned from travelers to expand their buisness.[^NPSstatementp2]
 
 {% include figure.html
   class="img-right"
@@ -32,18 +33,18 @@ The emergence of high traffic made a tavern be a place of high demand. Furthermo
   image-url="sunderlage-smokehouse_il.jpg"
 %}
 
-## Isaac's history
+## Isaac's Story
 
-Isaac Neff was a descendent of German immigrants, who most probably came to the US in the beginning of the 18th century and settled in Tennessee.[^NPSstatementp1IV] According to the historical events (decline of the [Holy Roman Empire](https://www.britannica.com/place/Holy-Roman-Empire)wars, revolutions, etc.), that were occurring during the 1700’s in Europe, the Neff family as many other German immigrants at the time were escaping violent conflicts in their home communities or had to leave because of industrialization and the consequent job losses.[^Parker] This is especially important to have in mind, when looking at the further development in Isaac’s life as he was able to accumulate a big possession.[^NPSstatementp1V]
-His brothers were the first ones of the family to go to present day Missouri, which after known visits at his brother’s houses, led Isaac to finally settle in the Arrow Rock area in 1836.[^NPSstatementp1VI] As many migrants[^Turner], he was able to establish a big possession (on the peak 2.000 acres of land) right after his settlement and freely establish a profitable business.[^NPSstatementp1VII] 
+Isaac Neff was a descendent of German immigrants, who probably came to the U.S. in the beginning of the eighteenth century and settled in present-day Tennessee.[^NPSstatementp1IV] The 1700s were a volatile time in Europe, and--like many other German immigrants--the Neffs came to America to escape violent conflicts and the economic upheaval that accompanied industrialization.[^Parker] Isaac's brothers eventually relocated to present-day Missouri, which led Isaac to finally settle in the Arrow Rock area in 1836.[^NPSstatementp1VI] Like many immigrants[^Turner], he was able to buy land (2,000 acres, no less) and establish a profitable business.[^NPSstatementp1VII] 
 
 
 ## The Neffs and the Civil War
 
- The Neff family incorporated many facets of American history, on one hand that is Isaac Neff going with westward migration movement and building up a new, successful living in Missouri. On the other hand, the following generation of the Neff family, most importantly, Isaac’s son Abram (1839 – 1924, [^Number1]), took part in yet another very important chapter of American history: The Civil War.[^NPSstatementp2II] 
+ Isaac's generation epitomized many themes of American history, like westward migration and immigration from Europe. The following generation of the Neff family, like Isaac’s son Abram (1839 – 1924[^Number1]), took part in another important chapter of American history: the Civil War.[^NPSstatementp2II] 
 
-Although, Missouri was very diverse in the distribution of Confederates and Unionists, the greater trend was rather conservative but anti-slavery based.[^Gerteis] Nevertheless, Abram was fighting on the Confederate side [^NPSstatementp2III] and although he owned the tavern, didn’t pursue a gastronomic career and finished his medical degree and practiced as a physician in the house of the former tavern.[^NPSstatementp2IV] Everything, except for the smoke house was torn down by Abram in the 1890’s, in order to build a modern frame house on the land.[^NPSstatementp2V]
-Therefore, the smokehouse is the only remaining part of the previous tavern, which served as a meeting point to the travellers that established a blossoming economy in Missouri, through their trade with Mexico. It is also a remain of a family residence, that incorporates many stages of American history, as is the European immigration, the west ward migration and the Civil War.
+Although Missouri was split between Confederates and Unionists, most citizens tended towards anti-slavery beliefs.[^Gerteis] Nevertheless, Abram fought on the Confederate side.[^NPSstatementp2III] Although he owned the tavern, he opted instead to practice medicine in a house nearby.[^NPSstatementp2IV] Abram tore down everything except for the smokehouse in the 1890s in order to build a modern frame house on the land.[^NPSstatementp2V]
+
+As the only remaining part of the tavern, the smokehouse serves as an important link to Missouri's economic history and the heyday of the Santa Fe Trail. The smokehouse also offers a reminder of other broader themes in American (and European) history. 
 
 
 ## Location
@@ -55,24 +56,7 @@ The Neff tavern is located on an unmarked street, west from the Missouri highway
   image-url="location_neff_tavern.png"
 %}
 
----
-
-## Related articles
-* more information on the [Civil War in Missouri](https://www.sos.mo.gov/mdh/CivilWar/Resources.asp)
-
-* original [NPS registration form](https://github.com/historic-trails/santa-fe-itinerary/blob/master/historic-registration-forms/neff-tavern-smokehouse.pdf)
-
-* more information on the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War)
-* a very important historic [tavern](https://www.dhr.virginia.gov/historic-registers/072-0054/)
-
-## Related places
-* more [sites in Missouri](https://www.nps.gov/state/mo/index.htm)
-* on this site: [Seth-Ward-House](https://historic-trails.github.io/santa-fe-itinerary/sites/seth-ward-house)
-* The [Arrow Rock](http://arrowrock.org/) village is an Historic Landmark itself
-
-## Related people
-* travelers on the Santa Fe Trail in [Arrow Rock](http://arrowrock.org/history.php)
-* [German immigrants](http://www.frontiermuseum.org/exhibits/1700s-germany/) in Virginia
+***
 
 
 
@@ -99,7 +83,6 @@ Web sources:
 [^NPSstatementp1II]: NPS Form, 1963, statement of significance p.1
 [^NPSstatementp1III]: NPS Form, 1963, statement of significance p.1
 [^NPSstatementp1IV]: NPS Form, 1963, statement of significance p.1
-[^NPSstatementp1V]: NPS Form, 1963, statement of significance p.1
 [^NPSstatementp1VI]: NPS Form, 1963, statement of significance p.1
 [^NPSstatementp1VII]: NPS Form, 1963, statement of significance p.1
 [^Greggs]:J. Gregg, 1845: p. 19 and K. Gregg, 1933
