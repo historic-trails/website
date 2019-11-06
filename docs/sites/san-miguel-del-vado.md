@@ -8,7 +8,7 @@ date: 2018-12-08
 # San Miguel del Vado Historic District
 
 
-{% include figure.html class="img-center" width="66%" caption="Drawing of San Miguel del Vado dated to 1846 during the heyday of the Santa Fe Trail when this village would have been a population stopping point for traders on their way to Santa Fe and Chihuahua. [Wikimedia Commons](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant)" image-url="san-migel-del-vado-1846.jpg" %}
+{% include figure.html class="img-center" width="66%" caption="Drawing of San Miguel del Vado dated to 1846, during the heyday of the Santa Fe Trail. [source](https://en.wikipedia.org/wiki/San_Miguel_del_Vado_Land_Grant)" image-url="san-migel-del-vado-1846.jpg" %}
 
 San Miguel del Vado (San Miguel County, New Mexico) was founded in 1794 and would later become a very important rest stop and Pecos River crossing for the Santa Fe Trail.[^Jenks1] Located east of Santa Fe and Las Vegas, its most significant period was during the height of the Santa Fe Trail between 1821 and 1880. San Miguel del Vado was officially the political seat of San Miguel County until 1860 when it was bypassed by the construction of the Atchison Topeka & Santa Fe Railroad in Las Vegas, New Mexico.
 
@@ -21,14 +21,11 @@ San Miguel del Vado was established by [Lorenzo Marquez](http://dev.newmexicohis
 
 San Miguel del Vado (in English, *Saint Michael of the Ford*) was a popular stop for merchants and traders on the Santa Fe Trail. The Pecos River flows from northern New Mexico and empties into the Rio Grande in southwestern Texas. The village of San Miguel del Vado was established southeast of the Pecos River because it was an ideal crossing point for the river.
 
-{% include figure.html class="img-right" width="33%" caption="Few buildings remain from the Santa Fe Trail era in San Miguel del Vado. Source: NRHP" image-url="san-migel-del-vado-NRHP-1.JPG" %}
-
-
 ## San Miguel del Vado as Trading Common
 
 Merchants would stop here and repackage or combine their goods to reduce their loads, thus avoiding duties and other extra fees once they reached Santa Fe. Some French and American merchants would conduct their business in the San Miguel commons, bypassing Santa Fe completely on their way to Chihuahua and thereby avoiding taxes altogether.[^NRHP8] The Spanish government eventually stationed troops in San Miguel to stop smuggling and tax evasion by merchants on the Santa Fe Trail.[^NRHP81][^LOAsource2]
 
-{% include figure.html class="img-right" width="33%" caption="1975 Pecos Valley Project Plan. Source: Library of Congress" image-url="san-miguel-del-vado-historic-district.JPG" %}
+{% include figure.html class="img-left" width="33%" caption="Pecos Valley Project Plan, 1975. [source](https://www.loc.gov/resource/hhh.nm0036.sheet/?sp=2)" image-url="san-miguel-del-vado-historic-district.JPG" %}
 
 
 ## Historic Plaza
@@ -41,19 +38,19 @@ San Miguel del Vado's church is located on the west side of the plaza. The churc
 
 Southwest of the historic church, metal and ceramic artifacts still litter the ground. These were likely left by Santa Fe Trail travelers that stopped to rest or trade in San Miguel del Vado.[^Jenks3]
 
-{% include figure.html class="img-left" width="33%" caption="Aerial image of San Miguel del Vado from 1975 shows how the Santa Fe Trail was the commercial center of this village, and physically went through center of Historic Plaza. Source: Phillip O. Lackman" image-url="san-miguel-del-vado-aerial-1975.JPG" %}
+{% include figure.html class="img-left" width="33%" caption="Aerial imagery from 1975 shows the Santa Fe Trail's proximity to San Miguel del Vado's historic plaza. [source](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/) image-url="san-miguel-del-vado-aerial-1975.JPG" %}
 
 ## The Santa Fe Trail After Mexican Independence
 
 The Santa Fe Trail was utilized by Spanish merchants moving goods between Santa Fe and Mexico City. Mexico gained independence from Spain in 1821 which opened up trade across the Southwest. Trade was limited however, because of heavy taxation between newly-formed Mexico and the United States. As tensions rose between the nations, the Santa Fe Trail remained in use. The trail was used by U.S. General Stephen W. Kearny during the [seizure of Santa Fe](https://en.wikipedia.org/wiki/Capture_of_Santa_Fe) in August 1846. General Kearny took control of San Miguel del Vado before reaching Santa Fe. The [Mexican American War](https://home.nps.gov/safe/learn/historyculture/map-timeline-2.htm) ended in 1846 with the signing of the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) and what would become New Mexico Territory became a part of the United States. 
 
-{% include figure.html class="img-right" width="33%" caption="This historic district has numerous buildings from the Santa Fe Trail period, but few are still in use. Source: Wikimedia Commons." image-url="San_Miguel_del_Vado_NM.JPG" %}
+{% include figure.html class="img-left" width="33%" caption="This historic district has numerous buildings from the Santa Fe Trail period, but few are still in use. [source](https://en.wikipedia.org/wiki/San_Miguel_del_Vado#/media/File:San_Miguel_del_Vado_NM.JPG)" image-url="San_Miguel_del_Vado_NM.JPG" %}
 
 ## Decline in the Second Half of the Nineteenth Century
 
 As an agricultural economy dependent upon stock (mainly cattle), the district was affected by industrialization in the region. The economic and political center of San Miguel County shifted to Las Vegas in 1860.[^NRHP9] With construction of the Atchison Topeka & Santa Fe Railroad, San Miguel began to see its young men and workers leaving for better economic opportunities in Las Vegas, Santa Fe, or southern Colorado. This continued into the second half of the nineteenth century as San Miguel del Vado was reduced by the [Supreme Court ruling of 1897](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) that shrunk the San Miguel del Vado Land grant from 300,000 acres to 5,000 acres.[^Jenks2] This decision cut the village off from their abundant rangeland, farmland, and timber.
 
-{% include figure.html class="img-right" width="40%" caption="San Miguel del Vado Church remains the center of culture and society in this historic village. Source: Wikimedia Common" image-url="san-miguel-del-vado-church.jpg" %}
+{% include figure.html class="img-right" width="40%" caption="San Miguel del Vado Church remains the center of culture and society in this historic village. [source](https://en.wikipedia.org/wiki/San_Miguel_del_Vado#/media/File:Church_-_San_Miguel_del_Vado_NM.JPG)" image-url="san-miguel-del-vado-church.jpg" %}
 
 ## San Miguel del Vado Today
 
