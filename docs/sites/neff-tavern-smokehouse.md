@@ -10,7 +10,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The Neff tavern smokehouse was used to cure meat, sourced through hunting and farming in the region, as mostly venison and pork meat was processed.[^NPSForm]"
+  caption="The Neff family cured meat, mostly venison and pork, in their smokehouse. [source](https://dnr.mo.gov/shpo/nps-nr/78001676.pdf)"
   image-url="Neff_tavern_smokehouse_picture.PNG"
 %}
 
@@ -29,7 +29,7 @@ The Neff family's tavern was ideally positioned profit from traffic along the Sa
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="This picture was taken of a tavern in Illinois, which was built about the time as the Neff tavern smokehouse. Although smokehouses were inferior in their importance for the tavern building complex, it was built as massive as the main building.[^Number2]"
+  caption="A tavern in Illinois that was built around the same time as the Neff Tavern Smokehouse. [source](https://ourlocalhistory.files.wordpress.com/2014/07/sunderlage-smokehouse.jpg)"
   image-url="sunderlage-smokehouse_il.jpg"
 %}
 
@@ -52,7 +52,7 @@ The Neff tavern is located on an unmarked street, west from the Missouri highway
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The location of the former tavern can be found through the orange circle. The map shows how related the Neff property was to the Santa Fe Trail is, as it goes through the posession [^NPSFormI]."
+  caption="The tavern site is located within the orange circle. Note the proximity of the Neff property to the Santa Fe Trail. [source](https://dnr.mo.gov/shpo/nps-nr/78001676.pdf)"
   image-url="location_neff_tavern.png"
 %}
 
