@@ -15,7 +15,7 @@ The Mahaffie House and its surrounding outbuildings constituted the first hotel 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="The Mahaffie House today. [Wikimedia Commons user Rmprit](https://commons.wikimedia.org/wiki/File:1100_Kansas_City_Rd.,_Olathe,_KS_J.B._Mahaffie_House.jpg)"
+  caption="The Mahaffie House today. [source](https://commons.wikimedia.org/wiki/File:1100_Kansas_City_Rd.,_Olathe,_KS_J.B._Mahaffie_House.jpg)"
   image-url="mahaffie-modern.jpg"
 %}
 
@@ -25,7 +25,7 @@ The Santa Fe Trail ran right across the southwest corner of the property, provid
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The Mahaffie House in the 1950s (featured in the obituary of Ella Mahaffie). Newspaper clipping from _The History of Our Public Schools: Wyandotte County, Kansas_ <http://www.kckps.org/disthistory/images/park/index.htm>"
+  caption="The Mahaffie House in the 1950s (featured in the obituary of Ella Mahaffie). [source](http://www.kckps.org/disthistory/images/park/index.htm)"
   image-url="mahaffie-house-newspaper.jpg"
 %}
 
