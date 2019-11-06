@@ -71,7 +71,7 @@ In 1855 Majors partnered with William H. Russell and William B. Waddell to win a
 The Pony Express marked the first attempt at large-scale mail delivery in America.[^Godfrey1994vii] In late 1859 Russell, wanting a large mail contract from the federal government, convinced his partners to go along with the idea. Originally named the Central Overland California & Pikes Peak Express Company, the Pony Express offered service between St. Joseph, Missouri and Sacramento, California. A large stable of horses and evenly spaced relay stations allowed the Express's riders to deliver the mail in only ten days--a record that would stand until the first transcontinental railroad arrived after the Civil War.[^ponytimeline] 
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="25%"
   caption="A help-wanted sign. [source](hd.housedivided.dickinson.edu/node/17841)"
   image-url="alexander-majors-pony-express-poster.jpg"
@@ -82,8 +82,6 @@ The Pony Express marked the first attempt at large-scale mail delivery in Americ
 In 1862 Russell, Majors and Waddell closed due to bankruptcy and a dispute with the U.S. Department of the Interior. Later Majors' marriage and family fell apart, causing his second wife and child to move and change their names. Majors left Nebraska and spent time in Salt Lake City, where he witnessed the completion of the [transcontinental railroad](https://en.wikipedia.org/wiki/Transcontinental_railroad) in 1869 while he was working in the support of Union Pacific Railroad's drive west. He later lived in Denver.[^Morton2012f]
 
 His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *Seventy Years on the Frontier*, in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
-
-
 
 ## Architectural Style
 {% include figure.html
