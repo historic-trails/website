@@ -55,7 +55,7 @@ The 1920s-30s proved to be a difficult time for Council Grove. In the early part
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="The Kaw Indian Mission as you can see it today, which was originally a school for Kaw Indians. [source](https://www.kshs.org/p/american-indian-homes-in-kansas-kaw-mission/11863)"
+  caption="The Kaw Indian Mission, which was originally a school for Kaw Indians. [source](https://www.kshs.org/p/american-indian-homes-in-kansas-kaw-mission/11863)"
   image-url="kaw-indian-mission-today.jpg"
 %}
 After World War II, the Kansas State Legislature approved money to buy the [Kaw Indian Mission](https://www.kshs.org/index.php?url=kaw_mission) to create a museum as part of an effort to increase tourism.[^NRHP8531] Nature, however, had other plans. While Council Grove had experienced many floods before, the 1951 flood was unlike any other. With the Neosho Rover flowing at 121,000 cubic feet/second, many buildings downtown were damaged.[^Juracek4] The Kaw Indian Mission was damanged badly enough to delay its opening for another year.[^NRHP8532] This new museum, in addition to a new reservoir, began bringing several thousand people a year to Council Grove.[^NRHP8533]
@@ -71,7 +71,7 @@ After World War II, the Kansas State Legislature approved money to buy the [Kaw 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="This is one block of the Council Grove Downtown Historic District today. [source](https://www.kshs.org/natreg/natreg_listings/search/county:MR)"
+  caption="One block of the Council Grove Downtown Historic District today. [source](https://www.kshs.org/natreg/natreg_listings/search/county:MR)"
   image-url="council-grove-downtown-historic-district.jpg"
 %}
 The Council Grove Downtown Historic District has many sites of interest still standing today. During summer months, the Seth Hays Home is open to viewing on Sunday afternoons or by appointment with the [Morris County Historical Society](https://morriscountyhistory.us/our-collections/). The Kaw Indian Mission is also open to the public. More information can be found at the [Kansas Histoical Society](https://www.kshs.org/index.php?url=kaw_mission). The Last Chance Store can be seen at 502 W. Main St, although the inside can't be viewed at this time.
