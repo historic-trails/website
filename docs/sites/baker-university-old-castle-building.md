@@ -8,11 +8,10 @@ date: 2018-11-24
 
 # Baker University Old Castle Building 
 
-
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Old Castle Building (present day Castle Museum) source [Diana Staresinic-Deane](https://dianastaresinicdeane.wordpress.com/2013/09/29/sunday-snapshot-old-castle-museum-at-baker-university/)"
+  caption="The Old Castle Building (now the Castle Museum). [source] [Diana Staresinic-Deane](https://dianastaresinicdeane.wordpress.com/2013/09/29/sunday-snapshot-old-castle-museum-at-baker-university/)"
   image-url="old-castle-museum.jpg"
 %}
 
@@ -35,7 +34,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="43%"
-  caption="Main Street of Baldwin City, KS 1911 source [Kathy Weiser/ Legends of Kansas](http://www.legendsofkansas.com/baldwincity.html)"
+  caption="Main Street, Baldwin City, KS (1911). [source] [Kathy Weiser/ Legends of Kansas](http://www.legendsofkansas.com/baldwincity.html)"
   image-url="Baldwin-City-1911.jpg"
 %}
  
@@ -54,7 +53,7 @@ date: 2018-11-24
  {% include figure.html
   class="img-right"
   width="50%"
-  caption="Copy of a cartoon by Kansas artist Henry Worrall showing Kansas farmers battling grasshoppers 1874. source [Kansas Historical Society](https://www.kansasmemory.org/item/214827)"
+  caption="A cartoon by Kansas artist Henry Worrall showing Kansas farmers battling grasshoppers, 1874. [source] [Kansas Historical Society](https://www.kansasmemory.org/item/214827)"
   image-url="baker-grasshoppers.jpg"
 %}
   	
@@ -82,7 +81,7 @@ date: 2018-11-24
  {% include figure.html
   class="img-right"
   width="50%"
-  caption="Santa Fe Trail passing near Baldwin, KS. source [Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)"
+  caption="The Santa Fe Trail passing near Baldwin, KS. [source] [Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)"
   image-url="old-castle-hall-map.jpg"
 %}
 
