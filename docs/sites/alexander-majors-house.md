@@ -25,16 +25,6 @@ The Alexander Majors House is one of the few [Antebellum period](https://www.enc
 ## Location
 The house is situated approximately sixteen feet from the Missouri-Kansas border, which--at the time of construction--also served as the  western boundary of the United States.[^NPSFormi]  Majors, an astute businessman, chose a strategic location for his homestead; Kansas Territory was not yet a state, meaning that Majors owed no taxes on his corrals, grazing lands, oxen pens, barns, wagons, and blacksmith shops. The Santa Fe Trail also ran right past the property, granting Majors and his firm easy access to one of their economic lifelines.[^WornallMajorsHouseMuseumsii]
 
-## Majors' House
-{% include figure.html
-  class="img-right"
-  width="25%"
-  caption="The Alexander Majors House and its grounds. [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
-  image-url="alexander-majors-house-site-plan.PNG"
-%}
-
-The house was built in 1856 on a 300-acre farmstead on the Missouri-Kansas border. This property served both as family home and headquarters for Majors' freighting company.[^WPAGuide1998iv] Two years later, when the contract system changed and Majors' wife died, he remarried and moved his family to Nebraska City to oversee shipments to Utah; he gave away the state line property to his daughter Rebecca. [^Morton2012e][^WPAGuide1998v]
-
 ## Who Was Alexander Majors?
 
 Alexander Majors (1814-1900) was born in Kentucky and moved with his parents, Laurania and Benjamin Majors, to Lafayette County, Missouri in 1819; they later moved to Jackson County.[^WPAGuide1998ii] In 1827, Majors' father returned to farming after trying his hand at silver mining. His tales impressed upon the younger Majors the numerous possibilities beyond the American frontier, inspiring Alexander to explore the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and together they joined his father's farming operation.[^Morton2012a]Since he had no son to help around the farm, Alexander looked for other ways to make a living. [^Godfrey1994i]
@@ -82,6 +72,16 @@ The Pony Express marked the first attempt at large-scale mail delivery in Americ
 In 1862 Russell, Majors and Waddell closed due to bankruptcy and a dispute with the U.S. Department of the Interior. Later Majors' marriage and family fell apart, causing his second wife and child to move and change their names. Majors left Nebraska and spent time in Salt Lake City, where he witnessed the completion of the [transcontinental railroad](https://en.wikipedia.org/wiki/Transcontinental_railroad) in 1869 while he was working in the support of Union Pacific Railroad's drive west. He later lived in Denver.[^Morton2012f]
 
 His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *Seventy Years on the Frontier*, in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
+
+## Majors' House
+{% include figure.html
+  class="img-right"
+  width="25%"
+  caption="The Alexander Majors House and its grounds. [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
+  image-url="alexander-majors-house-site-plan.PNG"
+%}
+
+The house was built in 1856 on a 300-acre farmstead on the Missouri-Kansas border. This property served both as family home and headquarters for Majors' freighting company.[^WPAGuide1998iv] Two years later, when the contract system changed and Majors' wife died, he remarried and moved his family to Nebraska City to oversee shipments to Utah; he gave away the state line property to his daughter Rebecca. [^Morton2012e][^WPAGuide1998v]
 
 ## Architectural Style
 The Majors House was built in a [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html). It employs a "T" shaped floor plan and contains nine rooms and two stories of [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the oldest houses with light wood frame construction in Kansas.[^NPSFormii]
