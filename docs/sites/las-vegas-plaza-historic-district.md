@@ -21,7 +21,7 @@ By 1846 the town's stock of adobe structures had grown considerably, especially 
 
 ## Las Vegas on the Trail ##
 
-{% include figure.html class="img-right" width="33%" caption="Plaza Hotel" image-url="PlazaHotelFront1.JPG" %}
+{% include figure.html class="img-right" width="33%" caption="Plaza Hotel" image-url="PlazaHotelFront1.tif" %}
 
 Between its founding and the beginning of the Civil War, Las Vegas thrived as frontier town operating on the Santa Fe Trail. Traveler, trader, and military accounts describe a small but important town dependent on the commerce brought by the trail: 
 
@@ -48,7 +48,7 @@ Until the arrival of the railroad, Las Vegas sustained itself from Santa Fe Trai
 
 ## Railroads and Las Vegas Today ##
 
-{% include figure.html class="img-right" width="33%" caption="Historic Map of Las Vegas NM" image-url="plazamap.JPG" %}
+{% include figure.html class="img-right" width="33%" caption="Historic Map of Las Vegas NM. [source](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/74001202_text)" image-url="plazamap.JPG" %}
 
 Las Vegas was one of first towns in New Mexico to experience a boom in railroad tourism, causing a major decline in wagon traffic. It was difficult to lay tracks near the plaza, as it was located west of the Gallinas River--a natural impediment to travel through town. Thus, the train station was constructed in a new part of town, East Las Vegas, forming a heated rivalry between the area's two commercial centers. Despite the plaza, West Las Vegas steadily declined. One of the primary cultural consequences was a rise of racial stereotypes associated with each side of town.[^7] East and West Las Vegas were eventually combined into one singular town during the 1970s but still faced a depressed economy rooted firmly in historic tourism and the New Mexico Highlands University. Its tourism, in particular, focuses on its history as a frontier town, outlaw haven, and railroad legacy. The town is currently intent on preserving its architectural history, especially around the plaza. 
 
