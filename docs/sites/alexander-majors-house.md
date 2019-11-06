@@ -15,7 +15,6 @@ date: 2018-11-24
 
 The Alexander Majors House is one of the few [Antebellum period](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/antebellum-period) structures surviving in Kansas City and is on the [National Register of Historic Places](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places).[^WPAGuide1998i] The house and the grounds served as the center of operations for [Russell, Majors and Waddell](https://www.britannica.com/topic/Russell-Majors-and-Waddell), a freighting firm famous for serving the American West and Southwest in the 1850s.
 
-## Location
 {% include figure.html
   class="img-left"
   width="25%"
@@ -23,6 +22,7 @@ The Alexander Majors House is one of the few [Antebellum period](https://www.enc
   image-url="alexander-majors-house-location.jpg"
 %}
 
+## Location
 The house is situated approximately sixteen feet from the Missouri-Kansas border, which--at the time of construction--also served as the  western boundary of the United States.[^NPSFormi]  Majors, an astute businessman, chose a strategic location for his homestead; Kansas Territory was not yet a state, meaning that Majors owed no taxes on his corrals, grazing lands, oxen pens, barns, wagons, and blacksmith shops. The Santa Fe Trail also ran right past the property, granting Majors and his firm easy access to one of their economic lifelines.[^WornallMajorsHouseMuseumsii]
 
 ## Majors' House
