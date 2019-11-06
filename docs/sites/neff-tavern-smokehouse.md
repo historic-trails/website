@@ -46,15 +46,16 @@ Although Missouri was split between Confederates and Unionists, most citizens te
 
 As the only remaining part of the tavern, the smokehouse serves as an important link to Missouri's economic history and the heyday of the Santa Fe Trail. The smokehouse also offers a reminder of other broader themes in American (and European) history. 
 
-
-## Location
-The Neff tavern is located on an unmarked street, west from the Missouri highway number 41 (half a mile) and Arrow Rock (6 miles).
 {% include figure.html
   class="img-right"
   width="33%"
   caption="The tavern site is located within the orange circle. Note the proximity of the Neff property to the Santa Fe Trail. [source](https://dnr.mo.gov/shpo/nps-nr/78001676.pdf)"
   image-url="location_neff_tavern.png"
 %}
+
+## Location
+The Neff tavern is located on an unmarked street, west from the Missouri highway number 41 (half a mile) and Arrow Rock (6 miles).
+
 
 ***
 
