@@ -77,9 +77,6 @@ His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *S
 
 The house was built in 1856 on a 300-acre farmstead on the Missouri-Kansas border. This property served both as family home and headquarters for Majors' freighting company.[^WPAGuide1998iv] Two years later, when the contract system changed and Majors' wife died, he remarried and moved his family to Nebraska City to oversee shipments to Utah; he gave away the state line property to his daughter Rebecca. [^Morton2012e][^WPAGuide1998v]
 
-## Architectural Style
-The Majors House was built in a [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html). It employs a "T" shaped floor plan and contains nine rooms and two stories of [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the oldest houses with light wood frame construction in Kansas.[^NPSFormii]
-
 {% include figure.html
   class="img-left"
   width="33%"
@@ -87,6 +84,8 @@ The Majors House was built in a [Classical revival style](http://www.phmc.state.
   image-url="alexander-majors-house-side-view-image.PNG"
 %}
 
+## Architectural Style
+The Majors House was built in a [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html). It employs a "T" shaped floor plan and contains nine rooms and two stories of [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the oldest houses with light wood frame construction in Kansas.[^NPSFormii]
 
 ### Outbuildings and Grounds
 
@@ -103,14 +102,14 @@ The outbuildings next to the house no longer survive. There is a barn is approxi
 
 Mr. and Mrs. A. Louis Rhul owned the house from 1904 to 1924. who later built additions to the house and owned it till 1924. [^Morton2012h] The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf), such as enlarging the dining room and master bedroom on second floor.[^NPSFormiv]
 
+## Majors' House Bought by His Descendant
+
 {% include figure.html
   class="img-right"
   width="25%"
   caption="The house's first floor. Note the several modifications made to the stairway, central fireplace and kitchen fireplaces, dining room, and bedroom. [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-first-floor-plan.PNG"
 %}
-
-## Majors' House Bought by His Descendant
 
 In 1930 Louisa P. Johnston, Majors's great grand-daughter, travelled to visit her ancestral home and found the house abandoned. She bought the house in 1932 and, for the next forty years, worked to transform the property into a memorial for her ancestors. In 1945, then-Senator Harry Truman initiated a bill to purchase and maintain the house but it never passed. Finally, in 1970, the [American Historical Association](https://en.wikipedia.org/wiki/American_Historical_Association) got the house listed on the National Register of Historic Places.[^Morton2012j]
 
