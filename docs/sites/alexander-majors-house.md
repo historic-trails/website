@@ -83,6 +83,8 @@ In 1862 Russell, Majors and Waddell closed due to bankruptcy and a dispute with 
 
 His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *Seventy Years on the Frontier*, in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
 
+
+
 ## Architectural Style
 {% include figure.html
   class="img-left"
