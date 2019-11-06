@@ -71,19 +71,19 @@ When Spain controlled what is now the southwestern United States, the Spanish of
 In 1908 the rail company ATSF completed a second tunnel under Raton Pass to handle increased traffic, but developments in rail around the West signaled the decline of Raton Pass as a major rail corridor. Most importantly, ATSF finished the Belen Cutoff in central New Mexico, giving the railroad an easier route. Raton Pass continued to be used for passengers, but all long-haul trains now took the Belen Cutoff route. In 1908–9 New Mexico used convict labor to build a new highway that crossed the Colorado border near Raton Pass, further reducing traffic through the area.
 
 {% include figure.html
-  class="img-left"
-  width="20%"
-  caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale. [source](https://www.pinterest.com/pin/31595634866102853/)"
-  image-url="raton_post_cards.jpg"
+  class="img-right"
+  width="66%"
+  caption="A map of rail line completion as of 1880, including Raton Pass. [source](https://www.nps.gov/safe/learn/historyculture/map-timeline-5.htm)"
+  image-url="raton_maps.jpg"
 %}
 
 The majority of traffic through the pass now comes from automobiles. In 1926 the highway over Raton Pass was designated as US 85 and improved. In 1942 it was realigned to the old Wootton route along the Santa Fe Trail, which was more navigable. This route was incorporated into Interstate 25 in the early 1960s, and now provides tourism dollars for the nearby towns of Raton and Trinidad.
 
 {% include figure.html
-  class="img-right"
-  width="66%"
-  caption="A map of rail line completion as of 1880, including Raton Pass. [source](https://www.nps.gov/safe/learn/historyculture/map-timeline-5.htm)"
-  image-url="raton_maps.jpg"
+  class="img-left"
+  width="20%"
+  caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale. [source](https://www.pinterest.com/pin/31595634866102853/)"
+  image-url="raton_post_cards.jpg"
 %}
 
 Despite being on the less popular Mountain Branch of the Santa Fe Trail, the pass has often been used as a symbol of the trail’s hardships and of the boundary between Anglo and Hispanic cultures. Still an important corridor traversed by a railroad and Interstate 25, the pass was listed as a National Historic Landmark in 1961.[^NPS-Form]
