@@ -71,8 +71,8 @@ When Spain controlled what is now the southwestern United States, the Spanish of
 In 1908 the rail company ATSF completed a second tunnel under Raton Pass to handle increased traffic, but developments in rail around the West signaled the decline of Raton Pass as a major rail corridor. Most importantly, ATSF finished the Belen Cutoff in central New Mexico, giving the railroad an easier route. Raton Pass continued to be used for passengers, but all long-haul trains now took the Belen Cutoff route. In 1908–9 New Mexico used convict labor to build a new highway that crossed the Colorado border near Raton Pass, further reducing traffic through the area.
 
 {% include figure.html
-  class="img-right"
-  width="25%"
+  class="img-left"
+  width="20%"
   caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale. [source](https://www.pinterest.com/pin/31595634866102853/)"
   image-url="raton_post_cards.jpg"
 %}
