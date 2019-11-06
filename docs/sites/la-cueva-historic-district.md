@@ -8,32 +8,15 @@ date: 2018-11-26
 # La Cueva Historic District
 
 
-##### Quick Facts
-
-{% include figure.html
-  class="img-right"
-  width="30%"
-  caption="The mill at La Cueva, corn and wheat were milled here and delivered to Ft.Union [source](https://commons.wikimedia.org/wiki/File:Mill_at_La_Cueva_NM.jpg) "
-  image-url="la-cueva-mill2.jpg"
-%}
-
-* *Location*: [35.9417032,-105.2666875](https://goo.gl/maps/Hd93fYYUcLD2)
-* *Significance*: History of Santa Fe Trail, History of Fort Union, History of Food
-* *Designation*: National Register of Historic Places
-* *Open to the public*: Private Residence; [Areas open to public according to schedule](https://www.lacuevafarm.com/hoursofoperation/)
-
-
-
-In the latter half of the nineteenth century, La Cueva Historic District helped shape the surrounding region by aiding travelers along the Santa Fe Trail. The site consists of several structures: the Romero Hacienda, [a grist mill](https://en.wikipedia.org/wiki/Gristmill), a mercantile building, the Church of San Rafel, stables, a farm, [acequia](http://www.nmacequiacommission.state.nm.us/Publications/kfrancis_harvard_proposal04.pdf), and a few outbuildings.  
+In the latter half of the nineteenth century, the La Cueva Historic District helped shape the surrounding region by aiding travelers along the Santa Fe Trail. The site consists of several structures: the Romero Hacienda, a [grist mill](https://en.wikipedia.org/wiki/Gristmill), a mercantile building, the Church of San Rafael, stables, a farm, an [*acequia*](http://www.nmacequiacommission.state.nm.us/Publications/kfrancis_harvard_proposal04.pdf), and a few outbuildings.  
 
 {% include figure.html
   class="img-center"
   width="66%"
   width="90%"
-  caption="La Cueva in context of the Santa Fe Trail.  Ft.Union was a major destination for milled grains leaving La Cueva [source](https://www.nps.gov/safe/planyourvisit/maps.htm)"
+  caption="La Cueva in the context of the Santa Fe Trail. Fort Union was a major destination for milled grains leaving La Cueva. [source](https://www.nps.gov/safe/planyourvisit/maps.htm)"
   image-url="la-cueva-region-map2.jpg"
 %}
-
 
 
 ## Founding La Cueva
@@ -52,6 +35,12 @@ La Cueva was founded by Vicente Romero around 1851. The land was originally part
 [^ranchos1]: Ranchos of Northern New Mexico p-19-1
 
 
+{% include figure.html
+  class="img-left"
+  width="30%"
+  caption="The mill at La Cueva, corn and wheat were milled here and delivered to Fort Union. [source](https://commons.wikimedia.org/wiki/File:Mill_at_La_Cueva_NM.jpg) "
+  image-url="la-cueva-mill2.jpg"
+%}
 
 ## Milling, Farming, and the Santa Fe Trail
 {% include figure.html
