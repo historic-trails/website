@@ -21,7 +21,7 @@ Fort Marcy was an adobe fortification built by General [Stephen W. Kearny](https
 
 ## An American Symbol
 
-{% include figure.html class="img-right" width="40%" caption="Santa Fe from the perspective of Fort Marcy, 1880. [source](https://econtent.unm.edu/cdm/singleitem/collection/wittick/id/233/rec/99)" image-url="townfrommarcy.jpg" %}
+{% include figure.html class="img-left" width="40%" caption="Santa Fe from the perspective of Fort Marcy, 1880. [source](https://econtent.unm.edu/cdm/singleitem/collection/wittick/id/233/rec/99)" image-url="townfrommarcy.jpg" %}
 
 In 1846 General Kearny wrote a report to the Adjutant General of the Army in Washington that stated:  
 
@@ -32,7 +32,7 @@ General Kearny's words illustrate that Fort Marcy was the key to the newly acqui
 [^4]: Bradford, 4 
 [^5]: Matthew, 22
 
-{% include figure.html class="img-left" width="40%" caption="Fort Marcy's crumbling walls, 1992. [source](https://econtent.unm.edu/cdm/singleitem/collection/santa/id/17/rec/34)" image-url="wall-marcy.jpg" %}
+{% include figure.html class="img-right" width="40%" caption="Fort Marcy's crumbling walls, 1992. [source](https://econtent.unm.edu/cdm/singleitem/collection/santa/id/17/rec/34)" image-url="wall-marcy.jpg" %}
 
 ## Fort Marcy's Role on the Santa Fe Trail
 Like many of the other fortifications in the area, Fort Marcy helped protect travelers on the Santa Fe Trail and El Camino Real de Tierra Adentro trail from Native American raids. [Fort Craig](https://en.wikipedia.org/wiki/Fort_Craig), almost two hundred miles south near Socorro, was the “base for Indian operations” during the late nineteenth century; its commanders send armed escorts with traders as they traveled northward toward Santa Fe along El Camino Real de Tierra Adentro.[^6] Fort Marcy would serve a similar function as it was a combat post at the cross section of two major trails, Santa Fe and the Camino Real de Tierra Adentro trail.[^7] 
