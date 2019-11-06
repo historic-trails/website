@@ -105,7 +105,7 @@ Mr. and Mrs. A. Louis Rhul owned the house from 1904 to 1924. who later built ad
 ## Majors' House Bought by His Descendant
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="25%"
   caption="The house's first floor. Note the several modifications made to the stairway, central fireplace and kitchen fireplaces, dining room, and bedroom. [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-first-floor-plan.PNG"
