@@ -8,7 +8,7 @@ date: 2018-14-12
 # The Las Vegas Plaza #
 
 
-{% include figure.html class="img-left" width="33%" caption="Corner Of Las Vegas Plaza. [source](Author's collection)" image-url="PlazaDrugs.JPG" %}
+{% include figure.html class="img-left" width="33%" caption="Corner Of Las Vegas Plaza. Author's collection." image-url="PlazaDrugs.JPG" %}
 
 Scenic Las Vegas, New Mexico has strong historic roots in the Santa Fe Trail. The city was founded in 1838 as part of a land grant approved by Governor Francisco Sarracino; *Vegas Grandes*, as it was called, quickly became an essential stop for the pioneers, explorers, and traders that traversed the Santa Fe Trail.[^1] As a result of the Mexican American War, the American Southwest switched from Mexican to American ownerhsip. Las Vegas remained an important stop along the trail, allowing the city to grow economically despite its newfound political affiliation.
  
