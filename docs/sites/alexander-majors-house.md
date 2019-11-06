@@ -84,6 +84,8 @@ In 1862 Russell, Majors and Waddell closed due to bankruptcy and a dispute with 
 His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *Seventy Years on the Frontier*, in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
 
 ## Architectural Style
+The Majors House was built in a [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html). It employs a "T" shaped floor plan and contains nine rooms and two stories of [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the oldest houses with light wood frame construction in Kansas.[^NPSFormii]
+
 {% include figure.html
   class="img-left"
   width="49%"
@@ -97,8 +99,6 @@ His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *S
   caption="The Alexander Majors House, c. 1860. [source](https://books.google.com/books?id=1YZ2CQAAQBAJ&printsec=frontcover&dq=Morton,+La+Lena+-+%27The+Waldo+story%27-The+home+of+friendly+merchants&hl=en&sa=X&ved=0ahUKEwjK37TxxZvfAhVJzlQKHQrKAqAQ6AEIKjAA#v=onepage&q&f=false - Chapter1-p13)"
   image-url="alexander-majors-house-1860.PNG"
 %}
-
-The Majors House was built in a [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html). It employs a "T" shaped floor plan and contains nine rooms and two stories of [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the oldest houses with light wood frame construction in Kansas.[^NPSFormii]
 
 ### Outbuildings and Grounds
 
