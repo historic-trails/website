@@ -92,7 +92,7 @@ His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *S
 %}
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="49%"
   caption="The Alexander Majors House, c. 1860. [source](https://books.google.com/books?id=1YZ2CQAAQBAJ&printsec=frontcover&dq=Morton,+La+Lena+-+%27The+Waldo+story%27-The+home+of+friendly+merchants&hl=en&sa=X&ved=0ahUKEwjK37TxxZvfAhVJzlQKHQrKAqAQ6AEIKjAA#v=onepage&q&f=false - Chapter1-p13)"
   image-url="alexander-majors-house-1860.PNG"
