@@ -46,7 +46,7 @@ Wootton built his house and toll gate on the Colorado side of the pass, and dail
 
 {% include figure.html
   class="img-right"
-  width="60%"
+  width="50%"
   caption="The historic Santa Fe Trail traversed the present-day states of Missouri, Kansas, Oklahoma, Colorado, and New Mexico. [source](https://www.nps.gov/safe/planyourvisit/directions.htm)"
   image-url="trail-map-nps.jpg"
 %}
@@ -72,15 +72,15 @@ In 1908 the rail company ATSF completed a second tunnel under Raton Pass to hand
 
 {% include figure.html
   class="img-right"
-  width="66%"
-  caption="A map of rail line completion as of 1880, including Raton Pass. [source](https://www.nps.gov/safe/learn/historyculture/map-timeline-5.htm)"
-  image-url="raton_maps.jpg"
-%}
-{% include figure.html
-  class="img-right"
   width="33%"
   caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale. [source](https://www.pinterest.com/pin/31595634866102853/)"
   image-url="raton_post_cards.jpg"
+%}
+{% include figure.html
+  class="img-right"
+  width="66%"
+  caption="A map of rail line completion as of 1880, including Raton Pass. [source](https://www.nps.gov/safe/learn/historyculture/map-timeline-5.htm)"
+  image-url="raton_maps.jpg"
 %}
 
 The majority of traffic through the pass now comes from automobiles. In 1926 the highway over Raton Pass was designated as US 85 and improved. In 1942 it was realigned to the old Wootton route along the Santa Fe Trail, which was more navigable. This route was incorporated into Interstate 25 in the early 1960s, and now provides tourism dollars for the nearby towns of Raton and Trinidad.
