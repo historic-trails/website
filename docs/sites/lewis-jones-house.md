@@ -33,7 +33,7 @@ Independence, Missouri was the gateway to the American West. The town quickly be
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Independence, Missouri in the 1840s. Depicting the begining of the Santa Fe Trail. Independence soon became part of the greater Kansas City area and became a bustling metropolis. [source](https://www.pinterest.com/pin/312085449171317067/?lp=true)"
+  caption="A birds-eye view of Independence, Missouri in 1868. [source](https://www.pinterest.com/pin/371265563013951241/)"
   image-url="independence-missouri-picture.jpg"
 %}
 
@@ -53,7 +53,7 @@ The Lewis Jones House was constructed in 1840 in the middle of Independence, Mis
 {% include figure.html
   class="img-right"
   width="40%"
-  caption="The Lewis Jones House in the modern day. The Unique L-shape and beautiful land that it sits on make this house a interesting place to visit. [Source](https://www.flickr.com/photos/51038527@N03/24831664933/in/photostream/)"
+  caption="The Lewis Jones House in the modern day. The Unique L-shape and beautiful land that it sits on make this house a interesting place to visit. [source](https://www.flickr.com/photos/51038527@N03/24831664933/in/photostream/)"
   image-url="lewis-jones-house-photo.jpg"
 %}
 
