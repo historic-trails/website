@@ -14,21 +14,13 @@ Raton Pass connects the vastly different worlds of the Upper Arkansas River drai
 {% include figure.html
   class="img-right"
   width="60%"
-  caption="'The Father of the Santa Fe Trail', William Becknell is credited with expanding trade from New Mexico into Missouri, Kansas and Oklahoma via the Raton Pass. [Source](https://en.wikipedia.org/wiki/William_Becknell)"
+  caption="'The Father of the Santa Fe Trail', William Becknell is credited with expanding trade from New Mexico into Missouri, Kansas and Oklahoma via the Raton Pass. [source](https://en.wikipedia.org/wiki/William_Becknell)"
   image-url="williambecknell.jpg"
 %}
 
 One of the first recorded journeys[^Ignacio-Journal] over the pass was made by [William Becknell](https://en.wikipedia.org/wiki/William_Becknell), a businessman fleeing failed ventures and political aspirations in Missouri; he hoped to reverse his fortunes by trading beaver pelts from Northern New Mexico. Becknell left Franklin, Missouri with four companions in September, 1821 with a load of freight to deliver to Santa Fe. By that time conquistadors, trappers, and traders had already established a rough trail through the pass, but Becknell is often credited with being the first to take wagons through the area. However, that portion of the journey has been called into question after the discovery of the [diary of Pedro Ignacio Gallego](https://www.santafetrailresearch.com/research/pedro-ignacio-gallego-1.html) in 1993. Mexican Army Captain Gallego and 400 of his soldiers encountered Becknell far from the area in which he claimed to be, and these writings--along with Becknell’s own journal describing the landscape--show evidence that he and his men probably misidentified the Canadian River and instead crossed at another river south of present day Las Vegas, New Mexico.[^Ignacio-Journal]
 
 After a month of trading, Becknell left Santa Fe on December 13th, and the men returned to Missouri safely in January of 1822. His investment of $300 in trading goods had returned approximately $6000 in coin. The profits made by William Becknell’s first trading trip brought much needed money and valuable goods into central Missouri where the [Panic of 1819](https://en.wikipedia.org/wiki/Panic_of_1819) had devastated the local economy. 
-
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale."
-  image-url="raton_post_cards.jpg"
-%}
-
 
 William Becknell's description of the pass was accurate enough to scare people away. His depictions of broken wagons, big boulders, and a lack of basic services led most traders along the [Santa Fe Trail](https://www.nps.gov/nr/travel/american_latino_heritage/Raton_Pass.html) to choose the Cimarron Cutoff, which cut diagonally across southwestern Kansas and northeastern New Mexico to avoid the mountains. Raton Pass, on the other hand, lay on the Mountain Branch of the trail, which was longer and more difficult but did have more water and less threat of violence from Native Americans struggling to cling to their land. It received far less traffic than the Cimarron Cutoff but was favored by traders with only a few pack animals or light wagons.
 
@@ -41,7 +33,7 @@ William Becknell's description of the pass was accurate enough to scare people a
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The famous Wootton house, pictured with 'Uncle Dick' and his family."
+  caption="The famous Wootton house, pictured with 'Uncle Dick' and his family. [source](https://www.legendsofamerica.com/we-richenswootton/)"
   image-url="wootton_house.jpg"
 %}
 
@@ -55,7 +47,7 @@ Wootton built his house and toll gate on the Colorado side of the pass, and dail
 {% include figure.html
   class="img-right"
   width="60%"
-  caption="The historic Santa Fe Trail traversed the present-day states of Missouri, Kansas, Oklahoma, Colorado, and New Mexico. [Source](https://www.nps.gov/safe/planyourvisit/directions.htm)"
+  caption="The historic Santa Fe Trail traversed the present-day states of Missouri, Kansas, Oklahoma, Colorado, and New Mexico. [source](https://www.nps.gov/safe/planyourvisit/directions.htm)"
   image-url="trail-map-nps.jpg"
 %}
 
@@ -73,12 +65,6 @@ Raton Pass played an important military role again during the Civil War, as Unio
 
 ## The Three Stages of Travel
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Artist representation of a train on Raton Pass. Locomotive traffic still dominates parts of the pass. [Source](http://streamlinermemories.info/?p=4737)"
-  image-url="sketch_train.jpg"
-%}
 
 When Spain controlled what is now the southwestern United States, the Spanish officially banned international trade of all kinds. After Mexico gained its independence from Spain in 1821, the Mexicans lifted the ban and opened the area to both commercial and cultural exchange. The Santa Fe Trail, which spanned 1,200 miles from Franklin, Missouri to Santa Fe, New Mexico, served as a sort of highway for oxen and horses--not to mention their human passengers.
 
@@ -87,8 +73,14 @@ In 1908 the rail company ATSF completed a second tunnel under Raton Pass to hand
 {% include figure.html
   class="img-right"
   width="66%"
-  caption="A map of rail line completion as of 1880, including Raton Pass. [Source](https://www.nps.gov/safe/learn/historyculture/map-timeline-5.htm)"
+  caption="A map of rail line completion as of 1880, including Raton Pass. [source](https://www.nps.gov/safe/learn/historyculture/map-timeline-5.htm)"
   image-url="raton_maps.jpg"
+%}
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Postcards sent from early travelers of Raton Pass. Note the automobile, for scale. [source](https://www.pinterest.com/pin/31595634866102853/)"
+  image-url="raton_post_cards.jpg"
 %}
 
 The majority of traffic through the pass now comes from automobiles. In 1926 the highway over Raton Pass was designated as US 85 and improved. In 1942 it was realigned to the old Wootton route along the Santa Fe Trail, which was more navigable. This route was incorporated into Interstate 25 in the early 1960s, and now provides tourism dollars for the nearby towns of Raton and Trinidad.
@@ -107,18 +99,8 @@ A family of road signs has been initiated across the Santa Fe Trail to help you 
 {% include figure.html
   class="img-left"
   width="66%"
-  caption="Follow these signs for information along the Santa Fe Trail."
+  caption="Follow these signs for information along the Santa Fe Trail. [source](https://www.nps.gov/safe/planyourvisit/directions.htm)"
   image-url="signs.jpg"
-%}
-
-***
-
-
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Automobile travel before pavement was tenuous."
-  image-url="1900s_raton.jpg"
 %}
 
 ***
