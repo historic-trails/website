@@ -73,7 +73,7 @@ The Pony Express marked the first attempt at large-scale mail delivery in Americ
 {% include figure.html
   class="img-left"
   width="25%"
-  caption="A poster soliciting delivery riders along the Pony Express. [source](hd.housedivided.dickinson.edu/node/17841)"
+  caption="A help-wanted sign. [source](hd.housedivided.dickinson.edu/node/17841)"
   image-url="alexander-majors-pony-express-poster.jpg"
 %}
 
