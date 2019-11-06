@@ -7,14 +7,7 @@ date: 2018-12-3
 
 # Fort Marcy
 
-##### Quick Facts
-* *Location*: Above Hillside Avenue, Santa Fe, New Mexico
-* *Significance*: History of Santa Fe, History of New Mexico, History of America
-* *Designation*: National Register of Historic Places
-* *Open to the public*: Yes
-
-{% include figure.html class="img-right" width="40%" caption="1846 illustration of Fort Marcy and the Loretto Chapel in Santa Fe. Digital image © Fray Angélico Chávez History Library. [source](https://econtent.unm.edu/cdm/singleitem/collection/chavezgraph/id/72/rec/40)
-" image-url="marcyxchurch.jpg" %}
+{% include figure.html class="img-right" width="40%" caption="An illustration of Fort Marcy and the Loretto Chapel in Santa Fe from 1846. [source](https://econtent.unm.edu/cdm/singleitem/collection/chavezgraph/id/72/rec/40)" image-url="marcyxchurch.jpg" %}
 
 Fort Marcy was built at the start of the [Mexican American War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War) (1846) and served to solidify American rule over present-day New Mexico. It offered protection and shelter to the people of Santa Fe, to the troops that were stationed there, and to the travelers on the Santa Fe Trail. Fort Marcy has played a role in many important aspects of American history, including the Mexican American War, the American Civil War, and westward migration. 
 
@@ -28,8 +21,7 @@ Fort Marcy was an adobe fortification built by General [Stephen W. Kearny](https
 
 ## An American Symbol
 
-{% include figure.html class="img-right" width="40%" caption="1880, Santa Fe from the perspective of Fort Marcy. This picture showing how Fort Marcy was seen as a symbol of American rule. [source](https://econtent.unm.edu/cdm/singleitem/collection/wittick/id/233/rec/99) 
-" image-url="townfrommarcy.jpg" %}
+{% include figure.html class="img-right" width="40%" caption="Santa Fe from the perspective of Fort Marcy, 1880. [source](https://econtent.unm.edu/cdm/singleitem/collection/wittick/id/233/rec/99)" image-url="townfrommarcy.jpg" %}
 
 In 1846 General Kearny wrote a report to the Adjutant General of the Army in Washington that stated:  
 
@@ -50,8 +42,7 @@ After the Mexican American War, traffic along the Santa Fe Trail increased drama
 
 ## Description, Past and Present
 
-{% include figure.html class="img-right" width="40%" caption="Fort Marcys crumbling walls in 1992. [source](https://econtent.unm.edu/cdm/singleitem/collection/santa/id/17/rec/34) 
-" image-url="wall-marcy.jpg" %}
+{% include figure.html class="img-right" width="40%" caption="Fort Marcy's crumbling walls, 1992. [source](https://econtent.unm.edu/cdm/singleitem/collection/santa/id/17/rec/34)" image-url="wall-marcy.jpg" %}
 
 Adobe walls nine feet tall and five feet thick formed Fort Marcy's unique star-shaped outline. The fort also had a moat approximately eight feet deep running along its walls and a log building that served as a powder house.[^8] Roughly 270' x 80', Fort Union could hold up to one thousand soldiers.[^9]
 
