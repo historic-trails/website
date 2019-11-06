@@ -9,7 +9,7 @@ The Lewis Jones House was home to one of the most significant businessmen of Ind
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Routes of migration in the 1800s, including the Santa Fe Trail and the Oregon Trail which set off from Independence, Missouri. Independence became known as the gateway to the west because of these trails. [Source](https://www.google.com/search?rlz=1C1MSIM_enUS530US530&biw=1920&bih=969&tbm=isch&sa=1&ei=jVQDXOxAquCPBNeZvtAF&q=santa+fe+trail+1840+independence+missouri&oq=santa+fe+trail+1840+independence+missouri&gs_l=img.3...18051.25075..25385...2.0..0.139.2090.22j2......1....1..gws-wiz-img.8QzhBGUWfqc#imgrc=0g6KaGBWrzuWCM:)"
+  caption="Routes of trade and migration in the 1800s, including the Santa Fe Trail and the Oregon Trail. Note Independence's geographic importance for these overland highways. [source](https://www.google.com/search?rlz=1C1MSIM_enUS530US530&biw=1920&bih=969&tbm=isch&sa=1&ei=jVQDXOxAquCPBNeZvtAF&q=santa+fe+trail+1840+independence+missouri&oq=santa+fe+trail+1840+independence+missouri&gs_l=img.3...18051.25075..25385...2.0..0.139.2090.22j2......1....1..gws-wiz-img.8QzhBGUWfqc#imgrc=0g6KaGBWrzuWCM:)"
   image-url="santa-fe-trail-picture.jpg"
 %}
 In nineteenth-century Missouri, it was very difficult to make a living. This large and comfortable house symbolizes Jones' wealth and status in Independence and demonstrates just how lucrative the Santa Fe Trail could be.
@@ -29,12 +29,14 @@ Lewis Jones married Elizabeth Jones on January 6, 1820.[^NPS07] The couple had s
 ## Independence and Trade in the American West
 
 Independence, Missouri was the gateway to the American West. The town quickly became a bustling center for trade and migration after the [Louisiana Purchase](https://en.wikipedia.org/wiki/Louisiana_Purchase) in 1803.[^MOI015] Since much of the West was still under Mexican control in the early 1840s, Independence served as an international trade hub.
+
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Independence, Missouri in the 1840s. Depicting the begining of the Santa Fe Trail. Independence soon became part of the greater Kansas City area and became a bustling metropolis. [Source](https://www.pinterest.com/pin/312085449171317067/?lp=true)"
+  caption="Independence, Missouri in the 1840s. Depicting the begining of the Santa Fe Trail. Independence soon became part of the greater Kansas City area and became a bustling metropolis. [source](https://www.pinterest.com/pin/312085449171317067/?lp=true)"
   image-url="independence-missouri-picture.jpg"
 %}
+
 Trade between Mexico and the United States relied almost entirely on the Santa Fe Trail.[^MOI138] Other wagon routes such as the [Oregon Trail](https://en.wikipedia.org/wiki/Oregon_Trail) and the [California Trail](https://en.wikipedia.org/wiki/California_Trail) departed from Independence, as well.[^MOI038] American merchants also built a steady trade network with the Indian tribes of the West and various fur traders throughout the Rocky Mountains.[^MOI037] 
 
 Another prominent endeavor in Independence during the 1800s was the railroad industry. The Missouri and Independence River Railroad began in Independence in 1849, becoming a lucrative investment for local businessmen.[^MOI056] Because of these deep roots placed in Independence, the United States was able to capitalize on the trade and natural resources of the land they had purchased.  
