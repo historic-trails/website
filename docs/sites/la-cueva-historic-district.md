@@ -14,7 +14,7 @@ In the latter half of the nineteenth century, the La Cueva Historic District hel
   class="img-center"
   width="66%"
   width="90%"
-  caption="La Cueva in the context of the Santa Fe Trail. Fort Union was a major destination for milled grains leaving La Cueva. [source](https://www.nps.gov/safe/planyourvisit/maps.htm)"
+  caption="La Cueva in the context of the Santa Fe Trail. [source](https://www.nps.gov/safe/planyourvisit/maps.htm)"
   image-url="la-cueva-region-map2.jpg"
 %}
 
@@ -23,7 +23,7 @@ In the latter half of the nineteenth century, the La Cueva Historic District hel
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The inn and stables of La Cueva, built from adobe with metal tin roofs.  Here travelers could rest themselves and water their horses [google](https://goo.gl/maps/L9xHUPzSBQR2)"
+  caption="The inn and stables of La Cueva, built from adobe with metal tin roofs.  Here travelers could rest themselves and water their horses. [source](https://goo.gl/maps/L9xHUPzSBQR2)"
   image-url="la-cueva-stables-inn.jpg"
 %}
 La Cueva was founded by Vicente Romero around 1851. The land was originally part of a Spanish land grant, and Romero purchased 33,000 acres of the Mora [Grant](https://en.wikipedia.org/wiki/Land_grants_in_New_Mexico) from several descendants who owned the property: Pedro Chacon, Miguel Mascarenas, Francisco Sandoval, Maria Dolores Romero, and Mareo Sandoval.  These claimants held the largest portions of the grant sold to Vicente.[^NPS-Form] The name 'La Cueva' (translation: The Cave) has many possibile origins.  Vicente had been a sheepherder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named.[^NPS-Form-2]  Others say the ranch was named La Cueva simply due to a nearby cave.[^ranchos1] The official reason for the naming convention may never be known.  One thing was for certain: Vicente realized the potential of the land, the nearby [Mora River](https://en.wikipedia.org/wiki/Mora_River), and the need for grain on the Santa Fe Trail.  
@@ -38,7 +38,7 @@ La Cueva was founded by Vicente Romero around 1851. The land was originally part
 {% include figure.html
   class="img-left"
   width="30%"
-  caption="The mill at La Cueva, corn and wheat were milled here and delivered to Fort Union. [source](https://commons.wikimedia.org/wiki/File:Mill_at_La_Cueva_NM.jpg) "
+  caption="The mill at La Cueva. Corn and wheat were milled here and delivered to Fort Union. [source](https://commons.wikimedia.org/wiki/File:Mill_at_La_Cueva_NM.jpg) "
   image-url="la-cueva-mill2.jpg"
 %}
 
@@ -63,7 +63,7 @@ The La Cueva Historic District relied on hydropower to help travelers along the 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Hacienda Romero, a meeting place for the ranchers of the Mora valley[google](https://goo.gl/maps/xTKt66UbKZU2)"
+  caption="Hacienda Romero, a meeting place for the ranchers of the Mora Valley. [source](https://goo.gl/maps/xTKt66UbKZU2)"
   image-url="la-cueva-hacienda-mercantile.jpg"
 %}
 
@@ -82,7 +82,7 @@ The Romero hacienda served as a community center for the region.[^NPS-LCHD-5]  W
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The San Rafael Mission, a family chapel for the Romero's, had ornate gothic styles and Belgian rafter architecture which were uncommon in the area in the 1860's [source](https://www.flickr.com/photos/auvet/4725613711/in/photostream/)"
+  caption="The San Rafael Mission, the Romeros' family chapel, had ornate Gothic styles and Belgian rafter architecture which were uncommon in the area in the 1860s. [source](https://www.flickr.com/photos/auvet/4725613711/in/photostream/)"
   image-url="la-cueva-san-rafael2.jpg"
 %}
 
