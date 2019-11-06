@@ -9,7 +9,7 @@ date: 2018-11-24
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors house, Kansas City, 1856 [source](https://www.flickr.com/photos/23711298@N07/18281558759/)"
+  caption="The Alexander Majors House. [source](https://www.flickr.com/photos/23711298@N07/18281558759/)"
   image-url="alexander-majors-house.jpg"
 %}
 
@@ -18,12 +18,22 @@ The Alexander Majors House is one of the few [Antebellum period](https://www.enc
 ## Location
 {% include figure.html
   class="img-left"
-  width="33%"
-  caption="Alexander Majors house is on the east side of road near 85th street [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
+  width="25%"
+  caption="The Majors House is on the east side of road, near 85th Street. [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
   image-url="alexander-majors-house-location.jpg"
 %}
 
-The house is situated approximately 16 feet from the Missouri-Kansas border, which--at the time of construction--also served as the  western boundary of the United States.[^NPSFormi]  Majors, an astute businessman, chose a strategic location for his homestead; Kansas Territory was not yet a state, meaning that Majors owed no taxes on his corrals, grazing lands, oxen pens, barns, wagons, and blacksmith shops. The Santa Fe Trail also ran right past the property, granting Majors and his firm easy access to one of their economic lifelines.[^WornallMajorsHouseMuseumsii]
+The house is situated approximately sixteen feet from the Missouri-Kansas border, which--at the time of construction--also served as the  western boundary of the United States.[^NPSFormi]  Majors, an astute businessman, chose a strategic location for his homestead; Kansas Territory was not yet a state, meaning that Majors owed no taxes on his corrals, grazing lands, oxen pens, barns, wagons, and blacksmith shops. The Santa Fe Trail also ran right past the property, granting Majors and his firm easy access to one of their economic lifelines.[^WornallMajorsHouseMuseumsii]
+
+## Majors' House
+{% include figure.html
+  class="img-right"
+  width="25%"
+  caption="The Alexander Majors House and its grounds. [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
+  image-url="alexander-majors-house-site-plan.PNG"
+%}
+
+The house was built in 1856 on a 300-acre farmstead on the Missouri-Kansas border. This property served both as family home and headquarters for Majors' freighting company.[^WPAGuide1998iv] Two years later, when the contract system changed and Majors' wife died, he remarried and moved his family to Nebraska City to oversee shipments to Utah; he gave away the state line property to his daughter Rebecca. [^Morton2012e][^WPAGuide1998v]
 
 ## Who Was Alexander Majors?
 
@@ -31,8 +41,8 @@ Alexander Majors (1814-1900) was born in Kentucky and moved with his parents, La
 
 {% include figure.html
   class="img-left"
-  width="33%"
-  caption="Alexander Majors, record breaking freight-hauler and co-creator of the Pony Express [source](http://www.wornallmajors.org/welcome/the-alexander-majors-house/)"
+  width="25%"
+  caption="Alexander Majors, record-breaking freight hauler and co-creator of the Pony Express. [source](http://www.wornallmajors.org/welcome/the-alexander-majors-house/)"
   image-url="alexander-majors-portrait.jpg"
 %}
 
@@ -44,58 +54,48 @@ Majors made his workers pledge that they would treat his animals with kindness, 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Founders of Pony Express and Freighting firm on Santa Fe trail, William Hepburn Russell(1812-72), Alexander Majors(1814-1900), William Brandford Waddell(1807-72) [source](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg)"
+  caption="Founders of the Pony Express William Hepburn Russell (1812–72), Alexander Majors (1814–1900), and William Brandford Waddell (1807–72). [source](https://i.pinimg.com/originals/a6/cc/92/a6cc92ae0ef4549ffb8f016199cd9454.jpg)"
   image-url="alexander-majors-russell-waddell-images.jpg"
 %}
 
 In 1855 Majors partnered with William H. Russell and William B. Waddell to win a government contract to supply Army posts along the Oregon and Santa Fe Trails.[^WoodMincer2000i] Together they controlled 4,000 men; 3,500 wagons; 1,000 mules; and nearly 40,000 oxen.[^Morton2012d] Shipments were usually composed of twenty-five wagons, twelve oxen, and a teamster (with additional oxen, mules, and men in case of emergency). Russell, Majors, and Waddell made about $300,000 profits in 1855-56.[^WPAGuide1998iii]
 
-## Majors' House
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="The Alexander Majors House and its grounds [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
-  image-url="alexander-majors-house-site-plan.PNG"
-%}
-
-The house was built in 1856 on a 300-acre farmstead on the Missouri-Kansas border. This property served both as family home and headquarters for Majors' freighting company.[^WPAGuide1998iv] Two years later, when the contract system changed and Majors' wife died, he remarried and moved his family to Nebraska City to oversee shipments to Utah; he gave away the state line property to his daughter Rebecca. [^Morton2012e][^WPAGuide1998v]
-
 ## Pony Express
 {% include figure.html
   class="img-left"
   width="100%"
-  caption="Map of Pony Express 1860, created by William Henry Jackson in c. 1935 [source](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=)"
+  caption="A map of the Pony Express created by William Henry Jackson, c. 1935. [source](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=)"
   image-url="alexander-majors-pony-express-route-map.PNG"
 %}
 
-The Pony Express marked the first attempt at large-scale mail service in America.[^Godfrey1994vii] In late 1859 Russell, wanting a large mail contract from the federal government, convinced his partners to go along with the idea. Originally named the Central Overland California & Pikes Peak Express Company, the Pony Express offered service between St. Joseph, Missouri and Sacramento, California. A large stable of horses and evenly spaced relay stations allowed the Express's riders to deliver the mail in only ten days--a record that would stand until the first transcontinental railroad arrived after the Civil War.[^ponytimeline] 
+The Pony Express marked the first attempt at large-scale mail delivery in America.[^Godfrey1994vii] In late 1859 Russell, wanting a large mail contract from the federal government, convinced his partners to go along with the idea. Originally named the Central Overland California & Pikes Peak Express Company, the Pony Express offered service between St. Joseph, Missouri and Sacramento, California. A large stable of horses and evenly spaced relay stations allowed the Express's riders to deliver the mail in only ten days--a record that would stand until the first transcontinental railroad arrived after the Civil War.[^ponytimeline] 
 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Pony Express, advertisement for its fast delivery and Job opening poster [source](hd.housedivided.dickinson.edu/node/17841)"
+  caption="A poster soliciting delivery riders along the Pony Express. [source](hd.housedivided.dickinson.edu/node/17841)"
   image-url="alexander-majors-pony-express-poster.jpg"
 %}
 
-## Closing of Freighting Firm and Other Changes in Majors life
+## Closing of Freighting Firm and Other Changes in Majors' Life
 
 In 1862 Russell, Majors and Waddell closed due to bankruptcy and a dispute with the U.S. Department of the Interior. Later Majors' marriage and family fell apart, causing his second wife and child to move and change their names. Majors left Nebraska and spent time in Salt Lake City, where he witnessed the completion of the [transcontinental railroad](https://en.wikipedia.org/wiki/Transcontinental_railroad) in 1869 while he was working in the support of Union Pacific Railroad's drive west. He later lived in Denver.[^Morton2012f]
-
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Alexander Majors House still owned by his family, 1860 [source](https://books.google.com/books?id=1YZ2CQAAQBAJ&printsec=frontcover&dq=Morton,+La+Lena+-+%27The+Waldo+story%27-The+home+of+friendly+merchants&hl=en&sa=X&ved=0ahUKEwjK37TxxZvfAhVJzlQKHQrKAqAQ6AEIKjAA#v=onepage&q&f=false - Chapter1-p13)"
-  image-url="alexander-majors-house-1860.PNG"
-%}
 
 His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *Seventy Years on the Frontier*, in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
 
 ## Architectural Style
 {% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Alexander Majors House side view, additions to 'T' floor plan [source](Alexander Majors House - 70000335.pdf. (n.d.))"
+  class="img-left"
+  width="49%"
+  caption="A side view of the house showing additions to the 'T' floor plan. [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-side-view-image.PNG"
+%}
+
+{% include figure.html
+  class="img-left"
+  width="49%"
+  caption="The Alexander Majors House, c. 1860. [source](https://books.google.com/books?id=1YZ2CQAAQBAJ&printsec=frontcover&dq=Morton,+La+Lena+-+%27The+Waldo+story%27-The+home+of+friendly+merchants&hl=en&sa=X&ved=0ahUKEwjK37TxxZvfAhVJzlQKHQrKAqAQ6AEIKjAA#v=onepage&q&f=false - Chapter1-p13)"
+  image-url="alexander-majors-house-1860.PNG"
 %}
 
 The Majors House was built in a [Classical revival style](http://www.phmc.state.pa.us/portal/communities/architecture/styles/classical-revival.html). It employs a "T" shaped floor plan and contains nine rooms and two stories of [light wood frame construction](https://www.britannica.com/technology/light-frame-construction). This house is one of the oldest houses with light wood frame construction in Kansas.[^NPSFormii]
@@ -108,7 +108,7 @@ The outbuildings next to the house no longer survive. There is a barn is approxi
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors House first floor plan. Note the several modifications made to the stairway, central fireplace, and fireplaces in the kitchen, dining room & bedroom [source](Alexander Majors House - 70000335.pdf. (n.d.))"
+  caption="The house's first floor. Note the several modifications made to the stairway, central fireplace and kitchen fireplaces, dining room, and bedroom. [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-first-floor-plan.PNG"
 %}
 
@@ -124,7 +124,7 @@ In 1976, Kansas City adopted a plan to develop between Ward Parkway and State Li
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Alexander Majors House second floor plan, several modifications are made to bathroom at the northern end, adding closets to western wall of master bedroom, moving the entrance of the door from north side to south [source](Alexander Majors House - 70000335.pdf. (n.d.))"
+  caption="The house's second floor. Note the modifications to the bathroom at the northern end and the additional closets on the western wall of the master bedroom. [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-second-floor-plan.PNG"
 %}
 
