@@ -74,12 +74,6 @@ In 1862 Russell, Majors and Waddell closed due to bankruptcy and a dispute with 
 His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *Seventy Years on the Frontier*, in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
 
 ## Majors' House
-{% include figure.html
-  class="img-right"
-  width="25%"
-  caption="The Alexander Majors House and its grounds. [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
-  image-url="alexander-majors-house-site-plan.PNG"
-%}
 
 The house was built in 1856 on a 300-acre farmstead on the Missouri-Kansas border. This property served both as family home and headquarters for Majors' freighting company.[^WPAGuide1998iv] Two years later, when the contract system changed and Majors' wife died, he remarried and moved his family to Nebraska City to oversee shipments to Utah; he gave away the state line property to his daughter Rebecca. [^Morton2012e][^WPAGuide1998v]
 
@@ -88,21 +82,22 @@ The Majors House was built in a [Classical revival style](http://www.phmc.state.
 
 {% include figure.html
   class="img-left"
-  width="49%"
+  width="33%"
   caption="A side view of the house showing additions to the 'T' floor plan. [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-side-view-image.PNG"
 %}
 
-{% include figure.html
-  class="img-left"
-  width="49%"
-  caption="The Alexander Majors House, c. 1860. [source](https://books.google.com/books?id=1YZ2CQAAQBAJ&printsec=frontcover&dq=Morton,+La+Lena+-+%27The+Waldo+story%27-The+home+of+friendly+merchants&hl=en&sa=X&ved=0ahUKEwjK37TxxZvfAhVJzlQKHQrKAqAQ6AEIKjAA#v=onepage&q&f=false - Chapter1-p13)"
-  image-url="alexander-majors-house-1860.PNG"
-%}
 
 ### Outbuildings and Grounds
 
 The outbuildings next to the house no longer survive. There is a barn is approximately 100' to the southeast and a smokehouse around 40' to the north to the house. There also remains a well, a cistern (to the south of the house), a shed (20' north to the house), and a cottage (60' north of the house).[^NPSFormiii]
+
+{% include figure.html
+  class="img-right"
+  width="25%"
+  caption="The Alexander Majors House and its grounds. [source](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf)"
+  image-url="alexander-majors-house-site-plan.PNG"
+%}
 
 ## Alterations to the House
 {% include figure.html
