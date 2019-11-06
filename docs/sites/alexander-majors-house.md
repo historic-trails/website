@@ -100,14 +100,15 @@ The outbuildings next to the house no longer survive. There is a barn is approxi
 %}
 
 ## Alterations to the House
+
+Mr. and Mrs. A. Louis Rhul owned the house from 1904 to 1924. who later built additions to the house and owned it till 1924. [^Morton2012h] The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf), such as enlarging the dining room and master bedroom on second floor.[^NPSFormiv]
+
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="25%"
   caption="The house's first floor. Note the several modifications made to the stairway, central fireplace and kitchen fireplaces, dining room, and bedroom. [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-first-floor-plan.PNG"
 %}
-
-Mr. and Mrs. A. Louis Rhul owned the house from 1904 to 1924. who later built additions to the house and owned it till 1924. [^Morton2012h] The Rhul family made several [additions to the Majors house](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf), such as enlarging the dining room and master bedroom on second floor.[^NPSFormiv]
 
 ## Majors' House Bought by His Descendant
 
@@ -118,7 +119,7 @@ In 1976, Kansas City adopted a plan to develop between Ward Parkway and State Li
 ## Today's Museum
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="25%"
   caption="The house's second floor. Note the modifications to the bathroom at the northern end and the additional closets on the western wall of the master bedroom. [source](Alexander Majors House - 70000335.pdf. (n.d.))"
   image-url="alexander-majors-house-second-floor-plan.PNG"
 %}
