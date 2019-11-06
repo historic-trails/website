@@ -21,7 +21,7 @@ By 1846 the town's stock of adobe structures had grown considerably, especially 
 
 ## Las Vegas on the Trail ##
 
-{% include figure.html class="img-right" width="33%" caption="Plaza Hotel, 2004. [source](https://en.wikipedia.org/wiki/Plaza_Hotel_(Las_Vegas,_New_Mexico)#/media/File:Perspective_view_from_the_southeast_-_Plaza_Hotel,_230_North_Plaza,_Las_Vegas,_San_Miguel_County,_NM_HABS_NM-206-1.tif)" image-url="PlazaHotelFront1.tif" %}
+{% include figure.html class="img-right" width="33%" caption="Plaza Hotel, 2004. [source](https://en.wikipedia.org/wiki/Plaza_Hotel_(Las_Vegas,_New_Mexico)#/media/File:Perspective_view_from_the_southeast_-_Plaza_Hotel,_230_North_Plaza,_Las_Vegas,_San_Miguel_County,_NM_HABS_NM-206-1.tif)" image-url="PlazaHotelFront1.jpg" %}
 
 Between its founding and the beginning of the Civil War, Las Vegas thrived as frontier town operating on the Santa Fe Trail. Traveler, trader, and military accounts describe a small but important town dependent on the commerce brought by the trail: 
 
