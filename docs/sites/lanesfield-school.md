@@ -10,11 +10,11 @@ Lanesfield School is a one-room schoolhouse near [Edgerton, Kansas](https://en.w
 {% include figure.html
   class="img-right"
   width="25%"
-  caption="James Lane was an abolitionst Union Army general in the Civil War and founder of the town of Lanesfield [source](https://www.kshs.org/kansapedia/frontier-guard/16898)"
+  caption="James Lane was an abolitionst Union Army general in the Civil War and founder of the town of Lanesfield. [source](https://www.kshs.org/kansapedia/frontier-guard/16898)"
   image-url="james-lane.jpg"
 %}
 ### James Lane and the Town of Lanesfield
-The town was founded by [James Lane](https://en.wikipedia.org/wiki/James_Henry_Lane_(Union_general)) in 1858 and he began construction of the town very quickly.[^NRF1]  Lane served as a United States senator and a Union Army general during the Civil War; he was an outspoken abolitionist who worked to abolish slavery in Kansas.[^nyt1] Lane began the construction of a hotel, three stores, a blacksmith shop, three churches, residential houses and a one-room schoolhouse in the town[^NRF2], even though he never saw the school opened as he committed suicide in 1866.[^nyt2]
+The town was founded by [James Lane](https://en.wikipedia.org/wiki/James_Henry_Lane_(Union_general)) in 1858 and he began construction of the town very quickly.[^NRF1]  Lane served as a United States senator and a Union Army general during the Civil War; he was an outspoken abolitionist who worked to abolish slavery in Kansas.[^nyt1] Lane began the construction of a hotel, three stores, a blacksmith shop, three churches, residential houses and a one-room schoolhouse in the town,[^NRF2] even though he never saw the school opened as he committed suicide in 1866.[^nyt2]
 
 ### Lanesfield Along the Santa Fe Trail
 Trail travel was immensely important to the town's identity. Students from the school even noted that they could see travelers on the trail from their schoolhouse window.[^feldman] The developement of a railroad station in 1870 in the nearby town of Edgerton diminished Lanesfield's population as many people moved closer to the train station. Many buildings were left unused but the schoolhouse remained an important part of Lanesfield as it served all the children in the area.
@@ -24,7 +24,7 @@ The one-room schoolhouse had its heyday in rural America during the late ninetee
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="Lanesfield School is the last standing building in Lanesfield, Kansas, a mail stop along the Santa Fe Trail [source](http://freedomsfrontier.org/Visitors/Sites/Comments/aspx?id=70)"
+  caption="An undated photo of students and teachers outside the Lanesfield School. [source](https://www.flickr.com/photos/jocomuseum/5081160045)"
   image-url="lanesfield-school.jpg"
 %}
 ### The Lanesfield School as Representative of One-Room Schoolhouses
@@ -36,7 +36,7 @@ In a dramatic turn of events, the school building burned down in 1903 after bein
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Visiting children learn about life in one-room schoolhouse at Lanesfield School [source](https://www.jcprd.com/435/Lanesfield-Historic-Site)"
+  caption="Visiting children learn about life in one-room schoolhouse at Lanesfield School. [source](https://www.jcprd.com/435/Lanesfield-Historic-Site)"
   image-url="lanesfield-school-inside.jpeg"
 %}
 ### The School as a Museum
