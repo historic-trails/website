@@ -43,13 +43,6 @@ La Cueva was founded by Vicente Romero around 1851. The land was originally part
 %}
 
 ## Milling, Farming, and the Santa Fe Trail
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Built on a natural stone foundation, the grist mill of La Cueva milled grains to ship to Ft.Union[google](https://goo.gl/maps/sau7G8nzfHu)"
-  image-url="la-cueva-mill.jpg"
-%}
-
 
 The La Cueva Historic District relied on hydropower to help travelers along the [Santa Fe Trail](https://www.nps.gov/safe/index.htm).  Vicente Romero would divert a portion of the Mora River into a network of irrigation ditches called acequias that powered an on-site grist mill (the La Cueva Mill).[^NPS-lchd-3] In the 1850s electricity had not yet come to the masses and it was common for hydro power to be used to enable grain mills.[^Mays-1] In addition to powering the mill wheel, the acequia would also provide irrigation to Romero's farm. [^Water-1]  Regional mills were crucial for travelers in the nineteenth century, providing processed grain that diversified the fairly simple fare featued in most wagon trains.[^NPS-SFT-1]  La Cueva's grist mill also provided milled flour and wheat to [Fort Union](https://www.nps.gov/foun/index.htm) in nearby Watrous, NM.  The Southwest's largest fort in the late nineteenth century, Fort Union was integral to the Union Army during the Civil War.[^NPS-SFT-2] As many as sixty horse and oxen delivered milled grain to the fort each day. [^Ranchos-1]
 
