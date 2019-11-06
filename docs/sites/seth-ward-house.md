@@ -10,7 +10,7 @@ date: 2018-11-21
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="Seth Ward House, home of the two most prominent traders in Missouri history [Source](http://hyperblogal.blogspot.com/2013/05/bent-ward-home-kansas-city-treasure.html)"
+  caption="The Seth Ward House, home of the two most prominent traders in Missouri history. [source](http://hyperblogal.blogspot.com/2013/05/bent-ward-home-kansas-city-treasure.html)"
   image-url="seth-ward-house.jpg"
 %}
 
@@ -25,7 +25,7 @@ The Seth Ward House is near present-day Kansas City, Missouri, roughly a quarter
 {% include figure.html
   class="img-right"
   width="25%"
-  caption="Fort Builder, Trader, and Indian Peace-Maker William Bent [Source](https://www.legendsofamerica.com/bent-brothers/)"
+  caption="Fort builder, trader, and cultural intermediary William Bent. [source](https://www.legendsofamerica.com/bent-brothers/)"
   image-url="william-bent.jpg"
 %}
 
@@ -37,7 +37,7 @@ Throughout the following decades, the house erected by Bent would endure a Civil
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="The Gettysburg of the West claimed over 3,000 Union and Confederate lives and led to a decisive Union Vicotry in 1864. [Source](http://www.historynet.com/but-for-a-horse.htm)"
+  caption="The Gettysburg of the West claimed over 3,000 Union and Confederate lives and led to a decisive Union Vicotry in 1864. [source](http://www.historynet.com/but-for-a-horse.htm)"
   image-url="battle-of-westport.jpg"
 %}
 
@@ -47,7 +47,7 @@ On October 23, 1864 [Confederate Major General Sterling Price](https://en.wikipe
 {% include figure.html
   class="img-right"
   width="18%"
-  caption="Seth Ward was one of the most prominent residents of Westport, Missouri [Source](https://www.geni.com/people/Seth-Edmund-Ward/6000000000943820263)"
+  caption="Seth Ward was one of the most prominent residents of Westport, Missouri. [source](https://www.geni.com/people/Seth-Edmund-Ward/6000000000943820263)"
   image-url="seth-ward.jpg"
 %}
 Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate aficionado who purchased the homestead of the recently-deceased William Bent, Ward's personal trading friend and partner, in 1871. Ward manned a prosperous mercantile store outside of Fort Laramie, Wyoming catering to the needs of settlers traveling westward as well as traders along the Santa Fe and Oregon Trails. [^Denver-Public-Library] Ward was a lucrative trader and trapper, learning these skills at a young age, which allowed him to understand the needs of the people he would encounter at a mercantile store. Ward remained at [Fort Laramie](https://en.wikipedia.org/wiki/Fort_Laramie_National_Historic_Site) from 1848 to 1871, when he moved his wife and children to Westport, Missouri. Ward built another small brick home in addition to the massive home constructed by William Bent that was already on the property. Ward's considerable wealth and skills made him a prominent figure in Westport and helped bring commerce to the area. Ward died in 1903, but his legacy remained in Kansas City history, including [Ward Parkway](https://en.wikipedia.org/wiki/Ward_Parkway), a boulevard dedicated to the distinguished tradesman. The Seth Ward house was added to the [National Register of Historic Places](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf) in 1979.[^NRHP]
