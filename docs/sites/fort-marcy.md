@@ -19,9 +19,9 @@ Fort Marcy was an adobe fortification built by General [Stephen W. Kearny](https
 [^2]: Purdy, 3
 [^3]: Bradford, 4
 
-## An American Symbol
-
 {% include figure.html class="img-left" width="40%" caption="Santa Fe from the perspective of Fort Marcy, 1880. [source](https://econtent.unm.edu/cdm/singleitem/collection/wittick/id/233/rec/99)" image-url="townfrommarcy.jpg" %}
+
+## An American Symbol
 
 In 1846 General Kearny wrote a report to the Adjutant General of the Army in Washington that stated:  
 
