@@ -1,0 +1,225 @@
+I")*<h1 id="loading-images">Loading Images</h1>
+
+<p><em>This page provides a summary of how to display images on your essay pages. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.</em></p>
+
+<p><strong>• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!</strong></p>
+
+<p><strong>• DO NOT use double quotation marks <code class="highlighter-rouge">"</code> in your titles or captions. Single quotation marks <code class="highlighter-rouge">'</code> are fine.</strong></p>
+
+<p><strong>• You CANNOT see image previews with Dillinger.io.</strong></p>
+
+<hr />
+<p>There is one basic way we will embed images in our essay files. Note that it is totally different how you would it with pure Markdown. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way. Using the small code blocks make this as easy as it can be.</p>
+
+<h2 id="image-preparation">Image Preparation</h2>
+
+<h3 id="find-images">Find Images</h3>
+<p>Because our work is not merely a class project but a publication (yay internet!), we need to make sure we have sufficient permissions to use the images that we do and provide a link back to the original. As a non-commercial education resource, the doctrine of fair use gives us a wide latitude for using images. But it’s always best to use images for which the copyright and licensing permissions are very clear.</p>
+
+<p><a href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a> is a great place to start.</p>
+
+<p>You will need to copy the URL of where you got the image so that you paste in into your <code class="highlighter-rouge">source-url</code> parameter, so keep your browser tabs open throughout the process.</p>
+
+<h3 id="download-and-rename-images">Download and Rename Images</h3>
+<p>When you find an image you like, download it to your computer. Frequently, images you download will have long and weird filenames that make it difficult to use, even within our repository. You should rename the image so it has a more human readable name that will make it easier to find later. Use only lowercase and hyphens (not underscores or spaces) in your filename.</p>
+
+<h3 id="put-images-into-our-repository">Put Images into our Repository</h3>
+<p>Bring up a browser window of our <a href="https://github.com/unm-historiography/intro-guide">intro-guide repository</a>. Click on the <code class="highlighter-rouge">essays</code> folder, then the <code class="highlighter-rouge">images</code> folder. Drag and drop the file(s) you downloaded and renamed in the previous step.</p>
+
+<p>It is much faster to drag and drop multiple files at once, since after you commit a new image, you end up at the repository home page (not the images folder).</p>
+
+<p>Remember to click the green “Commit Changes” button to upload your image (just dragging and dropping does not commit the file).</p>
+
+<h2 id="image-code">Image Code</h2>
+<p>As mentioned, we use a small block of code to help us keep the display of images and captions consistent and flexible.</p>
+
+<p>Again, all you need to do to get images on your essay page is to copy and paste the code from the gray box onto your page wherever you want the image to appear, and adjust the parameters.</p>
+
+<h3 id="edit-parameters">Edit parameters</h3>
+<p>The parameters (class, width, caption) are self explanatory, but note that:</p>
+<ul>
+  <li><code class="highlighter-rouge">image-url</code> is the ONLY the filename of the image, with appropriate extension (<code class="highlighter-rouge">.jpg</code>, <code class="highlighter-rouge">.png</code>, <code class="highlighter-rouge">.jpeg</code>, etc).
+    <ul>
+      <li>Your filename MUST NOT start with <code class="highlighter-rouge">images/</code> as we saw originally.</li>
+    </ul>
+  </li>
+  <li><code class="highlighter-rouge">source-url</code> is the URL of wherever you got the image.</li>
+</ul>
+
+<p>Make sure what’s in the code and your file name as it appears in the repository MATCH EXACTLY.</p>
+
+<h3 id="double-check-and-commit-your-changes">Double check and commit your changes</h3>
+<p>Double check that you have:</p>
+<ul>
+  <li>the <code class="highlighter-rouge">\{\%</code> and <code class="highlighter-rouge">\%\}</code> at the beginning and end of your code block</li>
+  <li>matching double quotation marks for all your parameters</li>
+  <li>a PERFECT EXACT match between your image filename and what’s in the <code class="highlighter-rouge">image-url</code> field.</li>
+  <li>Use the green button to commit your changes as always.</li>
+</ul>
+
+<h3 id="check-your-work">Check your work</h3>
+<p>Wait a few minutes, then reload/refresh your essay’s webpage. Your images should appear. If they do not, either you need to wait a little longer or you made a mistake with the code. Better to wait a little more before experimenting with code changes, which might not be necessary.</p>
+
+<h3 id="troubleshooting">Troubleshooting</h3>
+<p>If you’ve waited more than 5 minutes and your image is still not appearing, you probably made a silly typo somewhere and you have to find it.</p>
+<ul>
+  <li>Most common problem is a mismatch between image filename and what you put in the <code class="highlighter-rouge">image-url</code> field.</li>
+  <li>Relatedly, double check you filename extension—it might be <code class="highlighter-rouge">jpg</code>, <code class="highlighter-rouge">JPG</code>, <code class="highlighter-rouge">jpeg</code>, or <code class="highlighter-rouge">png</code>—or some other variant. Make sure your code and the filename match EXACTLY.</li>
+  <li>Double check your code against the model for a missing quote or bracket.</li>
+  <li>Make sure you do not have double quotes anywhere in your caption.</li>
+  <li>Make sure your files are in the <code class="highlighter-rouge">/essays/images</code> folder in our repository.</li>
+</ul>
+
+<h3 id="standard-usage">Standard Usage</h3>
+
+<figure class="img-right" style="width:33%">
+  <a class="image" href="
+    assets/images/default.jpg
+    "><img src="
+    assets/images/default.jpg
+    " alt="Mesa Vista Hall" width="100%" /></a>
+
+  
+
+<figcaption class="img-right">
+  
+    Mesa Vista Hall
+  
+</figcaption>
+</figure>
+
+<p>Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.</p>
+
+<hr />
+<p>To embed the image above, we use:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Mesa Vista Hall"
+  image-url="default.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}
+</code></pre></div></div>
+
+<h3 id="use-whatever-width-you-want">Use whatever width you want</h3>
+<p>You can alter the width of the image <strong>as a percentage of our standard page width</strong>. You can have them appear on the left, right, or center of the page.</p>
+
+<h3 id="half-width">Half-width</h3>
+
+<figure class="img-left" style="width:50%">
+  <a class="image" href="
+    assets/images/Augustine_Lateran.jpg
+    "><img src="
+    assets/images/Augustine_Lateran.jpg
+    " alt="Obviously we need a 50% image somewhere with text wrapping around it." width="100%" /></a>
+
+  
+
+<figcaption class="img-left">
+  
+    Obviously we need a 50% image somewhere with text wrapping around it. [<a href="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg">source</a>]
+  
+</figcaption>
+</figure>
+
+<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.</p>
+
+<hr />
+
+<p>To achieve the above half-width image, use:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include figure.html
+class="img-left"
+width="50%"
+caption="Obviously we need a 50% image somewhere."
+image-url="Augustine_Lateran.jpg"
+source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augustine_Lateran.jpg"
+%}
+</code></pre></div></div>
+<hr />
+
+<h3 id="side-by-side">Side by side</h3>
+
+<figure class="img-left" style="width:49%">
+  <a class="image" href="
+    assets/images/Herder.jpg
+    "><img src="
+    assets/images/Herder.jpg
+    " alt="Here's an image on the left." width="100%" /></a>
+
+  
+
+<figcaption class="img-left">
+  
+    Here's an image on the left.
+  
+</figcaption>
+</figure>
+
+<figure class="img-left" style="width:49%">
+  <a class="image" href="
+    assets/images/Johann.jpg
+    "><img src="
+    assets/images/Johann.jpg
+    " alt="Here's an image on the right." width="100%" /></a>
+
+  
+
+<figcaption class="img-left">
+  
+    Here's an image on the right.
+  
+</figcaption>
+</figure>
+
+<hr />
+<p>To achieve two images side by side use (note the 49% width for each):</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+{% include figure.html
+class="img-left"
+width="49%"
+caption="Here's an image on the left."
+image-url="Herder.jpg"
+source-url=""
+%}
+
+{% include figure.html
+class="img-left"
+width="49%"
+caption="Here's an image on the right."
+image-url="Johann.jpg"
+source-url=""
+%}
+
+
+</code></pre></div></div>
+
+<h3 id="full-width">Full-width</h3>
+
+<figure class="img-center" style="width:100%">
+  <a class="image" href="
+    assets/images/Cleve-van_construction-tower-babel.jpg
+    "><img src="
+    assets/images/Cleve-van_construction-tower-babel.jpg
+    " alt="Make sure your image is large enough to be 100% width or it will look grainy." width="100%" /></a>
+
+  
+
+<figcaption class="img-center">
+  
+    Make sure your image is large enough to be 100% width or it will look grainy. [<a href="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg">source</a>]
+  
+</figcaption>
+</figure>
+
+<p>To achieve the above full-width image, use:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Make sure your image is large enough to be 100% width or it will look grainy."
+  image-url="Cleve-van_construction-tower-babel.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
+  %}
+</code></pre></div></div>
+
+:ET
