@@ -38,7 +38,7 @@ San Miguel del Vado's church is located on the west side of the plaza. The churc
 
 Southwest of the historic church, metal and ceramic artifacts still litter the ground. These were likely left by Santa Fe Trail travelers that stopped to rest or trade in San Miguel del Vado.[^Jenks3]
 
-{% include figure.html class="img-left" width="33%" caption="Aerial imagery from 1975 shows the Santa Fe Trail's proximity to San Miguel del Vado's historic plaza. [source](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/) image-url="san-miguel-del-vado-aerial-1975.JPG" %}
+{% include figure.html class="img-left" width="33%" caption="Aerial imagery from 1975 shows the Santa Fe Trail's proximity to San Miguel del Vado's historic plaza. [source](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/)" image-url="san-miguel-del-vado-aerial-1975.JPG" %}
 
 ## The Santa Fe Trail After Mexican Independence
 
