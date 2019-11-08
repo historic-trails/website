@@ -9,9 +9,9 @@ date: 2018-11-25
 
 Council Grove is situated an hour southwest of Topeka, Kansas on the Neosho River. Beginning as a trading post in 1847, it played an important role along the Santa Fe Trail as the last stop heading west until Santa Fe.[^Andreas] It served traders, merchants, and ranchers throughout the nineteenth century. When the Santa Fe Trail opened up in 1821, Council Grove was just an area with plenty of grazing land, water, trees, and safe crossing.[^NRHP-Brigham] By 1854, with the opening of Kansas to white settlers, Council Grove changed from a simple trading post to the true jumping-off point for the Santa Fe Trail.[^Brigham-Andreas] As time went on, Council Grove continued to expand and adapt to developments like the adoption of railroads and the subsequent cattle trade.[^Maloy]
 
-[^Andreas]: Andreas, 55. 
+[^Andreas]: Andreas, 55.
 [^NRHP-Brigham]: Davis and Spencer, 8.44, Brigham, 11.
-[^Brigham-Andreas]: Brigham, 11. Andreas, 55. 
+[^Brigham-Andreas]: Brigham, 11. Andreas, 55.
 [^Maloy]: Maloy, 64.
 
 ## The Early Years
@@ -61,11 +61,11 @@ The 1920s-30s proved to be a difficult time for Council Grove. In the early part
 After World War II, the Kansas State Legislature approved money to buy the [Kaw Indian Mission](https://www.kshs.org/index.php?url=kaw_mission) to create a museum as part of an effort to increase tourism.[^NRHP8531] Nature, however, had other plans. While Council Grove had experienced many floods before, the 1951 flood was unlike any other. With the Neosho Rover flowing at 121,000 cubic feet/second, many buildings downtown were damaged.[^Juracek4] The Kaw Indian Mission was damanged badly enough to delay its opening for another year.[^NRHP8532] This new museum, in addition to a new reservoir, began bringing several thousand people a year to Council Grove.[^NRHP8533]
 
 [^NRHP8531]: Davis and Spencer, 8.53.
-[^Juracek4]: Juracek, 4. 
+[^Juracek4]: Juracek, 4.
 [^NRHP8532]: Davis and Spencer, 8.53.
 [^NRHP8533]: Davis and Spencer, 8.53.
 
-*** 
+***
 
 ## Visiting Council Grove
 {% include figure.html
@@ -79,14 +79,14 @@ The Council Grove Downtown Historic District has many sites of interest still st
 ***
 
 ## Bibliography
-Andreas, A. T. [History of the State of Kansas.](http://hdl.handle.net/2027/osu.32435027247097) Atchison, Kansas , 1976. 
+Andreas, A. T. [History of the State of Kansas.](http://hdl.handle.net/2027/osu.32435027247097) Chicago, Ill.: A. T. Andreas, 1883.
 
 Brigham, Lalla Maloy. _The Story of Council Grove on the Santa Fe Trail_. 1921.
 
-Davis, Christy and Brenda Spencer. [“Council Grove Downtown Historic District.”](https://www.kshs.org/resource/national_register/nominationsNRDB/Morris_CouncilGroveDowntownHistoricDistrictNR.pdf) National Register of Historic Places Registration Form. Spencer Preservation, Wamego, KS, January 20, 2009.
+Davis, Christy and Brenda Spencer. [“Council Grove Downtown Historic District.”](https://www.kshs.org/resource/national_register/nominationsNRDB/Morris_CouncilGroveDowntownHistoricDistrictNR.pdf) National Register of Historic Places Inventory/Nomination Form. Wamego, Kans.: Spencer Preservation, 2009.
 
 Juracek, K.E., C.A. Perry, and J.E. Putnam. [“The 1951 Floods in Kansas Revisited.”](http://pubs.er.usgs.gov/publication/fs04101) USGS Numbered Series. Fact Sheet, 2001.
 
 Kansas Department of Transportation. [“KDOT: Historic State Maps.”](https://www.ksdot.org/bureaus/burTransPlan/maps/HistoricStateMaps.asp) 1932.
 
-Maloy, John. _History of Morris County, 1820 to 1890_. Kansas: Morris County Historical Society, 1981.
+Maloy, John. _History of Morris County, 1820 to 1890_. Council Grove, Kans.: Morris County Historical Society, 1981.
