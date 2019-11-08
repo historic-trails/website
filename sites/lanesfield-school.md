@@ -17,7 +17,7 @@ Lanesfield School is a one-room schoolhouse near [Edgerton, Kansas](https://en.w
 The town was founded by [James Lane](https://en.wikipedia.org/wiki/James_Henry_Lane_(Union_general)) in 1858 and he began construction of the town very quickly.[^NRF1]  Lane served as a United States senator and a Union Army general during the Civil War; he was an outspoken abolitionist who worked to abolish slavery in Kansas.[^nyt1] Lane began the construction of a hotel, three stores, a blacksmith shop, three churches, residential houses and a one-room schoolhouse in the town,[^NRF2] even though he never saw the school opened as he committed suicide in 1866.[^nyt2]
 
 ### Lanesfield Along the Santa Fe Trail
-Trail travel was immensely important to the town's identity. Students from the school even noted that they could see travelers on the trail from their schoolhouse window.[^feldman] The developement of a railroad station in 1870 in the nearby town of Edgerton diminished Lanesfield's population as many people moved closer to the train station. Many buildings were left unused but the schoolhouse remained an important part of Lanesfield as it served all the children in the area.
+Trail travel was immensely important to the town's identity. Students from the school even noted that they could see travelers on the trail from their schoolhouse window.[^feldman] The development of a railroad station in 1870 in the nearby town of Edgerton diminished Lanesfield's population as many people moved closer to the train station. Many buildings were left unused but the schoolhouse remained an important part of Lanesfield as it served all the children in the area.
 
 ### The One-Room Schoolhouse in America
 The one-room schoolhouse had its heyday in rural America during the late nineteenth and early twentieth centuries. These schools were often the lifeblood of small rural towns; they were directed by local entities, which meant that curriculum varied greatly from one school to the next. Supplies were often limited and students and teachers had to make do with what they had. Schoolteachers were responsible for teaching many different grades in one small room, with children frequently missing school to help out at home. [^jenner]
@@ -40,29 +40,28 @@ In a dramatic turn of events, the school building burned down in 1903 after bein
   image-url="lanesfield-school-inside.jpeg"
 %}
 ### The School as a Museum
-The school was turned into a museum in 1967 and it is still open to the public today. Visitors can visit the school and experience writing on slates, cleaning the blackboard, and other peculariaties of life in a one-room schoolhouse along the Santa Fe Trail during the late nineteenth and early twentieth centuries.
+The school was turned into a museum in 1967 and it is still open to the public today. Visitors can visit the school and experience writing on slates, cleaning the blackboard, and other peculiarities of life in a one-room schoolhouse along the Santa Fe Trail during the late nineteenth and early twentieth centuries.
 
 
-[^NRF1]: National Registration Form, statement of significance
-[^NRF2]: National Registration Form, sec. 8 pg. 1
-[^NRF3]: National Registration Form, sec. 8 pg. 1
-[^NRF4]: National Registration Form, sec. 8 pg. 1
-[^NRF5]: National Registration Form, sec. 8 pg. 3
-[^NRF6]: National Registration Form, sec. 8 pg. 3
-[^NRF7]: National Registration Form, sec. 8 pg. 3
-[^nyt]: New York Times, 1866
-[^nyt2]: New York Times, 1866
-[^feldman]: Feldman 2001, 83
-[^jenner]: Jenner 2018, 2
+[^NRF1]: Cart, statement of significance
+[^NRF2]: Cart, sec. 8 pg. 1
+[^NRF3]: Cart, sec. 8 pg. 1
+[^NRF4]: Cart sec. 8 pg. 1
+[^NRF5]: Cart, sec. 8 pg. 3
+[^NRF6]: Cart, sec. 8 pg. 3
+[^NRF7]: Cart, sec. 8 pg. 3
+[^nyt]: _New York Times_, 1866
+[^nyt2]: _New York Times_, 1866
+[^feldman]: Feldman, 83
+[^jenner]: Jenner, 2
 ***
 ## Bibliography
-* Cart, Doran L. "Lanesfield School." National Register of Historic Places Inventory/Nomination Form. Johnson County Museum System, Shawnee, January 15, 1988.
-* Feldman, Ruth Tenzer. Don’t Whistle in School: The History of America’s Public Schools. Twenty-First Century Books, 2001.
-* Gulliford, Andrew. America’s Country Schools. Niwot, Colo.: University Press of Colorado, 1996.
-* Jenner, Gail L. One Room: Schools and Schoolteachers in the Pioneer West. Rowman & Littlefield, 2018.
-* Leavenworth. “[Obituarary, James H. Lane, United States Senator from Kansas](https://www.nytimes.com/1866/07/04/archives/obituary-james-h-lane-united-states-senator-from-kansas.html).” New York Times, July 4, 1866.
-* Page, Eric Eugene. Playing School: The Preservation and Presentation of the Lanesfield School Historic Site. Lawrence, Kan.: E.E. Page, 1990.
-* Stephens, F. F. “Missouri and the Santa Fe Trade.” The Missouri Historical Review 10, no. 4 (1916): 233–62.
+Cart, Doran L. "Lanesfield School." National Register of Historic Places Inventory/Nomination Form. Shawnee, Kans.: Johnson County Museum System, 1988.
 
+Feldman, Ruth Tenzer. _Don’t Whistle in School: The History of America’s Public Schools._ Minneapolis, Minn.: Twenty-First Century Books, 2001.
 
+Gulliford, Andrew. _America’s Country Schools._ Niwot, Colo.: University Press of Colorado, 1996.
 
+[“James H. Lane obituary."](https://www.nytimes.com/1866/07/04/archives/obituary-james-h-lane-united-states-senator-from-kansas.html).” _New York Times_, 4 July 1866.
+
+Jenner, Gail L. _One Room: Schools and Schoolteachers in the Pioneer West._ Lanham, Md.: Rowman & Littlefield, 2018.
