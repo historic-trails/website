@@ -58,7 +58,7 @@ In 1855 Majors partnered with William H. Russell and William B. Waddell to win a
   image-url="alexander-majors-pony-express-route-map.PNG"
 %}
 
-The Pony Express marked the first attempt at large-scale mail delivery in America.[^Godfrey1994vii] In late 1859 Russell, wanting a large mail contract from the federal government, convinced his partners to go along with the idea. Originally named the Central Overland California & Pikes Peak Express Company, the Pony Express offered service between St. Joseph, Missouri and Sacramento, California. A large stable of horses and evenly spaced relay stations allowed the Express's riders to deliver the mail in only ten days--a record that would stand until the first transcontinental railroad arrived after the Civil War.[^ponytimeline] 
+The Pony Express marked the first attempt at large-scale mail delivery in America.[^Godfrey1994vii] In late 1859 Russell, wanting a large mail contract from the federal government, convinced his partners to go along with the idea. Originally named the Central Overland California & Pikes Peak Express Company, the Pony Express offered service between St. Joseph, Missouri and Sacramento, California. A large stable of horses and evenly spaced relay stations allowed the Express's riders to deliver the mail in only ten days--a record that would stand until the first transcontinental railroad arrived after the Civil War.[^ponytimeline]
 
 {% include figure.html
   class="img-right"
@@ -71,7 +71,7 @@ The Pony Express marked the first attempt at large-scale mail delivery in Americ
 
 In 1862 Russell, Majors and Waddell closed due to bankruptcy and a dispute with the U.S. Department of the Interior. Later Majors' marriage and family fell apart, causing his second wife and child to move and change their names. Majors left Nebraska and spent time in Salt Lake City, where he witnessed the completion of the [transcontinental railroad](https://en.wikipedia.org/wiki/Transcontinental_railroad) in 1869 while he was working in the support of Union Pacific Railroad's drive west. He later lived in Denver.[^Morton2012f]
 
-His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, *Seventy Years on the Frontier*, in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
+His old friend Buffalo Bill Cody arranged the publication of Majors' memoirs, [*Seventy Years on the Frontier*](http://archive.org/details/yearsonseventyfr00majorich), in 1893. Alexander Majors died in January 1900 in Chicago and his body was buried in Union Cemetery next to his first wife in Kansas City.[^Morton2012g]
 
 ## Majors' House
 
@@ -132,115 +132,90 @@ The Majors House hosts ghost tours between 7 p.m. and 2 a.m. [^WornallMajorsHous
 [Alexander Majors Barn](https://www.google.com/maps/place/Alexander+Majors+Barn/@38.9797432,-94.6100891,817m/data=!3m1!1e3!4m5!3m4!1s0x87c0e92b4620bb13:0x3c91d6fed8fab8e1!8m2!3d38.9797391!4d-94.6078951?hl=en&authuser=0),
 8201 State Line Rd (east side of road near 85th street), Kansas City, MO 64114
 
+***
+
 ## Bibliography
 
-Billington, Ray Allen. Westward Expansion : A History of the American Frontier. New York [N.Y.] : Macmillan, ©1967.
+Federal Writers' Project, *Missouri: The WPA Guide to the “Show Me” State*. St. Louis: Missouri Historical Society Press, 1998.
 
-Bixler, Ashley. “Historical Narrative: Westward Expansion.” [WESTWARD MOVEMENT by Ashley Bixler](https://icss.uni.edu/timeline/5narrative.html). Accessed November 26, 2018.
+Godfrey, Anthony. [Historic Resource Study: Pony Express National Historic Trail](http://archive.org/details/historicresource00godf). Washington, D.C.: United States Department of the Interior/National Park Service, 1994.
 
-Earngey, Bill. Missouri Roadsides: The Traveler’s Companion. University of Missouri Press, 1995.
+Kusiak, Martha. ["Alexander Majors House."](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) National Register of Historic Places Inventory/Nomination Form. Jefferson City: Missouri State Park Board, 1970.
 
-Godfrey, Anthony. [Historic Resource Study: Pony Express National Historic Trail, 1994](http://archive.org/details/historicresource00godf).
+Morton, LaDene. *The Waldo Story: The Home of Friendly Merchants*. Charleston, S.C.: Arcadia Publishing, 2012.
 
-Kirkman, Paul. The Battle of Westport: Missouri’s Great Confederate Raid. Arcadia Publishing, 2011.
+Pony Express National Museum, ["Pony Express Historical Timeline"](http://ponyexpress.org/pony-express-historical-timeline/)(accessed November 5, 2019).
 
-“[LC Zoom Viewer - Pony Express Route](http://memory.loc.gov/cgi-bin/map_item.pl?data=/home/www/data/gmd/gmd405/g4051/g4051p/tr000221.jp2&itemLink=D?gmd:1:./temp/~ammem_Pj48::@@@mdb&title=Pony+express+route+April+3,+1860+-+October+24,+1861+/+W.H.+Jackson+;+issued+by+the+Union+Pacific+Railroad+Company+in+commemoration+of+the+Pony+Express+Centennial,+April+3,+1960+-+October+24,+1961.&style=gmd&legend=) April 3, 1860 - October 24, 1861 / W.H. Jackson ; Issued by the Union Pacific Railroad Company in Commemoration of the Pony Express Centennial, April 3, 1960 - October 24, 1961.” Accessed November 28, 2018.
+Wood, Toni, and Jilian Mincer. *Wow!: Where Families Can Find Awe & Wonder in and Around Kansas City*. Kansas City, Mo.: Kansas City Star Books, 2000.
 
-Majors, Alexander, Prentiss Ingraham, and 1846-1917 Buffalo Bill. [Seventy Years on the Frontier](http://archive.org/details/yearsonseventyfr00majorich); Alexander Major’s Memoirs of a Lifetime on the Border; Chicago and New York, Rand, McNally & company, 1893.
+Wornall Majors House Museum. ["The Majors House"](http://www.wornallmajors.org/explore/majors-house/)(accessed November 28, 2018).
 
-“Majors House - [The Alexander Majors House Museum](http://www.wornallmajors.org/explore/majors-house/)” Wornall Majors House Museums (blog). Accessed November 12, 2018.
+[^WPAGuide1998i]: Federal Writers' Project, *The WPA Guide to the “Show Me” State*.
 
-Missouri : The WPA Guide to the “Show Me” State. St. Louis : Missouri Historical Society Press ; [Columbia] : Distributed by University of Missouri Press, ©1998., 1998.
+[^WornallMajorsHouseMuseumsi]: Wornall Majors House Museum, ["The Majors House"](http://www.wornallmajors.org/explore/majors-house/).
 
-“National Register of Historic Places, Alexander Majors House, Kansas City, Jackson County, Missouri, National Register No:[70000335](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf).” Accessed November 16, 2018.
+[^NPSFormi]: Kusiak, "Alexander Majors House", 2.
 
-Pony Express National Museum, ["Pony Express Historical Timeline"](http://ponyexpress.org/pony-express-historical-timeline/)
+[^WornallMajorsHouseMuseumsii]: Wornall Majors House Museum, ["The Majors House"](http://www.wornallmajors.org/explore/majors-house/).
 
-Settle, Raymond W., and Mary Lund Settle. War Drums and Wagon Wheels : The Story of Russell, Majors, and Waddell. Lincoln : University of Nebraska Press, [1966], 1966.
+[^WPAGuide1998ii]: Federal Writers' Project, *The WPA Guide to the “Show Me” State*.
 
-“[William Rusell, Alexander Majors, William Waddell](https://in.pinterest.com/pin/336292297158117442/).” Pinterest. Accessed November 28, 2018.
+[^Morton2012a]: Morton, *The Waldo Story*.
 
-Wood, Toni, and Jilian Mincer. Wow!: Where Families Can Find Awe & Wonder in and Around Kansas City. Kansas City Star Books, 2000.
+[^Godfrey1994i]: Godfrey, [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-[Alexander Majors & Family]( http://www.wornallmajors.org/explore/majors-house/alexander-majors-his-family/) - Alexander Majors House. (n.d.). Retrieved November 28, 2018, from
+[^Morton2012b]: Morton, *The Waldo Story*.
 
-[John and Sigrid’s Adventures]( http://johnsigrid.blogspot.com/2013/11/alexander-majors-home-museum-tour.html): Alexander Majors Home Museum Tour - 11/7/2013. (n.d.). Retrieved November 28, 2018, from
+[^Godfrey1994ii]: Godfrey, [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-Leatherberry, E. (2015). Missouri, Kansas, [Alexander Majors House Photo]( https://www.flickr.com/photos/23711298@N07/18281558759/) May 10, 2015. Photo.
+[^Morton2012c]: Morton, *The Waldo Story*.
 
-[Majors’ Efforts](http://www.kchistory.org/week-kansas-city-history/majors-efforts). (2015, September 21). Retrieved November 28, 2018.
+[^Godfrey1994iii]: Godfrey, [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing.
+[^WoodMincer2000i]: Wood and Mincer, *Wow! Where Families Can Find Awe & Wonder in and Around Kansas City*.
 
-Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: [comprehensive management and use plan]( http://hdl.handle.net/2027/pur1.32754061290353). (1990). [Washington, D.C.?]
+[^Morton2012d]: Morton, *The Waldo Story*.
 
+[^WPAGuide1998iii]: Federal Writers' Project, *The WPA Guide to the “Show Me” State*.
 
-[^WPAGuide1998i]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
+[^WPAGuide1998iv]: Federal Writers' Project, *The WPA Guide to the “Show Me” State*.
 
-[^WornallMajorsHouseMuseumsi]: Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018.
+[^Morton2012e]: Morton, *The Waldo Story*.
 
-[^NPSFormi]: NPS Form-1969, No:70000335, P2
+[^WPAGuide1998v]: In 1858 when the firm received a government contract to freight supplies to General A. S. Johnston's troops duirng the Mormon War, Majors moved to Nebraska City; he left the state line property to his eldest daughter Mrs. Samuel Poteet, whose descendants owned it until 1910. Federal Writers' Project, *The WPA Guide to the “Show Me” State*.
 
-[^WornallMajorsHouseMuseumsii]: Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018.
+[^Godfrey1994vi]: Godfrey, [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-[^WPAGuide1998ii]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
+[^Godfrey1994v]: Godfrey, [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-[^Morton2012a]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
+[^Godfrey1994vii]: Godfrey, [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-[^Godfrey1994i]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
+[^Godfrey1994viii]: Godfrey, [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
 
-[^Morton2012b]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
+[^Morton2012f]: Morton, *The Waldo Story*.
 
-[^Godfrey1994ii]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
+[^Morton2012g]: Morton, *The Waldo Story*.
 
-[^Morton2012c]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
+[^NPSFormii]: Kusiak, "Alexander Majors House," 2.
 
-[^Godfrey1994iii]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
+[^NPSFormiii]: Kusiak, "Alexander Majors House," 2.
 
-[^WoodMincer2000i]: Wood, T., & Mincer, J. (2000). Wow! Where Families Can Find Awe & Wonder in and Around Kansas City. Kansas City Star Books.
+[^Morton2012h]: Morton, *The Waldo Story*.
 
-[^Morton2012d]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
+[^NPSFormiv]: Kusiak, "Alexander Majors House," 2.
 
-[^WPAGuide1998iii]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
+[^NPSFormv]: Kusiak, "Alexander Majors House," 2.
 
-[^WPAGuide1998iv]: Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
+[^Morton2012i]: Morton, *The Waldo Story*.
 
-[^Morton2012e]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
+[^Morton2012j]: Morton, *The Waldo Story*.
 
-[^WPAGuide1998v]: In 1858 when the firm received a contract from government to freight supplies to General A. S. Johnston ś Army in Mormon War, Majors moved to Nebraska city leaving the state line property to his **eldest daughter Mrs. Samuel Poteet**, whose descendants owned it until 1910. - Missouri: The WPA Guide to the “Show Me” State. (1998). Missouri History Museum. 
+[^Morton2012k]: Morton, *The Waldo Story*.
 
-[^Godfrey1994vi]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
+[^Morton2012l]: Morton, *The Waldo Story*.
 
-[^Godfrey1994v]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
+[^WornallMajorsHouseMuseumsiii]: Wornall Majors House Museum, ["The Majors House"](http://www.wornallmajors.org/explore/majors-house/).
 
-[^Godfrey1994vii]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
-
-[^Godfrey1994viii]: Godfrey, A. (1994). [Historic Resource Study: Pony Express National Historic Trail]( http://archive.org/details/historicresource00godf).
-
-[^Morton2012f]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing.
-
-[^Morton2012g]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
-
-[^NPSFormii]: NPS Form-1969, No:70000335, P2
-
-[^NPSFormiii]: NPS Form-1969, No:70000335, P2
-
-[^Morton2012h]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
-
-[^NPSFormiv]: NPS Form-1969, No:70000335, P2
-
-[^NPSFormv]: NPS Form-1969, No:70000335, P2
-
-[^Morton2012i]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
-
-[^Morton2012j]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
-
-[^Morton2012k]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
-
-[^Morton2012l]: Morton, L. (2012). The Waldo Story: The Home of Friendly Merchants. Arcadia Publishing. 
-
-[^WornallMajorsHouseMuseumsiii]: Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018.
-
-[^WornallMajorsHouseMuseumsiv]: Majors House – [The Alexander Majors House Museum] ( from http://www.wornallmajors.org/explore/majors-house/). (n.d.). Retrieved November 12, 2018.
+[^WornallMajorsHouseMuseumsiv]: Wornall Majors House Museum, ["The Majors House"](http://www.wornallmajors.org/explore/majors-house/).
 
 [^ponytimeline]: Pony Express National Museum, ["Pony Express Historical Timeline"](http://ponyexpress.org/pony-express-historical-timeline/)
