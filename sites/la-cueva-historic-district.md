@@ -28,11 +28,11 @@ In the latter half of the nineteenth century, the La Cueva Historic District hel
 %}
 La Cueva was founded by Vicente Romero around 1851. The land was originally part of a Spanish land grant, and Romero purchased 33,000 acres of the Mora [Grant](https://en.wikipedia.org/wiki/Land_grants_in_New_Mexico) from several descendants who owned the property: Pedro Chacon, Miguel Mascarenas, Francisco Sandoval, Maria Dolores Romero, and Mareo Sandoval.  These claimants held the largest portions of the grant sold to Vicente.[^NPS-Form] The name 'La Cueva' (translation: The Cave) has many possibile origins.  Vicente had been a sheepherder, and legend has it that he utilized caves in the area to seek shelter when needed.  This earned him the title of 'La Cueva' to which his property was then named.[^NPS-Form-2]  Others say the ranch was named La Cueva simply due to a nearby cave.[^ranchos1] The official reason for the naming convention may never be known.  One thing was for certain: Vicente realized the potential of the land, the nearby [Mora River](https://en.wikipedia.org/wiki/Mora_River), and the need for grain on the Santa Fe Trail.  
 
-[^NPS-Form]: NPS La Cueva Historic Distric p-3
+[^NPS-Form]: Purdy, 3
 
-[^NPS-Form-2]: NPS La Cueva Historic Distric p-3-1 
+[^NPS-Form-2]: Purdy, 3-1
 
-[^ranchos1]: Ranchos of Northern New Mexico p-19-1
+[^ranchos1]: Koman, _Ranchos of Northern New Mexico_, 19-1
 
 
 {% include figure.html
@@ -48,15 +48,15 @@ The La Cueva Historic District relied on hydropower to help travelers along the 
 
 [^NPS-lchd-3]: NPS La Cueva form p.3
 
-[^Mays-1]: Mays, p.134
+[^Mays-1]: Mays, _Ancient Water Technologies_, 134
 
-[^Water-1]: Water for the southwest p. 90
+[^Water-1]: Baker, _Water for the Southwest_, 90
 
-[^NPS-SFT-1]: NPS History of the Santa Fe Trail Sec E p. 108
+[^NPS-SFT-1]: Urbana Group, section E
 
-[^NPS-SFT-2]: NPS Santa Fe trail history sec. E. p.109
+[^NPS-SFT-2]: Urbana Group, section E
 
-[^Ranchos-1]: Ranchos of Northern NM p.19
+[^Ranchos-1]: Koman, _Ranchos of Northern New Mexico_, 19
 
 ## A Place to Meet, Trade, & Rest
 
@@ -68,15 +68,15 @@ The La Cueva Historic District relied on hydropower to help travelers along the 
 %}
 
 
-The Romero hacienda served as a community center for the region.[^NPS-LCHD-5]  While few records exist, we do know that ranchers and travelers in the region would stop at the house to meet. The hacienda was attached to a mercantile store and a large stable where travelers could buy supplies and water their horses.[^NPS-LCHD-6] Trade took place at La Cueva, and the network of mercantile stores helped the Santa Fe Trail become a major avenue for the United States' aquisition of the American Southwest; the trail became a military supply route during the Wivil war, and the mercantile stores that flanked the trail provided these supplies.[^NPS-SFT-3] The exact mercantile that the Romero's sold are unknown, but items recorded being brought into Santa Fe could account for some of what could have been sold here: dry goods, hardware, clothing, guns, books, liquor, and groceries are just a few items that were sold along the trail. [^NPS-SFT-4]
+The Romero hacienda served as a community center for the region.[^NPS-LCHD-5]  While few records exist, we do know that ranchers and travelers in the region would stop at the house to meet. The hacienda was attached to a mercantile store and a large stable where travelers could buy supplies and water their horses.[^NPS-LCHD-6] Trade took place at La Cueva, and the network of mercantile stores helped the Santa Fe Trail become a major avenue for the United States' acuisition of the American Southwest; the trail became a military supply route during the Civil War, and the mercantile stores that flanked the trail provided these supplies.[^NPS-SFT-3] The exact mercantile that the Romero's sold are unknown, but items recorded being brought into Santa Fe could account for some of what could have been sold here: dry goods, hardware, clothing, guns, books, liquor, and groceries are just a few items that were sold along the trail. [^NPS-SFT-4]
 
-[^NPS-LCHD-5]: NPS La Cueva form p.4
+[^NPS-LCHD-5]: Purdy, 4
 
-[^NPS-LCHD-6]: NPS la Cueva Historic District form p.4
+[^NPS-LCHD-6]: Purdy, 4
 
-[^NPS-SFT-3]: NPS History of Santa Fe Trail sec.E p.44
+[^NPS-SFT-3]: Urbana Group, section E
 
-[^NPS-SFT-4]: NPS History of the Santa Fe Trail Sec E p. 46
+[^NPS-SFT-4]: Urbana Group, section E
 
 ## A Mission Arrives
 {% include figure.html
@@ -89,12 +89,12 @@ The Romero hacienda served as a community center for the region.[^NPS-LCHD-5]  W
 
 Romero also commissioned a church on his property that would become known as the [San Rafael Mission Church](https://www.cstones.org/current-projects/2018/3/8/san-rafael-church-la-cueva-new-mexico).[^NPS-LCHD-7]  Construction on the church began in 1862 and finished in 1870.  This mission was used as a family chapel for the Romeros, and subsequent property owners would use this as a family chapel, as well. Priests from near Lamy, NM came to help build the mission.  By the 1840s, missionaries were a common presence along the Santa Fe Trail; this was a departure from the merchants, wagon masters, muleteers and ox drovers that preceded them.[^NPS-SFT-5]
 
-[^NPS-LCHD-7]: NPS La Cueva Historic District form p.4
+[^NPS-LCHD-7]: Purdy, 4
 
-[^NPS-SFT-5]: NPS History of the Sant Fe Trail Sec E. p. 45
+[^NPS-SFT-5]: Urbana Group, section E
 
 ## La Cueva Today
-The La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of [Ft. Union National Monument](https://www.nps.gov/foun/index.htm). Today La Cueva is a private residence as well as a [farm](https://www.lacuevafarm.com/).  In the summer months travelers can pick raspberries and bring them home.  But the site's current form still holds clues to the history of La Cueva. Mora County is home to many historic landmarks on the historic register, which could be a way for the economically depressed area to benefit from it's rich past.   
+The La Cueva Historic District is located at the intersection of NM442 and NM518, 33.1 miles northwest of [Ft. Union National Monument](https://www.nps.gov/foun/index.htm). Today La Cueva is a private residence as well as a [farm](https://www.lacuevafarm.com/).  In the summer months travelers can pick raspberries and bring them home.  But the site's current form still holds clues to the history of La Cueva. Mora County is home to many historic landmarks on the historic register, which could be a way for the economically depressed area to benefit from its rich past.   
 
 ***
 
@@ -106,29 +106,12 @@ The La Cueva Historic District is located at the intersection of NM442 and NM518
 
 ### Bibliography
 
+Baker, T. Lindsay. [Water for the Southwest; historical survey and guide to historic sites](http://archive.org/details/waterforsouthwes00bake). New York, N.Y.: American Society of Civil Engineers, 1973.
 
-[Art Latham. (1995). Lost in the Land of Enchantment. Arroyo Press.](http://archive.org/details/lostinlandofench00lath)
+Koman, Rita G. "The Hispano Ranchos of Northern New Mexico: Continuity and Change." _Teaching With Historic Places_ series. Washington, D.C.: National Park Service, 2002.
 
-[Babs Suzanne Harrison. (1994). Exploring New Mexico wine country. Coyote Press.](http://archive.org/details/exploringnewmexi00harr)
+Mays, L. (ed). _Ancient Water Technologies_. New York, N.Y.: Springer Science & Business Media, 2010.
 
-[Baker, T. L., Historic American Engineering Record, & Texas Tech University. Water Resources Center. (1973). Water for the Southwest; historical survey and guide to historic sites. New York, American Society of Civil Engineers.](http://archive.org/details/waterforsouthwes00bake)
+Purdy, James H. ["La Cueva Historic District."](https://npgallery.nps.gov/AssetDetail/NRIS/73001144) National Register of Historic Places Inventory/Nomination Form. Santa Fe, N. Mex: State Records Center and Archives, 1972.
 
-Catholic Church., A., & Chavez. (1957). Archives of the Archdiocese of Santa Fe, 1678-1900. Washington, D.C. : Academy of American Franciscan History,.
-
-Engineer, N. M. O. of T. (1908). Biennial Report of the Territorial Engineer to the Governor of New Mexico Including Water Supply. Albuquerque Morning Journal.
-[Freitag, A. L. (1994). Cultural landscape study of Fort Union National Monument.](http://archive.org/details/culturallandscap00frei)
-
-Koman, R. G., & National Park Service (Dept. of Interior), W., DC. National Register of Historic Places. (2002). The Hispano Ranchos of Northern New Mexico: Continuity and Change. Teaching with Historic Places.
-
-Mays, L. (2010). Ancient Water Technologies. Springer Science & Business Media.
-
-[National Register of Historic Places, La Cueva Historic District, Mora County, New Mexico, National Register #73001144](https://npgallery.nps.gov/AssetDetail/NRIS/73001144)
-
-[National Register of Historic Places Multiple Property Documentation Form; Santa Fe Trail, National Register #10240018](https://dnr.mo.gov/shpo/nps-nr)
-
-San Rafael, La Cueva, New Mexico. Shadows in the light of darkness. (2018, April 8). Retrieved November 9, 2018, from http://geraintsmith.com/shadows-san-rafael-la-cueva-new-mexico/
-
-
-
-
-
+The Urbana Group. ["Santa Fe Trail."](https://dnr.mo.gov/shpo/nps-nr) National Register of Historic Places Multiple Property Documentation Form. Urbana, Ill.: The Urbana Group, 1993.
