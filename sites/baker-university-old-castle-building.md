@@ -77,13 +77,13 @@ The Old Castle Complex is just east of the main campus at 511 Fifth Street, Bald
 
 * Baker University. [Vision & Values](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
 
-* Hall, Charles L., and Richard D. Pankratz. "Old Castle Hall [Baker University]"[https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text]". National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1970.
+* Hall, Charles L., and Richard D. Pankratz. ["Old Castle Hall, Baker University."](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)" National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1970.
 
 * [Historic Campus Architecture Project (HCAP).](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
   - Ebright, Homer Kingsley. *The History of Baker University*. Baldwin, KS: [Baker University], 1951.
 
-  - Hall, Charles L., and Richard D. Pankratz. "Old Castle Hall [Baker University]"[https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text]". National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1970.
+  - Hall, Charles L., and Richard D. Pankratz. ["Old Castle Hall, Baker University."](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)" National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1970.
 
   - "Baker University Old Castle Hall." National Register of Historic Places Designation
   Report. Washington, D.C.: U.S. Department of the Interior/National Park Service, 1971.
