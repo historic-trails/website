@@ -77,6 +77,8 @@ The Old Castle Complex is just east of the main campus at 511 Fifth Street, Bald
 
 * Baker University. [Vision & Values](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
 
+* Hall, Charles L., and Richard D. Pankratz. "Old Castle Hall [Baker University]"[https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text]". National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1970.
+
 * [Historic Campus Architecture Project (HCAP).](http://hcap.artstor.org/cgi-bin/library?a=d&d=p153)
 
   - Ebright, Homer Kingsley. *The History of Baker University*. Baldwin, KS: [Baker University], 1951.
@@ -96,11 +98,11 @@ The Old Castle Complex is just east of the main campus at 511 Fifth Street, Bald
 
 * Kansaspedia. [Grasshopper Plague of 1874.](https://www.kshs.org/kansapedia/grasshopper-plague-of-1874/12070)
 
+* Santa Fe Trail Association. [Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html).
+
 * Weiser, Kathy. [Legends of Kansas: Baldwin City.](http://www.legendsofkansas.com/baldwincity.html)
 
-* Hall, Charles L., and Richard D. Pankratz. "Old Castle Hall [Baker University]"[https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text]". National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1970.
 
-* Santa Fe Trail Association. [Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html).
 
 
 [^Santa-Fe-Trail-Association-three]:Santa Fe Trail Association, [Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html)
