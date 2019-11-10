@@ -77,8 +77,6 @@ Soren, Noelle. ["Neff Tavern Smokehouse."](https://dnr.mo.gov/shpo/nps-nr/780016
 
 Turner, Frederick Jackson. "The Significance of the Frontier in American History.“ Annual Report of the American Historical Association, 1894, 197–227.
 
-NPS Form: National Register of Historic Places, Neff Tavern Smokehouse, Napton, Saline, Missouri, #10.300a, 1963
-
 [^NPSFormp1]: Soren, 1
 [^NPSFormp1I]: Soren, 1
 [^NPSFormp1II]: Soren, 1
