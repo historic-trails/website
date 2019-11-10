@@ -16,15 +16,15 @@ In nineteenth-century Missouri, it was very difficult to make a living. This lar
 
 ## Who Was Lewis Jones?
 
-Lewis Jones was, first and foremost, a successful entrepreneur. He was a wagonmaker, trader, and merchant that also backed other traders on the Santa Fe trail; he also owned the Nebraska House Hotel (also in Independence.[^SFNH92] Jones did more than just conduct business. He was appointed a Justice of the County Court in 1831; he also founded the West Fork Baptist Church in December of 1842.[^NPS06] 
+Lewis Jones was, first and foremost, a successful entrepreneur. He was a wagonmaker, trader, and merchant that also backed other traders on the Santa Fe trail; he also owned the Nebraska House Hotel (also in Independence.[^SFNH92] Jones did more than just conduct business. He was appointed a Justice of the County Court in 1831; he also founded the West Fork Baptist Church in December of 1842.[^NPS06]
 
 Lewis Jones married Elizabeth Jones on January 6, 1820.[^NPS07] The couple had six children: Mary Jane Todd, Greenup C. Jones, Nancy C. Moore and Sally McClanahan, Melinda Caroline Spratt, and Clorissa Jones.[^NPS08] They lived in Independence until 1857 when they moved to Fremont, Colorado where Lewis was a rancher.[^NPS09]
 
-[^SFNH92]: Santa Fe Nation Historic Trail Comprehensive managment and use plan, 92.
-[^NPS06]: NPS, 6.
-[^NPS07]: NPS, 6.
-[^NPS08]: NPS, 6.
-[^NPS09]: NPS, 6
+[^SFNH92]: National Park Service, 92
+[^NPS06]: Edwards and Cummer, 6
+[^NPS07]: Edwards and Cummer, 6
+[^NPS08]: Edwards and Cummer, 6
+[^NPS09]: Edwards and Cummer, 6
 
 ## Independence and Trade in the American West
 
@@ -37,19 +37,19 @@ Independence, Missouri was the gateway to the American West. The town quickly be
   image-url="independence-missouri-picture.jpg"
 %}
 
-Trade between Mexico and the United States relied almost entirely on the Santa Fe Trail.[^MOI138] Other wagon routes such as the [Oregon Trail](https://en.wikipedia.org/wiki/Oregon_Trail) and the [California Trail](https://en.wikipedia.org/wiki/California_Trail) departed from Independence, as well.[^MOI038] American merchants also built a steady trade network with the Indian tribes of the West and various fur traders throughout the Rocky Mountains.[^MOI037] 
+Trade between Mexico and the United States relied almost entirely on the Santa Fe Trail.[^MOI138] Other wagon routes such as the [Oregon Trail](https://en.wikipedia.org/wiki/Oregon_Trail) and the [California Trail](https://en.wikipedia.org/wiki/California_Trail) departed from Independence, as well.[^MOI038] American merchants also built a steady trade network with the Indian tribes of the West and various fur traders throughout the Rocky Mountains.[^MOI037]
 
 Another prominent endeavor in Independence during the 1800s was the railroad industry. The Missouri and Independence River Railroad began in Independence in 1849, becoming a lucrative investment for local businessmen.[^MOI056] Because of these deep roots placed in Independence, the United States was able to capitalize on the trade and natural resources of the land they had purchased.  
 
-[^MOI038]: Merchants of Independence, 38
-[^MOI015]: Merchants of Independence, 15
-[^MOI138]: Merchants of Independence, 38
-[^MOI037]: Merchants of Independence, 37
-[^MOI056]: Merchants of Independence, 56
+[^MOI038]: O'Brien, 38
+[^MOI015]: O'Brien, 15
+[^MOI138]: O'Brien, 38
+[^MOI037]: O'Brien, 37
+[^MOI056]: O'Brien, 56
 
 ## The House Itself
 
-The Lewis Jones House was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two-story, three-bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical integrity despite a changing city around it. This house embodies the popular architecture styles of the nineteenth century, but its primary historical significance comes from its resident. 
+The Lewis Jones House was constructed in 1840 in the middle of Independence, Missouri. [^NPS10] It was built as a two-story, three-bay house with red brick walls and wood trim. [^NPS11] A porch was also built into the house on the first floor which covers one side of the house. [^NPS12] The house was later remodeled to include two more bays and to give the house a distict L-Shape. [^NPS13] Throughout the years, the house has been able to maintain its historical integrity despite a changing city around it. This house embodies the popular architecture styles of the nineteenth century, but its primary historical significance comes from its resident.
 {% include figure.html
   class="img-right"
   width="40%"
@@ -57,10 +57,10 @@ The Lewis Jones House was constructed in 1840 in the middle of Independence, Mis
   image-url="lewis-jones-house-photo.jpg"
 %}
 
-[^NPS10]: NPS, Sec.7, 1
-[^NPS11]: NPS, 1
-[^NPS12]: NPS, 1
-[^NPS13]: NPS, 1
+[^NPS10]: Edwards and Cummer, section 7, 1
+[^NPS11]: Edwards and Cummer, 1
+[^NPS12]: Edwards and Cummer, 1
+[^NPS13]: Edwards and Cummer, 1
 
 ##  The Visit
 
@@ -70,13 +70,9 @@ The Lewis Jones house is located on [104 Elizabeth Street in Independence, Misso
 ***
 
 ## Bibliography
-* Lavina Honeyman Porter. (1910). "By Ox Team to California; a Narrative of Crossing the Plains in 1860". Oakland Enquirer Pub Co. Retreieved from https://archive.org/details/byoxteamtocalifo00port/page/n5
-* George Russell Jones. (1912). "Geneaology of the Jones Family;  the Desendents of Benjamin Jones who Immigrated from South Wales more than 250 Years Ago". Los Angeles Calif., Times Mirror. Retrieved from https://archive.org/details/byoxteamtocalifo00port/page/n5
-* Carrie Westlake Whitney. (1908). "Kansas City, Missouri: it's History and it's People 1808-1908". Chicago: The S.J. Clarke publishing co. Retrieved from https://archive.org/details/kansascitymissou01inwhit/page/n7
-* Jay Bryant. (2014). "Lewis Jones House (Independence, Missouri)". Retrieved from https://www.flickr.com/photos/51038527@N03/24831664933
-* William Patrick O'Brien. (2013). "Merchants of Independence: International Trade on the Santa Fe Trail, 1827-1860". Truman State University Press, 2013. Retrieved from [UNM Library](https://eds.a.ebscohost.com/eds/detail/detail?vid=1&sid=ce622740-50df-4f1c-bcd6-a89c57106a1c%40sdc-v-sessmgr03&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=unm.863695364&db=cat05987a)
-* "Missouri Historical Review, Volume 010 Issue 4". (1916). Retrieved from http://digital.shsmo.org/cdm/ref/collection/mhr/id/2228
-* "National Register of Historic Places, Lewis Jones House, Independence, Jackson County, Missouri, National Register #94000320
-* United States. (1990). "Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: Comprehensive Managment and Use Plan". U.S. Department of the Interior, National Park Service. Retrieved from https://catalog.hathitrust.org/Record/002444854
-* W.Z. Hickman. (1990). "History of Jackson County, Missouri". Southern Historical Press. Retrieved from [UNM Library](https://unm-on-worldcat-org.libproxy.unm.edu/search?direct=true&queryString=history+of+jackson+county+missouri&bquery=history+of+jackson+county+missouri&cli0=FT1&clv0=Y&type=0&site=eds-live&scope=&authtype=ip%2Cguest&profid=eds&groupid=main&custid=s4858255#/oclc/22580018)
-* Union Historical Company. (1881). "The History of Jackson County, Missouri, containing a history of the county, its cities, towns, etc., biographical sketches of its citizens, Jackson county in the late war... history of Missouri, map of Jackson County". Union Historical Company. Retrieved from https://archive.org/details/cu31924028846505/page/n13
+
+O'Brien, William Patrick. _Merchants of Independence: International Trade on the Santa Fe Trail, 1827-1860._ Kirksville, Mo.: Truman State University Press, 2013.
+
+Edwards, Alice and Karen L. Cummer. ["Lewis Jones House."](https://dnr.mo.gov/shpo/nps-nr/94000320.pdf) National Register of Historic Places Inventory/Nomination Form. Urbana, Ill.: The Urbana Group, 1993.
+
+National Park Service. ["Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: Comprehensive Management and Use Plan."](https://catalog.hathitrust.org/Record/002444854) Washington, D.C.: U.S. Department of the Interior/National Park Service, 1990.
