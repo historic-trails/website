@@ -54,7 +54,7 @@ As the only remaining part of the tavern, the smokehouse serves as an important 
 %}
 
 ## Location
-The Neff tavern is located on an unmarked street, west from the Missouri highway number 41 (half a mile) and Arrow Rock (6 miles).
+The Neff Tavern is located on an unmarked street, west from the Missouri highway number 41 (half a mile) and Arrow Rock (6 miles).
 
 
 ***
