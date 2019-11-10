@@ -70,7 +70,7 @@ Jenks, Kelly. ["Archeology at San Miguel Del Vado."](https://anthropology.nmsu.e
 
 Jenks, Kelly. "Vecinos en la Frontera: Colonial History and Archaeology at San Miguel del Vado, New Mexico." _SMRC Revista_ (Spring/Winter 2011): 15–25.
 
-Weiser-Alexander, Kathy. [Legends of America: San Miguel del Vado.](https://www.legendsofamerica.com/san-miguel-del-vado/)
+Weiser-Alexander, Kathy. [San Miguel del Vado.](https://www.legendsofamerica.com/san-miguel-del-vado/) Legends of America.
 
 
 [^Jenks1]:Jenks, "Archeology at San Miguel del Vado"

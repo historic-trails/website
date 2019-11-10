@@ -21,7 +21,7 @@ Situated outside of the city limits of Westport, Missouri, the Ward homestead ha
 The Seth Ward House is near present-day Kansas City, Missouri, roughly a quarter mile from the Kansas-Missouri border. This homestead is positioned in the [Country Club District](https://en.wikipedia.org/wiki/Country_Club_District), a group of neighborhoods containing upscale historical residences. Nearby in Jacob L. Loose Park, visitors can see the original farmland of the Ward homestead which, in 1864, doubled as the battlefield in the "Gettysburg of the West." This site is situated along the [Santa Fe Trail](https://www.nps.gov/safe/index.htm), and was the home of two prominent traders of the nineteenth century: William Bent and Seth Ward.
 
 
-## Bent's Background 
+## Bent's Background
 {% include figure.html
   class="img-right"
   width="25%"
@@ -43,7 +43,7 @@ Throughout the following decades, the house erected by Bent would endure a Civil
 
 On October 23, 1864 [Confederate Major General Sterling Price](https://en.wikipedia.org/wiki/Sterling_Price) led a legendary raid into Missouri in hopes of forcing the loss of a border state. If the raid was successful, Abraham Lincoln would have had faced a challenging reelection, allowing the Confederacy the chance to negotiate a settlement. However, this raid was met head-on by the Army of Missouri, leading to the largest Civil War battle west of the Mississippi River with Confederate forces numbering 8,500 troops and 22,000 Union soldiers. [^Beckenbaugh] The [Battle of Westport](https://en.wikipedia.org/wiki/Battle_of_Westport), often referred to as the "Gettysburg of the West," was a major Union victory. This battle occurred on the pastureland of the William Bent farmstead. With about 3,000 Union and Confederate casualties combined, the Battle of Westport is forever entrenched in the ground of the Bent-Ward property. Today, the battleground is now a part of the [Jacob L. Loose Park](https://en.wikipedia.org/wiki/Loose_Park) in Kansas City, Missouri.
 
-## Seth Ward 
+## Seth Ward
 {% include figure.html
   class="img-right"
   width="18%"
@@ -61,21 +61,21 @@ Seth E. Ward was a successful fur trader, banker, entrepreneur, and real estate 
 
 ## Bibliography
 
-Beckenbaugh, Terry. "["Battle of Westport" Civil War on the Western Border: The Missouri-Kansas Conflict, 1854-1865.](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)" Civil War on the Western Border. Accessed November 11, 2018.
+Beckenbaugh, Terry. "["Battle of Westport" Civil War on the Western Border: The Missouri-Kansas Conflict, 1854-1865.](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)" Civil War on the Western Border (accessed November 11, 2018).
 
-"[Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)." Western History Collection. Denver Public Library. 2007. Accessed November 11, 2018.
+Lubers, H. L. "[William Bent's Family and the Indians of the Plains](https://www.historycolorado.org/sites/default/files/media/document/2018/ColoradoMagazine_v13n1_January1936.pdf)." _Colorado Magazine_ 13, no. 1 (January 1936): 19-22.
 
-Lubers, H.L. "[William Bent's Family and the Indians of the Plains](http://legacy.historycolorado.org/sites/default/files/files/Researchers/ColoradoMagazine_v13n1_January1936.pdf)." Colorado Magazine, 19-22.
+Ryder, Elaine. ["Seth Ward House"](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf). Kansas City, Mo.: Landmarks Commission of Kansas City, 1977.
 
-National Register of Historic Places, [Seth Ward House](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf), Kansas City, Jackson County, Missouri, 78001664
+"[Seth Edmund Ward Papers, biographical note](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)." Western History Collection, Denver Public Library (accessed November 11, 2018).
 
-Shaw, Beverly. "[2013-Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)." Symphony Designers Showhouse. 2013. Accessed November 28, 2018.
+Shaw, Beverly. "[2013-Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)." Symphony Designers Showhouse (accessed November 28, 2018).
 
-Weiser-Alexander, Kathy. "[Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)." Legends of America. July 2018. Accessed November 15, 2018.
+Weiser-Alexander, Kathy. "[Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)." Legends of America (accessed November 15, 2018).
 
-[^Beckenbaugh]: [Battle of Westport](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
+[^Beckenbaugh]: Beckenbaugh, [Battle of Westport](http://www.civilwaronthewesternborder.org/encyclopedia/battle-westport)
 [^Denver-Public-Library]: [Seth Edmund Ward Papers](http://eadsrv.denverlibrary.org/sdx/pl/doc-tdm.xsp?id=WH1067_d0e33&fmt=text&base=fa)
-[^Shaw]: [Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)
-[^Weiser-Alexander]: [Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)
-[^Lubers]: [William Bent's Family and the Indians of the Plains](http://legacy.historycolorado.org/sites/default/files/files/Researchers/ColoradoMagazine_v13n1_January1936.pdf)
-[^NRHP]: [NRHP Registration Form](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf)
+[^Shaw]: Shaw, [Bent Ward Home](http://www.showhouse.org/previousshowhouses/2013-showhouse/)
+[^Weiser-Alexander]: Weiser-Alexander, [Bent Brothers-Trading on the Santa Fe Trail](https://www.legendsofamerica.com/bent-brothers/)
+[^Lubers]: Lubers, [William Bent's Family and the Indians of the Plains](http://legacy.historycolorado.org/sites/default/files/files/Researchers/ColoradoMagazine_v13n1_January1936.pdf)
+[^NRHP]: [Ryder](https://dnr.mo.gov/shpo/nps-nr/78001664.pdf)

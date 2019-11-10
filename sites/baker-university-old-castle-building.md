@@ -100,7 +100,7 @@ The Old Castle Complex is just east of the main campus at 511 Fifth Street, Bald
 
 * Santa Fe Trail Association. [Santa Fe Trail Association, Douglas County Chapter](https://www.santafetrail.org/chapters/douglasco/index.html).
 
-* Weiser, Kathy. [Legends of Kansas: Baldwin City.](http://www.legendsofkansas.com/baldwincity.html)
+* Weiser, Kathy. [Baldwin City.](http://www.legendsofkansas.com/baldwincity.html) Legends of Kansas.
 
 
 
