@@ -58,31 +58,14 @@ The [Mahaffie Farmstead](https://www.mahaffie.org/) is still used for agricultur
 
 The house is located at [1200 E Kansas City Road, Olathe, KS 66061](https://www.google.com/maps/search/mahaffie%20house%20ks?hl=en&source=opensearch). It is generally open from 10 am to 4 pm, depending on the season.
 
-##### Related People
-- [Jim Bridger](https://en.wikipedia.org/wiki/Jim_Bridger)
-- [William Bent](https://en.wikipedia.org/wiki/William_Bent)
-- [Alexander Majors](https://en.wikipedia.org/wiki/Alexander_Majors)
-
-##### Related Articles
-- [Bleeding Kansas](https://en.wikipedia.org/wiki/Bleeding_Kansas)
-- [America's Transcontinental Railroad](https://en.wikipedia.org/wiki/First_Transcontinental_Railroad)
-- [Olathe, KS](https://en.wikipedia.org/wiki/Olathe,_Kansas)
-- [The Building of the First Kansas Railroad](https://www.kshs.org/p/the-building-of-the-first-kansas-railroad/13060)
-
-##### Related Places
-- [Harmon Park Rut](https://www.kshs.org/natreg/natreg_listings/view/1816)
-- [Grinter House and Ferry](https://www.kshs.org/kansapedia/grinter-place/11831)
-- [Westport Landing](https://www.nps.gov/safe/learn/historyculture/westport-landing.htm)
-- [Harris House](https://en.wikipedia.org/wiki/Harris-Kearney_House)
-- [William Bent House](https://historic-trails.github.io/santa-fe-itinerary/sites/seth-ward-house.html)
-- [Alexander Majors House](https://historic-trails.github.io/santa-fe-itinerary/sites/alexander-majors-house.html)
-
 ***
 
 ## Bibliography
-- Michael E. Duncan, "Mahaffie Farmstead and Stagecoach Stop Historic Site," _Wagon Tracks_ vol. 1, no. 3 (May 1987): 4.
-- National Park Service, _Draft Comprehensive Management Plan_. Denver: U.S. Department of the Interior, 1989.
-- Richard Pankratz, ["J.B. Mahaffie House."](https://www.kshs.org/resource/national_register/nominationsNRDB/Johnson_MahaffieJBHouseNR.pdf) National Register of Historic Places Inventory/Nomination Form. Kansas State Historical Society, Topeka, 29 August 1977.
+Duncan, Michael E. "Mahaffie Farmstead and Stagecoach Stop Historic Site," _Wagon Tracks_ vol. 1, no. 3 (May 1987): 4.
+
+National Park Service, _Draft Comprehensive Management Plan_. Denver: U.S. Department of the Interior, 1989.
+
+Pankratz, Richard. ["J.B. Mahaffie House."](https://www.kshs.org/resource/national_register/nominationsNRDB/Johnson_MahaffieJBHouseNR.pdf) National Register of Historic Places Inventory/Nomination Form. Kansas State Historical Society, Topeka, 29 August 1977.
 
 [^REGISTER1]: Pankratz, 3
 [^TRACKS1]: Duncan
