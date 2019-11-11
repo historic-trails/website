@@ -61,11 +61,11 @@ The house is located at [1200 E Kansas City Road, Olathe, KS 66061](https://www.
 ***
 
 ## Bibliography
-Duncan, Michael E. "Mahaffie Farmstead and Stagecoach Stop Historic Site," _Wagon Tracks_ vol. 1, no. 3 (May 1987): 4.
+Duncan, Michael E. "Mahaffie Farmstead and Stagecoach Stop Historic Site." _Wagon Tracks_ 1, no. 3 (May 1987): 4.
 
 National Park Service, _Draft Comprehensive Management Plan_. Denver: U.S. Department of the Interior, 1989.
 
-Pankratz, Richard. ["J.B. Mahaffie House."](https://www.kshs.org/resource/national_register/nominationsNRDB/Johnson_MahaffieJBHouseNR.pdf) National Register of Historic Places Inventory/Nomination Form. Kansas State Historical Society, Topeka, 29 August 1977.
+Pankratz, Richard. ["J.B. Mahaffie House."](https://www.kshs.org/resource/national_register/nominationsNRDB/Johnson_MahaffieJBHouseNR.pdf) National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1977.
 
 [^REGISTER1]: Pankratz, 3
 [^TRACKS1]: Duncan

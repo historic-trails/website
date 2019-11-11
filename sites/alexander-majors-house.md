@@ -146,7 +146,7 @@ Morton, LaDene. *The Waldo Story: The Home of Friendly Merchants*. Charleston, S
 
 Pony Express National Museum, ["Pony Express Historical Timeline"](http://ponyexpress.org/pony-express-historical-timeline/)(accessed November 5, 2019).
 
-Wood, Toni, and Jilian Mincer. *Wow!: Where Families Can Find Awe & Wonder in and Around Kansas City*. Kansas City, Mo.: Kansas City Star Books, 2000.
+Wood, Toni and Jilian Mincer. *Wow!: Where Families Can Find Awe & Wonder in and Around Kansas City*. Kansas City, Mo.: Kansas City Star Books, 2000.
 
 Wornall Majors House Museum. ["The Majors House"](http://www.wornallmajors.org/explore/majors-house/)(accessed November 28, 2018).
 

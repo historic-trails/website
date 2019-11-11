@@ -81,7 +81,7 @@ The Council Grove Downtown Historic District has many sites of interest still st
 ## Bibliography
 Andreas, A. T. [History of the State of Kansas.](http://hdl.handle.net/2027/osu.32435027247097) Chicago, Ill.: A. T. Andreas, 1883.
 
-Brigham, Lalla Maloy. _The Story of Council Grove on the Santa Fe Trail_. 1921.
+Brigham, Lalla Maloy. _The Story of Council Grove on the Santa Fe Trail_. [Council Grove, Kans.]: 1921.
 
 Davis, Christy and Brenda Spencer. [“Council Grove Downtown Historic District.”](https://www.kshs.org/resource/national_register/nominationsNRDB/Morris_CouncilGroveDowntownHistoricDistrictNR.pdf) National Register of Historic Places Inventory/Nomination Form. Wamego, Kans.: Spencer Preservation, 2009.
 
