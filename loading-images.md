@@ -32,7 +32,7 @@ You will need to copy the URL of where you got the image so that you paste in in
 When you find an image you like, download it to your computer. Frequently, images you download will have long and weird filenames that make it difficult to use, even within our repository. You should rename the image so it has a more human readable name that will make it easier to find later. Use only lowercase and hyphens (not underscores or spaces) in your filename.
 
 ### Put Images into our Repository
-Bring up a browser window of our [intro-guide repository](https://github.com/unm-historiography/intro-guide). Click on the `essays` folder, then the `images` folder. Drag and drop the file(s) you downloaded and renamed in the previous step.
+Bring up a browser window of our [website repository](https://github.com/historic-trails/website). Click on the `sites` folder, then the `images` folder. Drag and drop the file(s) you downloaded and renamed in the previous step.
 
 It is much faster to drag and drop multiple files at once, since after you commit a new image, you end up at the repository home page (not the images folder).
 
