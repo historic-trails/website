@@ -38,11 +38,11 @@ San Miguel del Vado's church is located on the west side of the plaza. The churc
 
 Southwest of the historic church, metal and ceramic artifacts still litter the ground. These were likely left by Santa Fe Trail travelers that stopped to rest or trade in San Miguel del Vado.[^Jenks3]
 
-{% include figure.html class="img-left" width="33%" caption="Aerial imagery from 1975 shows the Santa Fe Trail's proximity to San Miguel del Vado's historic plaza. [source](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/) image-url="san-miguel-del-vado-aerial-1975.JPG" %}
+{% include figure.html class="img-left" width="33%" caption="Aerial imagery from 1975 shows the Santa Fe Trail's proximity to San Miguel del Vado's historic plaza. [source](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/)" image-url="san-miguel-del-vado-aerial-1975.JPG" %}
 
 ## The Santa Fe Trail After Mexican Independence
 
-The Santa Fe Trail was utilized by Spanish merchants moving goods between Santa Fe and Mexico City. Mexico gained independence from Spain in 1821 which opened up trade across the Southwest. Trade was limited however, because of heavy taxation between newly-formed Mexico and the United States. As tensions rose between the nations, the Santa Fe Trail remained in use. The trail was used by U.S. General Stephen W. Kearny during the [seizure of Santa Fe](https://en.wikipedia.org/wiki/Capture_of_Santa_Fe) in August 1846. General Kearny took control of San Miguel del Vado before reaching Santa Fe. The [Mexican American War](https://home.nps.gov/safe/learn/historyculture/map-timeline-2.htm) ended in 1846 with the signing of the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) and what would become New Mexico Territory became a part of the United States. 
+The Santa Fe Trail was utilized by Spanish merchants moving goods between Santa Fe and Mexico City. Mexico gained independence from Spain in 1821 which opened up trade across the Southwest. Trade was limited however, because of heavy taxation between newly-formed Mexico and the United States. As tensions rose between the nations, the Santa Fe Trail remained in use. The trail was used by U.S. General Stephen W. Kearny during the [seizure of Santa Fe](https://en.wikipedia.org/wiki/Capture_of_Santa_Fe) in August 1846. General Kearny took control of San Miguel del Vado before reaching Santa Fe. The [Mexican American War](https://home.nps.gov/safe/learn/historyculture/map-timeline-2.htm) ended in 1846 with the signing of the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) and what would become New Mexico Territory became a part of the United States.
 
 {% include figure.html class="img-left" width="33%" caption="This historic district has numerous buildings from the Santa Fe Trail period, but few are still in use. [source](https://en.wikipedia.org/wiki/San_Miguel_del_Vado#/media/File:San_Miguel_del_Vado_NM.JPG)" image-url="San_Miguel_del_Vado_NM.JPG" %}
 
@@ -64,22 +64,24 @@ The San Miguel del Vado Historic District is 45.7 miles from Santa Fe. Take the 
 ***
 
 ## Bibliography
-* Beauvais, Robert J. "San Miguel del Vado Historic District" National Register of Historic Places Inventory Form. New Mexico State Planning Office, Santa Fe, June 20, 1972.
-* Hall, G. Emlen. _San Miguel del Bado and the Loss of the Common
-Lands of New Mexico Community Land Grants_ University of New Mexico Press. January 1, 1998. [Accessed](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1160&context=law_facultyscholarship) November 28, 2019.  
-* Jenks, Kelly. Archeology at San Miguel Del Vado, 2010. New Mexico State University Department of Archeology. [Accessed](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/) November 28, 2018.  
-* Jenks, Kelly. _Vecinos en la Frontera: Colonial History and Archaeology at San Miguel del Vado, New Mexico (2011)_. SMRC Revista [Accessed](https://www.academia.edu/837428/Vecinos_en_la_Frontera_Colonial_History_and_Archaeology_at_San_Miguel_del_Vado_New_Mexico_2011_) November 28, 2018.
-* Macgoffin, Susan Shelby. _Down the Santa Fe Trail and into Mexico: The Diary of Susan Shelby Magoffin, 1846-1847._
+Beauvais, Robert J. "San Miguel del Vado Historic District." National Register of Historic Places Inventory/Nomination Form. Santa Fe: New Mexico State Planning Office, 1972.
 
-[^Jenks1]:Jenks Archeology at San Miguel del Vado, 2010. NMSU Department of Archeology
-[^Jenks3]:Jenks Archeology at San Miguel del Vado, 2010. NMSU Department of Archeology
-[^NRHP8]: National Register of Historic Places, section 8 page 1, paragraph 2.
-[^NRHP9]: National Register of Historic Places, section 8 page 1, paragraph 2.
-[^NRHP7]: National Register of Historic Places, section 7 page 1.
-[^Jenks2]: Jenks Vecinos el La Frontera, 2011 
-[^source2]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
-[^source2-1]: Legends of America, paragraph 1. https://www.legendsofamerica.com/san-miguel-del-vado/ 
-[^NRHP81]: National Register of Historic Places, section 8 page 2 paragraph 3
-[^LOAsource2]: Legends of America, San Miguel del Vado, New Mexico page 1, paragraph 10.
-[^NRHP71]:National Register of Historic Places, section 7 page 1.
-[^NRHP83]: National Register of Historic Places, section 8 page 1, paragraph 2.
+Jenks, Kelly. ["Archeology at San Miguel Del Vado."](https://anthropology.nmsu.edu/anthropology-faculty/jenks/san-miguel-del-vado/) San Miguel Del Vado, New Mexico State University Department of Archeology (accessed November 28, 2018).  
+
+Jenks, Kelly. "Vecinos en la Frontera: Colonial History and Archaeology at San Miguel del Vado, New Mexico." _SMRC Revista_ (Spring/Winter 2011): 15–25.
+
+Weiser-Alexander, Kathy. [San Miguel del Vado.](https://www.legendsofamerica.com/san-miguel-del-vado/) Legends of America.
+
+
+[^Jenks1]:Jenks, "Archeology at San Miguel del Vado"
+[^Jenks3]:Jenks, "Archeology at San Miguel del Vado"
+[^NRHP8]: Beauvais, section 8, page 1, paragraph 2
+[^NRHP9]: Beauvais, section 8, page 1, paragraph 2
+[^NRHP7]: Beauvais, section 7, page 1
+[^Jenks2]: Jenks, "Vecinos en La Frontera"
+[^source2]: Weiser-Alexander, paragraph 1
+[^source2-1]: Weiser-Alexander, paragraph 1
+[^NRHP81]: Beauvais, section 8, page 2, paragraph 3
+[^LOAsource2]: Weiser-Alexander, page 1, paragraph 10
+[^NRHP71]: Beauvais, section 7, page 1
+[^NRHP83]: Beauvais, section 8, page 1, paragraph 2
