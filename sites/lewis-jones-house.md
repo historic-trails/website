@@ -75,4 +75,4 @@ O'Brien, William Patrick. _Merchants of Independence: International Trade on the
 
 Edwards, Alice and Karen L. Cummer. ["Lewis Jones House."](https://dnr.mo.gov/shpo/nps-nr/94000320.pdf) National Register of Historic Places Inventory/Nomination Form. Urbana, Ill.: The Urbana Group, 1993.
 
-National Park Service. ["Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: Comprehensive Management and Use Plan."](https://catalog.hathitrust.org/Record/002444854) Washington, D.C.: U.S. Department of the Interior/National Park Service, 1990.
+National Park Service. _[Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: Comprehensive Management and Use Plan.]_(https://catalog.hathitrust.org/Record/002444854) Washington, D.C.: U.S. Department of the Interior/National Park Service, 1990.

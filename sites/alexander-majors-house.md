@@ -138,7 +138,7 @@ The Majors House hosts ghost tours between 7 p.m. and 2 a.m. [^WornallMajorsHous
 
 Federal Writers' Project, *Missouri: The WPA Guide to the “Show Me” State*. St. Louis: Missouri Historical Society Press, 1998.
 
-Godfrey, Anthony. [Historic Resource Study: Pony Express National Historic Trail](http://archive.org/details/historicresource00godf). Washington, D.C.: United States Department of the Interior/National Park Service, 1994.
+Godfrey, Anthony. _[Historic Resource Study: Pony Express National Historic Trail]_(http://archive.org/details/historicresource00godf). Washington, D.C.: United States Department of the Interior/National Park Service, 1994.
 
 Kusiak, Martha. ["Alexander Majors House."](https://dnr.mo.gov/shpo/nps-nr/70000335.pdf) National Register of Historic Places Inventory/Nomination Form. Jefferson City: Missouri State Park Board, 1970.
 

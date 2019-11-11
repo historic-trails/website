@@ -4,7 +4,7 @@ note: links to documents are provided wherever possible. Linking is good!
 
 ### Website
 
-Last name, first name. "Title of page (linked to page itself)." Title of Website (date accessed).
+Last name, first name. "Title of page (linked to page itself)." Title of website (date accessed).
 Weiser-Alexander, Kathy. ["Bent Brothers-Trading on the Santa Fe Trail."](https://www.legendsofamerica.com/bent-brothers/) Legends of America (accessed November 15, 2018).
 
 ### Book, single author
@@ -17,8 +17,8 @@ Last name (of editor), first name (ed.) _Title_. Location of publication: publis
 Piper, Mary J. (ed.) [_The History and Archaeology of the Historic Fort Marcy Earthworks, Santa Fe, New Mexico_](https://www.nps.gov/safe/learn/historyculture/upload/History-and-Archeology-of-Fort-Marcy-Earthworks-508.pdf). Santa Fe: City of Santa Fe Planning and Land Use Department, 1996.
 
 ### Government document with no author(s) listed
-Agency/organization name. "Title." Location of publication: publishing agency, year.
-National Park Service. ["Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: Comprehensive Management and Use Plan."](https://catalog.hathitrust.org/Record/002444854) Washington, D.C.: U.S. Department of the Interior/National Park Service, 1990.
+Agency/organization name. _Title._ Location of publication: publishing agency, year.
+National Park Service. [_Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico: Comprehensive Management and Use Plan._](https://catalog.hathitrust.org/Record/002444854) Washington, D.C.: U.S. Department of the Interior/National Park Service, 1990.
 
 ### National Register of Historic Places Nomination
 

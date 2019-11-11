@@ -75,7 +75,7 @@ The Old Castle Complex is just east of the main campus at 511 Fifth Street, Bald
 
 ## Bibliography
 
-* Baker University. [Vision & Values](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
+* Baker University. ["Vision & Values"](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
 
 * Hall, Charles L., and Richard D. Pankratz. ["Old Castle Hall, Baker University."](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)" National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1970.
 
