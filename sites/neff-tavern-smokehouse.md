@@ -61,7 +61,7 @@ The Neff Tavern is located on an unmarked street, west from the Missouri highway
 
 
 
-### Bibliography
+## Bibliography
 
 Gerteis, Louis S. The Civil War in Missouri: _A Military History_. Columbia, Mo.: University of Missouri Press, 2012.
 

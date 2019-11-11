@@ -62,7 +62,7 @@ Las Vegas was one of first towns in New Mexico to experience a boom in railroad 
 ***
 
 
-### Bibliography ###
+## Bibliography ##
 
 Lynn, Sandra. _Windows on the Past: Historic Lodgings of New Mexico_. Albuquerque, N.M.: University of New Mexico Press, 1999.
 

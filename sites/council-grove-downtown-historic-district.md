@@ -65,8 +65,6 @@ After World War II, the Kansas State Legislature approved money to buy the [Kaw 
 [^NRHP8532]: Davis and Spencer, 8.53.
 [^NRHP8533]: Davis and Spencer, 8.53.
 
-***
-
 ## Visiting Council Grove
 {% include figure.html
   class="img-right"

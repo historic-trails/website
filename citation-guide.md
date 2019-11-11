@@ -1,6 +1,10 @@
-# Citation WPAGuide1998i
+# Citation Guide
 
-note: links to documents are provided wherever possible. Linking is good!
+Note: links to documents are provided wherever possible. Linking is good!
+
+Please only cite things that you actually use in your essay (i.e. things that will be footnoted). You don't need to include a website simply because you glanced at it while you were researching your site.
+
+However, citations are _really_ important. They're the best way to show someone how you did your research; if your bibliography looks weak, then your research looks weak.
 
 ### Website
 
@@ -29,3 +33,11 @@ Pankratz, Richard. ["J.B. Mahaffie House."](https://www.kshs.org/resource/nation
 
 Last name, first name. "Title." _Publication_ volume, number (date): page number(s).
 Lubers, H. L. "[William Bent's Family and the Indians of the Plains](https://www.historycolorado.org/sites/default/files/media/document/2018/ColoradoMagazine_v13n1_January1936.pdf)." _Colorado Magazine_ 13, no. 1 (January 1936): 19-22.
+
+#Common mistakes/issues
+
+- include page numbers (government documents sometimes have funky numbering, but more info is better than less)
+- be consistent (Chicago style is the default for historical writing, so it's a good place to start if you're feeling lost)
+- cluster your footnote tags at the very bottom of the document (this makes your citations easier to edit after the fact)
+- for footnotes, just use the author's last name and page number (separated by a comma)
+- be sensitive of links and permissions (someone reading your article may not be able to access the UNM Libraries server, so best not to include a link in the first place)
