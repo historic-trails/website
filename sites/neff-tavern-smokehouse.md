@@ -14,7 +14,7 @@ date: 2018-11-24
   image-url="Neff_tavern_smokehouse_picture.PNG"
 %}
 
-The Neff Tavern Smokehouse adjoined Neff Tavern, which offered shelter to travellers on the northern Santa Fe Trail close to Arrow Rock, Missouri.[^NPSFormp1]  The Neff family lived through many important stages of American history: European immigration, westward migration, and the Civil War. These important connections live on through the Neff Tavern Smokehouse, the only surviving part of the Neff family's complex.
+The Neff Tavern Smokehouse is the only surviving structure from Neff Tavern, which offered shelter to travelers on the northern Santa Fe Trail close to [Arrow Rock, Missouri](https://en.wikipedia.org/wiki/Arrow_Rock,_Missouri).[^NPSFormp1]  The Neff family lived through many important stages of American history: European immigration, westward migration, and the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War). These important connections live on through the Neff Tavern Smokehouse.
 
 ## The Tavern's Setting
 
@@ -24,7 +24,7 @@ The tavern was set at one of the trailheads of the [Santa Fe Trail](https://www.
 
 Isaac Neff (1798–early 19th century),[^NPSstatementp1II] moved to the area around the time that Mexico reached [independence](https://en.wikipedia.org/wiki/Mexican_War_of_Independence) from Spain in 1821.[^OBrien] Traders from the newly independent nation brought very valuable things (like silver) to Missouri, often spending their profits on American goods. Likewise, merchants from the United States began traveling to Santa Fe along what became known as the Santa Fe Trail.
 
-The Neff family's tavern was ideally positioned profit from traffic along the Santa Fe Trail.[^NPSstatementp1III] As time passed, the Neff family used money earned from travelers to expand their buisness.[^NPSstatementp2]
+The Neff family's tavern was ideally positioned profit from traffic along the Santa Fe Trail.[^NPSstatementp1III] As time passed, the Neff family used money earned from travelers to expand their business.[^NPSstatementp2]
 
 {% include figure.html
   class="img-right"
@@ -35,14 +35,14 @@ The Neff family's tavern was ideally positioned profit from traffic along the Sa
 
 ## Isaac's Story
 
-Isaac Neff was a descendent of German immigrants, who probably came to the U.S. in the beginning of the eighteenth century and settled in present-day Tennessee.[^NPSstatementp1IV] The 1700s were a volatile time in Europe, and--like many other German immigrants--the Neffs came to America to escape violent conflicts and the economic upheaval that accompanied industrialization.[^Parker] Isaac's brothers eventually relocated to present-day Missouri, which led Isaac to finally settle in the Arrow Rock area in 1836.[^NPSstatementp1VI] Like many immigrants[^Turner], he was able to buy land (2,000 acres, no less) and establish a profitable business.[^NPSstatementp1VII]
+Isaac Neff was a descendent of German immigrants, who probably came to the U.S. in the beginning of the eighteenth century and settled in present-day Tennessee.[^NPSstatementp1IV] The 1700s were a volatile time in Europe, and--like many other German immigrants--the Neffs came to America to escape violent conflicts and the economic upheaval that accompanied [industrialization](https://en.wikipedia.org/wiki/Industrial_Revolution).[^Parker] Isaac's brothers eventually relocated to present-day Missouri, which led Isaac to finally settle in the Arrow Rock area in 1836.[^NPSstatementp1VI] Like many immigrants[^Turner], he was able to buy land (2,000 acres, no less) and establish a profitable business.[^NPSstatementp1VII]
 
 
 ## The Neffs and the Civil War
 
  Isaac's generation epitomized many themes of American history, like westward migration and immigration from Europe. The following generation of the Neff family, like Isaac’s son Abram (1839 – 1924[^Number1]), took part in another important chapter of American history: the Civil War.[^NPSstatementp2II]
 
-Although Missouri was split between Confederates and Unionists, most citizens tended towards anti-slavery beliefs.[^Gerteis] Nevertheless, Abram fought on the Confederate side.[^NPSstatementp2III] Although he owned the tavern, he opted instead to practice medicine in a house nearby.[^NPSstatementp2IV] Abram tore down everything except for the smokehouse in the 1890s in order to build a modern frame house on the land.[^NPSstatementp2V]
+Although Missouri was split between Confederates and Unionists, most citizens tended towards [anti-slavery beliefs](https://en.wikipedia.org/wiki/Abolitionism_in_the_United_States).[^Gerteis] Nevertheless, Abram fought on the Confederate side.[^NPSstatementp2III] Although he owned the tavern, he opted instead to practice medicine in a house nearby.[^NPSstatementp2IV] Abram tore down everything except for the smokehouse in the 1890s in order to build a modern frame house on the land.[^NPSstatementp2V]
 
 As the only remaining part of the tavern, the smokehouse serves as an important link to Missouri's economic history and the heyday of the Santa Fe Trail. The smokehouse also offers a reminder of other broader themes in American (and European) history.
 
@@ -54,7 +54,7 @@ As the only remaining part of the tavern, the smokehouse serves as an important 
 %}
 
 ## Location
-The Neff Tavern is located on an unmarked street, west from the Missouri highway number 41 (half a mile) and Arrow Rock (6 miles).
+The Neff Tavern is located on an unmarked street, west from the Missouri Highway 41 (half a mile) and Arrow Rock (6 miles).
 
 
 ***

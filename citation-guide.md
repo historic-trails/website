@@ -36,6 +36,7 @@ Lubers, H. L. "[William Bent's Family and the Indians of the Plains](https://www
 
 #Common mistakes/issues
 
+- alphabetize your bibliographies by author's last name
 - include page numbers (government documents sometimes have funky numbering, but more info is better than less)
 - be consistent (Chicago style is the default for historical writing, so it's a good place to start if you're feeling lost)
 - cluster your footnote tags at the very bottom of the document (this makes your citations easier to edit after the fact)

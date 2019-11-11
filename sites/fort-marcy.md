@@ -9,7 +9,7 @@ date: 2018-12-3
 
 {% include figure.html class="img-right" width="40%" caption="An illustration of Fort Marcy and the Loretto Chapel in Santa Fe from 1846. [source](https://econtent.unm.edu/cdm/singleitem/collection/chavezgraph/id/72/rec/40)" image-url="marcyxchurch.jpg" %}
 
-Fort Marcy was built at the start of the [Mexican American War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War) (1846) and served to solidify American rule over present-day New Mexico. It offered protection and shelter to the people of Santa Fe, to the troops that were stationed there, and to the travelers on the Santa Fe Trail. Fort Marcy has played a role in many important aspects of American history, including the Mexican American War, the American Civil War, and westward migration.
+Fort Marcy was built at the start of the [Mexican American War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War) in 1846 and served to solidify American rule over present-day New Mexico. It offered protection and shelter to the people of Santa Fe, to the troops that were stationed there, and to the travelers on the [Santa Fe Trail](https://www.nps.gov/safe/index.htm). Fort Marcy has played a role in many important aspects of American history, including the Mexican American War, the [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War), and [westward migration](https://www.nps.gov/articles/the-war-and-westward-expansion.htm).
 
 ## Construction of Fort Marcy
 
@@ -27,7 +27,7 @@ In 1846 General Kearny wrote a report to the Adjutant General of the Army in Was
 
 > A large number of the troops are daily employed under the direction of Lieutenant Gilmer of the Engineers in erecting a fort for the defense and protection of the city, and as this is the capital of the Territory, a new acquisition to the United States, the fort will be an important and permanent one, and I have this day named it Fort Marcy, and now ask for a confirmation of it.[^4]
 
-General Kearny's words illustrate that Fort Marcy was the key to the newly acquired land and was the most important building in the area-- a symbol of American rule over the territory. On January 19, 1847, Colonel Sterling Price--the commander at Fort Marcy--received word that [Charles Bent](https://en.wikipedia.org/wiki/Charles_Bent), the Governor of New Mexico, had been killed in the [Taos Revolt](https://en.wikipedia.org/wiki/Taos_Revolt) by Hispano and Puebloan adversaries of American rule. Colonel Price sent the 1st Dragoons from Fort Marcy to successfully quell the rebellion.[^5]
+General Kearny's words illustrate that Fort Marcy was the key to the newly acquired land and was the most important building in the area--a symbol of American rule over the territory. On January 19, 1847, Colonel Sterling Price--the commander at Fort Marcy--received word that [Charles Bent](https://en.wikipedia.org/wiki/Charles_Bent), the Governor of New Mexico, had been killed in the [Taos Revolt](https://en.wikipedia.org/wiki/Taos_Revolt) by Hispano and Puebloan adversaries of American rule. Colonel Price sent the 1st Dragoons from Fort Marcy to successfully quell the rebellion.[^5]
 
 [^4]: Prince, 4
 [^5]: Matthew, 22
@@ -35,7 +35,7 @@ General Kearny's words illustrate that Fort Marcy was the key to the newly acqui
 {% include figure.html class="img-right" width="40%" caption="Fort Marcy's crumbling walls, 1992. [source](https://econtent.unm.edu/cdm/singleitem/collection/santa/id/17/rec/34)" image-url="wall-marcy.jpg" %}
 
 ## Fort Marcy's Role on the Santa Fe Trail
-Like many of the other fortifications in the area, Fort Marcy helped protect travelers on the Santa Fe Trail and El Camino Real de Tierra Adentro trail from Native American raids. [Fort Craig](https://en.wikipedia.org/wiki/Fort_Craig), almost two hundred miles south near Socorro, was the “base for Indian operations” during the late nineteenth century; its commanders send armed escorts with traders as they traveled northward toward Santa Fe along El Camino Real de Tierra Adentro.[^6] Fort Marcy would serve a similar function as it was a combat post at the cross section of two major trails, Santa Fe and the Camino Real de Tierra Adentro trail.[^7]
+Like many of the other fortifications in the area, Fort Marcy helped protect travelers on the Santa Fe Trail and [El Camino Real de Tierra Adentro](https://www.nps.gov/elca/index.htm) from Native American raids. [Fort Craig](https://en.wikipedia.org/wiki/Fort_Craig), almost two hundred miles south near Socorro, was the “base for Indian operations” during the late nineteenth century; its commanders send armed escorts with traders as they traveled northward toward Santa Fe along El Camino Real de Tierra Adentro.[^6] Fort Marcy would serve a similar function as it was a combat post at the cross section of two major arteries, the Santa Fe Trail and el Camino Real de Tierra Adentro trail.[^7]
 
 After the Mexican American War, traffic along the Santa Fe Trail increased dramatically; much of the trade along the trail consisted of military supplies for the occupied region. Fort Marcy thus played a major role in Santa Fe's economic development and the eventual formation of [New Mexico Territory](https://en.wikipedia.org/wiki/New_Mexico_Territory) in 1850.  
 
@@ -46,7 +46,7 @@ After the Mexican American War, traffic along the Santa Fe Trail increased drama
 
 Adobe walls nine feet tall and five feet thick formed Fort Marcy's unique star-shaped outline. The fort also had a moat approximately eight feet deep running along its walls and a log building that served as a powder house.[^8] Roughly 270' x 80', Fort Union could hold up to one thousand soldiers.[^9]
 
-After a while, the fort's walls began to erode. Visitors today can only see several tall mounds of earth where the walls used to be; the moat that ran around the fort is barely visible[^10]. A lack of maintenance after the U.S. took complete control of New Mexico ensured the fort's degradation.[^11]
+After a while, the fort's walls began to erode. Visitors today can only see several tall mounds of earth where the walls used to be; the moat that ran around the fort is barely visible[^10]. A lack of maintenance after the U.S. took control of present-day New Mexico ensured the fort's degradation.[^11]
 
 [^8]: Purdy, 2
 [^9]: Prince, 5

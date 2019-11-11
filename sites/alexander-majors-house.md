@@ -23,11 +23,11 @@ The Alexander Majors House is one of the few [Antebellum period](https://www.enc
 %}
 
 ## Location
-The house is situated approximately sixteen feet from the Missouri-Kansas border, which--at the time of construction--also served as the  western boundary of the United States.[^NPSFormi]  Majors, an astute businessman, chose a strategic location for his homestead; Kansas Territory was not yet a state, meaning that Majors owed no taxes on his corrals, grazing lands, oxen pens, barns, wagons, and blacksmith shops. The Santa Fe Trail also ran right past the property, granting Majors and his firm easy access to one of their economic lifelines.[^WornallMajorsHouseMuseumsii]
+The house is situated approximately sixteen feet from the Missouri-Kansas border, which--at the time of construction--also served as the  western boundary of the United States.[^NPSFormi]  Majors, an astute businessman, chose a strategic location for his homestead; Kansas Territory was not yet a state, meaning that Majors owed no taxes on his corrals, grazing lands, oxen pens, barns, wagons, and blacksmith shops. The [Santa Fe Trail](https://www.nps.gov/safe/index.htm) also ran right past the property, granting Majors and his firm easy access to one of their economic lifelines.[^WornallMajorsHouseMuseumsii]
 
 ## Who Was Alexander Majors?
 
-Alexander Majors (1814-1900) was born in Kentucky and moved with his parents, Laurania and Benjamin Majors, to Lafayette County, Missouri in 1819; they later moved to Jackson County.[^WPAGuide1998ii] In 1827, Majors' father returned to farming after trying his hand at silver mining. His tales impressed upon the younger Majors the numerous possibilities beyond the American frontier, inspiring Alexander to explore the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and together they joined his father's farming operation.[^Morton2012a]Since he had no son to help around the farm, Alexander looked for other ways to make a living. [^Godfrey1994i]
+Alexander Majors (1814-1900) was born in Kentucky and moved with his parents, Laurania and Benjamin Majors, to Lafayette County, Missouri in 1819; they later moved to Jackson County.[^WPAGuide1998ii] In 1827, Majors' father returned to farming after trying his hand at silver mining. His tales impressed upon the younger Majors the numerous possibilities beyond the American frontier, inspiring Alexander to explore the developing Santa Fe Trail. At the age of 21, Majors was married to Katherine Stalcup and together they joined his father's farming operation.[^Morton2012a] Since he had no son to help around the farm, Alexander looked for other ways to make a living.[^Godfrey1994i]
 
 {% include figure.html
   class="img-left"
@@ -36,9 +36,9 @@ Alexander Majors (1814-1900) was born in Kentucky and moved with his parents, La
   image-url="alexander-majors-portrait.jpg"
 %}
 
-In August 1848 Majors started carrying freight from Independence, Missouri to Santa Fe, New Mexico, a distance of 800 miles. [^Morton2012b] Majors became the first Missouri traders to freight supplies to Santa Fe after the [Mexican War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War), taking six wagons there and back in a record time of 92 days. The increased military presence in the Southwest made the journey safer.[^Godfrey1994B] The opening of [Oregon Territory](https://en.wikipedia.org/wiki/Oregon_Territory) for settlement in 1848 and the [California Gold Rush](https://en.wikipedia.org/wiki/California_Gold_Rush) in 1849, and the expansion of military forts in the West throughout the 1850s presented Majors with many opportunities to expand his business.[^Morton2012c]  
+In August 1848 Majors started carrying freight from Independence, Missouri to Santa Fe, New Mexico, a distance of 800 miles.[^Morton2012b] Majors became the first Missouri traders to freight supplies to Santa Fe after the [Mexican War](https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War), taking six wagons there and back in a record time of 92 days. The increased military presence in the Southwest made the journey safer.[^Godfrey1994B] The opening of [Oregon Territory](https://en.wikipedia.org/wiki/Oregon_Territory) for settlement in 1848 and the [California Gold Rush](https://en.wikipedia.org/wiki/California_Gold_Rush) in 1849, and the expansion of military forts in the West throughout the 1850s presented Majors with many opportunities to expand his business.[^Morton2012c]  
 
-Majors made his workers pledge that they would treat his animals with kindness, use no profanity, stay sober all the time, and behave like gentlemen while they were his employees. Majors had a great work ethic, but he rested his oxen and men from Saturday afternoon to Monday morning and held worship services on Sundays. By 1854, Majors had earned a reputation as one of the most successful freighters on the Western frontier.[^Godfrey1994iii]  
+Majors made his workers pledge that they would treat his animals with kindness, use no profanity, stay sober all the time, and behave like gentlemen while they were his employees. Majors had a great work ethic, but he rested his oxen and men from Saturday afternoon to Monday morning and held worship services on Sundays. By 1854 Majors had earned a reputation as one of the most successful freighters on the Western frontier.[^Godfrey1994iii]  
 
 ## Russell, Majors, and Waddell
 {% include figure.html
@@ -48,7 +48,7 @@ Majors made his workers pledge that they would treat his animals with kindness, 
   image-url="alexander-majors-russell-waddell-images.jpg"
 %}
 
-In 1855 Majors partnered with William H. Russell and William B. Waddell to win a government contract to supply Army posts along the Oregon and Santa Fe Trails.[^WoodMincer2000i] Together they controlled 4,000 men; 3,500 wagons; 1,000 mules; and nearly 40,000 oxen.[^Morton2012d] Shipments were usually composed of twenty-five wagons, twelve oxen, and a teamster (with additional oxen, mules, and men in case of emergency). Russell, Majors, and Waddell made about $300,000 profits in 1855-56.[^WPAGuide1998iii]
+In 1855 Majors partnered with [William H. Russell](https://en.wikipedia.org/wiki/William_Hepburn_Russell) and [William B. Waddell](https://en.wikipedia.org/wiki/William_B._Waddell_(Pony_Express_founder) to win a government contract to supply Army posts along the Oregon and Santa Fe Trails.[^WoodMincer2000i] Together they controlled 4,000 men; 3,500 wagons; 1,000 mules; and nearly 40,000 oxen.[^Morton2012d] Shipments were usually composed of twenty-five wagons, twelve oxen, and a teamster (with additional oxen, mules, and men in case of emergency). Russell, Majors, and Waddell made about $300,000 profits in 1855-56.[^WPAGuide1998iii]
 
 ## Pony Express
 {% include figure.html
@@ -123,7 +123,7 @@ In 1976, Kansas City adopted a plan to develop between Ward Parkway and State Li
   image-url="alexander-majors-house-second-floor-plan.PNG"
 %}
 
-In 1984 the Alexanders Majors House Museum was opened to the public for tours and events. In 2010 the house partnered with the John Wornall House and Museum to reinforce the area's historic importance.[^Morton2012l] Wornall-Majors Museum has organized events and celebrations like weddings, event rentals, on site photography, school field trips, summer camps, field trips, holiday candlelight tours, birthday parties and private and group tours.[^WornallMajorsHouseMuseumsiii]
+In 1984 the Alexanders Majors House Museum was opened to the public for tours and events. In 2010 the house partnered with the John Wornall House and Museum to reinforce the area's historic importance.[^Morton2012l] The Wornall-Majors Museum has organized events and celebrations like weddings, event rentals, on site photography, school field trips, summer camps, field trips, holiday candlelight tours, birthday parties and private and group tours.[^WornallMajorsHouseMuseumsiii]
 
 The Majors House hosts ghost tours between 7 p.m. and 2 a.m. [^WornallMajorsHouseMuseumsiv].
 
