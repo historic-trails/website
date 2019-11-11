@@ -53,8 +53,7 @@ After a while, the fort's walls began to erode. Visitors today can only see seve
 [^10]: Purdy, 2
 [^11]: Piper, 13
 
-***
-## Travel Guide
+## Visting Fort Marcy
 The Old Fort Marcy Park is a half-mile walk from the Santa Fe Plaza. Some other interesting places of note in the area include the [Palace of the Govenernors](https://www.nps.gov/nr/travel/american_latino_heritage/Palace_of_the_Governors.html), the [New Mexico Museum of Art](http://nmartmuseum.org/), and the [Loretto Chapel](https://www.lorettochapel.com/).  
 
 ## Location

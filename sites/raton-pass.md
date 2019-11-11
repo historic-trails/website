@@ -92,9 +92,7 @@ Despite being on the less popular Mountain Branch of the Santa Fe Trail, the pas
 
 [^NPS-Form]: Greenwood, 4
 
-***
-
-##### Location
+## Visit the Pass
 The 7,881-foot summit is accessible via I-25, and a New Mexico Welcome Center allows visitors to step out of their vehicles and stretch or take photos. An informative historic marker for Raton Pass interprets the landmark both at the center and on the Colorado side of the State border. Public access to the land, however, is restricted, as the wilderness is privately owned. The nearby city of Raton, New Mexico celebrates its trail heritage and the [Raton Museum,](http://www.theratonmuseum.org/) located at 108 2nd Street, interprets the area’s past for curious visitors.
 
 A family of road signs has been initiated across the Santa Fe Trail to help you find original routes, trail crossings, and local sites. Follow the signs exhibiting the distinctive Santa Fe Trail National Historic Trail logo.

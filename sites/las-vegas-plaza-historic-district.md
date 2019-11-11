@@ -54,7 +54,7 @@ Las Vegas was one of first towns in New Mexico to experience a boom in railroad 
 
 [^7]: This information comes from the author's background of family legacy from Las Vegas, including many still living relatives.
 
-***
+
 ## Visit ###
 
 230 Plaza Park, Las Vegas, NM 87701

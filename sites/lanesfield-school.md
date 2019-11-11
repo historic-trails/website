@@ -39,6 +39,7 @@ In a dramatic turn of events, the school building burned down in 1903 after bein
   caption="Visiting children learn about life in one-room schoolhouse at Lanesfield School. [source](https://www.jcprd.com/435/Lanesfield-Historic-Site)"
   image-url="lanesfield-school-inside.jpeg"
 %}
+
 ### The School as a Museum
 The school was turned into a museum in 1967 and it is still open to the public today. Visitors can visit the school and experience writing on slates, cleaning the blackboard, and other peculiarities of life in a one-room schoolhouse along the Santa Fe Trail during the late nineteenth and early twentieth centuries.
 
@@ -54,6 +55,7 @@ The school was turned into a museum in 1967 and it is still open to the public t
 [^nyt2]: _New York Times_, 1866
 [^feldman]: Feldman, 83
 [^jenner]: Jenner, 2
+
 ***
 ## Bibliography
 Cart, Doran L. "Lanesfield School." National Register of Historic Places Inventory/Nomination Form. Shawnee, Kans.: Johnson County Museum System, 1988.
