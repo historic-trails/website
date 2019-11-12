@@ -15,12 +15,12 @@ date: 2018-11-24
   image-url="old-castle-museum.jpg"
 %}
 
-  Baker University, located in the eastern Kansas town of [Baldwin City](https://en.wikipedia.org/wiki/Baldwin_City,_Kansas), first opened its doors in November 1858. The school was the first university in Kansas, and Old Castle Hall was the university's first building; classes were held there through 1871.[^Historic-campus-architecture-project] Baldwin City is one of the oldest settlements in Kansas, located about fifteen miles south of Lawrence. The city got its start [before Kansas became a state](https://en.wikipedia.org/wiki/Kansas_Territory) when it was little more than a trail stop on the Santa Fe Trail. [^Santa-Fe-Trail-Association]
+  Baker University, located in the eastern Kansas town of [Baldwin City](https://en.wikipedia.org/wiki/Baldwin_City,_Kansas), first opened its doors in November 1858. The school was the first university in Kansas, and Old Castle Hall was the university's first building; classes were held there through 1871.[^Historic-campus-architecture-project] Baldwin City is one of the oldest settlements in Kansas, located about fifteen miles south of Lawrence. The city got its start [before Kansas became a state](https://en.wikipedia.org/wiki/Kansas_Territory) when it was little more than a trail stop on the Santa Fe Trail.[^Santa-Fe-Trail-Association]
 
 
 ## History of the Area and University
 
-  The school has a rich history, growing up alongside the state of Kansas. Baker University is named for [Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker), a distinguished scholar and bishop of what is now the United Methodist Church.[^Kansas-Historical-Society-Baker-University]  Baldwin City began as a trail stop on the Santa Fe Trail named Palmyra. Palmyra was long a favorite place for repairing wagons and resting, and the added commerce of the Santa Fe Trail helped the town grow enough to build a university.[^Santa-Fe-Trail-Association-two] Baker University survived the Civil War, droughts, floods, tornadoes, and even grasshopper infestations; it remains one of the most popular universities in the state of Kansas.[^Historic-campus-architecture-project-two]
+  The school has a rich history, growing up alongside the state of Kansas. Baker University is named for [Osman Cleander Baker](https://en.wikipedia.org/wiki/Osman_Cleander_Baker), a distinguished scholar and bishop of what is now the United Methodist Church.[^Kansas-Historical-Society-Baker-University]  Baldwin City began as a trail stop on the Santa Fe Trail named Palmyra. Palmyra was long a favorite place for repairing wagons and resting, and the added commerce of the Santa Fe Trail helped the town grow enough to build a university.[^Santa-Fe-Trail-Association-two] Baker University survived the [Civil War](https://en.wikipedia.org/wiki/American_civil_war), droughts, floods, tornadoes, and even grasshopper infestations; it remains one of the most popular universities in the state of Kansas.[^Historic-campus-architecture-project-two]
 
 
 {% include figure.html
@@ -71,11 +71,11 @@ date: 2018-11-24
 The Old Castle Complex is just east of the main campus at 511 Fifth Street, Baldwin City, KS 66006.  
 [View directions on Google Maps](https://www.google.com/maps/place/511+5th+St,+Baldwin+City,+KS+66006/@38.781069,-95.183852,16z/data=!4m5!3m4!1s0x87bf5b9d6032bb7d:0x9888c110bea551ad!8m2!3d38.7775023!4d-95.1848781?hl=en)
 
----   
+***  
 
 ## Bibliography
 
-* Baker University. [Vision & Values](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
+* Baker University. ["Vision & Values"](https://www.bakeru.edu/about-baker-university/history-mission-vision/#support).
 
 * Hall, Charles L., and Richard D. Pankratz. ["Old Castle Hall, Baker University."](https://npgallery.nps.gov/NRHP/GetAsset/NRHP/71000309_text)" National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1970.
 

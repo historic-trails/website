@@ -30,7 +30,7 @@ The Santa Fe Trail ran right across the southwest corner of the property, provid
 %}
 
 ## Who Was J.B. Mahaffie?
-James Beatty Mahaffie was born in Ohio in 1817; he married Lucinda Henderson in 1844. When he first arrived in Kansas in 1857, he found that [proslavery Missourians](http://www.civilwaronthewesternborder.org/encyclopedia/border-ruffians) had taken all the good plots of land so he returned to the Midwest for a while. Kansas did not become a state until 1861, and Kansas Terrtitory was organized under popular sovereignty--meaning that the state's voters would decide whether or not slavery could be practiced there. Mahaffie eventually returned to Kansas and bought a house and a separate plot of land; he moved the house to the plot in 1858.[^REGISTER2]
+James Beatty Mahaffie was born in Ohio in 1817; he married Lucinda Henderson in 1844. When he first arrived in Kansas in 1857, he found that [pro-slavery Missourians](http://www.civilwaronthewesternborder.org/encyclopedia/border-ruffians) had taken all the good plots of land so he returned to the Midwest for a while. Kansas did not become a state until 1861, and Kansas Territory was organized under popular sovereignty--meaning that the state's voters would decide whether or not slavery could be practiced there. Mahaffie eventually returned to Kansas and bought a house and a separate plot of land; he moved the house to the plot in 1858.[^REGISTER2]
 
 ## Mahaffie the Pioneer
 Although a transplant from Ohio, Mahaffie is remembered as "one of the leading farmers of the area." He was also "active in local social and political affairs"; in 1858 he was elected chairman of the Johnson County supervisors. Mahaffie belonged to [the Grange](https://en.wikipedia.org/wiki/National_Grange_of_the_Order_of_Patrons_of_Husbandry), a post-Civil War organization to further the political and economic advancement of rural communities. His passion for developing the county extended to railroad politics; he served on the first board of directors of the Missouri River, Fort Scott, and Gulf Railroad. Later in his life, Mahaffied advocated the preservation of the Santa Fe Trail.[^REGISTER3]
@@ -42,7 +42,7 @@ The first night Mahaffie moved his house to his newly-purchased property in 1858
 The house sits roughly 500 feet north of the Kansas City Road, which once served as a portion of the Santa Fe Trail. The house, which sits on a thirteen-acre parcel, was constructed somewhere in Olathe in 1857 and moved to Mahaffie's plot in 1858. It was originally a one-and-a-half stories tall until Mahaffie added a two-story stone addition on the structure's southern side; Mahaffie later raised the adjoining frame structure so it stood two stories tall, as well. A one-story porch on Tuscan columns faces the old Kansas City Road. Though the house is not especially significant architecturally, it conforms to what architectural historians call a [vernacular style](https://commons.wikimedia.org/wiki/Category:Vernacular_architecture_of_Kansas)[^REGISTER5].
 
 ## The End of the Mahaffie Era
-Mahaffie retired from the farm in 1881 and sold the property in 1883. The era of the stage station had largely come to an end, thanks the end of the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) and the beginning of the railroad era.[^REGISTER6] The property passed through different owners until the City of Olathe purchased the property in 1980 with funds from citizens, grants, and the city government. In 1982, a federal grant to imporove the Mahaffie House provided a new roof, forced air heating, and new wiring. It is relatively unusual for a city to own/operate a historic site as important as the Mahaffie House.[^TRACKS3]
+Mahaffie retired from the farm in 1881 and sold the property in 1883. The era of the stage station had largely come to an end, thanks the end of the [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) and the beginning of the railroad era.[^REGISTER6] The property passed through different owners until the [City of Olathe](https://en.wikipedia.org/wiki/Olathe,_Kansas) purchased the property in 1980 with funds from citizens, grants, and the city government. In 1982, a federal grant to improve the Mahaffie House provided a new roof, forced air heating, and new wiring. It is relatively unusual for a city to own/operate a historic site as important as the Mahaffie House.[^TRACKS3]
 
 {% include figure.html
   class="img-left"
@@ -61,11 +61,11 @@ The house is located at [1200 E Kansas City Road, Olathe, KS 66061](https://www.
 ***
 
 ## Bibliography
-Duncan, Michael E. "Mahaffie Farmstead and Stagecoach Stop Historic Site," _Wagon Tracks_ vol. 1, no. 3 (May 1987): 4.
+Duncan, Michael E. "Mahaffie Farmstead and Stagecoach Stop Historic Site." _Wagon Tracks_ 1, no. 3 (May 1987): 4.
 
 National Park Service, _Draft Comprehensive Management Plan_. Denver: U.S. Department of the Interior, 1989.
 
-Pankratz, Richard. ["J.B. Mahaffie House."](https://www.kshs.org/resource/national_register/nominationsNRDB/Johnson_MahaffieJBHouseNR.pdf) National Register of Historic Places Inventory/Nomination Form. Kansas State Historical Society, Topeka, 29 August 1977.
+Pankratz, Richard. ["J.B. Mahaffie House."](https://www.kshs.org/resource/national_register/nominationsNRDB/Johnson_MahaffieJBHouseNR.pdf) National Register of Historic Places Inventory/Nomination Form. Topeka: Kansas State Historical Society, 1977.
 
 [^REGISTER1]: Pankratz, 3
 [^TRACKS1]: Duncan
