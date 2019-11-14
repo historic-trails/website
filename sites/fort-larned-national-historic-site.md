@@ -14,12 +14,11 @@ However, this was not the only reason these forts were created. During this peri
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="An aerial view of Fort Larned."
-  image-url="for-larned-aerial.jpg"
+  image-url="fort-larned-aerial.jpg"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}
-
 ## The Fort
 The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was located on the Pawnee River, at the base of Lookout Hill (now called “Jenkins Hill”). This was a small camp, consisting of tents and other temporary structures. The site was moved to a more permanent location in 1859, to a bend in the river overlooking the plains, and was given the name “Fort Larned” after the US army paymaster, Col. Benjamin F. Larned. [^Unrau]
 
