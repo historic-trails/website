@@ -12,6 +12,13 @@ However, with the frontier now entirely claimed by the U.S., this idea of having
 
 However, this was not the only reason these forts were created. During this period, trade routes to the West, most notably the Santa Fe Trail, substantially increased in both traffic and value of shipped goods. These frontier forts and their soldiers became the only force of law on these trails, and the only form of protection many travellers had.[^Unrau]
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="An aerial view of Fort Larned."
+  image-url="for-larned-aerial.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}
 
 ## The Fort
 The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was located on the Pawnee River, at the base of Lookout Hill (now called “Jenkins Hill”). This was a small camp, consisting of tents and other temporary structures. The site was moved to a more permanent location in 1859, to a bend in the river overlooking the plains, and was given the name “Fort Larned” after the US army paymaster, Col. Benjamin F. Larned. [^Unrau]
