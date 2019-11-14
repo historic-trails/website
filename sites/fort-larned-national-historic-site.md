@@ -16,10 +16,10 @@ However, this was not the only reason these forts were created. During this peri
 ## The Fort
 {% include figure.html
   class="img-right"
-  width="36%"
-  caption="An aerial view of Fort Larned."
-  image-url="fort-larned-aerial.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  width="33%"
+  caption="A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail."
+  image-url="fort-larned-watercolor.jpg"
+  source-url="https://www.jamesmannartfarm.com/jmas401.html"
 %}
 The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was located on the Pawnee River, at the base of Lookout Hill (now called “Jenkins Hill”). This was a small camp, consisting of tents and other temporary structures. The site was moved to a more permanent location in 1859, to a bend in the river overlooking the plains, and was given the name “Fort Larned” after the US army paymaster, Col. Benjamin F. Larned. [^Unrau]
 
@@ -29,10 +29,10 @@ From the perspective of the US military, the fort’s construction was an instan
 
 {% include figure.html
   class="img-right"
-  width="36%"
-  caption="A map of the Santa Fe Trail, with the forts marked."
-  image-url="fort-larned-aerial.jpg"
-  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+  width="33%"
+  caption="A map of the Santa Fe Trail, with the forts marked. Although the southern fork to Santa Fe is protected by Fort Dodge, Fort Larned's location was much closer to Native American reservations to the northwest of the trail."
+  image-url="fort-larned-trail-map.jpg"
+  source-url="https://www.smithburnett.com/?page=history_ft_larned"
 %}
 
 Before the creation of Fort Larned, Santa Fe Trail travellers were left unguarded for the entire stretch of trail between [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), Kansas and [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument), New Mexico. Its presence on the Trail lowered the frequency of Native American attacks considerably, to the point where in 1961, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth), the commanding officer of Fort Larned, stated that Natives had completely left the Santa Fe Trail area, and that there was no sign of hostilities in the near future. However, the onset of the Civil War would bring about a new wave of unrest in the plains.[^Unrau]
