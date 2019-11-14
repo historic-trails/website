@@ -1,7 +1,7 @@
 # Fort Larned National Historic Site
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="100%"
   caption="Troops marching on the parade grounds at Fort Larned, 1961. These would have been some of the first troops stationed in permanent buildings."
   image-url="fort-larned-troops.jpg"
   source-url="https://www.kansasmemory.org/item/225889"
