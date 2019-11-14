@@ -1,8 +1,8 @@
 # Fort Larned National Historic Site
 {% include figure.html
-  class="img-right"
-  width="100%"
-  caption="Troops marching on the parade grounds at Fort Larned, 1961. These would have been some of the first troops stationed in permanent buildings."
+  class="img-left"
+  width="33%"
+  caption="Troops marching on the parade grounds at Fort Larned, 1961. These were some of the first troops that were stationed in permanent buildings."
   image-url="fort-larned-troops.jpg"
   source-url="https://www.kansasmemory.org/item/225889"
 %}
@@ -44,7 +44,7 @@ From the perspective of the US military, the fort’s construction was an instan
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="A map of the Santa Fe Trail, with the forts marked. Although the southern fork to Santa Fe is protected by Fort Dodge, Fort Larned's location was much closer to Native American reservations to the northwest of the trail."
+  caption="A map of the Santa Fe Trail, with the forts marked. Although the southern fork to Santa Fe is protected by Fort Dodge, Fort Larned's location made it a buffer between the trail and the Native American reservations of northwest Kansas."
   image-url="fort-larned-trail-map.jpg"
   source-url="https://www.smithburnett.com/?page=history_ft_larned"
 %}
@@ -79,6 +79,13 @@ The situation got to the point where the US army decided it needed to send a mes
 
 
 ## Hancock’s War
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="An artist's depiction of Hancock's expedition burning down the Cheyenne/Arapahoe village."
+  image-url="cheyenne-village.jpg"
+  source-url="https://www.kansasmemory.org/item/209726/page/1"
+%}
 
 >"My object of making an expedition at this time is to show the Indians that we are able to chastise any tribes who may molest people who are traveling across the plains. It is not our desire to bring on difficulties with the Indians, but to treat them with justice and according to our treaty stipulations, and desire especially in my dealings with them to act through their Agent as far as practicable. I will go fully prepared for peace or war." - General Winfield S. Hancock
 
@@ -94,6 +101,14 @@ Ultimately, Hancock failed at his task of reigning in the Plains Indians, and wa
 
 
 ## The Medicine Lodge Treaty
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="A sketch of the proceedings of the Medicine Lodge Treaty. The conference was filled with speeches from both sides about the benefits of peace between whites and natives, as well as mutual discussion about the causes of distrust and conflict."
+  image-url="medicine-lodge-treaty.jpg"
+  source-url="http://www.abajournal.com/magazine/article/october_28_1867_medicine_lodge_treaty_is_signed"
+%}
+
 In the fall of 1867, tribal leaders from all the Great Plains tribes agreed to meet at Medicine Lodge Creek, in southern Kansas. Preliminary talks began at Fort Larned, and after they had gathered, the peace commission left for Medicine Lodge Creek on October 13. In a process that has been repeated throughout the US since the signing of the Indian Removal Act, all of the Native American leaders signed treaties to give the United States their land in exchange for reservations further west, as well as a large amount of gifts and annuities. 
 
 Fort Larned ended up being the shipping point for all of these gifts. The amount given was so much that it took about a month just for the goods to be organized and shipped to the post at Medicine Lodge Creek. 
@@ -121,14 +136,6 @@ https://www.nps.gov/fols/learn/historyculture/santa-fe-trail.htm
 https://www.nps.gov/fols/learn/historyculture/hancocks-war.htm
 
 https://www.kshs.org/index.php?url=p/kansas-historical-quarterly-the-story-of-fort-larned/13139
-
-https://www.kansasmemory.org/item/225889 (pic)
-
-https://www.kansasmemory.org/item/209726/page/1 (pic)
-
-https://www.kansasmemory.org/item/216958/page/1 (pic)
-
-https://npgallery.nps.gov/NRHP/GetAsset/NRHP/66000107_photos (pics)
 
 https://www.jamesmannartfarm.com/jmas401.html 
 
