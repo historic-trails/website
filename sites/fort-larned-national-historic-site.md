@@ -12,6 +12,8 @@ However, with the frontier now entirely claimed by the U.S., this idea of having
 
 However, this was not the only reason these forts were created. During this period, trade routes to the West, most notably the Santa Fe Trail, substantially increased in both traffic and value of shipped goods. These frontier forts and their soldiers became the only force of law on these trails, and the only form of protection many travellers had.[^Unrau]
 
+
+## The Fort
 {% include figure.html
   class="img-right"
   width="30%"
@@ -19,12 +21,19 @@ However, this was not the only reason these forts were created. During this peri
   image-url="fort-larned-aerial.jpg"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
 %}
-## The Fort
 The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was located on the Pawnee River, at the base of Lookout Hill (now called “Jenkins Hill”). This was a small camp, consisting of tents and other temporary structures. The site was moved to a more permanent location in 1859, to a bend in the river overlooking the plains, and was given the name “Fort Larned” after the US army paymaster, Col. Benjamin F. Larned. [^Unrau]
 
 The fort overlooked large stretches of the plains to the north and south, and was bordered by groves of hardwood trees along the river. The river itself acted as a moat along the northwest edge of the fort, giving it a natural barrier against any threats. [^NRHP] Because of this natural defence, Fort Larned was never built up like a traditional fort, with large walls or entrenchments. Despite its name, Fort Larned was really more of a small garrison than a proper fort. 
 
 From the perspective of the US military, the fort’s construction was an instant success. Fort Larned had become one of the primary distribution points for annuities sent to Native American tribes, and its location made it an important spot for American and Native leaders to meet.
+
+{% include figure.html
+  class="img-right"
+  width="30%"
+  caption="A map of the Santa Fe Trail, with the forts marked."
+  image-url="fort-larned-aerial.jpg"
+  source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
+%}
 
 Before the creation of Fort Larned, Santa Fe Trail travellers were left unguarded for the entire stretch of trail between [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), Kansas and [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument), New Mexico. Its presence on the Trail lowered the frequency of Native American attacks considerably, to the point where in 1961, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth), the commanding officer of Fort Larned, stated that Natives had completely left the Santa Fe Trail area, and that there was no sign of hostilities in the near future. However, the onset of the Civil War would bring about a new wave of unrest in the plains.[^Unrau]
 
