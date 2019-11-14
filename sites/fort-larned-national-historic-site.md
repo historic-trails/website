@@ -1,6 +1,6 @@
 # Fort Larned National Historic Site
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="Troops marching on the parade grounds at Fort Larned, 1961. These were some of the first troops that were stationed in permanent buildings."
   image-url="fort-larned-troops.jpg"
@@ -88,6 +88,7 @@ The situation got to the point where the US army decided it needed to send a mes
   image-url="cheyenne-village.jpg"
   source-url="https://www.kansasmemory.org/item/209726/page/1"
 %}
+
 
 >"My object of making an expedition at this time is to show the Indians that we are able to chastise any tribes who may molest people who are traveling across the plains. It is not our desire to bring on difficulties with the Indians, but to treat them with justice and according to our treaty stipulations, and desire especially in my dealings with them to act through their Agent as far as practicable. I will go fully prepared for peace or war." - General Winfield S. Hancock
 
