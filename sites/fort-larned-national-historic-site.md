@@ -16,7 +16,7 @@ However, this was not the only reason these forts were created. During this peri
 ## The Fort
 {% include figure.html
   class="img-right"
-  width="30%"
+  width="36%"
   caption="An aerial view of Fort Larned."
   image-url="fort-larned-aerial.jpg"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
@@ -29,7 +29,7 @@ From the perspective of the US military, the fort’s construction was an instan
 
 {% include figure.html
   class="img-right"
-  width="30%"
+  width="36%"
   caption="A map of the Santa Fe Trail, with the forts marked."
   image-url="fort-larned-aerial.jpg"
   source-url="https://nmdigital.unm.edu/digital/collection/ULPhotoImag/id/3516/"
