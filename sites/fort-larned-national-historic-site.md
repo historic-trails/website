@@ -1,13 +1,12 @@
-
 # Fort Larned National Historic Site
 Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes, such as the Santa Fe Trail, and to act as launching points for military campaigns against Native Americans on the western frontier. Fort Larned was one of those forts positioned along the Santa Fe Trail, and it held special significance for travellers on the trail, and for both the US military and the Native American tribes of the Great Plains. 
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface]
 
 ## Origins
-In 1848, the Treaty of Guadalupe Hidalgo ended the Mexican-American War. Shortly afterwards, with the Gadsden Purchase of 1854, and several other land acquisitions, the United States had secured the western territory that would create the borders that we know today. With this new frontier opened up, settlers began to pour in. In the early 19th century, the US military’s goal in the West was simple:
+In 1848, the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) ended the Mexican-American War. Shortly afterwards, with the [Gadsden Purchase of 1854](https://en.wikipedia.org/wiki/Gadsden_Purchase), and several other land acquisitions, the United States had secured the western territory that would create the borders that we know today. With this new frontier opened up, settlers began to pour in. In the early 19th century, the US military’s goal in the West was simple:
 
-[The Army’s policy between] 1804-1845 was marked by the army maintaining a line of forts in advance of surging frontier settlements, thus creating a buffer military zone between pioneer settlers and native Indians. By this procedure, the government planned to control the Indians, preventing them from committing anticipated attacks against advancing white frontiersmen. Officials in Washington, D. C., also desired to protect the Indians, particularly those removed previously from the eastern United States, by defusing potential intertribal warfare and by preventing illegal and unscrupulous activities of whites. (Zwink, 1)
+>[The Army’s policy between] 1804-1845 was marked by the army maintaining a line of forts in advance of surging frontier settlements, thus creating a buffer military zone between pioneer settlers and native Indians. By this procedure, the government planned to control the Indians, preventing them from committing anticipated attacks against advancing white frontiersmen. Officials in Washington, D. C., also desired to protect the Indians, particularly those removed previously from the eastern United States, by defusing potential intertribal warfare and by preventing illegal and unscrupulous activities of whites.[^ZwinkQuote1]
 
 However, with the frontier now entirely claimed by the U.S., this idea of having a "buffer zone" no longer applied. It was decided that more permanent forts were needed, and it also came to light that the policy toward Native Americans should change. This new policy called for clamping down on the natives, using military force to keep them in their reservations and away from white settlers. Dozens of new forts sprung up across the West, including Fort Larned, and a series of major conflicts with the Native Americans (the largest campaigns of the “Indian Wars”) started, with these forts as their focal points. (Zwink, 4)
 
@@ -18,7 +17,6 @@ However, this was not the only reason these forts were created. During this peri
 The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was located on the Pawnee River, at the base of Lookout Hill (now called “Jenkins Hill”). This was a small camp, consisting of tents and other temporary structures. The site was moved to a more permanent location in 1859, to a bend in the river overlooking the plains, and was given the name “Fort Larned” after the US army paymaster, Col. Benjamin F. Larned. (Unrau)
 
 The fort overlooked large stretches of the plains to the north and south, and was bordered by groves of hardwood trees along the river. The river itself acted as a moat along the northwest edge of the fort, giving it a natural barrier against any threats. (NRHP) Because of this natural defence, Fort Larned was never built up like a traditional fort, with large walls or entrenchments. Despite its name, Fort Larned was really more of a small garrison than a proper fort. 
-
 
 From the perspective of the US military, the fort’s construction was an instant success. Fort Larned had become one of the primary distribution points for annuities sent to Native American tribes, and its location made it an important spot for American and Native leaders to meet. 
 
@@ -33,7 +31,7 @@ In January, 1863, a wagon train that was preparing to bed down for the night was
 
 The fort itself would also become involved in several incidents with the Natives, and was raided several times:
 
-In that same year a group of destitute Kiowas, under the guise of wanting to trade, ran off 300 cattle from Fort Larned… 
+>In that same year a group of destitute Kiowas, under the guise of wanting to trade, ran off 300 cattle from Fort Larned… 
 [In] August [...], Little Heart, en route from his Cheyenne village just west of Fort Larned to the fort for the purpose of obtaining supplies, was shot by a sentry. It was later determined that Little Heart had been drunk and that he had attempted to ride over Isaac Marrs, the sentry. (Unrau)
 
 The relationship between the Native Americans and the soldiers of the fort was not all bad, however. In January of that same year, a group from the Caddo confederacy (link) wandered up to Fort Larned, hoping to find somewhere to settle down. They had fled their village after their Indian Agent (link) had left them to join the Confederate army. The authorities at Fort Larned were sympathetic to them, and managed to get them a chunk of money and a large swath of land across the river to set up farms. (Report) Unfortunately, relations between the US government and the tribes of the Great Plains would only get worse, and a year later, a war started. The Caddo farmers fled, hoping not to get caught in the crossfire. (Unrau)
@@ -42,9 +40,7 @@ The relationship between the Native Americans and the soldiers of the fort was n
 In 1864, as tensions came to a head, warfare broke out across the plains, and violence swept the entire region. In the summer, a group of 60 teamsters were attacked just west of Fort Larned. Many of them were killed, and one survivor was rescued later, after he had been captured and tortured by the natives. In the winter, the infamous Sand Creek Massacre (link) took place in the Colorado Territory, where an entire Native American village was slaughtered. (Zwink, 88)
 
 Throughout the year, Fort Larned was constantly raided for its supplies, especially its livestock and horses, and the surrounding area suffered from countless native attacks. One incident in particular almost took out the fort entirely: 
-On July 17, 1864, [...] the Indians were allowed to enter and move around
-the post without any restrictions. At the same time, however, they were planning a scheme to massacre the entire garrison.
-A square dance was to be held, and there the soldiers would be away from their weapons. Meanwhile, the Indians planned to infiltrate the fort, and at a prearranged signal would launch a surprise attack. The scheme partially was exposed by accident. Approximately three hours before the designated time for the attack and prior to the arrival of the Indians from their camps, a rumor circulated among the civilians and soldiers at the post, claiming that there was possible danger of Indian attack. The rumor reportedly originated from information that an interpreter had overheard from the Indians. Inasmuch as rumors of Indian attacks were quite common, there was no great alarm and no attention was given to the alleged attack. [...] The officer of the day, nevertheless, decided to order the guards to keep all other Indians from entering the post. The Kiowa chief, Satank, was the leader of the attack, but when he approached a sentry near the sutler's store, he was refused entry into the garrison. Satank became irritated, and the Kiowa chieftain first shot an arrow at the sentry and then fired a revolver. Wounded in the hand, the guard returned the fire, killing a Mexican who was riding behind Satank, apparently the Kiowa's aide. This exchange of gunfire prematurely triggered the attack. Consequently, the Indians abandoned their initial objective of a massacre and instead scrambled to confiscate the garrison's livestock. More than 200 mules and horses were lost--all the livestock of the post. (Zwink, 85-86)
+>On July 17, 1864, [...] the Indians were allowed to enter and move around the post without any restrictions. At the same time, however, they were planning a scheme to massacre the entire garrison. A square dance was to be held, and there the soldiers would be away from their weapons. Meanwhile, the Indians planned to infiltrate the fort, and at a prearranged signal would launch a surprise attack. The scheme partially was exposed by accident. Approximately three hours before the designated time for the attack and prior to the arrival of the Indians from their camps, a rumor circulated among the civilians and soldiers at the post, claiming that there was possible danger of Indian attack. The rumor reportedly originated from information that an interpreter had overheard from the Indians. Inasmuch as rumors of Indian attacks were quite common, there was no great alarm and no attention was given to the alleged attack. [...] The officer of the day, nevertheless, decided to order the guards to keep all other Indians from entering the post. The Kiowa chief, Satank, was the leader of the attack, but when he approached a sentry near the sutler's store, he was refused entry into the garrison. Satank became irritated, and the Kiowa chieftain first shot an arrow at the sentry and then fired a revolver. Wounded in the hand, the guard returned the fire, killing a Mexican who was riding behind Satank, apparently the Kiowa's aide. This exchange of gunfire prematurely triggered the attack. Consequently, the Indians abandoned their initial objective of a massacre and instead scrambled to confiscate the garrison's livestock. More than 200 mules and horses were lost--all the livestock of the post. (Zwink, 85-86)
 
 No other attempts at directly attacking the fort ever came, but fighting in the area would continue until early 1865. At this point, Col. Leavenworth (who had become the Indian Agent for the Kiowa and Comanche) wanted to try to find a way to stop the bloodshed. In October, he met with leaders from Kiowa, Comanche, Plains Apache, Arapahoe, and Cheyenne tribes near the Little Arkansas River. Theoretically, this meeting was a success, as every leader present signed new treaties with the US government. In actuality, not every group within those tribes agreed with the treaties, or considered them to be binding in any way. The more militant groups, especially those within the Cheyenne, did not take those treaties to heart, and continued raiding throughout 1866 and 1867. (Zwink, 89-91)
 
@@ -88,14 +84,23 @@ In 1868, Fort Larned’s annuity distribution center was closed, as there were n
 
 Websites
 https://en.wikipedia.org/wiki/Fort_Larned_National_Historic_Site
+
 https://www.nps.gov/fols/learn/historyculture/santa-fe-trail.htm
+
 https://www.nps.gov/fols/learn/historyculture/hancocks-war.htm
+
 https://www.kshs.org/index.php?url=p/kansas-historical-quarterly-the-story-of-fort-larned/13139
+
 https://www.kansasmemory.org/item/225889 (pic)
+
 https://www.kansasmemory.org/item/209726/page/1 (pic)
+
 https://www.kansasmemory.org/item/216958/page/1 (pic)
+
 https://npgallery.nps.gov/NRHP/GetAsset/NRHP/66000107_photos (pics)
+
 https://www.jamesmannartfarm.com/jmas401.html 
+
 http://plainshumanities.unl.edu/encyclopedia/doc/egp.war.017
 
 
@@ -117,6 +122,9 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 
 
 [^ZwinkPreface]: Zwink, iii
+
 [^ZwinkQuote1]: Zwink, 1
+
 [^Zwink1]: Zwink, 4
+
 [^Unrau]: Unrau
