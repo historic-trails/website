@@ -10,6 +10,8 @@ Fort Larned was an American military post near Larned, Kansas that was in operat
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface]
 
+
+
 ## Origins
 {% include figure.html
   class="img-right"
