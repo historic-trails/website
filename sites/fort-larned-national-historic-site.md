@@ -1,9 +1,23 @@
 # Fort Larned National Historic Site
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Troops marching on the parade grounds at Fort Larned, 1961. These would have been some of the first troops stationed in permanent buildings."
+  image-url="fort-larned-troops.jpg"
+  source-url="https://www.kansasmemory.org/item/225889"
+%}
 Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes, such as the Santa Fe Trail, and to act as launching points for military campaigns against Native Americans on the western frontier. Fort Larned was one of those forts positioned along the Santa Fe Trail, and it held special significance for travellers on the trail, and for both the US military and the Native American tribes of the Great Plains. 
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface]
 
 ## Origins
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="This map shows the western territories that the US acquired in the early 19th century. The annexation of Texas and the US's victory in the Mexican-American War had the biggest impacts on the Santa Fe Trail."
+  image-url="us-western-purchases.jpg"
+  source-url="https://www.nationalgeographic.org/photo/territorial-gains/"
+%}
 In 1848, the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) ended the Mexican-American War. Shortly afterwards, with the [Gadsden Purchase of 1854](https://en.wikipedia.org/wiki/Gadsden_Purchase), and several other land acquisitions, the United States had secured the western territory that would create the borders that we know today. With this new frontier opened up, settlers began to pour in. In the early 19th century, the US military’s goal in the West was simple:
 
 >[The Army’s policy between] 1804-1845 was marked by the army maintaining a line of forts in advance of surging frontier settlements, thus creating a buffer military zone between pioneer settlers and native Indians. By this procedure, the government planned to control the Indians, preventing them from committing anticipated attacks against advancing white frontiersmen. Officials in Washington, D. C., also desired to protect the Indians, particularly those removed previously from the eastern United States, by defusing potential intertribal warfare and by preventing illegal and unscrupulous activities of whites.[^ZwinkQuote1]
