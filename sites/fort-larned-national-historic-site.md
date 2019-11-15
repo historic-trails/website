@@ -1,8 +1,8 @@
 # Fort Larned National Historic Site
 {% include figure.html
   class="img-right"
-  width="30%"
-  caption="Troops marching on the parade grounds at Fort Larned, 1961. These were some of the first troops that were housed in the fort's permanent buildings."
+  width="33%"
+  caption="Troops marching on the parade grounds at Fort Larned, 1961, in celebration of the fort's centennial anniversary."
   image-url="fort-larned-troops.jpg"
   source-url="https://www.kansasmemory.org/item/225889"
 %}
