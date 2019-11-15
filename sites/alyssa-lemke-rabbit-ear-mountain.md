@@ -4,9 +4,11 @@ author: Alyssa Lemke
 date: 2019-11-18
 ---
 
+
+
 Rabbit Ear mountain was an important landmark on the Santa Fe Trail because not only was it a visible landmark from all directions, including Texas, but it signaled sure and drinkable water for 30 miles. As a result, it would typically take a traveler four days to cross the valleys of the mountain, where they would simultaneously enjoy the constant access to water and the greenery for live stalk and travel animals to graze on. Once they left the assurance of this landmark, the next closet town was Clayton. This town is located to the north of Rabbit Ear mountain, and the closest town to the landmark. 
 
-##How it got its name
+##H1 How it got its name
 
 It was named “Rabbit Ear” after the great Cheyenne Chief Orejo de Conejos, whose name translates to ‘Rabbits Ear’, who was killed in a bloody battle with the Spanish settlers in 1717. It was said that his name was given to him due to a damaged ear from frostbite. He was buried on top of the larger mountain and these volcanic hills were name after him to memorialize his bravery against the Spanish. 
 
