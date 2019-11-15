@@ -68,6 +68,13 @@ The fort itself would also become involved in several incidents with the Natives
 The relationship between the Native Americans and the soldiers of the fort was not all bad, however. In January of that same year, a group from the [Caddo confederacy](https://en.wikipedia.org/wiki/Caddo) wandered up to Fort Larned, hoping to find somewhere to settle down. They had fled their village after their [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) had left them to join the Confederate army. The authorities at Fort Larned were sympathetic to them, and managed to get them a chunk of money and a large swath of land across the river to set up farms.[^Report] Unfortunately, relations between the US government and the tribes of the Great Plains would only get worse, and a year later, a war started. The Caddo farmers fled, hoping not to get caught in the crossfire.[^Unrau]
 
 ## Indian War of 1864
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="An artist's depiction of the Sand Creek Massacre. When news of this event reached the tribes of the plains, distrust and hatred sparked off an entire series of conflicts."
+  image-url="sand-creek.jpg"
+  source-url="https://time.com/4584022/sand-creek-massacre-anniversary/"
+%}
 In 1864, as tensions came to a head, warfare broke out across the plains, and violence swept the entire region. In the summer, a group of 60 teamsters were attacked just west of Fort Larned. Many of them were killed, and one survivor was rescued later, after he had been captured and tortured by the natives. In the winter, the infamous [Sand Creek Massacre](https://en.wikipedia.org/wiki/Sand_Creek_massacre) took place in the Colorado Territory, where an entire Native American village was slaughtered.[^Zwink88]
 
 Throughout the year, Fort Larned was constantly raided for its supplies, especially its livestock and horses, and the surrounding area suffered from countless native attacks. One incident in particular almost took out the fort entirely:
