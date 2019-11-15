@@ -1,15 +1,14 @@
 # Fort Larned National Historic Site
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="Troops marching on the parade grounds at Fort Larned, 1961. These were some of the first troops that were housed in the fort's permanent buildings."
   image-url="fort-larned-troops.jpg"
   source-url="https://www.kansasmemory.org/item/225889"
 %}
 Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes, such as the Santa Fe Trail, and to act as launching points for military campaigns against Native Americans on the western frontier. Fort Larned was one of those forts positioned along the Santa Fe Trail, and it held special significance for travellers on the trail, and for both the US military and the Native American tribes of the Great Plains. 
 
-Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface]\
-\
+Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
 ## Origins
 {% include figure.html
