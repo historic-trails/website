@@ -8,13 +8,13 @@ date: November 15, 2019
 
 Imagine a land, a haven, with springs and creeks of crystal-clear cool water flowing downstream from neighboring mountains. These creeks, which were not navigable by large ships and boats, are the center of all the communities, conflicts, and livelihoods all over this region. The tall New Mexico feathergrass and vital wooly Indian wheat at the basins of these ponderosa-pine filled mountain ranges, fed by the only source of water in the region for miles, dance in the breeze that has not stopped blowing for centuries now (Allison, 2011). The native tribes of this land named the region “port of the air” or “valley of the wind”, known in English as Ocate (Oh - Kah - Teh) (Weiser, 2019). The Ocate Creek Crossing found itself at the end of the Cimarron Cutoff, a dangerous and arid region on the Santa Fe Trail. Ocate, located in Mora County, New Mexico, was an oasis in all senses of the word and has been for generations of Native Americans, Spanish colonizers, and Mexican and Anglo-American settlers. 
  
- \{\% include figure.html
+{% include figure.html
   class="img-right"
   width="45%"
-  caption="Ocate Creek with the beginning of the Los Naranjos mountain range to the east"
-  image-url="default.jpg"
+  caption='Ocate Creek, Mora County, NM with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county.'
+  image-url="Ocate-Creek-Crossing-real.jpg"
   source-url="https://www.legendsofamerica.com/wp-content/uploads/2018/06/Ocate-Creek-Crossing.jpg"
-\%\}
+%}
  
 The land surrounding the Ocate Creek Crossing, an area with high traffic of traders, raiders, and settlers, has seen many changes throughout the years. Ocate is an important location not only because of its geographic advantages like having a source of fresh water and land for livestock to graze, but because of the diversity of people the land has been inhabited by and the influence that has had on shaping Ocate and the surrounding communities in Mora County. This diversity can be directly attributed to the fact that the Ocate Creek Crossing lied at a very important split in the Santa Fe Trail. Ocate was a point of social, economic, and cultural interchange for many traders and travelers along the trail. From there you could go north west into Taos through Manueles Canyon or further down south to Santa Fe by trails going through the Turkey Mountains.
 Though the Ocate Creek Crossing itself is believed to be on a piece of private property in Mora County, many communities including Ocate, Los Manuales, and Los Naranjos are the direct result of the location of this vital stream of water and other neighboring creek crossings along this portion of the Santa Fe Trail. Based on a population census done by the U.S. Census Bureau in 2010, Ocate has a population of just over 300 residents. However, most of the significance behind this region lies in its past and the role it had in shaping the southwest region of the North American continent from the 1500s to the early 20th century (Goodman, Schlanger, 1993). 
@@ -53,3 +53,11 @@ With the settlement of more Americans in Ocate and the rest of northeastern New 
 
 As a consequence of Westward American expansion, the Santa Fe Trail was eventually closed and lived on through the national railway system that was built in the late 1800s. Despite the railroad bringing more tourism to the west, Ocate, and the surrounding areas, experienced a sharp decline in population. Many of the raids of livestock that continued to happen and the general direction of the American economy were some of the main factors that lead to Ocate essentially becoming a ghost town. 
 The region that was once characterized by the hustle and bustle of the native trade routes and Santa Fe Trail once again became a land of uninterest and little human involvement. The natives that once roamed the forever windy region of Ocate have been driven out by the lack of natural resources available to them, the constant changing of the physical environment with new settlers, and by physical removal from the southwest into reservations through U.S. policies and military involvement. The Spanish, Mexican, and Aglo-American settlers that once dominated Ocate’s landscape, no longer inhabit the creek crossing due to increased raids from native tribes, urbanization elsewhere, and the lack of economic prosperity in the region. As of 1994, the Ocate Creek Crossing has been registered by the National Parks Service (NPS) as a historical site (NPS, 1994) in the United States of America.  Ocate has seen some major transformations to the region in the last 450 years. The land continues to mold itself through the people, animals, and natural life that is present (or not) in the region. Ocate will surely have a rich and interconnected history for the next 450 years to come. 
+
+{% include figure.html
+  class="img-center"
+  width="75%"
+  caption='*Leaving Ocate* by American painter Peggy Immel. The painting depicts a peaceful scene of a farm at the foothills of the neighboring mountains. Farms like these are the most common form of residential infrastructure in the area, as most residents of Ocate were either sheep or cattle farmers.'
+  image-url="ocate-creek-crossing-paint.jpg"
+  source-url="https://peggyimmel.com/portfolio-viewer?collection=15754#lg=1&artworkId=1986255"
+%}
