@@ -59,5 +59,5 @@ The region that was once characterized by the hustle and bustle of the native tr
   width="75%"
   caption='*Leaving Ocate* by American painter Peggy Immel. The painting depicts a peaceful scene of a farm at the foothills of the neighboring mountains. Farms like these are the most common form of residential infrastructure in the area, as most residents of Ocate were either sheep or cattle farmers.'
   image-url="ocate-creek-crossing-paint.jpg"
-  source-url="https://peggyimmel.com/portfolio-viewer?collection=15754#lg=1&artworkId=1986255"
+  source-url="https://peggyimmel.com/?keyvalue=6127&page=ViewCollection&subkeyvalue=15754&startrec=1&displayperpage=9999&displayhorz=1"
 %}
