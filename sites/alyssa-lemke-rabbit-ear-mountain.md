@@ -1,5 +1,5 @@
 ---
-title: Mesa Vista Hall
+title: Rabbit Ear Mountain
 author: Alyssa Lemke
 date: 2019-11-18
 ---
