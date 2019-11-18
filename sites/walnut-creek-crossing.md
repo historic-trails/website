@@ -59,7 +59,7 @@ You can still visit Walnut Creek, in Kansas. The site is located in Great Bend o
 [^6]: Beers, Henry. “Military Protection of the Santa Fé Trail to 1843.” New Mexico Historical Review. (1937).
 
 [^7]: Hutch news
-
+Hutch news
 
 
 
