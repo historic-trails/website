@@ -7,7 +7,7 @@ date: 2019-11-18
 
 # ST. JAMES (DON DIEGO) HOTEL
 
-The St. James hotel established by Henry Lambert was nestled in the base of a mountain, Cimarron, just off the pace of the Santa Fe Trail in the northeast corner of New Mexico. The hotel is a symbol of westward expansion, land grants, ranchers, Native Americans, Spaniards, the European, and traditional New Mexican buildings. Originally established as a restaurant and saloon by Henry Lambert, the building was soon transformed into a not so quaint inn, offering refuge for outlaws, Native Americans, and those travelling to the west. A hotel guest would be welcomed by “Drinking, gambling and guns usually resulting in violence and death,” [^http://www.exstjames.com/about]  the hotel, restaurant and saloon truly embodies the nature of the Old Wild West portrayed in cinema and pop culture.
+The St. James hotel established by Henry Lambert was nestled in the base of a mountain, Cimarron, just off the pace of the Santa Fe Trail in the northeast corner of New Mexico. The hotel is a symbol of westward expansion, land grants, ranchers, Native Americans, Spaniards, the European, and traditional New Mexican buildings. Originally established as a restaurant and saloon by Henry Lambert, the building was soon transformed into a not so quaint inn, offering refuge for outlaws, Native Americans, and those travelling to the west. A hotel guest would be welcomed by “Drinking, gambling and guns usually resulting in violence and death,” [^source1]  the hotel, restaurant and saloon truly embodies the nature of the Old Wild West portrayed in cinema and pop culture.
 
 
 ##### WHY CIMARRON, NEW MEXICO
@@ -69,7 +69,7 @@ New Mexico, A guide to the Colorful State. New York, Hastings House, 1940.
 Varney, Philip. New Mexico’s Best Ghost Towns: A Practical Guide. New Mexico, The University of New Mexico Press, 1987.
 
 
-[^http://www.exstjames.com/about]:http://www.exstjames.com/about 
+[^source1]:http://www.exstjames.com/about 
 [^source]: Hastings House, 1940
 [^anothersource]: New Mexico Santa Fe Trail Scenic Byway
 [^thirdsource]: https://www.cimarronnm.com/uploads/2/3/9/7/23975243/history2008.pdf
