@@ -28,7 +28,7 @@ Ownership of Walnut Creek trading post flipped around throughout the years it wa
 
 # Tribes
 
-	There were three mainly mentioned tribes that interacted with the site. Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. Kiowas are translated to the “Principal people.” Historically people of the plains. Comanches which translates to “anyone who fights me all the time.” Historically from southern Great Plains. Arapahos are known historically as from Colorado and Wyoming.
+There were three mainly mentioned tribes that interacted with the site. Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. Kiowas are translated to the “Principal people.” Historically people of the plains. Comanches which translates to “anyone who fights me all the time.” Historically from southern Great Plains. Arapahos are known historically as from Colorado and Wyoming.
   
 # Spatial Context
 
