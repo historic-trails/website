@@ -12,7 +12,7 @@ Site Rough Draft
 
 # Allison and Boothe
 
-“Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” (Kansas Historical Society). Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and his partner Boothe were known for their prominent trading site. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
+“Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” (Kansas Historical Society). Allison is said to have had only one arm [^7] , which raises questions on whether he was born that way or overcame remedial surgery. Allison and his partner Boothe were known for their prominent trading site. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
 
 # Conflict
 
@@ -44,7 +44,7 @@ You can still visit Walnut Creek, in Kansas. The site is located in Great Bend o
 
 
 
-Works Cited
+# Works Cited
 
 [^1]: Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
 
