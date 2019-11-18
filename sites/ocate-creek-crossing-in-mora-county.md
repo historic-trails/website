@@ -11,11 +11,11 @@ Imagine a land, a haven, with springs and creeks of crystal-clear cool water flo
 {% include figure.html
   class="img-right"
   width="45%"
-  caption='Ocate Creek, Mora County, NM with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county.'
+  caption="cate Creek, Mora County, NM with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county."
   image-url="Ocate-Creek-Crossing-real.jpg"
   source-url="https://www.legendsofamerica.com/wp-content/uploads/2018/06/Ocate-Creek-Crossing.jpg"
 %}
- 
+
 The land surrounding the Ocate Creek Crossing, an area with high traffic of traders, raiders, and settlers, has seen many changes throughout the years. Ocate is an important location not only because of its geographic advantages like having a source of fresh water and land for livestock to graze, but because of the diversity of people the land has been inhabited by and the influence that has had on shaping Ocate and the surrounding communities in Mora County. This diversity can be directly attributed to the fact that the Ocate Creek Crossing lied at a very important split in the Santa Fe Trail. Ocate was a point of social, economic, and cultural interchange for many traders and travelers along the trail. From there you could go north west into Taos through Manueles Canyon or further down south to Santa Fe by trails going through the Turkey Mountains.
 Though the Ocate Creek Crossing itself is believed to be on a piece of private property in Mora County, many communities including Ocate, Los Manuales, and Los Naranjos are the direct result of the location of this vital stream of water and other neighboring creek crossings along this portion of the Santa Fe Trail. Based on a population census done by the U.S. Census Bureau in 2010, Ocate has a population of just over 300 residents. However, most of the significance behind this region lies in its past and the role it had in shaping the southwest region of the North American continent from the 1500s to the early 20th century (Goodman, Schlanger, 1993). 
 
