@@ -1,4 +1,3 @@
-
 ---
 title: Ocate Creek Crossing, Mora County, New Mexico
 author: Sheida Carugati
