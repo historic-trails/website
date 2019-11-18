@@ -93,7 +93,9 @@ The situation got to the point where the US army decided it needed to send a mes
   image-url="cheyenne-village.jpg"
   source-url="https://www.kansasmemory.org/item/209726/page/1"
 %}
+
 \
+
 >"My object of making an expedition at this time is to show the Indians that we are able to chastise any tribes who may molest people who are traveling across the plains. It is not our desire to bring on difficulties with the Indians, but to treat them with justice and according to our treaty stipulations, and desire especially in my dealings with them to act through their Agent as far as practicable. I will go fully prepared for peace or war." - General Winfield S. Hancock
 
 Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lt. Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who would be leading the cavalry units in this campaign. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chiefs. Hancock’s main goal was to intimidate the chiefs:
