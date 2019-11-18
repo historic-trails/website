@@ -48,8 +48,9 @@ Today an individual can stay in a modernized space in the hotel or in one of the
 [617 South Collison
 Cimarron, New Mexico 87714](https://www.google.com/maps/place/617+S+Collison+Ave,+Cimarron,+NM+87714/data=!4m2!3m1!1s0x8710ae1488cc5ff1:0x6731ed1569ce4e77?sa=X&ved=2ahUKEwjfo6292fTlAhWBJTQIHdZ8BIEQ8gEwAHoECA0QAQ)
 ###### Reservation and Information
-[Please Call (888) 376-2664 or (575) 376-2664
-front.desk@exstjames.com](http://www.exstjames.com/book-now)
+Please Call (888) 376-2664 or (575) 376-2664
+Email front.desk@exstjames.com
+Or Visit the Website at [http://www.exstjames.com/book-now](http://www.exstjames.com/book-now)
 
 
 ---
