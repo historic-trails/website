@@ -46,19 +46,19 @@ You can still visit Walnut Creek, in Kansas. The site is located in Great Bend o
 
 Works Cited
 
-[^1]Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
+[^1]: Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
 
-[^2]Kansas Historical Society. “The Walnut Creek Massacre.” (2017). https://www.kshs.org/kansapedia/walnut-creek-massacre/12139
+[^2]: Kansas Historical Society. “The Walnut Creek Massacre.” (2017). https://www.kshs.org/kansapedia/walnut-creek-massacre/12139
 
-[^3]Weiser-Alexander, Kathy. “Barton County, Kansas on the Santa Fe Trail.”  (2019).https://www.legendsofamerica.com/ks-santafetrailbtco/
+[^3]: Weiser-Alexander, Kathy. “Barton County, Kansas on the Santa Fe Trail.”  (2019).https://www.legendsofamerica.com/ks-santafetrailbtco/
 
-[^4]United States National Park Service. “Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico : Comprehensive Management and Use Plan.” (1990).
+[^4]: United States National Park Service. “Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico : Comprehensive Management and Use Plan.” (1990).
 
-[^5]Phillips, Larry. “An Englishman’s Adventures on the Santa Fe Trail (1865–1889)” (2019).
+[^5]: Phillips, Larry. “An Englishman’s Adventures on the Santa Fe Trail (1865–1889)” (2019).
 
-[^6]Beers, Henry. “Military Protection of the Santa Fé Trail to 1843.” New Mexico Historical Review. (1937).
+[^6]: Beers, Henry. “Military Protection of the Santa Fé Trail to 1843.” New Mexico Historical Review. (1937).
 
-[^7]Hutch news
+[^7]: Hutch news
 
 
 
