@@ -42,7 +42,7 @@ In 1879, the railroad came to Watrous.
 
 ## Friend or foe? Samuel Watrous versus Indigenous tribes
 After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” (Kosmider, 1983, 29).Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, Clark, 1969, 42) for them. Clark also writes that he spent time visiting with indigenous tribes and learning their spiritual and farming practices (Clark, 45). However, his active letter writing to the Bureau of Indian Affairs may suggest otherwise. In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette, stating:
-{%include aside.html class="right" width="40%" text="Shall our favorite grazing grounds be forfeited to the marauding Indians? Shall we placidly stand by while they ravage our herds, destroy our grains, murder our people?... I have held my peace, but...it is a drop too much and I bear it no longer in silence."%}
+>Shall our favorite grazing grounds be forfeited to the marauding Indians? Shall we placidly stand by while they ravage our herds, destroy our grains, murder our people?... I have held my peace, but...it is a drop too much and I bear it no longer in silence.
 
 
  (Kosmider, 1983, 41).  
