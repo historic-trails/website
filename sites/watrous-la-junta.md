@@ -8,7 +8,8 @@ date: 2019-09-13
 La Junta (“the junction”) in Mora County, New Mexico marks the crossing of two rivers- the Mora and the Sapello. Historian Francis Stanley writes that this area is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^STANLEY] . Stanley’s metaphor rings true—the valley served as a good meeting point, as it is easily identifiable.
 {%include aside.html class="right" width="40%" text="Every rise formed a plateau valley, 
 fertile and lush with waving grey-green grasses. 
-Grama and blue-joint grasses grew more than a foot in height."%}
+Grama and blue-joint grasses 
+grew more than a foot in height."%}
 Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak.  
  [^ Clark 47].
 In 1963, this area was deemed a National Historic Landmark, which begged the question: why preserve a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
@@ -41,7 +42,13 @@ By drafting letters to the Bureau of Indian affairs, newspapers, and politicians
 ## Friend or foe? 
 ### Samuel Watrous versus Indigenous tribes
 After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” (Kosmider, 1983, 29).Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, Clark, 1969, 42) for them. Clark also writes that he spent time visiting with indigenous tribes and learning their spiritual and farming practices (Clark, 45). However, his active letter writing to the Bureau of Indian Affairs may suggest otherwise.
-{%include aside.html class="left" width="40%" text=" In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette that read: Shall our favorite grazing grounds be forfeited to the marauding Indians? Shall we placidly stand by while they ravage our herds, destroy our grains, murder our people?... I have held my peace, but...it is a drop too much and I bear it no longer in silence."%}
+{%include aside.html class="left" width="40%" text=" In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette that read: 
+
+Shall our favorite grazing grounds be forfeited to the marauding Indians? 
+Shall we placidly stand by while they ravage our herds, destroy our grains, 
+murder our people?... 
+I have held my peace, but...
+it is a drop too much and I bear it no longer in silence."%}
 
  (Kosmider, 1983, 41).  
 
