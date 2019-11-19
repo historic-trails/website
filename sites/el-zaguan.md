@@ -67,6 +67,14 @@ During this time Johnson bought other properties on Canyon Road, including serva
 
 Johnson acquired a lot of wealth from his business connected to the Santa Fe Trail, which he invested in all of his properties around town. Unfortunately, with the arrival of the Rail Road to New Mexico the prosperity of the trail disappeared. This was also during the time of the Long Depression which led to further losses of profits. (research long depression) As this downfall was occurring Johnson mortgaged most of his property to Thomas B. Catron. At the time Catron was a successful lawyer and politician who had served as a district attorney, and territorial Attorney General of New Mexico. His most prominent positions were as Mayor of Santa Fe from 1906 to 1908 and as one of the first Senators for the State of New Mexico from 1912 to 1916. In 1881 Johnson had failed to pay back his debt owed to Catron and a majority of his property, including El Zaguan went to Catron. This is why Johnson’s business block is called the Catron Block to this day. (HBS 223, 23-24)
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption='Territorial Style in New Mexico used the vernacular buildings of New Mexico, which were of adobe consturction, as the base. The style built off these original sturctures with newly imported windows with pediments over them, milled wooden pediment lintel, and brick copings replicating dentalium.' 
+  image-url="ElZaguan4.png"
+  source-url="https://static1.squarespace.com/static/5772daf0b3db2b0a27ef10f8/t/59e6358df09ca46b04046252/1508259232558/1998HSFFBulletinVol25No1.pdf"
+%}	
+
 ### **Architectural Style of the Building**
 
 Throughout his time of owning El Zaguan, Johnson constructed the building in Territorial Style. He utilized earlier Spanish Colonial Styles and combined them with new materials available in New Mexico thanks to the Santa Fe Trail and design influence from the East. The style that was influential in the East at the time was Greek Revival, as exemplified by buildings recreating Greek Temples like the White House or the Lincoln Memorial. From this style New Mexico adopted copings replicating dentalium, pediments, and columns. Large panes of glass came along the Trail allowing for large vertical windows. These windows used milled wood for pediment lintel trims. Glass was very rare in New Mexico before this trade route opened, because of the size of the manufacturing operation it would require. This was also true about bricks. With the introduction of bricks in the region they were used just as details. They were used as coping to look like dentalium patterns that were taken from Greek classical buildings. The last new material that came on the Trail was thin square milled columns with small capitals[^17]. 
@@ -76,6 +84,14 @@ Throughout his time of owning El Zaguan, Johnson constructed the building in Ter
 The overlap between the local vernacular buildings and the inclusion of new styles from the East in his house perfectly portrays the style of Johnson as a merchant on the Trail. The typical story of Anglo traders on the Santa Fe Trail, like the Spiegelber brothers, the Staabs, and the Seligmans, is: they came from Europe, worked with their family, lived in the Anglo merchant neighborhood on East Palace Avenue, did not make local connections and left after the Trail phased out.  
 
 Johnson was from the United States of America and he had grown up on the same continent as where the Santa Fe Trail was operating. He moved away from his family and all relations to work on the Trail, which was different than most traders who became partners with their own brothers or cousins. He started working as a merchant on the Santa Fe Trail at the young age of twenty years old and traveled between the States, Territories, and Mexico. He met his wife, who was Mexican, during one of his trips to Mexico. Maria Jesus (Jesusita) Montoya was born in 1832 in the state of Chihuahua, Mexico. They started a family and they had seven surviving children[^18], creating roots within New Mexico. As he settled in his new home in Santa Fe he adopted more of the local culture. He came to New Mexico along the Trail to make money, but ended up finding a new home and was not solely focused on the economic venture. This adoption of local culture and style can be seen in his house. It was built in New Mexico Territorial Style rather than an Eastern style such as Victorian. He kept the integrity of the vernacular Spanish farmhouse he bought. The same adobe walls that were there when he purchased the first piece of El Zaguan still stand today. His additions to the original style were minimal and supplied by the Trail in the fashion of every other vernacular building of the time. His house was also different as a merchant’s house because he built it in an already established Hispanic neighborhood. All of the other merchants of the time were constructing houses along East Palace Avenue and segregating themselves into their own Anglo community. This again shows his acquired interest in this new territory. The last big difference between him and the other prominent merchants of the time was that after the trail fell and he lost his fortune he still stayed in Santa Fe. He had established roots less than forty years after his first trip on the Santa Fe Trail and remained in the house he had created for himself in the new community he took on.  
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption='El Zaguan was sold to Margert Dietrich who helped preserve the building. Dietrich worked for women suffrage and Native American rights. A couple of years after the death of Dietrich the property went to the Historic Santa Fe Foundation.'
+  image-url="ElZaguan9.jpg"
+  source-url="https://www.gardenvisit.com/gardens/the_garden_at_el_zaguan"
+%}
 
 ### **The Legacy of El Zaguan**
 
