@@ -13,10 +13,10 @@ Visitors to La Junta, especially those who had grown used to the dry, arid clima
 
  [^ Clark 47].
 
-In 1963, this area was deemed a National Historic Landmark, which begged the question: what’s the big deal about a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
+In 1963, this area was deemed a National Historic Landmark, which begged the question: why preserve a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
 
 ## Here first – La Junta’s early occupiers
- Before the first traveler set foot on the over 800- mile stretch of the Santa Fe Tral (NPS, 2018), La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley3][Kosmider 22, 30] 
+ Before the first traveler set foot on the over [800- mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm) (NPS, 2018), La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley3][Kosmider 22, 30] 
  
 ## The Scolly Land Grant
 On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the Mexican governor Manuel Armijo, asking for rights to ten leagues of La Junta and the valley surrounding it [^Stanley 5] (Stanley. 1962, 5).  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley 5].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider 24]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [Stanley 6]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.  
@@ -28,7 +28,6 @@ On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first ado
 Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley 7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider 3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia) (Kosmider, 1983, 3). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations (Kosmider, 1983, vi). 
 
 ## From La Junta to Watrous: a town emerges
-\{\% {% include figure.html class="img-center" width="100%" caption="watrous" image-url="watrous-house.jpg" source- url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%}\%\}
 
 After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store (Clark, 1969, 48). The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail (Clark, 1969, 51).  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
@@ -40,10 +39,8 @@ After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmi
 In addition to his entrepreneurship, Watrous was a passionate arborist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri (Clark, 1969, 49-52). Visitors to the ares suggested it was “one of the finest orchards o the region” (Kosmider, 1983, 29). 
 By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” (Kosmider, 1983, 3), planting trees and constructing a large building, and later the first fencing in the area (Clark, 1969, 53), La Junta was “no longer a wilderness” (Fischer, 1998, 8).  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town.   
 
->“No longer could an individual stand at his doorstep and watch thundering herds of buffalo...run silhouetted against the mountains, nor could one experience the euphoric sesation of treading a hidden path....now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance...” (Kosmider, 1983, 1).
-
 ## Here a train a-coming: the railroad arrives in Watrous 
-
+>“No longer could an individual stand at his doorstep and watch thundering herds of buffalo...run silhouetted against the mountains, nor could one experience the euphoric sesation of treading a hidden path....now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance...” (Kosmider, 1983, 1).
 In 1879, the railroad came to Watrous. 
 
 ## Friend or foe? Samuel Watrous versus Indigenous tribes
@@ -79,5 +76,5 @@ Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, Univer
 Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
 Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 3.
 Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
-“Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. https://www.nps.gov/safe/learn/historyculture/map-timeline-2.html.
+“Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
 “Watrous (La Junta).” National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
