@@ -24,7 +24,7 @@ On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first ado
 Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley 7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider 3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia) (Kosmider, 1983, 3). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations (Kosmider, 1983, vi). 
 
 ## From La Junta to Watrous: a town emerges
-{% include figure.html class="img-center" width="100%" caption="watrous" image-url="watrous-house.jpg"source url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%}
+{% include figure.html class="img-center" width="100%" caption="watrous" image-url="watrous-house.jpg" source- url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%}
 
 After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store (Clark, 1969, 48). The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail (Clark, 1969, 51).  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
@@ -46,10 +46,6 @@ After the Watrous house was constructed, Kosmider suggests that Samuel was on go
  (Kosmider, 1983, 41).  
 The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Disagreeing with the previous governor's plan to feed and teach an estimated 500 Jicarillas farming in exchange for them moving towards Abiqui, Meriwether instead halted provisions to these tribes (Kosmider, 193, 30-31).  
  Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch (Kosmider, 1983, 31). Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective.  The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
-
-
-
-
 
 
 
