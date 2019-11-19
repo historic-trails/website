@@ -7,7 +7,7 @@ date: 2019-09-13
 ## A site for sore eyes: La Junta
 La Junta (“the junction”) in Mora County, New Mexico marks the crossing of two rivers- the Mora and the Sapello. Historian Francis Stanley writes that this area is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley 3] . Stanley’s metaphor rings true—the valley served as a good meeting point, as it is easily identifiable.
 Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak.  
->“Every rise formed a plateau valley, fertile and lush with waving grey-green grasses. Grama and blue-joint grasses grey more than a foot in height” [^Clark 47].
+>“Every rise formed a plateau valley, fertile and lush with waving grey-green grasses. Grama and blue-joint grasses grey more than a foot in height” [^ Clark 47].
 
 In 1963, this area was deemed a National Historic Landmark, which begged the question: what’s the big deal about a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
 
@@ -24,7 +24,7 @@ On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first ado
 Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” (Stanley, 1962 7).  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” (Kosmider, 1983, 3). Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the Bureau of Indian Affairs (Kosmider, 1983, 3). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations (Kosmider, 1983, vi). 
 
 ## From La Junta to Watrous: a town emerges
-\{\% include figure.html class="img-center" width="100%" caption="watrous" image-url="watrous-house.jpg"source url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"\%}\
+{% include figure.html class="img-center" width="100%" caption="watrous" image-url="watrous-house.jpg"source url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%}
 
 After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store (Clark, 1969, 48). The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail (Clark, 1969, 51).  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
