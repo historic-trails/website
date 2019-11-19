@@ -21,10 +21,12 @@ On March 27, 1843, James Giddings and several other men from Spain wrote a petit
 ### Barclay’s Fort
 On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first adobe brick of Fort Barclay [^Kosmider 25]. Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^Kosmider 25] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853 (NPS 2).  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” (NPS 2). Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks (Kosmider, 1983, 26). Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer. In 1856, William Kroening bought Fort Barclay and the land around it (NPS 3).  
 
-## “A New Englander with a thirst for adventure” (Clark, 1969, 39): 
+## “A New Englander 
+## with a thirst for adventure” (Clark, 1969, 39): 
 ### Samuel Watrous 
 Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley 7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider 3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia) (Kosmider, 1983, 3). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations (Kosmider, 1983, vi). 
-## From La Junta to Watrous: a town emerges
+## From La Junta to Watrous: 
+## a town emerges
 {% include figure.html
   class="img-right"
   width="50%"
