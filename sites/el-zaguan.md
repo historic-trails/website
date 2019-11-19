@@ -8,7 +8,7 @@ date: 2019-09-13
 
 # **El Zaguan**
 
-{% include ElZaguan6.png
+{% include figure.html
   class="img-right"
   width="33%"
   caption='El Zaguan represents a house of a prominent merchant on the Santa Fe Trail, James L. Johnson. This style of building was a combination of vernacular architecture of New Mexico and new materials and ideas from the Trail.' 
@@ -19,6 +19,14 @@ date: 2019-09-13
 
 James L. Johnson was a prominent merchant tied to the Santa Fe Trail from 1845-1881. In that time, he was able to make a place for himself in this trade network and gain enough revenues to create his house ‘El Zaguan’. He moved to Santa Fe and became immersed in its culture and adopted it as his home which was very different than the other merchants at the time. James L. Johnson created his house that came to represent the mixing of the Anglo newcomers and Hispanic and Native American traditions, already established in New Mexico, which the trail provided. 
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption='The 'Bandelier Garden' named after Adolph Bandelier, who was a guest of the Johnson's for some time during 1891-1892, was a prominent archeologist of the Southwest.'
+  image-url="ElZaguan10.jpg"
+  source-url="https://www.gardenvisit.com/gardens/the_garden_at_el_zaguan"
+%}
+
 ### **House and Garden of El Zaguan**
 
 El Zaguan grew from a small farmhouse built of adobe, which Johnson purchased in 1854, into a house with multiple rooms, a large flower garden, a vegetable garden, stables, corrals, a smoke shed, and shelters for chickens and hogs[^1]  The house, about a fifteen-minute walk from the plaza, was isolated at its time. The house provided farmable land and was perfectly set near the river. This meant that there was an acequia that provided Johnson’s property with water. An acequia is an irrigation ditch. In New Mexico’s arid climate access to water and water rights have always been highly contested. This acequia brought him into the local acequia community. Along with the water rights came the responsibility to provide someone to help clean the ditch and do maintenance work once a year. These water rights made possible to grow the lush garden that is still accessible today. Nicknamed the ‘Bandelier Garden’ after Adolph Bandelier, a prominent archeologist of the Southwest during this time period, who was a guest, along with his wife, and lived with the Johnsons at El Zaguan from April 3, 1891 to May 1892[^2]. The garden has over a hundred-year-old peony bushes that were imported from China[^3] and also horse chestnut trees that have come to represent their garden. 
@@ -27,11 +35,27 @@ The lushness and fine care of the garden, which was looked after by Johnson’s 
 
 His corrals served as a stopping point for the oxen and horses that had worked the entire trail[^5]. It marked the end of the road for some merchants working for him and just a mid-point for others. His corrals became a place for the stock animals to rest and be fed before they started again on their journey back to Missouri or on to Mexico. El Zaguan represented a stopping place for the Trail, it was a place to swap ideas and news, and the unloading of goods for a profit, but also a permanent home for Johnson. 
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption='James L. Johnson first traveled the Santa Fe Trail in 1845. He quickly became a prominent merchant on the Trail based out of Santa Fe, New Mexico. He acquired a lot of fortune during his time working on the trail but lost it with the Long Depression, in 1881 and the arrival of the Rail Road to New Mexico changing how trading was done.'
+  image-url="ElZaguan13.png"
+  source-url="https://static1.squarespace.com/static/5772daf0b3db2b0a27ef10f8/t/59e6358df09ca46b04046252/1508259232558/1998HSFFBulletinVol25No1.pdf"
+%}
+
 ### **James L. Johnsons's Beginning in New Mexico**
 
 James L. Johnson grew up in Maryland. In 1845 at the age of twenty he made his first trip along the Santa Fe Trail, stopping in Santa Fe and continuing on the Camino Real into Mexico. After coming back into New Mexico, he worked as a clerk for a while[^6]. He became a junior partner with Preston Beck Jr. Together they ran one of the oldest established wholesale and retail businesses in Santa Fe[^7]. In 1858 Preston died. He had been in a fight to the death the week before his death with a man named Gorman, who was a clerk in another store. Gorman had been killed during the fight and Preston had sustained a knife wound that later killed him[^8]. After this dramatic event Johnson inherited the business and business block located on the northeast end of the Plaza of Santa Fe. 
 
 By the 1870’s Johnson was described as one of the most successful merchants. He worked in wholesale and retail trade still but had also ventured into real estate, banking and mining[^9]. Johnson was able to do really well for himself and his business and this became reflected in the house he built for himself. 
+
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption='Starting from a purchase Johnson bought in 1854 he grew the property into a fourteen room property described as 'One of the finest villas on the edge of the city, with neat and attractive surroundings built without regard to expense.'
+  image-url="el-zaguan.jpg"
+  source-url="https://econtent.unm.edu/digital/collection/acpa/id/1085"
+%}
 
 ### **The Property he Built for Himself**
 
