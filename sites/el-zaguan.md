@@ -37,7 +37,7 @@ His corrals served as a stopping point for the oxen and horses that had worked t
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="20%"
   caption="James L. Johnson first traveled the Santa Fe Trail in 1845. He quickly became a prominent merchant on the Trail based out of Santa Fe, New Mexico. He acquired a lot of fortune during his time working on the trail but lost it with the Long Depression, in 1881 and the arrival of the Rail Road to New Mexico changing how trading was done."
   image-url="ElZaguan13.png"
   source-url="https://static1.squarespace.com/static/5772daf0b3db2b0a27ef10f8/t/59e6358df09ca46b04046252/1508259232558/1998HSFFBulletinVol25No1.pdf"
