@@ -13,8 +13,10 @@ grew more than a foot in height."%}
 Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak.  
  [ ^ Clark 47].
 In 1963, this area was deemed a National Historic Landmark, which begged the question: why preserve a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
+
 ## Here first – La Junta’s early occupiers
  Before the first traveler set foot on the over [800- mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm) (NPS, 2018), La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley3][Kosmider 22, 30]  
+ 
 ## The Scolly Land Grant
 {% include figure.html
 class="img-left"
@@ -31,6 +33,7 @@ On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first ado
 
 ## “A New Englander with a thirst for adventure” (Clark, 1969, 39): 
 ### Samuel Watrous 
+
 {% include figure.html
 class="img-left"
 width="50%"
@@ -41,14 +44,12 @@ source-url="https://www.legendsofamerica.com/nm-samuelwatrous/"
 Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley 7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider 3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia) (Kosmider, 1983, 3). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations (Kosmider, 1983, vi). 
 
 ## From La Junta to Watrous: a town emerges
-{% include figure.html
-  class="img-right"
-  width="50%"
-  caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
-  image-url="watrous-house.jpg"
-  source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"
-  %} After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store (Clark, 1969, 48). The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail (Clark, 1969, 51).  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
-{%include aside.html class="center" width="40%" text="When there was nothing else to do, he would say, 
+{% include figure.html class="img-right" width="50%"
+caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
+image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store (Clark, 1969, 48). The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail (Clark, 1969, 51).  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
+
+{%include aside.html class="center" width="40%" text="When there was nothing else to do,
+he would say, 
 come now, we will plant more trees."%} 
 In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri (Clark, 1969, 49-52). Visitors to the ares suggested it was “one of the finest orchards o the region” (Kosmider, 1983, 29). Many of Watrous' cottonwoods and willows are still thriving today.
 By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” (Kosmider, 1983, 3), planting trees and constructing a large building, and later the first fencing in the area (Clark, 1969, 53), La Junta was “no longer a wilderness” (Fischer, 1998, 8).  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town.   
