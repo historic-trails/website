@@ -37,7 +37,6 @@ caption="Samuel Watrous, pictured here with wife Josephine Watrous, who brought 
 image-url="samuel-watrous.jpg"
 source-url="https://www.legendsofamerica.com/nm-samuelwatrous/"
 %}
-Side by side
 Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley 7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider 3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia) (Kosmider, 1983, 3). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations (Kosmider, 1983, vi). 
 
 ## From La Junta to Watrous: a town emerges
