@@ -5,7 +5,7 @@ date: 2019-09-13
 ---
 # Down in the valley: La Junta de los Rios
 ## A site for sore eyes: La Junta
-La Junta (“the junction”) in Mora County, New Mexico marks the crossing of two rivers- the Mora and the Sapello. Historian Francis Stanley writes that this area is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley 3] . Stanley’s metaphor rings true—the valley served as a good meeting point, as it is easily identifiable.
+La Junta (“the junction”) in Mora County, New Mexico marks the crossing of two rivers- the Mora and the Sapello. Historian Francis Stanley writes that this area is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^STANLEY] . Stanley’s metaphor rings true—the valley served as a good meeting point, as it is easily identifiable.
 Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak.  
 >“Every rise formed a plateau valley, fertile and lush with waving grey-green grasses. Grama and blue-joint grasses grey more than a foot in height” [^ Clark 47].
 
