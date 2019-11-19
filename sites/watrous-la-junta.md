@@ -18,8 +18,8 @@ In 1963, this area was deemed a National Historic Landmark, which begged the que
 ## The Scolly Land Grant
 {% include figure.html
 class="img-left"
-width="50%"
-caption=" A hand-drawn map by Harry C. Myers, 1989 Fort Union superintendent "
+width="75%"
+caption=" A map outlining the John Scolly land grant. Hand-drawn by Harry C. Myers, 1989 Fort Union superintendent. "
 image-url="john-scolly.jpg"
 source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"
 %}
