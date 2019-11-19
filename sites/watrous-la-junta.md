@@ -38,12 +38,8 @@ By drafting letters to the Bureau of Indian affairs, newspapers, and politicians
 
 ## Friend or foe? Samuel Watrous versus Indigenous tribes
 After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” (Kosmider, 1983, 29).Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, Clark, 1969, 42) for them. Clark also writes that he spent time visiting with indigenous tribes and learning their spiritual and farming practices (Clark, 45). However, his active letter writing to the Bureau of Indian Affairs may suggest otherwise. In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette, stating:
-{% include aside.html
-  class="right"
-  width="40%"
-  text="“Shall our favorite grazing grounds be forfeited to the marauding Indians? Shall we placidly stand by while they ravage our herds, destroy our grains, murder our people?... I have held my peace, but...it is a drop too much and I bear it no longer in
-silence."
-  %}
+{% include aside.html class="right" width="40%" text="“Shall our favorite grazing grounds be forfeited to the marauding Indians? Shall we placidly stand by while they ravage our herds, destroy our grains, murder our people?... I have held my peace, but...it is a drop too much and I bear it no longer in
+silence."%}
  (Kosmider, 1983, 41).  
 The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Disagreeing with the previous governor's plan to feed and teach an estimated 500 Jicarillas farming in exchange for them moving towards Abiqui, Meriwether instead halted provisions to these tribes (Kosmider, 193, 30-31).  
  Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch (Kosmider, 1983, 31). Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective.  The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
