@@ -41,12 +41,10 @@ After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmi
 come now, we will plant more trees"%}
 
 
-In addition to his entrepreneurship, Watrous was a passionate arborist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri (Clark, 1969, 49-52). Visitors to the ares suggested it was “one of the finest orchards o the region” (Kosmider, 1983, 29). 
+In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri (Clark, 1969, 49-52). Visitors to the ares suggested it was “one of the finest orchards o the region” (Kosmider, 1983, 29). Many of Watrous' cottonwoods and willows are still thriving today.
+
 By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” (Kosmider, 1983, 3), planting trees and constructing a large building, and later the first fencing in the area (Clark, 1969, 53), La Junta was “no longer a wilderness” (Fischer, 1998, 8).  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town.   
 
-## Here a train a-coming: the railroad arrives in Watrous 
->“No longer could an individual stand at his doorstep and watch thundering herds of buffalo...run silhouetted against the mountains, nor could one experience the euphoric sesation of treading a hidden path....now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance...” (Kosmider, 1983, 1).
-In 1879, the railroad came to Watrous. 
 
 ## Friend or foe? 
 ### Samuel Watrous versus Indigenous tribes
@@ -57,6 +55,12 @@ After the Watrous house was constructed, Kosmider suggests that Samuel was on go
  (Kosmider, 1983, 41).  
 The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Disagreeing with the previous governor's plan to feed and teach an estimated 500 Jicarillas farming in exchange for them moving towards Abiqui, Meriwether instead halted provisions to these tribes (Kosmider, 193, 30-31).  
  Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch (Kosmider, 1983, 31). Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective.  The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
