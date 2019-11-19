@@ -16,6 +16,13 @@ In 1963, this area was deemed a National Historic Landmark, which begged the que
 ## Here first – La Junta’s early occupiers
  Before the first traveler set foot on the over [800- mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm) (NPS, 2018), La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley3][Kosmider 22, 30]  
 ## The Scolly Land Grant
+{% include figure.html
+class="img-left"
+width="50%"
+caption=" A hand-drawn map by Harry C. Myers, 1989 Fort Union superintendent "
+image-url="john-scolly.jpg"
+source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"
+%}
 On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the Mexican governor Manuel Armijo, asking for rights to ten leagues of La Junta and the valley surrounding it [^Stanley 5] (Stanley. 1962, 5).  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley 5].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider 24]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [Stanley 6]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.  
 ## “An abode for men and animals” (Kosmider, 1983, 25)
 ### Barclay’s Fort
