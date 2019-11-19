@@ -6,7 +6,10 @@ date: 2019-09-13
 # Down in the valley: La Junta de los Rios
 ## A site for sore eyes: La Junta
 La Junta (“the junction”) in Mora County, New Mexico marks the crossing of two rivers- the Mora and the Sapello. Historian Francis Stanley writes that this area is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^STANLEY] . Stanley’s metaphor rings true—the valley served as a good meeting point, as it is easily identifiable.
-{%include aside.html class="right" width="40%" text="Every rise formed a plateau valley, fertile and lush with waving grey-green grasses. Grama and blue-joint grasses grey more than a foot in height"%} Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak.  
+
+{%include aside.html class="right" width="40%" text="Every rise formed a plateau valley, fertile and lush with waving grey-green grasses. Grama and blue-joint grasses grew more than a foot in height."%}
+
+Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak.  
 
  [^ Clark 47].
 
@@ -29,8 +32,10 @@ Samuel Watrous was a New Englander who traveled to New Mexico in search of new o
 
 After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store (Clark, 1969, 48). The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail (Clark, 1969, 51).  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
-{%include aside.html class="right" width="40%" text="When there was nothing else to do he would say,Come now, we will plant more trees"%}
 (Clark, 1969, 49).
+
+{%include aside.html class="right" width="40%" text="When there was nothing else to do, he would say, come now, we will plant more trees"%}
+
 
 In addition to his entrepreneurship, Watrous was a passionate arborist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri (Clark, 1969, 49-52). Visitors to the ares suggested it was “one of the finest orchards o the region” (Kosmider, 1983, 29). 
 By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” (Kosmider, 1983, 3), planting trees and constructing a large building, and later the first fencing in the area (Clark, 1969, 53), La Junta was “no longer a wilderness” (Fischer, 1998, 8).  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town.   
