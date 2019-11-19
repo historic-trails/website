@@ -10,7 +10,7 @@ date: 2019-09-13
 
 {% include figure.html
   class="img-right"
-  width="66%"
+  width="50%"
   caption="El Zaguan represents a house of a prominent merchant on the Santa Fe Trail, James L. Johnson. This style of building was a combination of vernacular architecture of New Mexico and new materials and ideas from the Trail."
   image-url="ElZaguan6.png"
   source-url="https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/"
@@ -19,17 +19,17 @@ date: 2019-09-13
 
 James L. Johnson was a prominent merchant tied to the Santa Fe Trail from 1845-1881. In that time, he was able to make a place for himself in this trade network and gain enough revenues to create his house ‘El Zaguan’. He moved to Santa Fe and became immersed in its culture and adopted it as his home which was very different than the other merchants at the time. James L. Johnson created his house that came to represent the mixing of the Anglo newcomers and Hispanic and Native American traditions, already established in New Mexico, which the trail provided. 
 
+### **House and Garden of El Zaguan**
+
+El Zaguan grew from a small farmhouse built of adobe, which Johnson purchased in 1854, into a house with multiple rooms, a large flower garden, a vegetable garden, stables, corrals, a smoke shed, and shelters for chickens and hogs[^1]  The house, about a fifteen-minute walk from the plaza, was isolated at its time. The house provided farmable land and was perfectly set near the river. This meant that there was an acequia that provided Johnson’s property with water. An acequia is an irrigation ditch. In New Mexico’s arid climate access to water and water rights have always been highly contested. This acequia brought him into the local acequia community. Along with the water rights came the responsibility to provide someone to help clean the ditch and do maintenance work once a year. These water rights made possible to grow the lush garden that is still accessible today. Nicknamed the ‘Bandelier Garden’ after Adolph Bandelier, a prominent archeologist of the Southwest during this time period, who was a guest, along with his wife, and lived with the Johnsons at El Zaguan from April 3, 1891 to May 1892[^2]. The garden has over a hundred-year-old peony bushes that were imported from China[^3] and also horse chestnut trees that have come to represent their garden. 
+
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="50%"
   caption="The 'Bandelier Garden' named after Adolph Bandelier, who was a guest of the Johnson's for some time during 1891-1892, was a prominent archeologist of the Southwest."
   image-url="ElZaguan10.jpg"
   source-url="https://www.gardenvisit.com/gardens/the_garden_at_el_zaguan"
 %}
-
-### **House and Garden of El Zaguan**
-
-El Zaguan grew from a small farmhouse built of adobe, which Johnson purchased in 1854, into a house with multiple rooms, a large flower garden, a vegetable garden, stables, corrals, a smoke shed, and shelters for chickens and hogs[^1]  The house, about a fifteen-minute walk from the plaza, was isolated at its time. The house provided farmable land and was perfectly set near the river. This meant that there was an acequia that provided Johnson’s property with water. An acequia is an irrigation ditch. In New Mexico’s arid climate access to water and water rights have always been highly contested. This acequia brought him into the local acequia community. Along with the water rights came the responsibility to provide someone to help clean the ditch and do maintenance work once a year. These water rights made possible to grow the lush garden that is still accessible today. Nicknamed the ‘Bandelier Garden’ after Adolph Bandelier, a prominent archeologist of the Southwest during this time period, who was a guest, along with his wife, and lived with the Johnsons at El Zaguan from April 3, 1891 to May 1892[^2]. The garden has over a hundred-year-old peony bushes that were imported from China[^3] and also horse chestnut trees that have come to represent their garden. 
 
 The lushness and fine care of the garden, which was looked after by Johnson’s wife, came to represent the prestige and wealth he had within the community. “The garden was planted by the late Mrs. Johnson and contained many Madonna lilies, peonies, and the wonderful horse chestnut trees which provided what looked like an oasis in the desert on the hot summer days.”[^4] It meant a lot that he was able to put aside this land for a flower garden rather than keeping it as productive land. It symbolized his security which was provided by the Santa Fe Trail. 
 
@@ -50,8 +50,8 @@ James L. Johnson grew up in Maryland. In 1845 at the age of twenty he made his f
 By the 1870’s Johnson was described as one of the most successful merchants. He worked in wholesale and retail trade still but had also ventured into real estate, banking and mining[^9]. Johnson was able to do really well for himself and his business and this became reflected in the house he built for himself. 
 
 {% include figure.html
-  class="img-right"
-  width="100%"
+  class="img-left"
+  width="50%"
   caption="Starting from a purchase Johnson bought in 1854 he grew the property into a fourteen room property described as 'One of the finest villas on the edge of the city, with neat and attractive surroundings built without regard to expense."
   image-url="el-zaguan.jpg"
   source-url="https://econtent.unm.edu/digital/collection/acpa/id/1085"
@@ -69,7 +69,7 @@ Johnson acquired a lot of wealth from his business connected to the Santa Fe Tra
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="40%"
   caption="Territorial Style in New Mexico used the vernacular buildings of New Mexico, which were of adobe consturction, as the base. The style built off these original sturctures with newly imported windows with pediments over them, milled wooden pediment lintel, and brick copings replicating dentalium." 
   image-url="Elzaguan4.png"
   source-url="https://static1.squarespace.com/static/5772daf0b3db2b0a27ef10f8/t/59e6358df09ca46b04046252/1508259232558/1998HSFFBulletinVol25No1.pdf"
@@ -86,8 +86,8 @@ The overlap between the local vernacular buildings and the inclusion of new styl
 Johnson was from the United States of America and he had grown up on the same continent as where the Santa Fe Trail was operating. He moved away from his family and all relations to work on the Trail, which was different than most traders who became partners with their own brothers or cousins. He started working as a merchant on the Santa Fe Trail at the young age of twenty years old and traveled between the States, Territories, and Mexico. He met his wife, who was Mexican, during one of his trips to Mexico. Maria Jesus (Jesusita) Montoya was born in 1832 in the state of Chihuahua, Mexico. They started a family and they had seven surviving children[^18], creating roots within New Mexico. As he settled in his new home in Santa Fe he adopted more of the local culture. He came to New Mexico along the Trail to make money, but ended up finding a new home and was not solely focused on the economic venture. This adoption of local culture and style can be seen in his house. It was built in New Mexico Territorial Style rather than an Eastern style such as Victorian. He kept the integrity of the vernacular Spanish farmhouse he bought. The same adobe walls that were there when he purchased the first piece of El Zaguan still stand today. His additions to the original style were minimal and supplied by the Trail in the fashion of every other vernacular building of the time. His house was also different as a merchant’s house because he built it in an already established Hispanic neighborhood. All of the other merchants of the time were constructing houses along East Palace Avenue and segregating themselves into their own Anglo community. This again shows his acquired interest in this new territory. The last big difference between him and the other prominent merchants of the time was that after the trail fell and he lost his fortune he still stayed in Santa Fe. He had established roots less than forty years after his first trip on the Santa Fe Trail and remained in the house he had created for himself in the new community he took on.  
 
 {% include figure.html
-  class="img-right"
-  width="33%"
+  class="img-left"
+  width="45%"
   caption="El Zaguan was sold to Margert Dietrich who helped preserve the building. Dietrich worked for women suffrage and Native American rights. A couple of years after the death of Dietrich the property went to the Historic Santa Fe Foundation."
   image-url="ElZaguan9.jpg"
   source-url="https://www.gardenvisit.com/gardens/the_garden_at_el_zaguan"
