@@ -18,7 +18,7 @@ In 1963, this area was deemed a National Historic Landmark, which begged the que
 ## The Scolly Land Grant
 {% include figure.html
 class="img-left"
-width="75%"
+width="60%"
 caption=" A map outlining the John Scolly land grant. Hand-drawn by Harry C. Myers, 1989 Fort Union superintendent. "
 image-url="john-scolly.jpg"
 source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"
@@ -33,7 +33,7 @@ Samuel Watrous was a New Englander who traveled to New Mexico in search of new o
 ## From La Junta to Watrous: a town emerges
 {% include figure.html
   class="img-right"
-  width="75%"
+  width="60%"
   caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
   image-url="watrous-house.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"
@@ -46,13 +46,10 @@ come now, we will plant more trees."%}
 ## Friend or foe? 
 ### Samuel Watrous versus Indigenous tribes
 After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” (Kosmider, 1983, 29).Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, Clark, 1969, 42) for them. Clark also writes that he spent time visiting with indigenous tribes and learning their spiritual and farming practices (Clark, 45). However, his active letter writing to the Bureau of Indian Affairs may suggest otherwise.
-{%include aside.html class="left" width="40%" text=" In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette that read: 
-
-Shall our favorite grazing grounds be forfeited to the marauding Indians? 
+In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette that read: 
+> Shall our favorite grazing grounds be forfeited to the marauding Indians? 
 Shall we placidly stand by while they ravage our herds, destroy our grains, 
-murder our people?... 
-I have held my peace, but...
-it is a drop too much and I bear it no longer in silence."%}
+murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence."
 
  (Kosmider, 1983, 41).  
 
