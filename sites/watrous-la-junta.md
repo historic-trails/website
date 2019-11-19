@@ -29,7 +29,7 @@ Samuel Watrous was a New Englander who traveled to New Mexico in search of new o
 
 After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store (Clark, 1969, 48). The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail (Clark, 1969, 51).  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
-{%include aside.html class="right" width="40%" text="When there was nothing else to do he would say,‘Come now, we will plant more trees'"%}
+{%include aside.html class="right" width="40%" text="When there was nothing else to do he would say,Come now, we will plant more trees"%}
 (Clark, 1969, 49).
 
 In addition to his entrepreneurship, Watrous was a passionate arborist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri (Clark, 1969, 49-52). Visitors to the ares suggested it was “one of the finest orchards o the region” (Kosmider, 1983, 29). 
