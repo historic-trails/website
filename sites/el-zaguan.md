@@ -86,3 +86,5 @@ Sze, Corinne P. "The James L. Johnson House (El Zaguan)." Bulletin of the Histor
 Foundation 25, no. 1 (March 1998): 1-7.
 Sze, Corinne P, and Historic Santa Fe Foundation. El Zaguan, the James L. Johnson House, 545 
 Canyon Road: A Social History. Santa Fe, N.M.: Historic Santa Fe Foundation, 1997.
+Sze, Corinne P., and Karen Lewis. James L. Johnson House. Denver: National Park Service, 
+1996.
