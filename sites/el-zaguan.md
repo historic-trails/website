@@ -10,7 +10,7 @@ date: 2019-09-13
 
 {% include figure.html
   class="img-right"
-  width="100%"
+  width="66%"
   caption="El Zaguan represents a house of a prominent merchant on the Santa Fe Trail, James L. Johnson. This style of building was a combination of vernacular architecture of New Mexico and new materials and ideas from the Trail."
   image-url="ElZaguan6.png"
   source-url="https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/"
