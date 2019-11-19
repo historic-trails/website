@@ -34,7 +34,7 @@ On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first ado
 class="img-left"
 width="50%"
 caption="Samuel Watrous, pictured here with wife Josephine Watrous, who brought about much change in La Junta. The railroad renamed the town after him."
-image-url="Augustine_Lateran.jpg"
+image-url="samuel-watrous.jpg"
 source-url="https://www.legendsofamerica.com/nm-samuelwatrous/"
 %}
 Side by side
