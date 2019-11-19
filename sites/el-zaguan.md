@@ -8,6 +8,15 @@ date: 2019-09-13
 
 # **El Zaguan**
 
+{% include ElZaguan6.png
+  class="img-right"
+  width="33%"
+  caption= "El Zaguan represents a house of a prominent merchant on the Santa Fe Trail, James L. Johnson. This style of building was a combination of vernacular architecture of New Mexico and new materials and ideas from the Trail." 
+  image-url="default.jpg"
+  source-url="https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/"
+%}
+
+
 James L. Johnson was a prominent merchant tied to the Santa Fe Trail from 1845-1881. In that time, he was able to make a place for himself in this trade network and gain enough revenues to create his house ‘El Zaguan’. He moved to Santa Fe and became immersed in its culture and adopted it as his home which was very different than the other merchants at the time. James L. Johnson created his house that came to represent the mixing of the Anglo newcomers and Hispanic and Native American traditions, already established in New Mexico, which the trail provided. 
 
 ### **House and Garden of El Zaguan**
