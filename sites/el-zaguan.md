@@ -11,7 +11,7 @@ date: 2019-09-13
 {% include figure.html
   class="img-right"
   width="33%"
-  caption='El Zaguan represents a house of a prominent merchant on the Santa Fe Trail, James L. Johnson. This style of building was a combination of vernacular architecture of New Mexico and new materials and ideas from the Trail.' 
+  caption="El Zaguan represents a house of a prominent merchant on the Santa Fe Trail, James L. Johnson. This style of building was a combination of vernacular architecture of New Mexico and new materials and ideas from the Trail."
   image-url="ElZaguan6.png"
   source-url="https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/"
 %}
@@ -22,7 +22,7 @@ James L. Johnson was a prominent merchant tied to the Santa Fe Trail from 1845-1
 {% include figure.html
   class="img-right"
   width="33%"
-  caption='The 'Bandelier Garden' named after Adolph Bandelier, who was a guest of the Johnson's for some time during 1891-1892, was a prominent archeologist of the Southwest.'
+  caption="The 'Bandelier Garden' named after Adolph Bandelier, who was a guest of the Johnson's for some time during 1891-1892, was a prominent archeologist of the Southwest."
   image-url="ElZaguan10.jpg"
   source-url="https://www.gardenvisit.com/gardens/the_garden_at_el_zaguan"
 %}
@@ -38,7 +38,7 @@ His corrals served as a stopping point for the oxen and horses that had worked t
 {% include figure.html
   class="img-right"
   width="33%"
-  caption='James L. Johnson first traveled the Santa Fe Trail in 1845. He quickly became a prominent merchant on the Trail based out of Santa Fe, New Mexico. He acquired a lot of fortune during his time working on the trail but lost it with the Long Depression, in 1881 and the arrival of the Rail Road to New Mexico changing how trading was done.'
+  caption="James L. Johnson first traveled the Santa Fe Trail in 1845. He quickly became a prominent merchant on the Trail based out of Santa Fe, New Mexico. He acquired a lot of fortune during his time working on the trail but lost it with the Long Depression, in 1881 and the arrival of the Rail Road to New Mexico changing how trading was done."
   image-url="ElZaguan13.png"
   source-url="https://static1.squarespace.com/static/5772daf0b3db2b0a27ef10f8/t/59e6358df09ca46b04046252/1508259232558/1998HSFFBulletinVol25No1.pdf"
 %}
@@ -52,7 +52,7 @@ By the 1870’s Johnson was described as one of the most successful merchants. H
 {% include figure.html
   class="img-right"
   width="33%"
-  caption='Starting from a purchase Johnson bought in 1854 he grew the property into a fourteen room property described as 'One of the finest villas on the edge of the city, with neat and attractive surroundings built without regard to expense.'
+  caption="Starting from a purchase Johnson bought in 1854 he grew the property into a fourteen room property described as 'One of the finest villas on the edge of the city, with neat and attractive surroundings built without regard to expense."
   image-url="el-zaguan.jpg"
   source-url="https://econtent.unm.edu/digital/collection/acpa/id/1085"
 %}
@@ -70,7 +70,7 @@ Johnson acquired a lot of wealth from his business connected to the Santa Fe Tra
 {% include figure.html
   class="img-right"
   width="33%"
-  caption='Territorial Style in New Mexico used the vernacular buildings of New Mexico, which were of adobe consturction, as the base. The style built off these original sturctures with newly imported windows with pediments over them, milled wooden pediment lintel, and brick copings replicating dentalium.' 
+  caption="Territorial Style in New Mexico used the vernacular buildings of New Mexico, which were of adobe consturction, as the base. The style built off these original sturctures with newly imported windows with pediments over them, milled wooden pediment lintel, and brick copings replicating dentalium." 
   image-url="ElZaguan4.png"
   source-url="https://static1.squarespace.com/static/5772daf0b3db2b0a27ef10f8/t/59e6358df09ca46b04046252/1508259232558/1998HSFFBulletinVol25No1.pdf"
 %}	
@@ -88,7 +88,7 @@ Johnson was from the United States of America and he had grown up on the same co
 {% include figure.html
   class="img-right"
   width="33%"
-  caption='El Zaguan was sold to Margert Dietrich who helped preserve the building. Dietrich worked for women suffrage and Native American rights. A couple of years after the death of Dietrich the property went to the Historic Santa Fe Foundation.'
+  caption="El Zaguan was sold to Margert Dietrich who helped preserve the building. Dietrich worked for women suffrage and Native American rights. A couple of years after the death of Dietrich the property went to the Historic Santa Fe Foundation."
   image-url="ElZaguan9.jpg"
   source-url="https://www.gardenvisit.com/gardens/the_garden_at_el_zaguan"
 %}
