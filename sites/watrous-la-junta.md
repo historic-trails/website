@@ -28,8 +28,8 @@ Samuel Watrous was a New Englander who traveled to New Mexico in search of new o
   class="img-center"
   width="100%"
   caption="Make sure your image is large enough to be 100% width or it will look grainy."
-  image-url="Cleve-van_construction-tower-babel.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
+  image-url="watrous-house.jpg"
+  source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"
   %}
 After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store (Clark, 1969, 48). The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail (Clark, 1969, 51).  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
