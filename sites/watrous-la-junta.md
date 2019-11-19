@@ -24,16 +24,13 @@ image-url="john-scolly.jpg"
 source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"
 %}
 On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the Mexican governor Manuel Armijo, asking for rights to ten leagues of La Junta and the valley surrounding it [^Stanley 5] (Stanley. 1962, 5).  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley 5].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider 24]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [Stanley 6]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.  
-## “An abode for men and animals” (Kosmider, 1983, 25)
-### Barclay’s Fort
+## “An abode for men and animals” (Kosmider, 1983, 25): Barclay’s Fort
 On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first adobe brick of Fort Barclay [^Kosmider 25]. Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^Kosmider 25] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853 (NPS 2).  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” (NPS 2). Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks (Kosmider, 1983, 26). Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer. In 1856, William Kroening bought Fort Barclay and the land around it (NPS 3).  
 
-## “A New Englander 
-## with a thirst for adventure” (Clark, 1969, 39): 
+## “A New Englander with a thirst for adventure” (Clark, 1969, 39): 
 ### Samuel Watrous 
 Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley 7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider 3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia) (Kosmider, 1983, 3). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations (Kosmider, 1983, vi). 
-## From La Junta to Watrous: 
-## a town emerges
+## From La Junta to Watrous: a town emerges
 {% include figure.html
   class="img-right"
   width="50%"
