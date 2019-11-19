@@ -27,7 +27,7 @@ Samuel Watrous was a New Englander who traveled to New Mexico in search of new o
 ## From La Junta to Watrous: a town emerges
 {% include figure.html
   class="img-right"
-  width="65%"
+  width="50%"
   caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
   image-url="watrous-house.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"
