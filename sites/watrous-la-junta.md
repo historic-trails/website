@@ -56,7 +56,7 @@ teend constructing a large building, and later the first fencing in the area , L
 {% include figure.html
 class="img-left"
 width="50%"
-caption="The railraod greatly changed the landscape of La Junta, and was the reason the area was renamed Watrous."
+caption="The railroad greatly changed the landscape of La Junta, and was the reason the area was renamed Watrous."
 image-url="railroad-watrous.jpg"
 source-url="https://www.nps.gov/nr/travel/american_latino_heritage/Watrous_La_Junta.html"
 %}
