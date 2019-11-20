@@ -58,7 +58,9 @@ By drafting letters to the Bureau of Indian affairs, newspapers, and politicians
 teend constructing a large building, and later the first fencing in the area , La Junta was “no longer a wilderness” [^Fischer].  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. 
 
 
-## Here my train a-comin: The Railroad comes to Watrous
+## Here my train a-comin: The railroad comes to Watrous
+
+
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
 
 ## Friend or foe? 
