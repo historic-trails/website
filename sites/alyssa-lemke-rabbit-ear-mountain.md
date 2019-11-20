@@ -30,8 +30,6 @@ Rabbit Ear Mountain was named “Rabbit Ear” after the great Cheyenne Chief Or
 
 The story of the battle of Rabbit Ear Mountain is told in the perspective of the Spanish-American settlers, taking place in 1717. In this legendary story, the battle started after some Comanche Indians were holding several Spanish hostage. As a result, an expedition of about 500 soldiers was sent from Santa Fe to attempt to free these prisoners from thier bondage. The expedition was well armed and equipped as they moved out toward Rabbit Ear after learning that they were camped out there. Once the Spanish forces arrived, they decided to charge the camp at daylight. This battle killed hundreds, both Spanish and Comanche, and the Spanish was said to have taken 700 Comanches prisoner. The Spanish were successful in freeing the captives. It is also roumered that the Comanche never again went on the warpath against the Spaniards and a treaty was made to cease the fighting between the two grpups. 
 
-### Terrain
-
 {% include figure.html
   class="img-right"
   width="18%"
@@ -39,6 +37,8 @@ The story of the battle of Rabbit Ear Mountain is told in the perspective of the
   image-url="rabbit-plateau-waterfall.jpg"
   source-url="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjqp7D-9fTlAhUYoZ4KHZqdDi8QjRx6BAgBEAQ&url=http%3A%2F%2Fsouthernnewmexicoexplorer.blogspot.com%2F2013%2F01%2Frabbit-ears-canyonplateau-organ.html&psig=AOvVaw1UE-x_8OwQuK4Qn_o896DM&ust=1574206387669356"
 %}
+
+### Terrain
 
 The hills are remnants of volcanoes and part of the larger Raton-Clayton Volcanic Field, and therefore depends on the area as to if the ground is firm, loose, or sandy, as well as ranging from flat plains to ridges and valleys. The Spring is when water is the most plentiful, and therefore the best time of year for men and women traveling the Santa Fe Tail to pass though. It has large grassy areas for animals to graze and travelers to camp for the night, making it somewhat of a haven on their rough adventure. The twin peaks are 6,062 ft, the larger one being Rabbit Ear Mountain, and the smaller one being Rabbit Ear Butte due to the steep sides’ and a flat top.
 
