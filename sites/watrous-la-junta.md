@@ -9,7 +9,7 @@ La Junta (“the junction”) in Mora County, New Mexico marks the crossing of t
 {%include aside.html class="center" width="40%" text="Every rise formed a plateau valley, 
 fertile and lush with waving grey-green grasses. 
 Grama and blue-joint grasses 
-grew more than a foot in height [^47Clark]."%}
+grew more than a foot in height[^47Clark]."%}
 Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak[^Clark47].
 In 1963, this area was deemed a National Historic Landmark, which begged the question: why preserve a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
 
