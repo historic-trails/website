@@ -10,7 +10,7 @@ date: 2019-11-18
   Class="img-right"
   width="33%"
   caption="Rabbit Ear Mountain"
-  image-url="rabbit-ear-moutain.jpg"
+  image-url="rabbit-ear.jpg"
   source-url="https://i.pinimg.com/originals/03/91/ef/0391efbec474e090e78995bd243d936d.jpg" %}
 
 Rabbit Ear mountain was an important landmark on the Santa Fe Trail because not only was it a visible landmark from all directions, including Texas, but it signaled sure and drinkable water for 30 miles. As a result, it would typically take a traveler four days to cross the valleys of the mountain, where they would simultaneously enjoy the constant access to water and the greenery for live stalk and travel animals to graze on. Once they left the assurance of this landmark, the next closet town was Clayton. This town is located to the north of Rabbit Ear mountain, and the closest town to the landmark. 
@@ -44,6 +44,8 @@ The hills are remnants of volcanoes and part of the larger Raton-Clayton Volcani
 
 ### Visiting Today
 
+Rabbit Ear is considered one of the most preserved and nearly untouched landmarks apart of the Santa Fe Trail. The three spots that were frequently used as camps by the travelers were all located by sources of water. Today, these are now places where people can camp as well. These campsites are located and open to visitors: the McNees Crossing on Corrumpa (or McNees) Creek, Turkey Creek Camp on what is now called Alamos Creek, and Rabbit Ears Camp on Cienequilla Creek.
+
 {% include figure.html
   class="img-right"
   width="33%"
@@ -51,8 +53,6 @@ The hills are remnants of volcanoes and part of the larger Raton-Clayton Volcani
   image-url="mcneesecrossing.jpg"
   source-url="https://images.app.goo.gl/haXKf6uhVbUWqBxQ9"
 %}
-
-Rabbit Ear is considered one of the most preserved and nearly untouched landmarks apart of the Santa Fe Trail. The three spots that were frequently used as camps by the travelers were all located by sources of water. Today, these are now places where people can camp as well. These campsites are located and open to visitors: the McNees Crossing on Corrumpa (or McNees) Creek, Turkey Creek Camp on what is now called Alamos Creek, and Rabbit Ears Camp on Cienequilla Creek.
 
 ##### Bibliography 
 
