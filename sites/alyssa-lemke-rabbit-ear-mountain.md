@@ -18,17 +18,17 @@ Rabbit Ear mountain was an important landmark on the Santa Fe Trail because kt n
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="!800's Clayton Main Street"
+  caption="1800's Clayton Main Street, the next safe haven after Rabbit Ear"
   image-url="clayton-main-street-1800's.jpg"
   source-url="https://images.app.goo.gl/o21nCJiFMbRAmq7q8"
 %}
 ### How it got its name
 
-It was named “Rabbit Ear” after the great Cheyenne Chief Orejo de Conejos, whose name translates to ‘Rabbits Ear’, who was killed in a bloody battle with the Spanish settlers in 1717. It was said that his name was given to him due to a damaged ear from frostbite. He was buried on top of the larger mountain and these volcanic hills were name after him to memorialize his bravery against the Spanish. 
+Rabbit Ear Mountain was named “Rabbit Ear” after the great Cheyenne Chief Orejo de Conejos, whose name translates to ‘Rabbits Ear’. He was given this name due to his supposed damaged ear caused by frostbite when he was a child. According to the popular story told by the early Spanihs settelers, this Chief was killed in a bloody battle with the Spanish Army in 1717. After the battel, Orejo de Conejos was buried on top of the larger of the two volcanic hills, and therefore nameed after him to memorialize his bravery against the Spanish. 
 
 ### The Battle
 
-The story of the battle of Rabbit Ear Mountain is told in the perspective of the Spanish-American settlers, taking place in 1717. In this story, the battle started after some Comanches were holding several Spanish prisoners’ hostage. As a result, an expedition of about 500 soldiers was sent from Santa Fe to attempt to release these prisoners. The expedition was well armed and after learning that the Comanche were camped at Rabbit Ear, they preceded to charge the camp at daylight. This killed hundreds and are said to have taken 700 Comanches prisoner. The battle was extremely bloody and, in the end, the Spanish captives were liberated form the Comanches. As a result, it was said that the Comanche never again went on the warpath against the Spaniards and a treaty was made to cease the fighting between the two. 
+The story of the battle of Rabbit Ear Mountain is told in the perspective of the Spanish-American settlers, taking place in 1717. In this legendary story, the battle started after some Comanche Indians were holding several Spanish hostage. As a result, an expedition of about 500 soldiers was sent from Santa Fe to attempt to free these prisoners from thier bondage. The expedition was well armed and equipped as they moved out toward Rabbit Ear after learning that they were camped out there. Once the Spanish forces arrived, they decided to charge the camp at daylight. This battle killed hundreds, both Spanish and Comanche, and the Spanish was said to have taken 700 Comanches prisoner. The Spanish were successful in freeing the captives. It is also roumered that the Comanche never again went on the warpath against the Spaniards and a treaty was made to cease the fighting between the two grpups. 
 
 ### Terrain
 
