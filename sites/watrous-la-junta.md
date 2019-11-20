@@ -22,7 +22,7 @@ class="img-left"
 width="50%"
 caption=" A map outlining the John Scolly land grant. Hand-drawn by Harry C. Myers, 1989 Fort Union superintendent. "
 image-url="john-scolly.jpg"
-source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"
+source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/[^Myers]"
 %}
 On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the Mexican governor Manuel Armijo, asking for rights to ten leagues of La Junta and the valley surrounding it [^Stanley] (Stanley. 1962, 5).  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [^Stanley]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.
 
@@ -93,7 +93,9 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 [^Stanley]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
 
 [^Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+
 [^Kosmider 26]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+
 [^Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
 
 [^Simmons]: Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 
