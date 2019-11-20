@@ -77,12 +77,20 @@ The indigenous tribes and the new owners of the land could not coexist, under th
  
  
  
- 
- 
+ ##Bibliography 
+Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
+Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
 
+Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
+Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 
 
+“Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
+
+Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February 1998).
+
+Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
 
 
 
@@ -164,7 +172,6 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 [^Greenwood3]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
 [^3Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
-
 
 [^Fischer]: Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
 Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
