@@ -5,7 +5,13 @@ date: 2019-11-18
 ---
 
 # Rabbit Ear Mountain
-
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Mesa Vista Hall"
+  image-url="rabbit-ear-moutain.jpg"
+  source-url=https://i.pinimg.com/originals/03/91/ef/0391efbec474e090e78995bd243d936d.jpg"
+%}
 Rabbit Ear mountain was an important landmark on the Santa Fe Trail because not only was it a visible landmark from all directions, including Texas, but it signaled sure and drinkable water for 30 miles. As a result, it would typically take a traveler four days to cross the valleys of the mountain, where they would simultaneously enjoy the constant access to water and the greenery for live stalk and travel animals to graze on. Once they left the assurance of this landmark, the next closet town was Clayton. This town is located to the north of Rabbit Ear mountain, and the closest town to the landmark. 
 
 ### How it got its name
