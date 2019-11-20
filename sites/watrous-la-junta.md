@@ -15,7 +15,7 @@ Visitors to La Junta, especially those who had grown used to the dry, arid clima
 In 1963, this area was deemed a National Historic Landmark, which begged the question: why preserve a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
 
 ## Here first – La Junta’s early occupiers
- Before the first traveler set foot on the over [800- mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[NPS], La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley][^Kosmider]  
+ Before the first traveler set foot on the over [800- mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS], La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley][^Kosmider]  
  
 ## The Scolly Land Grant
 {% include figure.html
@@ -54,23 +54,20 @@ image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia
 {%include aside.html class="center" width="40%" text="When there was nothing else to do,
 he would say, 
 come now, we will plant more trees."%} 
-In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri (Clark, 1969, 49-52). Visitors to the ares suggested it was “one of the finest orchards o the region” (Kosmider, 1983, 29). Many of Watrous' cottonwoods and willows are still thriving today.
+In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri [^Clark]. Visitors to the ares suggested it was “one of the finest orchards o the region” [^Kosmider]. Many of Watrous' cottonwoods and willows are still thriving today.
 By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” [^Kosmider]
-teend constructing a large building, and later the first fencing in the area [^Clark], La Junta was “no longer a wilderness” (Fischer, 1998, 8).  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town.   
-(Clark, 1969, 49).
+teend constructing a large building, and later the first fencing in the area [^Clark], La Junta was “no longer a wilderness” (Fischer, 1998, 8).  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. [^Clark]
 
 ## Friend or foe? 
 ### Samuel Watrous versus Indigenous tribes
-After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” (Kosmider, 1983, 29).Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, Clark, 1969, 42) for them. Clark also writes that he spent time visiting with indigenous tribes and learning their spiritual and farming practices (Clark, 45). However, his active letter writing to the Bureau of Indian Affairs may suggest otherwise.
+After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” [^Kosmider].Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, [^Clark]  for them. Clark also writes that he spent time visiting with indigenous tribes and learning their spiritual and farming practices [^Clark]. However, his active letter writing to the Bureau of Indian Affairs may suggest otherwise.
 In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette that read: 
 > Shall our favorite grazing grounds be forfeited to the marauding Indians? 
 Shall we placidly stand by while they ravage our herds, destroy our grains, 
-murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence."
+murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence.[^Kosmider]"
 
- (Kosmider, 1983, 41).  
-
-The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Disagreeing with the previous governor's plan to feed and teach an estimated 500 Jicarillas farming in exchange for them moving towards Abiqui, Meriwether instead halted provisions to these tribes (Kosmider, 193, 30-31).  
- Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch (Kosmider, 1983, 31). Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective.  The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
+The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Disagreeing with the previous governor's plan to feed and teach an estimated 500 Jicarillas farming in exchange for them moving towards Abiqui, Meriwether instead halted provisions to these tribes [^Kosmider]
+ Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch [^Kosmider]. Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective.  The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
  
  
  
@@ -92,12 +89,12 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 
 
 
-[Clark]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
-[Stanley]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
-[Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
-[Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
-[Simmons]: Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 
-[NPS]: “Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. 
+[^Clark]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Stanley]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+[^Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
+[^Simmons]: Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 
+[^NPS]: “Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. 
 Works Cited
 
 Fisher, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
@@ -105,4 +102,4 @@ Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13
 
 
 https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
-“Watrous (La Junta).” National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
+[^National Register]: “Watrous (La Junta).” National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
