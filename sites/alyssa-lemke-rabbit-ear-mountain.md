@@ -34,7 +34,7 @@ The story of the battle of Rabbit Ear Mountain is told in the perspective of the
 
 {% include figure.html
   class="img-right"
-  width="15%"
+  width="18%"
   caption="Rabbit Ear Plateau Waterfall"
   image-url="rabbit-plateau-waterfall.jpg"
   source-url="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjqp7D-9fTlAhUYoZ4KHZqdDi8QjRx6BAgBEAQ&url=http%3A%2F%2Fsouthernnewmexicoexplorer.blogspot.com%2F2013%2F01%2Frabbit-ears-canyonplateau-organ.html&psig=AOvVaw1UE-x_8OwQuK4Qn_o896DM&ust=1574206387669356"
