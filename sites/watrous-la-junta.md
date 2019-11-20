@@ -61,6 +61,8 @@ teend constructing a large building, and later the first fencing in the area , L
 ## Here my train a-comin: The railroad comes to Watrous
 
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
+
+
 {% include figure.html
   class="img-right"
   width="40%"
