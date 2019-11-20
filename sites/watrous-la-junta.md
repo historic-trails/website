@@ -48,7 +48,7 @@ source-url="https://www.legendsofamerica.com/nm-samuelwatrous/"
 
 {% include figure.html class="img-right" width="50%"
 caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
-image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly land grant for La Junta in 1849 [^28Kosmider], he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store [^Clark48]. The Watrous house would be deemed “the nucleus of the settlement of La Junta” [^Greenwood3].  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail [^Clark51].  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
+image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly land grant for La Junta in 1849 [^28Kosmider], he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store [^Clark48]. The Watrous house would be deemed “the nucleus of the settlement of La Junta” [^3Greenwood].  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail [^Clark51].  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
 {%include aside.html class="center" width="40%" text="When there was nothing else to do,
 he would say, 
@@ -162,6 +162,8 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 [^Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
 [^Greenwood3]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
+
+[^3Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
 
 [^Fischer]: Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
