@@ -10,7 +10,7 @@ Rabbit Ear mountain was an important landmark on the Santa Fe Trail because kt n
 
 {% include figure.html
   Class="img-right"
-  width="33%"
+  width="50%"
   caption="Rabbit Ear Mountain, visable from a distance"
   image-url="rabbit-ear.jpg"
   source-url="https://i.pinimg.com/originals/03/91/ef/0391efbec474e090e78995bd243d936d.jpg" %}
