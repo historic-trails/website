@@ -32,15 +32,11 @@ On March 27, 1843, James Giddings and several other men from Spain wrote a petit
 On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first adobe brick of Fort Barclay. Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^25Kosmider] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853.  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” [^Greenwood]. Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks [^Kosmider26]. Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer. In 1856, William Kroening bought Fort Barclay and the land around it [^Greenwood3]
 
 
-## “A New Englander with a thirst for adventure” (Clark, 1969, 39) 
+## “A New Englander with a thirst for adventure”[^Clark39]
 ### Samuel Watrous 
-{% include figure.html
-class="img-left"
-width="50%"
-caption="Samuel Watrous, pictured here with wife Josephine Watrous, who brought about much change in La Junta. The railroad renamed the town after him."
-image-url="samuel-watrous.jpg"
-source-url="https://www.legendsofamerica.com/nm-samuelwatrous/"
-%} Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations [^Kosmidervi3]
+{% include figure.html class="img-left" width="50%" caption="Samuel Watrous, pictured here with wife Josephine Watrous, who brought about much change in La Junta. The railroad renamed the town after him." image-url="samuel-watrous.jpg" source-url="https://www.legendsofamerica.com/nmsamuelwatrous/"%} 
+
+Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations [^Kosmidervi3]
 
 
 ## From La Junta to Watrous: a town emerges
@@ -129,7 +125,8 @@ The indigenous tribes and the new owners of the land could not coexist, under th
  [^Clark42]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
  
  [^Clark45]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
-
+ 
+[^Clark39]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
 [^Stanley]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
 
