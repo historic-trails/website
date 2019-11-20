@@ -63,7 +63,7 @@ teend constructing a large building, and later the first fencing in the area , L
   class="img-right"
   width="40%"
   caption="An image of the railroad in Watrous, which arrived in 1879."
-  image-url="ailroad-watrous.jpg"
+  image-url="railroad-watrous.jpg"
   source-url="https://www.nps.gov/nr/travel/american_latino_heritage/Watrous_La_Junta.html"
 %}
 
