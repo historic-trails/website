@@ -29,7 +29,7 @@ On March 27, 1843, James Giddings and several other men from Spain wrote a petit
 
 
 ## “An abode for men and animals” (Kosmider, 1983, 25): Barclay’s Fort
-On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first adobe brick of Fort Barclay [^Kosmider]. Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^Kosmider] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853 (NPS 2).  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” [^National Register]. Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks [^Kosmider 26]. Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer. In 1856, William Kroening bought Fort Barclay and the land around it (NPS 3).  
+On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first adobe brick of Fort Barclay [^Kosmider]. Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^Kosmider] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853 (NPS 2).  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” [^National Register]. Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks [^Kosmider26]. Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer. In 1856, William Kroening bought Fort Barclay and the land around it (NPS 3).  
 
 
 ## “A New Englander with a thirst for adventure” (Clark, 1969, 39) 
@@ -94,7 +94,7 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 
 [^Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
-[^Kosmider 26]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider26]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
 [^Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
 
