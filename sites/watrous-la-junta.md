@@ -151,7 +151,7 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 
 [^Kosmider41]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
-[^Kosmider31]]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider31]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
 [^Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
 
@@ -159,8 +159,7 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 
 [^NPS]: “Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
 
-[^National Register]: “Watrous (La Junta).” National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
-
+[^Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 [^Greenwood3]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
 
