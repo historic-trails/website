@@ -9,7 +9,7 @@ La Junta (“the junction”) in Mora County, New Mexico marks the crossing of t
 {%include aside.html class="center" width="40%" text="Every rise formed a plateau valley, 
 fertile and lush with waving grey-green grasses. 
 Grama and blue-joint grasses 
-grew more than a foot in height[^47Clark]."%}
+grew more than a foot in height."%}
 Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak[^Clark47].
 In 1963, this area was deemed a National Historic Landmark, which begged the question: why preserve a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
 
@@ -22,7 +22,7 @@ class="img-left"
 width="50%"
 caption=" A map outlining the John Scolly land grant. Hand-drawn by Harry C. Myers, 1989 Fort Union superintendent. "
 image-url="john-scolly.jpg"
-source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/[^Myers]"
+source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"
 %}
 On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the Mexican governor Manuel Armijo, asking for rights to ten leagues of La Junta and the valley surrounding it.  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider24]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [^Stanley6]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.
 
@@ -160,6 +160,7 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 [^NPS]: “Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
 
 [^Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
+
 [^Greenwood3]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
 
