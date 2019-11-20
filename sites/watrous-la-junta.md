@@ -17,7 +17,7 @@ In 1963, this area was deemed a National Historic Landmark, which begged the que
 ## Here first – La Junta’s early occupiers
  Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS], La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley3][^Kosmider30]  
  
-## The Scolly Land Grant
+## [The Scolly Land Grant](https://www.topozone.com/map-print/?lat=35.790597&lon=-104.9816685&title=Watrous%20Topo%20Map%20in%20Mora%20County%20New%20Mexico)
 {% include figure.html
 class="img-left"
 width="50%"
