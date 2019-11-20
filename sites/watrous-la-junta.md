@@ -48,27 +48,29 @@ source-url="https://www.legendsofamerica.com/nm-samuelwatrous/"
 
 {% include figure.html class="img-right" width="50%"
 caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
-image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly land grant for La Junta in 1849 (Kosmider, 1983, 28), he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store [^Clark]. The Watrous house would be deemed “the nucleus of the settlement of La Junta” (NPS Nomination Form, 3).  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail [^Clark].  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
+image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly land grant for La Junta in 1849 [^28Kosmider], he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store [^Clark48]. The Watrous house would be deemed “the nucleus of the settlement of La Junta” [^Greenwood3].  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail [^Clark51].  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
 {%include aside.html class="center" width="40%" text="When there was nothing else to do,
 he would say, 
-come now, we will plant more trees."%} 
-In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri [^Clark]. Visitors to the ares suggested it was “one of the finest orchards o the region” [^Kosmider]. Many of Watrous' cottonwoods and willows are still thriving today.
-By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” [^Kosmider]
-teend constructing a large building, and later the first fencing in the area [^Clark], La Junta was “no longer a wilderness” (Fischer, 1998, 8).  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. [^Clark]
+come now, we will plant more trees.[^Clark49]"%} 
+In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri [^Clark52]. Visitors to the ares suggested it was “one of the finest orchards o the region” [^Kosmider29]. Many of Watrous' cottonwoods and willows are still thriving today.
+By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” [^3Kosmider]
+teend constructing a large building, and later the first fencing in the area , La Junta was “no longer a wilderness” [^Fischer].  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. 
+
+
 ## Here my train a-comin: The Railroad comes to Watrous
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
 
 ## Friend or foe? 
 ### Samuel Watrous versus Indigenous tribes
-After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” [^Kosmider].Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, [^Clark]  for them. Clark also writes that he spent time visiting with indigenous tribes and learning their spiritual and farming practices [^Clark]. However, his active letter writing to the Bureau of Indian Affairs may suggest otherwise.
+After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” [^29Kosmider].Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, [^Clark42]  for them. Clark also writes that he spent time visiting with indigenous tribes and learning their spiritual and farming practices [^Clark45]. However, his active letter writing to the Bureau of Indian Affairs may suggest otherwise.
 In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette that read: 
 > Shall our favorite grazing grounds be forfeited to the marauding Indians? 
 Shall we placidly stand by while they ravage our herds, destroy our grains, 
-murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence.[^Kosmider]"
+murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence.[^Kosmider41]"
 
-The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Disagreeing with the previous governor's plan to feed and teach an estimated 500 Jicarillas farming in exchange for them moving towards Abiqui, Meriwether instead halted provisions to these tribes [^Kosmider]
- Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch [^Kosmider]. Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective.  The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
+The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Disagreeing with the previous governor's plan to feed and teach an estimated 500 Jicarillas farming in exchange for them moving towards Abiqui, Meriwether instead halted provisions to these tribes.
+ Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch [^Kosmider31]. Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective.  The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
  
  
  
@@ -95,6 +97,19 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 [^47Clark]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
 [^Clark47]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+
+[^Clark48]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+
+[^Clark51]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+
+[^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+
+ [^Clark52]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+ 
+ [^Clark42]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+ 
+ [^Clark45]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+
 
 [^Stanley]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
 
@@ -124,7 +139,17 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 
 [^Kosmider1]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
+[^28Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
+[^Kosmider29]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+
+[^3Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+
+[^29Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+
+[^Kosmider41]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+
+[^Kosmider31]]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
 [^Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
 
@@ -134,8 +159,10 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 
 [^National Register]: “Watrous (La Junta).” National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
+[^Greenwood3]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
-Fisher, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
+
+[^Fischer]: Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
 Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
 
 
