@@ -23,8 +23,7 @@ class="img-left"
 width="50%"
 caption=" A map outlining the John Scolly land grant. Hand-drawn by Harry C. Myers, 1989 Fort Union superintendent. "
 image-url="john-scolly.jpg"
-source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"
-%}
+source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"%}
 On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the Mexican governor Manuel Armijo, asking for rights to ten leagues of La Junta and the valley surrounding it.  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider24]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [^Stanley6]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.
 
 
@@ -46,7 +45,7 @@ Samuel Watrous was a New Englander who traveled to New Mexico in search of new o
 caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
 image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly land grant for La Junta in 1849 [^28Kosmider], he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store [^Clark48]. The Watrous house would be deemed “the nucleus of the settlement of La Junta” [^3Greenwood].  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail [^Clark51].  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
-
+### "Come now, we will plant more trees" [^Clark49] 
 In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri [^Clark52]. Visitors to the ares suggested it was “one of the finest orchards ofthe region” [^Kosmider29]. Many of Watrous' cottonwoods and willows are still thriving today.
 By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” [^3Kosmider]
 teend constructing a large building, and later the first fencing in the area , La Junta was “no longer a wilderness” [^Fischer].  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. 
@@ -126,6 +125,8 @@ Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13
  [^Clark45]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
  
 [^Clark39]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+
+[^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
 [^Stanley]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
 
