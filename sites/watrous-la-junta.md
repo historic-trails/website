@@ -5,7 +5,7 @@ date: 2019-09-13
 ---
 # Down in the valley: La Junta de los Rios
 ## A site for sore eyes: La Junta
-La Junta (“the junction”) in Mora County, New Mexico marks the crossing of two rivers- the Mora and the Sapello. Historian Francis Stanley writes that this area is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^STANLEY] . Stanley’s metaphor rings true—the valley served as a good meeting point, as it is easily identifiable.
+La Junta (“the junction”) in Mora County, New Mexico marks the crossing of two rivers- the Mora and the Sapello. Historian Francis Stanley writes that this area is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley 3] . Stanley’s metaphor rings true—the valley served as a good meeting point, as it is easily identifiable.
 {%include aside.html class="center" width="40%" text="Every rise formed a plateau valley, 
 fertile and lush with waving grey-green grasses. 
 Grama and blue-joint grasses 
@@ -91,15 +91,18 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 
 
 
+[Clark]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[Stanley]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+[Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
+[Simmons]: Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 
 
-
+3.“Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. 
 Works Cited
-Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+
 Fisher, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
 Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
-Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
-Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
-Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 3.
-Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
-“Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
+
+
+https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
 “Watrous (La Junta).” National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
