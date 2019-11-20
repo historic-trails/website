@@ -60,8 +60,6 @@ teend constructing a large building, and later the first fencing in the area , L
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
 
 
-{% include figure.html class="img-right" width="40%" caption="An image of the railroad in Watrous, which arrived in 1879." image-url="railroad-watrous.jpg" source-url="https://www.nps.gov/nr/travel/american_latino_heritage/Watrous_La_Junta.html"%}
-
 
 
 ## Friend or foe? 
