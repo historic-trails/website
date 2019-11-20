@@ -57,6 +57,15 @@ teend constructing a large building, and later the first fencing in the area , L
 
 ## Here my train a-comin: The railroad comes to Watrous
 
+{% include figure.html
+class="img-left"
+width="50%"
+caption="The railraod greatly changed the landscape of La Junta, and was the reason the area was renamed Watrous."
+image-url="railroad-watrous.jpg"
+source-url="https://www.nps.gov/nr/travel/american_latino_heritage/Watrous_La_Junta.html"
+%}
+
+
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
 
 
@@ -75,21 +84,21 @@ The indigenous tribes and the new owners of the land could not coexist, under th
  
  
  
- 
  ## Bibliography 
-* Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-* Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-* Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
 
-* Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 
+Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
-* “Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
+Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 
 
-* Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February 1998).
+“Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
 
-* Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
+Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February 1998).
+
+Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
 
 
 
