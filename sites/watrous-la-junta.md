@@ -34,7 +34,6 @@ On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first ado
 
 ## “A New Englander with a thirst for adventure” (Clark, 1969, 39) 
 ### Samuel Watrous 
-
 {% include figure.html
 class="img-left"
 width="50%"
@@ -60,7 +59,6 @@ teend constructing a large building, and later the first fencing in the area , L
 
 
 ## Here my train a-comin: The railroad comes to Watrous
-
 
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
 
