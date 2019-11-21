@@ -5,17 +5,15 @@ date: 2019-09-13
 ---
 # Down in the valley: La Junta de los Rios
 ## A site for sore eyes: La Junta
-La Junta (“the junction”) in Mora County, New Mexico marks the crossing of two rivers- the Mora and the Sapello. Historian Francis Stanley writes that this area is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley] . Stanley’s metaphor rings true—the valley served as a good meeting point, as it is easily identifiable.
+La Junta (“the junction”) is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley], according to historian F. Stanley.  These two rivers meet just outside of Mora County, New Mexico. 
 {%include aside.html class="center" width="40%" text="Every rise formed a plateau valley, 
 fertile and lush with waving grey-green grasses. 
 Grama and blue-joint grasses 
 grew more than a foot in height."%}
-Visitors to La Junta, especially those who had grown used to the dry, arid climate of the southwest, remarked on its serene beauty. La Junta featured healthy, rich soil, a green valley, and a plethora of wildlife-- including deer, wild ducks, quail, and antelope. The Mora and Sapello rivers were decorated with large, healthy trees, including pine, junipers, wild plum, and oak[^Clark47].
-
-In 1963, this area was deemed a National Historic Landmark, which begged the question: why preserve a river crossing, no matter how beautiful? La Junta the first sight of civilization for many weary travelers along Santa Fe Trail. The area, served as a campsite, trading area, and rest stop for many, including indigenous tribes.
+In the past, visitors have noted the healthy, rich soil, green valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper line the banks of the river and the town [^Clark].  But this is not the only reason this area is remarkable. In 1963, La Junta was deemed a National Historic Landmark. It has served many purposes throughout history. This junction has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and weary travelers making the long treck on the Santa Fe Trail.
 
 ## Here first – La Junta’s early occupiers
- Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS], La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley3][^Kosmider30]  
+ Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS],  La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley3][^Kosmider30]  
  
 ## [The Scolly Land Grant](https://www.topozone.com/map-print/?lat=35.790597&lon=-104.9816685&title=Watrous%20Topo%20Map%20in%20Mora%20County%20New%20Mexico)
 {% include figure.html
@@ -24,7 +22,7 @@ width="50%"
 caption=" A map outlining the John Scolly land grant. Hand-drawn by Harry C. Myers, 1989 Fort Union superintendent. "
 image-url="john-scolly.jpg"
 source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"%}
-On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the Mexican governor Manuel Armijo, asking for rights to ten leagues of La Junta and the valley surrounding it.  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider24]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [^Stanley6]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.
+On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the New Mexican governor (Manuel Armijo) [http://newmexicohistory.org/2014/01/16/manuel-armijo/], asking for rights to ten leagues of La Junta and the valley surrounding it.  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider24]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [^Stanley6]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.
 
 
 
