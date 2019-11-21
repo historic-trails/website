@@ -10,10 +10,10 @@ La Junta (“the junction”) is where "the Sapello and Mora Rivers unite to exc
 fertile and lush with waving grey-green grasses. 
 Grama and blue-joint grasses 
 grew more than a foot in height."%}
-In the past, visitors have noted the healthy, rich soil, green valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper line the banks of the river and the town [^Clark].  But this is not the only reason this area is remarkable. In 1963, La Junta was deemed a National Historic Landmark. It has served many purposes throughout history. This junction has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and weary travelers making the long treck on the Santa Fe Trail.
+In the past, visitors have noted the healthy, rich soil, green valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper line the banks of the river and the town [^Clark].  But this is not the only reason this area is remarkable. In 1963, La Junta was deemed a National Historic Landmark. It has served many purposes throughout history. This junction has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the Santa Fe Trail. As one Army of the West soldier exclaimed, upon viewing the valley: "the first settlement we had seen in 775 miles" [^Greenwood2].
 
 ## Here first – La Junta’s early occupiers
- Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS],  La Junta was used by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes hunted, traded, and camped on the land [^Stanley3][^Kosmider30]  
+ Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS],  La Junta was occupied by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes had hunted, traded, and camped on the land for several decades [^Stanley3][^Kosmider30]. Little informations about these tribes is available orior to the beginning of the Santa Fe Trail. 
  
 ## [The Scolly Land Grant](https://www.topozone.com/map-print/?lat=35.790597&lon=-104.9816685&title=Watrous%20Topo%20Map%20in%20Mora%20County%20New%20Mexico)
 {% include figure.html
@@ -22,13 +22,14 @@ width="50%"
 caption=" A map outlining the John Scolly land grant. Hand-drawn by Harry C. Myers, 1989 Fort Union superintendent. "
 image-url="john-scolly.jpg"
 source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"%}
-On March 27, 1843, James Giddings and several other men from Spain wrote a petition to the New Mexican governor 
-[Manuel Armijo](http://newmexicohistory.org/2014/01/16/manuel-armijo/), asking for rights to ten leagues of La Junta and the valley surrounding it.  In the petition, Giddings, along with ten other men, outlined the land, noting its rich soil that would be used for planting crops, raising sheep for wool, constructing mills and creating a civilization with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo had approved the petition, allowing them a year and a half to begin cultivating the land, the original petitioners did not gain ownership of the land until May 1846, under Mexican Governor Manuel Armijo [^Kosmider24]. Stanley writes that they were sent away by members of the Jicarilla Apache Nation [^Stanley6]. Many of the original petitioners shied away after this, leaving the grant to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous.
-
+On March 27, 1843, James Giddings, along with nine other SPanish men, composed a petition to the New Mexican governor 
+[Manuel Armijo](http://newmexicohistory.org/2014/01/16/manuel-armijo/), asking for the rights to ten leagues of La Junta and the valley surrounding it.  In the petition, Giddings described the La Junta area in great detail, noting its rich soil. He and the men planned to use the area for planting crops, raising sheep, and building mills.  They hoped to create a town with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo approved the petition, gratning them nearly two year's time to begin cultivating, the original petitioners did not recieve complete ownership of the land until three years later, in May, 1846. These land grantees did not recieve a particularily warm welcome from the indigenous tribes of the area. Theft of livestock and other goods became commonplace. Many of the original petitioners shied away due to repeated theft. The John Scolly Grant was left to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous [^Stanley6].
 
 
 ## “An abode for men and animals”[^Kosmider25]:Barclay’s Fort
-On June 11, 1846, Alexander Barclay, along with Joseph Doyle, laid the first adobe brick of Fort Barclay. Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^25Kosmider] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853.  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” [^Greenwood]. Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks [^Kosmider26]. Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer. In 1856, William Kroening bought Fort Barclay and the land around it [^Greenwood3]
+
+On June 11, 1846, Alexander Barclay, along with the help of Joseph Doyle, laid the first adobe brick of Fort Barclay. Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^25Kosmider] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853.  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” [^Greenwood]. Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks [^Kosmider26]. Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer, instead building 
+[Fort Union](https://www.nps.gov/foun/index.htm) just a few miles away[^Birchell]. In 1856, William Kroening purchased Fort Barclay [^Greenwood3]. A flood in 1900 washed away all remains of the fort [^Birchell1].
 
 
 ## “A New Englander with a thirst for adventure”[^Clark39]
@@ -135,6 +136,10 @@ Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13
 
 [^Stanley7]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
 
+[^Birchell]: Birchell, Donna Blake. Frontier Forts and Outposts of New Mexico (The History Press, Charleston, 2019). 
+
+[^Birchell1]: Birchell, Donna Blake. Frontier Forts and Outposts of New Mexico (The History Press, Charleston, 2019). 
+
 [^Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
 [^Kosmider30]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
@@ -171,11 +176,14 @@ Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13
 
 [^NPS]: “Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
 
-[^Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
+[^Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963.
+
+[^Greenwood2]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963.
 
 [^Greenwood3]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
 [^3Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
+
 
 [^Fischer]: Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
 Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
