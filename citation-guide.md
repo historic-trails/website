@@ -1,3 +1,9 @@
+---
+title: Citation Guide
+layout: default
+date: 2019-11-04
+---
+
 # Citation Guide
 
 Note: links to documents are provided wherever possible. Linking is good!
