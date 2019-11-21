@@ -37,17 +37,6 @@ This museum is just cattycornered to the palace of the governors and was built a
 
 The palace today is strictly used as a museum where people can come and see the historic site it stands in a prominent place in the famous plaza. During the 1900’s the palace was officially going to be renovated into a museum and the renovations started in 1913 they wanted to highlight the Spanish-colonial features. The city of Santa Fe wanted to preserve the history that the palace held, but also make it appeal to people so they would like to visit. As you walk through the renovated palace you can tell what has been conveniently changed to be more modern and to fit the standards of Santa Fe and tourism. While there are many modern changes there are open areas of the walls where you can see the original walls where they stand between the new remodeled area. There is even a clear glass on the floor that shows the original flooring below the new one that was put in during the remodel. As you walk you can witness different histories and stories throughout about the Spaniards, pueblo people, and artifacts. There are different tours you can take at the museum one is a self-guided tour and the other is as guided when someone takes you around and tells you about the palace and history. There are over four hundred years of New Mexico history housed in the palace today as exhibits. The museum makes it easy to keep the history alive and preserve the past in the building. Outside of the palace on the patio there are vendors who sell Native American style jewelry to museum goers and tourists. This brings money to these people as well as interested eyes to this historic site. 
 
-## How to get to the palace 
-
-Address: 105 W Palace Ave, Santa Fe, NM 87501
-Directions: 
-Get on I-25 N from Tijeras Ave NW and Dr Martin Luther King Jr Ave NE
-Head east on Central Ave SW/Rte 66 toward 2nd St SW
-Turn left at the 1st cross street onto 2nd St NW
-Turn right onto Tijeras Ave NW
-Continue onto Dr Martin Luther King Jr Ave NE
-Use the left 2 lanes to turn left onto Oak St NE
-Use any lane to merge onto I-25 N via the ramp to Santa Fe
 
 
 ## Bibliography
