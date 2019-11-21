@@ -9,12 +9,14 @@ date: 2019-11-13
 
 # Allison and Boothe
 
-> “Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and his partner Boothe were known for their prominent trading site. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
+> “Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. 
+Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and his partner Boothe were known for their prominent trading site. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
 
 # Conflict
 
-“This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
- In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
+>“This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2].
+During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
+In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
 
 # Ownership
 
