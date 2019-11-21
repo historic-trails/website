@@ -8,12 +8,15 @@ date: 2019-11-04
 ## So What?
 Make sure the essay very near both the beginning and the end makes it very clear what the reader is to take away as the main points. In other words, the essay needs to very obviously answer the SO WHAT question.
 
+## Narrative thread
+Make sure you have one!
+
+## Critical Reflection on Landscape and Memory
+This is not just an essay about a historic site--it's a chance for you to show me what you learned from the earlier readings. You won't cite everything and you shouldn't try to cram everything in. But your essay needs to take advantage of our more abstract and theoretical readings as well to help us think more deeply about our sites and what they should or shouldn't mean for us today. This is also a chance for you to connect the past, present, and future of your historic site.
 
 ## History
-- Historical summary or historiographical claims must include parenthetical citations to reputable sources with precise and unambiguous citations (author, page)
+- Historical summary must include parenthetical citations to reputable sources with precise and unambiguous citations (author, page)
 - Statements that are not common knowledge must have citations; you can can provide a single citation for a paragraph if you are paraphrasing 1 or 2 sources
-- Do not lose the thread of **HISTORIOGRAPHICAL SIGNIFICANCE**
-
 
 ## Paragraphs
 
