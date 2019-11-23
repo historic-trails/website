@@ -37,7 +37,9 @@ Joseph Douglas was the last person to have ownership of the trading post at Waln
 Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. The Kiowas called the creek “Tsodalhente-da pa” or “Armless mans creek” for Allison. [^5] There were three main Native American tribes that interacted with the site. 
 First were the Kiowas, whose name translates to the “Principal people.” Historically they have been people of the plains. There was also the Comanches,  which translates to “anyone who fights me all the time.” Historically they were from the southern Great Plains. Lastly there was Arapahos, who are known historically as being from Colorado and Wyoming.
 
-# Fort Zarah {% include figure.html
+# Fort Zarah 
+
+{% include figure.html
   class="img-right"
   width="33%"
   caption="Mesa Vista Hall"
