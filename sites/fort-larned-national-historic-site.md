@@ -5,6 +5,13 @@ date: 2019-12-00
 ---
 
 \
+{% include figure.html 
+    class="img-right" 
+    width="33%"
+    caption="A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail." 
+    image-url="fort-larned-watercolor.jpg" 
+    source-url="https://www.jamesmannartfarm.com/jmas401.html
+%}
 # Fort Larned National Historic Site
 Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes, such as the Santa Fe Trail, and to act as launching points for military campaigns against Native Americans on the western frontier. Fort Larned was one of those forts positioned along the Santa Fe Trail, and it held special significance for travellers on the trail, and for both the US military and the Native American tribes of the Great Plains. 
 
@@ -31,9 +38,9 @@ However, this was not the only reason these forts were created. During this peri
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail."
-  image-url="fort-larned-watercolor.jpg"
-  source-url="https://www.jamesmannartfarm.com/jmas401.html"
+  caption="The view of Fort Larned, looking across the plains."
+  image-url="view-of-fort-larned.jpg"
+  source-url="https://www.kansasmemory.org/item/216958/page/1"
 %}
 The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was located on the Pawnee River, at the base of Lookout Hill (now called “Jenkins Hill”). This was a small camp, consisting of tents and other temporary structures. The site was moved to a more permanent location in 1859, to a bend in the river overlooking the plains, and was given the name “Fort Larned” after the US army paymaster, Col. Benjamin F. Larned. [^Unrau]
 
