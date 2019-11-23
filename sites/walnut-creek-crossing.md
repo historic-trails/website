@@ -8,13 +8,13 @@ date: 2019-11-13
 1855, six years before the American civil war, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. Wagons traveling the trail would be forced to stop and set up camp along the river banks to wait out flooding. Thus it was the perfect site for a trading booth, and eventually a military post and toll booth.
 
 # Allison and Boothe 
-{% include figure.html
+\{\% include figure.html
 class="img-left"
 width="50%"
 caption="Campell Family possibly related to Allison"
 image-url="campell-family.jpg"
 source-url="https://www.kansasmemory.org/item/229053"
-%}
+\%\}
 
 “Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and his partner Boothe were known for their prominent trading site. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
 
