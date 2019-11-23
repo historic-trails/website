@@ -37,7 +37,13 @@ Joseph Douglas was the last person to have ownership of the trading post at Waln
 Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. The Kiowas called the creek “Tsodalhente-da pa” or “Armless mans creek” for Allison. [^5] There were three main Native American tribes that interacted with the site. 
 First were the Kiowas, whose name translates to the “Principal people.” Historically they have been people of the plains. There was also the Comanches,  which translates to “anyone who fights me all the time.” Historically they were from the southern Great Plains. Lastly there was Arapahos, who are known historically as being from Colorado and Wyoming.
 
-# Fort Zarah
+# Fort Zarah {% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Mesa Vista Hall"
+  image-url="fort-zarah.jpg"
+  source-url=http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html"
+%}
 
 In a time rife with attacks, a camp was set up near Walnut Creek Crossing. Camp Dunlap was established to protect the mail service. [^4] Eventually the post was renamed Fort Zarah, after the commanding officers son. [^17] It cost what would now equal $100,000 to build the Fort at the time. It was then abandoned in December 1869, and became overrun with thieves and marauders. Nothing remains of the site today. [^17]
 
