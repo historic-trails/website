@@ -40,9 +40,9 @@ First were the Kiowas, whose name translates to the “Principal people.” Hist
 # Fort Zarah 
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
-  caption="Mesa Vista Hall"
+  caption="Fort Zarah"
   image-url="fort-zarah.jpg"
   source-url=http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html"
 %}
