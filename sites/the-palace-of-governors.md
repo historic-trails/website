@@ -7,13 +7,10 @@ date: 2019-17-11
 
 # The Palace of the Governors 
 
-The palace of the Governors is located in Santa Fe, New Mexico. The building was constructed in 1610 under the rule of the newly appointed governor of the American Southwest Pedro De Peralta. This building then housed multiple governors and survived many events that shaped the Southwest. 
+## Santa Fe during the 1700’s 
 
-## Santa Fe during the 1600’s 
+Santa Fe plays a huge part in Spanish history and some of the buildings are known to be some of the oldest of the United States. During the 1700’s the Spaniards conquered this area that was occupied by the Pueblo Indians. Life for the pueblo people was rough and most of them were enslaved by the Spaniards. 
 
-Santa Fe plays a huge part in Spanish history and some of the buildings are known to be some of the oldest of the United States. During the 1600’s the Spaniards conquered this area that was occupied by the Pueblo Indians. They began constructing buildings like the Palace of the Governors and they are structurally known for being built with adobe. New Mexico is known for having buildings and houses built from adobe. Life for the pueblo people was rough and most of them were enslaved by the Spaniards. 
-
-## Pedro De Peralta
 
 Pedro de Peralta was appointed as the second Spanish governor in 1610 by Luis De Velasco. He was a Spanish conquistador who came to the Americas from Spain. Under his law the construction of the palace began making him the original name behind this historic site. 
 
@@ -41,11 +38,15 @@ The palace today is strictly used as a museum where people can come and see the 
 
 ## Bibliography
 
-Gomez, Adrian. “Palace of the Governors Closing for Remodeling.” Albuquerque Journal, www.abqjournal.com/1194528/palace-of-the-governors-to-close-aug-1-for-six-month-renovation.html
+Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
+
 “History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
-New Mexico History Museum, www.nmhistorymuseum.org/campus.php.
+
 “Palace of the Governors--American Latino Heritage: A Discover Our Shared Heritage Travel Itinerary.” National Parks Service, U.S. Department of the Interior, www.nps.gov/nr/travel/american_latino_heritage/Palace_of_the_Governors.html.
+
+New Mexico History Museum, www.nmhistorymuseum.org/campus.php
+
 “Palace of the Governors.” Historic Santa Fe Foundation, www.historicsantafe.org/palace-of-the-governors.
-“Pedro De Peralta.” New Mexico History.org, newmexicohistory.org/2013/01/10/pedro-de-peralta1/.
+
 “Welcome to the Palace of the Governors!” Palace of the Governors, www.palaceofthegovernors.org/index.php.
 
