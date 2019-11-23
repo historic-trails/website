@@ -40,7 +40,7 @@ The story of the battle of Rabbit Ear Mountain is told in the perspective of the
 
 ### Terrain
 
-The hills are remnants of volcanoes and part of the larger Raton-Clayton Volcanic Field, and therefore depends on the area as to if the ground is firm, loose, or sandy, as well as ranging from flat plains to ridges and valleys. The Spring is when water is the most plentiful, and therefore the best time of year for men and women traveling the Santa Fe Tail to pass though. It has large grassy areas for animals to graze and travelers to camp for the night, making it somewhat of a haven on their rough adventure. The twin peaks are 6,062 ft, the larger one being Rabbit Ear Mountain, and the smaller one being Rabbit Ear Butte due to the steep sides’ and a flat top.
+These iconic mountains are remnants of volcanoes and apart of the larger Raton-Clayton Volcanic Field. This changed the terrain and landscape depending on where on the mountains you are located. There are some areas where the ground is firm, loose, or sandy, as well as ranging from flat plains to ridges and valleys. The Spring is where the water is the most plentiful, where travelers would camp out near for convienance. The best time of year for men and women traveling the Santa Fe Tail to pass though would be the Spring, when the winter snow has melted and the heat is not yet overwhelming. It has several large grassy feilds and areas for animals to graze upon as travelers mkae thier camp for the night, making it a safe haven on their rough adventure. The twin peaks are 6,062 ft and differ in name due to size differences. The larger mountain is called "Rabbit Ear Mountain", and the smaller mountian is called "Rabbit Ear Butte" due to the steep sides’ and characteristic flat top.
 
 {% include figure.html
   class="img-right"
@@ -52,7 +52,7 @@ The hills are remnants of volcanoes and part of the larger Raton-Clayton Volcani
 
 ### Visiting Today
 
-Rabbit Ear is considered one of the most preserved and nearly untouched landmarks apart of the Santa Fe Trail. The three spots that were frequently used as camps by the travelers were all located by sources of water. Today, these are now places where people can camp as well. These campsites are located and open to visitors: the McNees Crossing on Corrumpa (or McNees) Creek, Turkey Creek Camp on what is now called Alamos Creek, and Rabbit Ears Camp on Cienequilla Creek.
+Rabbit Ear is considered one of the most preserved and nearly untouched landmarks that is precerved and recognized landmark located on the Santa Fe Trail. There are three spots that have been preserved for mondern day use and visiting. These sites were frequently used as camps by the travelers, all of which are located by sources of water. The campsites that are located and open to visitors are the the McNees Crossing on Corrumpa (or McNees) Creek, Turkey Creek Camp on what is now called Alamos Creek, and Rabbit Ears Camp on Cienequilla Creek.
 
 
 
