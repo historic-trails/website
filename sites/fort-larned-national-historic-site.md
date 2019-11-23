@@ -4,7 +4,6 @@ author: Benjamin Liu
 date: 2019-12-01
 ---
 
-\
 {% include figure.html 
     class="img-right" 
     width="33%"
@@ -12,6 +11,7 @@ date: 2019-12-01
     image-url="fort-larned-watercolor.jpg" 
     source-url="https://www.jamesmannartfarm.com/jmas401.html
 %}
+/
 # Fort Larned National Historic Site
 Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier. A number of these forts were built along the Santa Fe Trail, with the most significant being Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico. These three forts supplied patrols that protected hundreds of miles of trail.[^NRHP8]
 
