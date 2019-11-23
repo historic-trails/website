@@ -5,7 +5,7 @@ date: 2019-11-13
 ---
 # Background
 
-1855, six years before the American civil war, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. Wagons traveling the trail would be forced to stop and set up camp along the river banks to wait out flooding. Thus it was the perfect site for a trading booth, and eventually a military post and toll booth. 
+1855, six years before the American civil war, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. Wagons traveling the trail would be forced to stop and set up camp along the river banks to wait out flooding. Thus it was the perfect site for a trading booth, and eventually a military post and toll booth.
 
 # Allison and Boothe 
 {% include figure.html
