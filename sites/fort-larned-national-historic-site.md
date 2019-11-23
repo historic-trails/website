@@ -1,7 +1,7 @@
 ---
 title: Fort Larned National Historic Site
 author: Benjamin Liu
-date: 2019-12-00
+date: 2019-12-01
 ---
 
 \
@@ -13,11 +13,9 @@ date: 2019-12-00
     source-url="https://www.jamesmannartfarm.com/jmas401.html
 %}
 # Fort Larned National Historic Site
-Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes, such as the Santa Fe Trail, and to act as launching points for military campaigns against Native Americans on the western frontier. The major forts along the Santa Fe Trail were Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico
+Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier. A number of these forts were built along the Santa Fe Trail, with the most significant being Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico.[^NRHP8]
 
-Fort Larned was one of these frontier forts, but it had special significance to both the Santa Fe Trail and to the American government. 
-
-and for both the US military and the Native American tribes of the Great Plains. 
+Fort Larned is located 
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
@@ -187,4 +185,5 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^Zwink88]: Zwink, 88
 [^Zwink89]: Zwink, 89-91
 [^Unrau]: Unrau
-[^NRHP]: NRHP, Fort Larned Inventory/Nomination Form
+[^NRHP]: NRHP Fort Larned Inventory/Nomination Form
+[^NRHP8]: NRHP Fort Larned Inventory/Nomination Form, 8
