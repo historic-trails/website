@@ -9,7 +9,7 @@ date: 2019-12-05
     width="33%"
     caption="A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail." 
     image-url="fort-larned-watercolor.jpg" 
-    source-url="https://www.jamesmannartfarm.com/jmas401.html
+    source-url="https://www.jamesmannartfarm.com/jmas401.html"
 %}
 /
 # Fort Larned National Historic Site
