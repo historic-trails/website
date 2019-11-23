@@ -10,7 +10,7 @@ Rabbit Ear mountain was an important landmark on the Santa Fe Trail because kt n
 
 {% include figure.html
   Class="img-right"
-  width="50%"
+  width="70%"
   caption="Rabbit Ear Mountain, visable from a distance"
   image-url="rabbit-ear.jpg"
   source-url="https://i.pinimg.com/originals/03/91/ef/0391efbec474e090e78995bd243d936d.jpg" %}
@@ -33,7 +33,7 @@ The story of the battle of Rabbit Ear Mountain is told in the perspective of the
 {% include figure.html
   class="img-right"
   width="18%"
-  caption="Rabbit Ear Plateau Waterfall"
+  caption="Rabbit Ear Plateau Waterfall, One of many water sources for travelers on the Santa Fe Trail to use"
   image-url="rabbit-plateau-waterfall.jpg"
   source-url="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjqp7D-9fTlAhUYoZ4KHZqdDi8QjRx6BAgBEAQ&url=http%3A%2F%2Fsouthernnewmexicoexplorer.blogspot.com%2F2013%2F01%2Frabbit-ears-canyonplateau-organ.html&psig=AOvVaw1UE-x_8OwQuK4Qn_o896DM&ust=1574206387669356"
 %}
@@ -45,7 +45,7 @@ These iconic mountains are remnants of volcanoes and apart of the larger Raton-C
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="McNees Crossing Camp Landscape"
+  caption="McNees Crossing Camp Landscape, named after traveler McNees who was killed with is traveling goup by Pawnee Indians. Located near Rabbit Ear Mountain"
   image-url="mcneesecrossing.jpg"
   source-url="https://images.app.goo.gl/haXKf6uhVbUWqBxQ9"
 %}
