@@ -9,7 +9,7 @@ date: 2019-17-11
 
 {% include figure.html
   class="img-center"
-  width="100%"
+  width="80%"
   caption="A picture of the palace of the Governors around the 17th century. Since the renovations there is not a top balcony on top of the building. There is still a simmilarity between the modern and old structure"
   image-url="palace2.png"
   source-url="https://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/photos/006799-edited.jpg"
