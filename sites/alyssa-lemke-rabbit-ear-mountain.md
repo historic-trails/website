@@ -6,7 +6,7 @@ date: 2019-11-18
 
 # Rabbit Ear Mountain
 
-Rabbit Ear mountain was an important landmark on the Santa Fe Trail because kt not only was a visible landmark from all directions, including Texas, but it indicated a reliable source of drinkable water for 30 miles. After passing the desolate desert before reaching Rabbit Ear, water and edable greenary was sparce for travelers. One a traveler would reach the Mountian, they would typically meander though the area for four days, enjoying the natural resources. These groups of men, women, and children would cross the valleys of the mountain and emerge from the landscape replenish and rejuvinated. Once they left this safe haven, the next closet town that provided travelers with necessities, was Clayton New Mexico located to the north of the Mountain. 
+Rabbit Ear mountain was an important landmark on the Santa Fe Trail because kt not only was a visible landmark from all directions, including Texas, but it indicated a reliable source of drinkable water for 30 miles. After passing the desolate desert before reaching Rabbit Ear, water and edable greenary was sparce for travelers. One a traveler would reach the Mountian, they would typically meander though the area for four days, enjoying the natural resources. These groups of men, women, and children would cross the valleys of the mountain and emerge from the landscape replenish and rejuvinated. Once they left this safe haven, the next closet town that provided travelers with necessities, was Clayton New Mexico located to the north of the Mountain [^National Register Form]. 
 
 {% include figure.html
   Class="img-right"
