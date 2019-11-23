@@ -7,6 +7,14 @@ date: 2019-17-11
 
 # The Palace of the Governors 
 
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Make sure your image is large enough to be 100% width or it will look grainy."
+  image-url="palace2.png"
+  source-url="https://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Palace_of_the_Governors.html"
+  %}
+
 ## Santa Fe during the 1700’s 
 
 Santa Fe plays a huge part in Spanish history and some of the buildings are known to be some of the oldest of the United States. During the 1700’s the Spaniards conquered this area that was occupied by the Pueblo Indians. Life for the pueblo people was rough and most of them were enslaved by the Spaniards. 
