@@ -15,9 +15,9 @@ date: 2019-17-11
   source-url="https://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/photos/006799-edited.jpg"
   %}
 
-## Santa Fe during the 1700’s 
+## Santa Fe during the 1600’s 
 
-Santa Fe plays a huge part in Spanish history and some of the buildings are known to be some of the oldest of the United States. During the 1700’s the Spaniards conquered this area that was occupied by the Pueblo Indians. Life for the pueblo people was rough and most of them were enslaved by the Spaniards. 
+Santa Fe during the 1600's brought exploration, explotation of the native people, and the start of the history of the great Southwest.  During the 1600’s the Spaniards conquered this area that was occupied by the Pueblo Indians. Life for the pueblo people was rough and most of them were enslaved by the Spaniards. 
 
 
 Pedro de Peralta was appointed as the second Spanish governor in 1610 by Luis De Velasco. He was a Spanish conquistador who came to the Americas from Spain. Under his law the construction of the palace began making him the original name behind this historic site. 
