@@ -13,9 +13,9 @@ date: 2019-12-01
     source-url="https://www.jamesmannartfarm.com/jmas401.html
 %}
 # Fort Larned National Historic Site
-Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier. A number of these forts were built along the Santa Fe Trail, with the most significant being Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico.[^NRHP8]
+Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier. A number of these forts were built along the Santa Fe Trail, with the most significant being Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico. These three forts supplied patrols that protected hundreds of miles of trail.[^NRHP8]
 
-Fort Larned is located 
+Fort Larned's location made it an ideal place for diplomacy and meetings between Native American leaders and the US government, as well as for hosting military expeditions on the plains. 
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
@@ -27,9 +27,7 @@ Today, Fort Larned is one of the best-preserved examples of these forts, and is 
   image-url="us-western-purchases.jpg"
   source-url="https://www.nationalgeographic.org/photo/territorial-gains/"
 %}
-In 1848, the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) ended the Mexican-American War. Shortly afterwards, with the [Gadsden Purchase of 1854](https://en.wikipedia.org/wiki/Gadsden_Purchase), and several other land acquisitions, the United States had secured the western territory that would create the borders that we know today. With this new frontier opened up, settlers began to pour in. In the early 19th century, the US military’s goal in the West was simple:
-
->[The Army’s policy between] 1804-1845 was marked by the army maintaining a line of forts in advance of surging frontier settlements, thus creating a buffer military zone between pioneer settlers and native Indians. By this procedure, the government planned to control the Indians, preventing them from committing anticipated attacks against advancing white frontiersmen. Officials in Washington, D. C., also desired to protect the Indians, particularly those removed previously from the eastern United States, by defusing potential intertribal warfare and by preventing illegal and unscrupulous activities of whites.[^ZwinkQuote1]
+In 1848, the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) ended the Mexican-American War. Shortly afterwards, with the [Gadsden Purchase of 1854](https://en.wikipedia.org/wiki/Gadsden_Purchase), and several other land acquisitions, the United States had secured the western territory that would create the borders that we know today. With this new frontier opened up, settlers began to pour in. In the early 19th century, the US military’s goal in the West was simple: they would maintain a line of forts to create a "buffer zone" between the natives and white settlers. The goal of these forts was to act as peacekeepers; both to prevent Native American attacks on the rapidly expanding settlements and to keep the white settlers in check.[^ZwinkQuote1]
 
 However, with the frontier now entirely claimed by the U.S., this idea of having a "buffer zone" no longer applied. It was decided that more permanent forts were needed, and it also came to light that the policy toward Native Americans should change. This new policy called for clamping down on the natives, using military force to keep them in their reservations and away from white settlers. Dozens of new forts sprung up across the West, including Fort Larned, and a series of major conflicts with the Native Americans (the largest campaigns of the [Indian Wars](https://en.wikipedia.org/wiki/American_Indian_Wars)) started, with these forts as their focal points.[^Zwink4]
 
