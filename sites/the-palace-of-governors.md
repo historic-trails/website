@@ -21,7 +21,7 @@ date: 2019-17-11
 
 ## Historical significance: 
 
-This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events that are important to the Southwest.  
+This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events that are important to the Southwest. [^A]  
 
 ## The Pueblo Revolt of 1680-1693:
 
@@ -53,7 +53,7 @@ Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treas
 
 “History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
 
-“Palace of the Governors--American Latino Heritage: A Discover Our Shared Heritage Travel Itinerary.” National Parks Service, U.S. Department of the Interior, www.nps.gov/nr/travel/american_latino_heritage/Palace_of_the_Governors.html.
+[^A] “Palace of the Governors--American Latino Heritage: A Discover Our Shared Heritage Travel Itinerary.” National Parks Service, U.S. Department of the Interior, www.nps.gov/nr/travel/american_latino_heritage/Palace_of_the_Governors.html.
 
 New Mexico History Museum, www.nmhistorymuseum.org/campus.php
 
