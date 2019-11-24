@@ -20,6 +20,8 @@ Fort Larned's location on the Santa Fe Trail made it an ideal place for diplomac
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
 
+
+## Origins 
 {% include figure.html
   class="img-left"
   width="33%"
@@ -27,12 +29,11 @@ Today, Fort Larned is one of the best-preserved examples of these forts, and is 
   image-url="us-western-purchases.jpg"
   source-url="https://www.nationalgeographic.org/photo/territorial-gains/"
 %}
-## Origins
 In 1848, the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) ended the Mexican-American War. Shortly afterwards, with the [Gadsden Purchase of 1854](https://en.wikipedia.org/wiki/Gadsden_Purchase), and several other land acquisitions, the United States had secured the western territory that would create the borders that we know today. With this new frontier opened up, settlers began to pour in. In the early 19th century, the US military’s goal in the West was simple: they would maintain a line of forts to create a "buffer zone" between the natives and white settlers. The goal of these forts was to act as peacekeepers; both to prevent Native American attacks on the rapidly expanding settlements and to keep the white settlers in check.[^ZwinkQuote1]
 
 However, with the frontier now entirely claimed by the U.S., this idea of having a "buffer zone" no longer applied. It was decided that more permanent forts were needed, and it also came to light that the policy toward Native Americans should change. This new policy called for clamping down on the natives, using military force to keep them in their reservations and away from white settlers. Dozens of new forts sprung up across the West, including Fort Larned, and a series of major conflicts with the Native Americans (the largest campaigns of the [Indian Wars](https://en.wikipedia.org/wiki/American_Indian_Wars)) started, with these forts as their focal points.[^Zwink4] 
 
-However, this was not the only reason these forts were created. During this period, trade routes to the West saw substantial increases in both traffic and value of shipped goods. A number of these forts were built along the Santa Fe Trail, with the most significant being Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico. These three forts essentially held each major fork of the Santa Fe Trail, and supplied troops that patrolled hundreds of miles of trail.[^NRHP8] These frontier forts and their soldiers became the only force of law on these trails, and the only source of the US government's authority on the frontier.[^Unrau]
+However, this was not the only reason these forts were created. During this period, trade routes to the West saw substantial increases in both traffic and value of shipped goods. A number of these forts were built along the Santa Fe Trail, with the most significant being Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico. These three forts essentially held each major fork of the Santa Fe Trail, and supplied troops that patrolled hundreds of miles of trail.[^NRHP7] These frontier forts and their soldiers became the only force of law on these trails, and the only source of the US government's authority on the frontier.[^Unrau]
 
 
 ## The Fort
@@ -139,7 +140,9 @@ In 1868, Fort Larned’s annuity distribution center was closed, as there were n
 
 
 ## Fort Larned as a National Historic Site
+Between 1878 and 1884, Fort Larned was left to the elements, and with the help of looters and scavengers, slowly detiorated. However, in 1884 the land was sold at an auction and quickly passed through the hands of several owners, and the fort was converted into a ranching operation. The barracks were converted into barns, new silos and corrals were built, and many of its more temporary structures were demolished. By 1960, the site had been turned from a rough military outpost into a stylish, cultivated ranch. It remained as such until its adoption as a National Historic Site in 1964.[^NRHP9]
 
+Since then, the National Park Service has tried its best to revert these changes. All of the new ranch structures have been taken down, and the only buildings left are the few permanent buildings that the military built in the 1860's. 
 
 
 
@@ -186,4 +189,5 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^Zwink89]: Zwink, 89-91
 [^Unrau]: Unrau
 [^NRHP]: NRHP Fort Larned Inventory/Nomination Form
-[^NRHP8]: NRHP Fort Larned Inventory/Nomination Form, 8
+[^NRHP7]: NRHP Fort Larned Inventory/Nomination Form, 7
+[^NRHP9]: NRHP Fort Larned Inventory/Nomination Form, 9
