@@ -8,12 +8,14 @@ date: 2019-12-05
 # Fort Larned National Historic Site
 {% include figure.html 
     class="img-right" 
-    width="33%"
+    width="27%"
     caption="A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail." 
     image-url="fort-larned-watercolor.jpg" 
     source-url="https://www.jamesmannartfarm.com/jmas401.html"
 %}
-Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier. Fort Larned's location on the Santa Fe Trail made it an ideal place for diplomacy and meetings between Native American leaders and the US government, as well as for hosting military expeditions on the plains. 
+Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier.
+
+Fort Larned's location on the Santa Fe Trail made it an ideal place for diplomacy and meetings between Native American leaders and the US government, as well as for hosting military expeditions on the plains. 
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
