@@ -9,7 +9,7 @@ date: 2019-17-11
 
 {% include figure.html
   class="img-center"
-  width="80%"
+  width="75%"
   caption="A picture of the palace of the Governors around the 17th century. Since the renovations there is not a top balcony on top of the building. There is still a simmilarity between the modern and old structure"
   image-url="palace2.png"
   source-url="https://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/photos/006799-edited.jpg"
@@ -33,7 +33,7 @@ The Palace of the Governors is an old-style adobe building that included many fe
 
 ## The New Mexico History Museum
 
-This museum is just cattycornered to the palace of the governors and was built as a companion to the historical site. This museum includes a “permanent and temporary exhibitions that span the early history of indigenous people, Spanish colonization, the Mexican Period, and travel and commerce on the legendary Santa Fe Trail” (author,date). This museum adds to the physical space of the historic area brining tourists’ attention to the history of Santa Fe and the Palace of the Governors.  
+This museum is just cattycornered to the palace of the governors and was built as a companion to the historical site. This museum includes a “permanent and temporary exhibitions that span the early history of indigenous people, Spanish colonization, the Mexican Period, and travel and commerce on the legendary Santa Fe Trail”. This museum adds to the physical space of the historic area bringing tourists’ attention to the history of Santa Fe and the Palace of the Governors.  
 
 ## The Palace of the Governors Today
 
