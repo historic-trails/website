@@ -6,13 +6,6 @@ date: 2019-12-05
 
 /
 # Fort Larned National Historic Site
-{% include figure.html 
-    class="img-right" 
-    width="27%"
-    caption="A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail." 
-    image-url="fort-larned-watercolor.jpg" 
-    source-url="https://www.jamesmannartfarm.com/jmas401.html"
-%}
 Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier.
 
 Fort Larned's location on the Santa Fe Trail made it an ideal place for diplomacy and meetings between Native American leaders and the US government, as well as for hosting military expeditions on the plains. 
@@ -64,7 +57,7 @@ Before the creation of Fort Larned, Santa Fe Trail travellers would leave [Fort 
 ## Early Interactions with Native Americans
 In the 1830’s and 1840’s, with the increase in development of Texas, and its adoption as a state, Apache and Cheyenne tribes in northern Texas were forcibly moved further north, into western Kansas. The increased Native American population led to a sharp decline in the buffalo population, and a scarcity of resources for the native tribes living off the land. Coupled with the increased traffic on the Santa Fe Trail, this forced many natives in the area to turn to looting and raiding to survive.[^Unrau] Reports from people travelling the trail talked about running into large groups of natives waiting at strategic points in the trail, coercing the travellers to give them food in exchange for safe passage, or just looking for any opportunity to steal from the wagons.[^Zwink78]
 
-Over the course of the Civil War, with many American troops having gone off to the east to fight the Confederacy, the fighting over resources on the Santa Fe Trail intensified. This would lead to the [Nine Mile Ridge Massacre](https://www.legendsofamerica.com/we-ninemileridge/), about 75 miles west of Fort Larned[^Zwink82]: 
+Over the course of the Civil War, with many of the troops along the frontier having been relocated to the east to fight the Confederacy, the fighting over resources on the Santa Fe Trail intensified. This would lead to the [Nine Mile Ridge Massacre](https://www.legendsofamerica.com/we-ninemileridge/), about 75 miles west of Fort Larned[^Zwink82]: 
 
 >In January, 1863, a wagon train that was preparing to bed down for the night was surrounded by a group of hungry Indians who demanded food and coffee. In the excitement that followed, a teamster wounded one of the Indians. This prompted them to return before daylight and massacre all the teamsters, excluding one who escaped to the protection of Fort Larned.[^Unrau]
 
@@ -104,7 +97,7 @@ The situation got to the point where the US army decided it needed to send a mes
   source-url="https://www.kansasmemory.org/item/209726/page/1"
 %}
 
-Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lieutenant Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who would be leading the cavalry units in this campaign. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chiefs. The main goal of this expedition was to intimidate the chiefs and make a show of force to the natives, as explained by Hancock:
+Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lieutenant Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who, from this point forward, would be the commander of the 7th Calvary. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chiefs.[^Coates51] The main goal of this expedition was to intimidate the chiefs and make a show of force to the natives, as explained by Hancock:
 
 >"My object of making an expedition at this time is to show the Indians that we are able to chastise any tribes who may molest people who are traveling across the plains. It is not our desire to bring on difficulties with the Indians, but to treat them with justice and according to our treaty stipulations, and desire especially in my dealings with them to act through their Agent as far as practicable. I will go fully prepared for peace or war." - General Winfield S. Hancock
 
@@ -134,6 +127,13 @@ In 1868, with no one left to pay annuities to, Fort Larned’s annuity distribut
 
 
 ## Fort Larned as a National Historic Site
+{% include figure.html 
+    class="img-right" 
+    width="33%"
+    caption="A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail." 
+    image-url="fort-larned-watercolor.jpg" 
+    source-url="https://www.jamesmannartfarm.com/jmas401.html"
+%}
 Between 1878 and 1884, Fort Larned was left to the elements, and with the help of scavengers, slowly detiorated. However, in 1884 the land was sold at an auction and quickly passed through the hands of several owners, and the fort was converted into a ranching operation. The barracks were converted into barns, new silos and corrals were built, and many of its more temporary structures were demolished. By 1960, the site had been turned from a rough military outpost into a stylish, cultivated ranch. It remained as such until its adoption as a National Historic Site in 1964.[^NRHP9]
 
 Since then, the National Park Service has tried its best to revert these changes. All of the new ranch structures have been taken down, and the only buildings left are the few permanent buildings that the military built in the 1860's. 
@@ -157,6 +157,8 @@ http://plainshumanities.unl.edu/encyclopedia/doc/egp.war.017
 
 
 ### Citations
+
+Coates, I., & Kennedy, W. J. D. (1997). On the plains with Custer and Hancock: the journal of Isaac Coates, army surgeon. Boulder, CO: Johnson Books. 
 
 National Register of Historic Places, Fort Larned National Historic Site, Larned, Pawnee County, Kansas, National Register #66000107. 
 
@@ -184,3 +186,6 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^NRHP]: NRHP Fort Larned Inventory/Nomination Form
 [^NRHP7]: NRHP Fort Larned Inventory/Nomination Form, 7
 [^NRHP9]: NRHP Fort Larned Inventory/Nomination Form, 9
+[^Coates50]: Coates & Kennedy, 51
+
+
