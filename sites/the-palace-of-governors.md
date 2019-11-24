@@ -35,6 +35,14 @@ The Palace of the Governors is an old-style adobe building that included many fe
 
 This museum is just cattycornered to the palace of the governors and was built as a companion to the historical site. This museum includes a “permanent and temporary exhibitions that span the early history of indigenous people, Spanish colonization, the Mexican Period, and travel and commerce on the legendary Santa Fe Trail”. This museum adds to the physical space of the historic area bringing tourists’ attention to the history of Santa Fe and the Palace of the Governors.  
 
+{% include figure.html
+class="img-left"
+width="50%"
+caption="This is an in depth map of where the palace is located in the historic Santa Fe Plaza. This photo also shows where the old Santa Fe trail runs through."
+image-url="palace5.gif"
+source-url="http://www.palaceofthegovernors.org/GRAPHICS/home_map.gif"
+%}
+
 ## The Palace of the Governors Today
 
 The palace today is strictly used as a museum where people can come and see the historic site it stands in a prominent place in the famous plaza. During the 1900’s the palace was officially going to be renovated into a museum and the renovations started in 1913 they wanted to highlight the Spanish-colonial features. The city of Santa Fe wanted to preserve the history that the palace held, but also make it appeal to people so they would like to visit. As you walk through the renovated palace you can tell what has been conveniently changed to be more modern and to fit the standards of Santa Fe and tourism. Tourism has changed over the years to be more oveer the top and to sell a western view of what the southwest is like. While there are many modern changes there are open areas of the walls where you can see the original walls where they stand between the new remodeled area. There is even a clear glass on the floor that shows the original flooring below the new one that was put in during the remodel. As you walk you can witness different histories and stories throughout about the Spaniards, pueblo people, and artifacts. There are different tours you can take at the museum one is a self-guided tour and the other is as guided when someone takes you around and tells you about the palace and history. There are over four hundred years of New Mexico history housed in the palace today as exhibits. The museum makes it easy to keep the history alive and preserve the past in the building. Outside of the palace on the patio there are vendors who sell Native American style jewelry to museum goers and tourists. This brings money to these people as well as interested eyes to this historic site. 
