@@ -13,7 +13,7 @@ grew more than a foot in height."%}
 In the past, visitors have noted the healthy, rich soil, green valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper line the banks of the river and the town [^Clark].  But this is not the only reason this area is remarkable. In 1963, La Junta was deemed a National Historic Landmark. It has served many purposes throughout history. This junction has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the Santa Fe Trail. As one Army of the West soldier exclaimed, upon viewing the valley: "the first settlement we had seen in 775 miles" [^Greenwood2].
 
 ## Here first – La Junta’s early occupiers
- Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS],  La Junta was occupied by several indigenous tribes including the Utes (nomadic), the Comanches, the Kiowas, Navajos, Arapahoes, and the Jicarilla Apaches (nomadic). These tribes had hunted, traded, and camped on the land for several decades [^Stanley3][^Kosmider30]. Little informations about these tribes is available orior to the beginning of the Santa Fe Trail. 
+ Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS],  La Junta was occupied by several indigenous tribes, including The Jicarilla Apaches. The Jicarilla Apaches hunted the had hunted, traded, and camped on the land for several decades [^Stanley3][^Kosmider30]. Little informations about these tribes is available orior to the beginning of the Santa Fe Trail. 
  
 ## [The Scolly Land Grant](https://www.topozone.com/map-print/?lat=35.790597&lon=-104.9816685&title=Watrous%20Topo%20Map%20in%20Mora%20County%20New%20Mexico)
 {% include figure.html
@@ -36,7 +36,8 @@ On June 11, 1846, Alexander Barclay, along with the help of Joseph Doyle, laid t
 ### Samuel Watrous 
 {% include figure.html class="img-left" width="50%" caption="Samuel Watrous, pictured here with wife Josephine Watrous, who brought about much change in La Junta. The railroad renamed the town after him." image-url="samuel-watrous.jpg" source-url="https://www.legendsofamerica.com/nmsamuelwatrous/"%} 
 
-Samuel Watrous was a New Englander who traveled to New Mexico in search of new opportunity.  He was person with “untiring energy...hard work, vigilance against Indians” [^Stanley7].  After settling in the La Junta valley, Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations [^Kosmidervi3]
+Samuel Watrous was New-England born man with “untiring energy” [^Stanley7]. He arrived in Dolores, New Mexico in 1835, at the age of twenty six.  It was in this small mining town that Watrous met his first wife. Together, they had seven children. To support his growing family, Watrous began selling goods to the miners of Dolores, including deerskin, meat, and clothes. Watrous ran his store in Dolores for nearly a decade, eventually saving up enough to purchase part of the John Scolly Grant in 1849. He and his family then settled in the La Junta valley [^KosmiderI].
+Watrous experienced hostility from the Ute, Kiowas, Jicarilla Apache, and Comanche tribes, who “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider3]. Frustrated, Watrous spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia). By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations [^Kosmidervi3]
 
 
 ## From La Junta to Watrous: a town emerges
@@ -169,6 +170,8 @@ Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13
 [^Kosmider41]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
 [^Kosmider31]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+
+[^KosmiderI]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
 [^Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
 
