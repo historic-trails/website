@@ -17,14 +17,11 @@ date: 2019-17-11
 
 ## Santa Fe during the 1600’s 
 
-Santa Fe during the 1600's brought exploration, exploitation of the native people, and a start of the history of the great Southwest. The Spanish explorers of the time conquered this area and took land away from the Pueblo people living in this area. Under Spanish command Pueblo people were slaughtered or enslaved by the explorers as they came to estabish a new colony. 
-
-
-Pedro de Peralta was appointed as the second Spanish governor in 1610 by Luis De Velasco. He was a Spanish conquistador who came to the Americas from Spain. Under his law the construction of the palace began making him the original name behind this historic site. 
+(Santa Fe)[https://www.legendsofamerica.com/nm-santafe/]  during the 1600's brought exploration, exploitation of the native people, and a start of the history of the great Southwest. The Spanish explorers of the time conquered this area and took land away from the Pueblo people living in this area. Under Spanish command Pueblo people were slaughtered or enslaved by the explorers as they came to estabish a new colony. Santa Fe is the third oldest city in the country and was known for having the oldest buildings created by the spanish explorers. During this time Pedro de Peralta was appointed as the second Spanish governor in 1610 by Luis De Velasco. He was a Spanish conquistador who came to the Americas from Spain. Under his law the construction of one of the oldest capital buildings in the country began thus, making him the original name behind the historic Palace of the Governors. 
 
 ## Historical significance: 
 
-This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events that are important to the Southwest.(^leilani)  
+This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events that are important to the Southwest.  
 
 ## The Pueblo Revolt of 1680-1693:
 
@@ -46,7 +43,7 @@ The palace today is strictly used as a museum where people can come and see the 
 
 ## Bibliography
 
-(^leilani)Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
+Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
 
 “History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
 
