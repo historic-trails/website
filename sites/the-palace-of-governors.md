@@ -42,10 +42,11 @@ The palace today is strictly used as a museum where people can come and see the 
 {% include figure.html
 class="img-left"
 width="45%"
-caption="Obviously we need a 50% image somewhere."
+caption="A modern day photo of the palace. Some modern touches are shown from the renovation but, it still shows the spanish style that comes from the southwest."
 image-url="palace1.jpg"
 source-url="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewMexicoPalaceSantaFe.jpg"
 %}
+
 ## Bibliography
 
 Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
