@@ -4,6 +4,8 @@ author: Benjamin Liu
 date: 2019-12-05
 ---
 
+/
+# Fort Larned National Historic Site
 {% include figure.html 
     class="img-right" 
     width="33%"
@@ -11,11 +13,7 @@ date: 2019-12-05
     image-url="fort-larned-watercolor.jpg" 
     source-url="https://www.jamesmannartfarm.com/jmas401.html"
 %}
-/
-# Fort Larned National Historic Site
-Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier. 
-
-Fort Larned's location made it an ideal place for diplomacy and meetings between Native American leaders and the US government, as well as for hosting military expeditions on the plains. 
+Fort Larned was an American military post near Larned, Kansas that was in operation from 1859 to 1878. It was one of several frontier forts that were established in the 1800's to protect trade routes and act as launching points for military campaigns against Native Americans on the western frontier. Fort Larned's location on the Santa Fe Trail made it an ideal place for diplomacy and meetings between Native American leaders and the US government, as well as for hosting military expeditions on the plains. 
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
@@ -31,7 +29,7 @@ In 1848, the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_
 
 However, with the frontier now entirely claimed by the U.S., this idea of having a "buffer zone" no longer applied. It was decided that more permanent forts were needed, and it also came to light that the policy toward Native Americans should change. This new policy called for clamping down on the natives, using military force to keep them in their reservations and away from white settlers. Dozens of new forts sprung up across the West, including Fort Larned, and a series of major conflicts with the Native Americans (the largest campaigns of the [Indian Wars](https://en.wikipedia.org/wiki/American_Indian_Wars)) started, with these forts as their focal points.[^Zwink4] 
 
-However, this was not the only reason these forts were created. During this period, trade routes to the West saw substantial increases in both traffic and value of shipped goods. A number of these forts were built along the Santa Fe Trail, with the most significant being Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico. These three forts essentially held each major fork of the Santa Fe Trail, and supplied troops that patrolled hundreds of miles of trail.[^NRHP8] These frontier forts and their soldiers became the only force of law on these trails, and the only form of protection many travellers had.[^Unrau]
+However, this was not the only reason these forts were created. During this period, trade routes to the West saw substantial increases in both traffic and value of shipped goods. A number of these forts were built along the Santa Fe Trail, with the most significant being Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico. These three forts essentially held each major fork of the Santa Fe Trail, and supplied troops that patrolled hundreds of miles of trail.[^NRHP8] These frontier forts and their soldiers became the only force of law on these trails, and the only source of the US government's authority on the frontier.[^Unrau]
 
 
 ## The Fort
@@ -73,6 +71,7 @@ The fort itself would also become involved in several incidents with the Natives
 
 The relationship between the Native Americans and the soldiers of the fort was not all bad, however. In January of that same year, a group from the [Caddo confederacy](https://en.wikipedia.org/wiki/Caddo) wandered up to Fort Larned, hoping to find somewhere to settle down. They had fled their village after their [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) had left them to join the Confederate army. The authorities at Fort Larned were sympathetic to them, and managed to get them a chunk of money and a large swath of land across the river to set up farms.[^Report] Unfortunately, relations between the US government and the tribes of the Great Plains would only get worse, and a year later, a war started. The Caddo farmers fled, hoping not to get caught in the crossfire.[^Unrau]
 
+
 ## Indian War of 1864
 {% include figure.html
   class="img-right"
@@ -101,7 +100,7 @@ The situation got to the point where the US army decided it needed to send a mes
   source-url="https://www.kansasmemory.org/item/209726/page/1"
 %}
 
-\
+
 
 >"My object of making an expedition at this time is to show the Indians that we are able to chastise any tribes who may molest people who are traveling across the plains. It is not our desire to bring on difficulties with the Indians, but to treat them with justice and according to our treaty stipulations, and desire especially in my dealings with them to act through their Agent as far as practicable. I will go fully prepared for peace or war." - General Winfield S. Hancock
 
