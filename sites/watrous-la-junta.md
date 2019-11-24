@@ -13,8 +13,18 @@ grew more than a foot in height."%}
 In the past, visitors have noted the healthy, rich soil, green valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper line the banks of the river and the town [^Clark].  But this is not the only reason this area is remarkable. In 1963, La Junta was deemed a National Historic Landmark. It has served many purposes throughout history. This junction has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the Santa Fe Trail. As one Army of the West soldier exclaimed, upon viewing the valley: "the first settlement we had seen in 775 miles" [^Greenwood2].
 
 ## Here first – La Junta’s early occupiers
- Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS],  La Junta was occupied by several indigenous tribes, including The Jicarilla Apaches. The Jicarilla Apaches hunted the had hunted, traded, and camped on the land for several decades [^Stanley3][^Kosmider30]. Little informations about these tribes is available orior to the beginning of the Santa Fe Trail. 
+ Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS],  La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches.[^Stanley3][^Kosmider30][^Tiller] 
+
+The Jicarilla Apache tribe had two distinct groups:
+* The **Olleros**, who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using similar techniques to Pueblo Indians. 
+* The **Llaneros**, who utilized techniques reminsicent of Plains Indians techniques,such as their dress style and their teepees ( a tent-like structure made of wooden wooden poles and cowhide). The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
+The Jicarilla Apache tribe was relatively peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a fignment of the imagination, or at least greatly exaggerated" [^Tiller8] she writes. 
  
+
+## Who's land is it, anyway? The Spanish in New Mexico
+
+When the Mexican government began to grant land to settlers, the "road to total disposession of Jicarillas from their traditional country"[^Tiller34] began. The grants effectively "created an elite group of merchants, landholders, and politicans in Northern New Mexico in the heart of Jicarilla land" [^Tiller35]. According to Spanish records, at the end of the 1600's, the Jicarilla had been residing in New Mexico for nearly two centuries. 
+
 ## [The Scolly Land Grant](https://www.topozone.com/map-print/?lat=35.790597&lon=-104.9816685&title=Watrous%20Topo%20Map%20in%20Mora%20County%20New%20Mexico)
 {% include figure.html
 class="img-left"
