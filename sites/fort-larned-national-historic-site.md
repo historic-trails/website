@@ -17,14 +17,15 @@ Fort Larned was an American military post near Larned, Kansas that was in operat
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
-## Origins
+
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="33%"
   caption="The territories that the US acquired in the early 19th century. The annexation of Texas and the US's victory in the Mexican-American War were the biggest influences to commerce on the Santa Fe Trail."
   image-url="us-western-purchases.jpg"
   source-url="https://www.nationalgeographic.org/photo/territorial-gains/"
 %}
+## Origins
 In 1848, the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo) ended the Mexican-American War. Shortly afterwards, with the [Gadsden Purchase of 1854](https://en.wikipedia.org/wiki/Gadsden_Purchase), and several other land acquisitions, the United States had secured the western territory that would create the borders that we know today. With this new frontier opened up, settlers began to pour in. In the early 19th century, the US military’s goal in the West was simple: they would maintain a line of forts to create a "buffer zone" between the natives and white settlers. The goal of these forts was to act as peacekeepers; both to prevent Native American attacks on the rapidly expanding settlements and to keep the white settlers in check.[^ZwinkQuote1]
 
 However, with the frontier now entirely claimed by the U.S., this idea of having a "buffer zone" no longer applied. It was decided that more permanent forts were needed, and it also came to light that the policy toward Native Americans should change. This new policy called for clamping down on the natives, using military force to keep them in their reservations and away from white settlers. Dozens of new forts sprung up across the West, including Fort Larned, and a series of major conflicts with the Native Americans (the largest campaigns of the [Indian Wars](https://en.wikipedia.org/wiki/American_Indian_Wars)) started, with these forts as their focal points.[^Zwink4] 
