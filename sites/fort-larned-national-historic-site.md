@@ -85,10 +85,10 @@ Throughout the year, Fort Larned was constantly raided for its supplies, especia
 
 No other attempts at directly attacking the fort ever came, but fighting in the area would continue until early 1865. At this point, Col. Leavenworth (who had become the Indian Agent for the Kiowa and Comanche) wanted to try to find a way to stop the bloodshed. In October, he met with leaders from Kiowa, Comanche, Plains Apache, Arapahoe, and Cheyenne tribes near the Little Arkansas River. Theoretically, this meeting was a success, as every leader present signed new treaties with the US government. In actuality, not every group within those tribes agreed with the treaties, or considered them to be binding in any way. The more militant groups, especially those within the Cheyenne, did not take those treaties to heart, and continued raiding throughout 1866 and 1867.[^Zwink89]
 
-The situation got to the point where the US army decided it needed to send a message, and in the spring of 1867, Major [General Winfield Scott Hancock](https://en.wikipedia.org/wiki/Winfield_Scott_Hancock) and the men under his command were sent to Fort Larned. 
+The situation got to the point where the American government decided it needed to send a message, and in the early spring of 1867, [Major General Winfield Scott Hancock](https://en.wikipedia.org/wiki/Winfield_Scott_Hancock) and the men under his command were sent to Fort Larned. 
 
 
-## Hancock’s War
+## Hancock’s Expedition
 {% include figure.html
   class="img-right"
   width="33%"
@@ -97,21 +97,24 @@ The situation got to the point where the US army decided it needed to send a mes
   source-url="https://www.kansasmemory.org/item/209726/page/1"
 %}
 
-Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lieutenant Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who, from this point forward, would be the commander of the 7th Calvary. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chiefs.[^Coates51] During this meeting, the main goal of this expedition was explained to the chiefs, as written in the journal of Army surgeon Isaac Coates:
+Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lieutenant Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who, from this point forward, would be the commander of the 7th Calvary. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chieftans from a nearby village.[^Coates51] During this meeting, the main goal of this expedition was explained to the chiefs, as written in the journal of Army surgeon Isaac Coates:
 
 >"The Great Father [The President] has heard that some Indians have taken white men and women captives. He has heard also that a great many Indians are trying to get up war to try to hunt the white men. That is the reason I came down here. I intend, not only to visit you here, but my troops will remain among you, to see that the peace and safety of the Plains is preserved. I am going, also, to visit you in your camp. [...] [We] are not anxious for war against Indians, but are ready for a just war, [...] Let the guilty, then, beware, I say to you, to show you the importance of keeping treaties made with us, and of letting the white man travel unmolested." - General Winfield S. Hancock [^Coates54]
 
-In response, one of the Chiefs said: 
+In response, one of the Chieftans stated: 
 
 >"We never did the white man any harm. We don't intend to. [...] We are willing to be friends with the white man. [...] The buffalo are diminishing fast. The antelope, that were plenty a few years ago, are now thin. When they shall all die away, we shall be hungry; we shall want something to eat and will be compelled to come into the fort. Your young men must not fire on us. When they see us, they fire, and we fire on them." - Tall Bull [^Coates57]
 
-From Coates's perspective, Hancock's speeches during the meeting were condescending and arrogant. Their main point was to intimidate the chiefs into following their former treaties - treaties that were unfair, unjust, and promised reparations that never came, and Hancock ignored Tall Bull's response, instead insisting on holding a meeting in their village. [^Coates58] 
+From Coates's perspective, Hancock's speeches during the meeting were patronizing and arrogant. His goal was to intimidate the chiefs into following their former treaties - treaties that were unfair, unjust, and promised reparations for the crimes of white settlers that never came, and Hancock ignored Tall Bull's response, instead insisting on holding a meeting in their village. [^Coates58] 
 
-On the 14th, his expedition set out to march to a nearby Cheyenne and Lakota village. On their way, they ran into a group of native soldiers, who proposed that they meet the following day. Hancock accepted, but when he went to the village the next day, he found that the natives had fled during the night. Hancock was incensed, and ordered for the village to be burned down. 
+The following morning, his expedition set out to march on the Cheyenne village, about 35 miles west of Fort Larned. About 10 miles before reaching the village, they ran into a group of Cheyenne warriors who proposed that they meet the following day, promising to gather up other local tribes' chieftans as well. Hancock accepted, and continued marching his troops forward until they stopped and made camp within a few hundred yards of the village. The sight of army soldiers frightened the villagers, especially since they had heard the story of the Sand Creek Massacre, and they fled as fast as they could, abandoning almost all of their posessions. During the night, a small group of soldiers, including Custer and Coates, went down to the village to investigate, and reported that the village was deserted.[^Coates62]
 
-His justification was that their escape signified their guilt in being conspirators, and was a sign of war. In truth, after the villagers had heard about an American army coming to visit, they thought that they would be the victim of another Sand Creek Massacre. This action would spark off a series of attacks and skirmishes across the plains, now called Hancock’s War. 
+The next morning, Custer and his men were tasked with hunting down the villagers, and with that, Hancock declared that it would "now be war against the Cheyenne and Sioux between the Arkansas and the Platte."[^Coates74] Shortly afterwards, he ordered the Cheyenne village to be burned to the ground.  
 
-Ultimately, Hancock failed at his task of reigning in the Plains Indians, and was relieved of his post at Fort Larned. Skirmishes between white settlers and natives continued, unaffected by this expedition. In fact, because of his mishandling the situation at the Cheyenne village, tempers rose even further. The aftermath of Hancock’s War would end up being a driving force behind the Medicine Lodge Treaty. 
+Sources disagree on what exactly compelled Hancock to give the order, but in general, his decisions seemed to be driven by impatience and mistrust with the natives, as well as a generally arrogant sense of superiority. His mishandling of the situation at the village caused tempers to flare, and his expedition sparked off a series of conflicts across the Plains. Several historians describe this season as a large scale campaign, dubbed "Hancock's War", while others see it as a cold, heartless, unnecessary slaughter against peaceful people, with Hancock being "... a buffoon bumbling around Kansas with fifteen hundred men in tow, futilely pursuing uncatchable Indians and oblivious or indifferent to the suffering he was causing women and children."[^Coates23]
+
+
+The aftermath of Hancock’s War would end up being a driving force behind the Medicine Lodge Treaty. 
 
 ## The Medicine Lodge Treaty
 {% include figure.html
@@ -192,10 +195,14 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^NRHP]: NRHP Fort Larned Inventory/Nomination Form
 [^NRHP7]: NRHP Fort Larned Inventory/Nomination Form, 7
 [^NRHP9]: NRHP Fort Larned Inventory/Nomination Form, 9
+[^Coates23]: Coates & Kennedy, 23
 [^Coates50]: Coates & Kennedy, 50-51
 [^Coates54]: Coates & Kennedy, 54-55
 [^Coates57]: Coates & Kennedy, 57
 [^Coates58]: Coates & Kennedy, 58
+[^Coates62]: Coates & Kennedy, 62-73
+
+
 
 
 
