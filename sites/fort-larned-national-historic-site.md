@@ -19,13 +19,19 @@ Fort Larned's location on the Santa Fe Trail made it an ideal place for diplomac
 
 Today, Fort Larned is one of the best-preserved examples of these forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
-
+{% include figure.html
+  class="img-center"
+  width="60%"
+  caption="Fort Larned's location along the Santa Fe Trail. Although much of the responsibility of patrolling the trail would go to Fort Dodge, Fort Larned's location made it a crucial buffer between the trail and the Native Americans of northwest Kansas."
+  image-url="fort-larned-trail-map.jpg"
+  source-url="https://www.smithburnett.com/?page=history_ft_larned"
+%}
 
 ## Origins 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="The territories that the US acquired in the early 19th century. The annexation of Texas and the US's victory in the Mexican-American War were the biggest influences to commerce on the Santa Fe Trail."
+  caption="The territories that the US acquired in the early 19th century. The annexation of Texas and the US's victory in the Mexican-American War were the largest influences on the growth of the Santa Fe Trail."
   image-url="us-western-purchases.jpg"
   source-url="https://www.nationalgeographic.org/photo/territorial-gains/"
 %}
@@ -50,13 +56,7 @@ The fort overlooked large stretches of the plains to the north and south, and wa
 
 From the perspective of the US government, the fort’s construction was an immediate success. Fort Larned became the home of the [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) of the Southern Cheyenne, Kiowa, and Comanche tribes, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth). Because of this, the fort became one of the primary distribution points for annuities sent to Native American tribes, and its location on the Santa Fe Trail made it an easy spot for American and Native American leaders to meet.
 
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="A map of the Santa Fe Trail, with the forts marked. Although the southern fork to Santa Fe is protected by Fort Dodge, Fort Larned's location made it a buffer between the trail and the Native American reservations of northwest Kansas."
-  image-url="fort-larned-trail-map.jpg"
-  source-url="https://www.smithburnett.com/?page=history_ft_larned"
-%}
+
 
 Before the creation of Fort Larned, Santa Fe Trail travellers would leave [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), Kansas and would not see another permanent US Army post for 550 miles, until they reached [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument), New Mexico. Its presence on the Trail lowered the frequency of Native American attacks considerably, to the point where in 1861, the commanding officer of Fort Larned stated that natives had completely left the Santa Fe Trail area, and that there was no sign of hostilities in the near future. However, the onset of the Civil War would bring about a new wave of unrest in the plains.[^Unrau]
 
