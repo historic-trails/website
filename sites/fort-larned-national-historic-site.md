@@ -51,7 +51,7 @@ From the perspective of the US government, the fort’s construction was an imme
 
 
 
-Before the creation of Fort Larned, Santa Fe Trail travellers would leave [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), Kansas and would not see another permanent US Army post for 550 miles, until they reached [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument), New Mexico. Its presence on the Trail lowered the frequency of Native American attacks considerably, to the point where in 1861, the commanding officer of Fort Larned stated that natives had completely left the Santa Fe Trail area, and that there was no sign of hostilities in the near future. However, the onset of the Civil War would bring about a new wave of unrest in the plains.[^Unrau]
+Before the creation of Fort Larned, Santa Fe Trail travellers would leave [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), Kansas and would not see another permanent Army post for 550 miles, until they reached [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument), New Mexico. Its presence on the Trail lowered the frequency of Native American attacks considerably, to the point where in 1861, the commanding officer of Fort Larned stated that natives had completely left the Santa Fe Trail area, and that there was no sign of hostilities in the near future. However, the onset of the Civil War would bring about a new wave of unrest in the plains.[^Unrau]
 
 
 ## Early Interactions with Native Americans
@@ -97,11 +97,17 @@ The situation got to the point where the US army decided it needed to send a mes
   source-url="https://www.kansasmemory.org/item/209726/page/1"
 %}
 
-Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lieutenant Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who, from this point forward, would be the commander of the 7th Calvary. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chiefs.[^Coates51] The main goal of this expedition was to intimidate the chiefs and make a show of force to the natives, as explained by Hancock:
+Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lieutenant Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who, from this point forward, would be the commander of the 7th Calvary. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chiefs.[^Coates51] During this meeting, the main goal of this expedition was explained to the chiefs, as written in the journal of Army surgeon Isaac Coates:
 
->"My object of making an expedition at this time is to show the Indians that we are able to chastise any tribes who may molest people who are traveling across the plains. It is not our desire to bring on difficulties with the Indians, but to treat them with justice and according to our treaty stipulations, and desire especially in my dealings with them to act through their Agent as far as practicable. I will go fully prepared for peace or war." - General Winfield S. Hancock
+>"The Great Father [The President] has heard that some Indians have taken white men and women captives. He has heard also that a great many Indians are trying to get up war to try to hunt the white men. That is the reason I came down here. I intend, not only to visit you here, but my troops will remain among you, to see that the peace and safety of the Plains is preserved. I am going, also, to visit you in your camp. [...] [We] are not anxious for war against Indians, but are ready for a just war, [...] Let the guilty, then, beware, I say to you, to show you the importance of keeping treaties made with us, and of letting the white man travel unmolested." - General Winfield S. Hancock [^Coates54]
 
-This meeting accomplished nothing, so Hancock’s next plan was to go out and meet with other chiefs, and attempt to intimidate them with his army. On the 14th, his expedition set out to march to a nearby Cheyenne and Lakota village. On their way, they ran into a group of native soldiers, who proposed that they meet the following day. Hancock accepted, but when he went to the village the next day, he found that the natives had fled during the night. Hancock was incensed, and ordered for the village to be burned down. 
+In response, one of the Chiefs said: 
+
+>"We never did the white man any harm. We don't intend to. [...] We are willing to be friends with the white man. [...] The buffalo are diminishing fast. The antelope, that were plenty a few years ago, are now thin. When they shall all die away, we shall be hungry; we shall want something to eat and will be compelled to come into the fort. Your young men must not fire on us. When they see us, they fire, and we fire on them." - Tall Bull [^Coates57]
+
+From Coates's perspective, Hancock's speeches during the meeting were condescending and arrogant. Their main point was to intimidate the chiefs into following their former treaties - treaties that were unfair, unjust, and promised reparations that never came, and Hancock ignored Tall Bull's response, instead insisting on holding a meeting in their village. [^Coates58] 
+
+On the 14th, his expedition set out to march to a nearby Cheyenne and Lakota village. On their way, they ran into a group of native soldiers, who proposed that they meet the following day. Hancock accepted, but when he went to the village the next day, he found that the natives had fled during the night. Hancock was incensed, and ordered for the village to be burned down. 
 
 His justification was that their escape signified their guilt in being conspirators, and was a sign of war. In truth, after the villagers had heard about an American army coming to visit, they thought that they would be the victim of another Sand Creek Massacre. This action would spark off a series of attacks and skirmishes across the plains, now called Hancock’s War. 
 
@@ -186,6 +192,10 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^NRHP]: NRHP Fort Larned Inventory/Nomination Form
 [^NRHP7]: NRHP Fort Larned Inventory/Nomination Form, 7
 [^NRHP9]: NRHP Fort Larned Inventory/Nomination Form, 9
-[^Coates50]: Coates & Kennedy, 51
+[^Coates50]: Coates & Kennedy, 50-51
+[^Coates54]: Coates & Kennedy, 54-55
+[^Coates57]: Coates & Kennedy, 57
+[^Coates58]: Coates & Kennedy, 58
+
 
 
