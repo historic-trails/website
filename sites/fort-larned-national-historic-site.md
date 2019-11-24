@@ -46,9 +46,9 @@ However, this was not the only reason these forts were created. During this peri
 %}
 The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was located on the Pawnee River, at the base of Lookout Hill (now called “Jenkins Hill”). This was a small camp, consisting of tents and other temporary structures. The site was moved to a more permanent location in 1859, to a bend in the river overlooking the plains, and was given the name “Fort Larned” after the US army paymaster, Col. Benjamin F. Larned. [^Unrau]
 
-The fort overlooked large stretches of the plains to the north and south, and was bordered by groves of hardwood trees along the river. The river itself acted as a moat along the northwest edge of the fort, giving it a natural barrier against any threats. [^NRHP] Because of this natural defence, Fort Larned was never built up like a traditional fort, with large walls or entrenchments. Despite its name, Fort Larned was really more of a small garrison than a proper fort. 
+The fort overlooked large stretches of the plains to the north and south, and was bordered by groves of hardwood trees along the river. The river itself acted as a moat along the northwest edge of the fort, giving it a natural barrier against any threats. [^NRHP] Because of this natural defence, Fort Larned was never built up like a traditional fort, with large walls or entrenchments. Despite its name, Fort Larned was really more of a small garrison than a proper fort. This was also reflected in the number of troops garrisoned at the fort: even at its peak, the fort never housed more than a couple hundred soldiers.[^Unrau]
 
-From the perspective of the US military, the fort’s construction was an instant success. Fort Larned became the home of the [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) of the Southern Cheyenne, Kiowa, and Comanche tribes, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth). Because of this, the fort became one of the primary distribution points for annuities sent to Native American tribes, and its location on the Santa Fe Trail made it an easy spot for American and Native leaders to meet.
+From the perspective of the US government, the fort’s construction was an immediate success. Fort Larned became the home of the [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) of the Southern Cheyenne, Kiowa, and Comanche tribes, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth). Because of this, the fort became one of the primary distribution points for annuities sent to Native American tribes, and its location on the Santa Fe Trail made it an easy spot for American and Native American leaders to meet.
 
 {% include figure.html
   class="img-right"
@@ -104,20 +104,15 @@ The situation got to the point where the US army decided it needed to send a mes
   source-url="https://www.kansasmemory.org/item/209726/page/1"
 %}
 
-
+Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lieutenant Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who would be leading the cavalry units in this campaign. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chiefs. The main goal of this expedition was to intimidate the chiefs and make a show of force to the natives, as explained by Hancock:
 
 >"My object of making an expedition at this time is to show the Indians that we are able to chastise any tribes who may molest people who are traveling across the plains. It is not our desire to bring on difficulties with the Indians, but to treat them with justice and according to our treaty stipulations, and desire especially in my dealings with them to act through their Agent as far as practicable. I will go fully prepared for peace or war." - General Winfield S. Hancock
-
-Hancock started gathering troops in Fort Riley for his expedition on April 3, 1867. There, he picked up the 7th Calvary, and with it, [Lt. Colonel George Custer](https://en.wikipedia.org/wiki/George_Armstrong_Custer), who would be leading the cavalry units in this campaign. They arrived at Fort Larned on April 7, where they stayed until the 13th, when they met with several Cheyenne chiefs. Hancock’s main goal was to intimidate the chiefs:
-
->"You know very well, if you go to war with the white man you will lose… .I have a great many chiefs with me that have commanded more men than you ever saw, and they have fought more great battles than you have fought fights." - General Winfield S. Hancock
 
 This meeting accomplished nothing, so Hancock’s next plan was to go out and meet with other chiefs, and attempt to intimidate them with his army. On the 14th, his expedition set out to march to a nearby Cheyenne and Lakota village. On their way, they ran into a group of native soldiers, who proposed that they meet the following day. Hancock accepted, but when he went to the village the next day, he found that the natives had fled during the night. Hancock was incensed, and ordered for the village to be burned down. 
 
 His justification was that their escape signified their guilt in being conspirators, and was a sign of war. In truth, after the villagers had heard about an American army coming to visit, they thought that they would be the victim of another Sand Creek Massacre. This action would spark off a series of attacks and skirmishes across the plains, now called Hancock’s War. 
 
-Ultimately, Hancock failed at his task of reigning in the Plains Indians, and was relieved of his post at Fort Larned. Although his expedition really didn’t accomplish much, the aftermath of Hancock’s War would be a driving force behind the Medicine Lodge Treaty. 
-
+Ultimately, Hancock failed at his task of reigning in the Plains Indians, and was relieved of his post at Fort Larned. Skirmishes between white settlers and natives continued, unaffected by this expedition. In fact, because of his mishandling the situation at the Cheyenne village, tempers rose even further. The aftermath of Hancock’s War would end up being a driving force behind the Medicine Lodge Treaty. 
 
 ## The Medicine Lodge Treaty
 {% include figure.html
@@ -127,23 +122,21 @@ Ultimately, Hancock failed at his task of reigning in the Plains Indians, and wa
   image-url="medicine-lodge-treaty.jpg"
   source-url="http://www.abajournal.com/magazine/article/october_28_1867_medicine_lodge_treaty_is_signed"
 %}
+With the continued fighting on the plains, the US government decided that it would be in their best interest to resolve the situation diplomatically. In the fall of 1867, tribal leaders from all the Great Plains tribes agreed to meet at Medicine Lodge Creek, in southern Kansas. Preliminary talks began at Fort Larned, and after they had gathered, the peace commission left for Medicine Lodge Creek on October 13. In a process that has been repeated throughout the US since the signing of the Indian Removal Act, all of the Native American leaders signed treaties to give the United States their land in exchange for reservations further west, as well as a large amount of gifts and annuities. 
 
-In the fall of 1867, tribal leaders from all the Great Plains tribes agreed to meet at Medicine Lodge Creek, in southern Kansas. Preliminary talks began at Fort Larned, and after they had gathered, the peace commission left for Medicine Lodge Creek on October 13. In a process that has been repeated throughout the US since the signing of the Indian Removal Act, all of the Native American leaders signed treaties to give the United States their land in exchange for reservations further west, as well as a large amount of gifts and annuities. 
-
-Fort Larned ended up being the shipping point for all of these gifts. The amount given was so much that it took about a month just for the goods to be organized and shipped to the post at Medicine Lodge Creek. 
+Fort Larned ended up being the shipping point for all of these gifts. The amount was so massive that it took about a month just for the goods to be organized and shipped to the post at Medicine Lodge Creek. 
 
 
 ## Last Years In The Military
 With these new treaties in place, the majority of the Native Americans in Kansas had been removed, and Fort Larned became much less useful to the military. The expeditions of Generals [Sheridan](https://en.wikipedia.org/wiki/Philip_Sheridan#Indian_Wars) and Custer came through the Midwest soon afterwards, and completely wiped away any further resistance by the natives. 
 
-In 1868, Fort Larned’s annuity distribution center was closed, as there were no one left to pay annuities to.  The fort stayed operational for about ten more years, but the garrison was reduced to only a couple hundred soldiers. Over this time, operations slowly wound down, until the fort was abandoned in 1878. 
+In 1868, with no one left to pay annuities to, Fort Larned’s annuity distribution center was closed. Its job as a site of diplomacy to Native American tribes had come to an end. The fort managed to stay operational for about ten more years, but the number of troops stationed there was greatly reduced. Over this time, operations slowly wound down, until the fort was abandoned in 1878. 
 
 
 ## Fort Larned as a National Historic Site
-Between 1878 and 1884, Fort Larned was left to the elements, and with the help of looters and scavengers, slowly detiorated. However, in 1884 the land was sold at an auction and quickly passed through the hands of several owners, and the fort was converted into a ranching operation. The barracks were converted into barns, new silos and corrals were built, and many of its more temporary structures were demolished. By 1960, the site had been turned from a rough military outpost into a stylish, cultivated ranch. It remained as such until its adoption as a National Historic Site in 1964.[^NRHP9]
+Between 1878 and 1884, Fort Larned was left to the elements, and with the help of scavengers, slowly detiorated. However, in 1884 the land was sold at an auction and quickly passed through the hands of several owners, and the fort was converted into a ranching operation. The barracks were converted into barns, new silos and corrals were built, and many of its more temporary structures were demolished. By 1960, the site had been turned from a rough military outpost into a stylish, cultivated ranch. It remained as such until its adoption as a National Historic Site in 1964.[^NRHP9]
 
 Since then, the National Park Service has tried its best to revert these changes. All of the new ranch structures have been taken down, and the only buildings left are the few permanent buildings that the military built in the 1860's. 
-
 
 
 
