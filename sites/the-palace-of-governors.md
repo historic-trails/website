@@ -21,11 +21,11 @@ date: 2019-17-11
 
 ## Historical significance: 
 
-This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events that are important to the Southwest. [^A]  
+This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events such as the pueblo revolt, the spanish reconquest, and the [civil war](https://www.battlefields.org/learn/articles/brief-overview-american-civil-war). 
 
 ## The Pueblo Revolt of 1680-1693:
 
-In 1680 Pueblo Indians grew tired of the circumstances the Spaniards laid upon them which included forced labor, slavery, and conversion to Christianity with no say. Lead by a medicine man named [Pope](https://www.indigenouspeople.net/pope.htm) they planned an attack on the Spaniards residing in what is now Santa Fe, New Mexico. The Spanish troops gathered within the Palace and resisted attacks until the Pueblo Indians, after ten days cut off the water supply and forced the Spaniards to retreat to El Paso. The Pueblo people than took over the palace for the next twelve years and dramatically changed the interior of the palace to make it comfortable. “They pulled down the houses and the parish church and used the adobe bricks to fortify the Palace” (Author,Date). The palace was eventually taken back by the Spaniards under the control of Diego De Vargas in 1693. 
+In 1680 Pueblo Indians grew tired of the circumstances the Spaniards laid upon them which included forced labor, slavery, and conversion to Christianity with no say. Lead by a medicine man named [Pope](https://www.indigenouspeople.net/pope.htm) they planned an attack on the Spaniards residing in what is now Santa Fe, New Mexico. The Spanish troops gathered within the Palace and resisted attacks until the Pueblo Indians, after ten days cut off the water supply and forced the Spaniards to retreat to El Paso. The Pueblo people than took over the palace for the next twelve years and dramatically changed the interior of the palace to make it comfortable. “They pulled down the houses and the parish church and used the adobe bricks to fortify the Palace”. The palace was eventually taken back by the Spaniards under the control of Diego De Vargas in 1693. 
 
 ## The Palace Structure and Geography
 
@@ -53,7 +53,7 @@ Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treas
 
 “History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
 
-[^A] “Palace of the Governors--American Latino Heritage: A Discover Our Shared Heritage Travel Itinerary.” National Parks Service, U.S. Department of the Interior, www.nps.gov/nr/travel/american_latino_heritage/Palace_of_the_Governors.html.
+“Palace of the Governors--American Latino Heritage: A Discover Our Shared Heritage Travel Itinerary.” National Parks Service, U.S. Department of the Interior, www.nps.gov/nr/travel/american_latino_heritage/Palace_of_the_Governors.html.
 
 New Mexico History Museum, www.nmhistorymuseum.org/campus.php
 
