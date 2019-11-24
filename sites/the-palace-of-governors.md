@@ -49,6 +49,8 @@ The palace today is strictly used as a museum where people can come and see the 
 
 
 
+
+
 ## Bibliography
 
 Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
