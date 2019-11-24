@@ -47,6 +47,10 @@ image-url="palace1.jpg"
 source-url="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewMexicoPalaceSantaFe.jpg"
 %}
 
+
+
+
+
 ## Bibliography
 
 [^blue] Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
