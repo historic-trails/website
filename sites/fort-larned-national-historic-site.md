@@ -44,7 +44,7 @@ The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was
 
 The fort overlooked large stretches of the plains to the north and south, and was bordered by groves of hardwood trees along the river. The river itself acted as a moat along the northwest edge of the fort, giving it a natural barrier against any threats. [^NRHP] Because of this natural defence, Fort Larned was never built up like a traditional fort, with large walls or entrenchments. Despite its name, Fort Larned was really more of a small garrison than a proper fort. 
 
-From the perspective of the US military, the fort’s construction was an instant success. Fort Larned had become one of the primary distribution points for annuities sent to Native American tribes, and its location made it an important spot for American and Native leaders to meet.
+From the perspective of the US military, the fort’s construction was an instant success. Fort Larned became the home of the [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) of the Southern Cheyenne, Kiowa, and Comanche tribes, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth). Because of this, the fort became one of the primary distribution points for annuities sent to Native American tribes, and its location on the Santa Fe Trail made it an easy spot for American and Native leaders to meet.
 
 {% include figure.html
   class="img-right"
@@ -54,7 +54,7 @@ From the perspective of the US military, the fort’s construction was an instan
   source-url="https://www.smithburnett.com/?page=history_ft_larned"
 %}
 
-Before the creation of Fort Larned, Santa Fe Trail travellers were left unguarded for the entire stretch of trail between [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), Kansas and [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument), New Mexico. Its presence on the Trail lowered the frequency of Native American attacks considerably, to the point where in 1961, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth), the commanding officer of Fort Larned, stated that Natives had completely left the Santa Fe Trail area, and that there was no sign of hostilities in the near future. However, the onset of the Civil War would bring about a new wave of unrest in the plains.[^Unrau]
+Before the creation of Fort Larned, Santa Fe Trail travellers would leave [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), Kansas and would not see another permanent US Army post for 550 miles, until they reached [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument), New Mexico. Its presence on the Trail lowered the frequency of Native American attacks considerably, to the point where in 1861, the commanding officer of Fort Larned stated that natives had completely left the Santa Fe Trail area, and that there was no sign of hostilities in the near future. However, the onset of the Civil War would bring about a new wave of unrest in the plains.[^Unrau]
 
 
 ## Early Interactions with Native Americans
