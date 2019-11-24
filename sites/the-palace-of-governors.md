@@ -29,7 +29,7 @@ In 1680 Pueblo Indians grew tired of the circumstances the Spaniards laid upon t
 
 ## The Palace Structure and Geography
 
-The Palace of the Governors is an old-style adobe building that included many features important to the Spaniards. Inside the palace there were private apartments for the governors, official reception rooms, offices, military barracks, stables, and servants’ quarters. All these rooms were important for the running of the building and some original walls you can see to this day. Outside there were vegetable gardens that were planted on ten acres of land. Most importantly on the western part of the building served as a prison and a storage for the gun powder. The use of this building was either for the governor’s residency or to host important meetings or parties. [^blue]
+The Palace of the Governors is an old-style adobe building that included many features important to the Spaniards. Inside the palace there were private apartments for the governors, official reception rooms, offices, military barracks, stables, and servants’ quarters. All these rooms were important for the running of the building and some original walls you can see to this day. Outside there were vegetable gardens that were planted on ten acres of land. Most importantly on the western part of the building served as a prison and a storage for the gun powder. The use of this building was either for the governor’s residency or to host important meetings or parties.
 
 ## The New Mexico History Museum
 
@@ -40,20 +40,16 @@ This museum is just cattycornered to the palace of the governors and was built a
 The palace today is strictly used as a museum where people can come and see the historic site it stands in a prominent place in the famous plaza. During the 1900’s the palace was officially going to be renovated into a museum and the renovations started in 1913 they wanted to highlight the Spanish-colonial features. The city of Santa Fe wanted to preserve the history that the palace held, but also make it appeal to people so they would like to visit. As you walk through the renovated palace you can tell what has been conveniently changed to be more modern and to fit the standards of Santa Fe and tourism. Tourism has changed over the years to be more oveer the top and to sell a western view of what the southwest is like. While there are many modern changes there are open areas of the walls where you can see the original walls where they stand between the new remodeled area. There is even a clear glass on the floor that shows the original flooring below the new one that was put in during the remodel. As you walk you can witness different histories and stories throughout about the Spaniards, pueblo people, and artifacts. There are different tours you can take at the museum one is a self-guided tour and the other is as guided when someone takes you around and tells you about the palace and history. There are over four hundred years of New Mexico history housed in the palace today as exhibits. The museum makes it easy to keep the history alive and preserve the past in the building. Outside of the palace on the patio there are vendors who sell Native American style jewelry to museum goers and tourists. This brings money to these people as well as interested eyes to this historic site. 
 
 {% include figure.html
-class="img-left"
-width="45%"
-caption="A modern day photo of the palace. Some modern touches are shown from the renovation but, it still shows the spanish style that comes from the southwest."
-image-url="palace1.jpg"
-source-url="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewMexicoPalaceSantaFe.jpg"
+  class="img-right"
+  width="45%"
+  caption="A modern day photo of the palace. Some modern touches are shown from the renovation but, it still shows the spanish style that comes from the southwest."
+  image-url="palace1.jpg"
+  source-url="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewMexicoPalaceSantaFe.jpg"
 %}
-
-
-
-
 
 ## Bibliography
 
-[^blue] Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
+Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
 
 “History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
 
