@@ -123,17 +123,17 @@ El Zaguan is located at 545 Canyon Road, Santa Fe, New Mexico. It is open Monday
 [^20]: NMHABS 223, 9-10.
 
 ## **Bibliography**
-El Zaguan. N.p.: National Park Service, United States Department of the Interior, 8-1-2008. 
+-El Zaguan. N.p.: National Park Service, United States Department of the Interior, 8-1-2008. 
 https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/
-Historic Santa Fe Foundation, and New Mexico. Historic Preservation Division. Historic 
+-Historic Santa Fe Foundation, and New Mexico. Historic Preservation Division. Historic 
 Structure Report for the James L. Johnson House (el Zaguan). Santa Fe, N.M.: Historic Santa Fe Foundation, 1996.
-Keleher, William Aloysius. Turmoil in New Mexico. Albuquerque: University of New Mexico 
+-Keleher, William Aloysius. Turmoil in New Mexico. Albuquerque: University of New Mexico 
 Press, 1982.
-Lazar, Arthur, and Bainbridge Bunting. Of Earth and Timbers Made: New Mexico Architecture. 
+-Lazar, Arthur, and Bainbridge Bunting. Of Earth and Timbers Made: New Mexico Architecture. 
 [1st Ed.] ed. Albuquerque: University of New Mexico Press, 1974.
-Sze, Corinne P. "The James L. Johnson House (El Zaguan)." Bulletin of the Historic Santa Fe 
+-Sze, Corinne P. "The James L. Johnson House (El Zaguan)." Bulletin of the Historic Santa Fe 
 Foundation 25, no. 1 (March 1998): 1-7.
-Sze, Corinne P, and Historic Santa Fe Foundation. El Zaguan, the James L. Johnson House, 545 
+-Sze, Corinne P, and Historic Santa Fe Foundation. El Zaguan, the James L. Johnson House, 545 
 Canyon Road: A Social History. Santa Fe, N.M.: Historic Santa Fe Foundation, 1997.
-Sze, Corinne P., and Karen Lewis. James L. Johnson House. Denver: National Park Service, 
+-Sze, Corinne P., and Karen Lewis. James L. Johnson House. Denver: National Park Service, 
 1996.
