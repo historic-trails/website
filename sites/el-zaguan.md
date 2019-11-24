@@ -123,7 +123,7 @@ El Zaguan is located at 545 Canyon Road, Santa Fe, New Mexico. It is open Monday
 [^20]: NMHABS 223, 9-10.
 
 ## **Bibliography**
--National Park Service. [El Zaguan.] (https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/) N.p.: United States Department of the Interior, 8-1-2008. 
+-National Park Service. [El Zaguan.](https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/) N.p.: United States Department of the Interior, 8-1-2008. 
 -Historic Santa Fe Foundation, and New Mexico. Historic Preservation Division. Historic 
 Structure Report for the James L. Johnson House (el Zaguan). Santa Fe, N.M.: Historic Santa Fe Foundation, 1996.
 -Keleher, William Aloysius. Turmoil in New Mexico. Albuquerque: University of New Mexico 
