@@ -21,7 +21,7 @@ date: 2019-17-11
 
 ## Historical significance: 
 
-This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events such as the pueblo revolt, the spanish reconquest, and the [civil war](https://www.battlefields.org/learn/articles/brief-overview-american-civil-war). 
+This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events such as the pueblo revolt, the spanish reconquest, and the [civil war](https://www.battlefields.org/learn/articles/brief-overview-american-civil-war).
 
 ## The Pueblo Revolt of 1680-1693:
 
