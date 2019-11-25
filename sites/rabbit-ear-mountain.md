@@ -64,11 +64,11 @@ Rabbit Ear is considered one of the most preserved and nearly untouched landmark
 
 - National Park Service, Santa Fe National Historic Trail: Missouri, Kansas, Colorado, Oklahoma, and New Mexico
 
-[^NationalParkService]: (NationalParkServiceSantaFeNationalHistoricTrailMissouriKansasColoradoOklahomaandNewMexico) 
+[^NationalParkService]: (NationalParkService) 
 
 - National Register of Historic Places Inventory Nomination Form
 
-[^NationalRegisterForm]: (NationalRegisterofHistoricPlacesInventoryNominationForm) 
+[^NationalRegisterForm]: (InventoryNominationForm) 
 
 - Richard Flint and Shirley Cushing Flint, Cimarron Cutoff of the Santa Fe Trail, New Mexico History.org 2013
 
