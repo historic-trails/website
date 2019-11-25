@@ -11,7 +11,7 @@ Imagine a land, a haven, with springs and creeks of crystal-clear cool water flo
 {% include figure.html
   class="left"
   width="100%"
-  caption="Ocate Creek, Mora County, NM with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county."
+  caption="Ocate Creek, Mora County, New Mexico with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county."
   image-url="Ocate-Creek-Crossing-real.jpg"
   source-url="https://www.legendsofamerica.com/wp-content/uploads/2018/06/Ocate-Creek-Crossing.jpg"
 %}
