@@ -83,7 +83,7 @@ After stopping at Pigeons Ranch. The town of Glorieta offers many adventures for
 
 {% include figure.html
 class="img-right"
-width="30%"
+width="25%"
 caption="High-five Zip Tour"
 image-url="glorietazip.jpg"
 source-url="https://www.yelp.com/biz/glorieta-zip-tour-glorieta?osq=Things+To+Do"
