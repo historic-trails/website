@@ -78,7 +78,7 @@ The indigenous tribes and the new owners of the land could not coexist, under th
  Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch [^Kosmider31]. Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective. By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations [^Kosmidervi3]   The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
 
 
- ## Bibliography 
+ ##Bibliography 
 
 Birchell, Donna Blake. _Frontier Forts and Outposts of New Mexico_. The History Press, Charleston, 2019.
 
