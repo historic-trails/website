@@ -58,20 +58,20 @@ Rabbit Ear is considered one of the most preserved and nearly untouched landmark
 
 ##### Bibliography 
 
-Henry Inman, The Old Santa Fe Trail, Project Gutenberg, 2005, Pg45-58.
+- Henry Inman, The Old Santa Fe Trail, Project Gutenberg, 2005, Pg45-58.
 
-Clayton-Union County Chamber of Commerce
+- Clayton-Union County Chamber of Commerce
 
-National Park Service, Santa Fe National Historic Trail: Missouri, Kansas, Colorado, Oklahoma, and New Mexico
+- National Park Service, Santa Fe National Historic Trail: Missouri, Kansas, Colorado, Oklahoma, and New Mexico
 
 [^NationalParkService]: (NationalParkServiceSantaFeNationalHistoricTrailMissouriKansasColoradoOklahomaandNewMexico) 
 
-National Register of Historic Places Inventory Nomination Form
+- National Register of Historic Places Inventory Nomination Form
 
 [^NationalRegisterForm]: (NationalRegisterofHistoricPlacesInventoryNominationForm) 
 
-Richard Flint and Shirley Cushing Flint, Cimarron Cutoff of the Santa Fe Trail, New Mexico History.org 2013
+- Richard Flint and Shirley Cushing Flint, Cimarron Cutoff of the Santa Fe Trail, New Mexico History.org 2013
 
-Report of the Exploring Expedition from Santa Fé, New Mexico, to the Junction of the Grand and Green Rivers of the Great Colorado of the West in 1859. U.S. Government Printing Office. Dec 31, 1876. Pg 31-32
+- Report of the Exploring Expedition from Santa Fé, New Mexico, to the Junction of the Grand and Green Rivers of the Great Colorado of the West in 1859. U.S. Government Printing Office. Dec 31, 1876. Pg 31-32
 
 [^ExploringExpedition]: (ReportoftheExploringExpeditionfromSantaFéPg31-32)
