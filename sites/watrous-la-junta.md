@@ -114,20 +114,20 @@ Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disster
 
 [^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-[^Stanley]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+[^Stanley]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
 
-[^Stanley5]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+[^Stanley5]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
 
-[^Stanley3]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+[^Stanley3]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
 
-[^Stanley6]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+[^Stanley6]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
 
-[^Stanley7]: Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+[^Stanley7]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
 
 
-[^Birchell1]: Birchell, Donna Blake. Frontier Forts and Outposts of New Mexico (The History Press, Charleston, 2019).
+[^Birchell1]: Birchell, Donna Blake. _Frontier Forts and Outposts of New Mexico_ (The History Press, Charleston, 2019).
 
-[^Birchell]:  Birchell, Donna Blake. Frontier Forts and Outposts of New Mexico (The History Press, Charleston, 2019). 
+[^Birchell]:  Birchell, Donna Blake. _Frontier Forts and Outposts of New Mexico_ (The History Press, Charleston, 2019). 
 
 [^Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
@@ -175,7 +175,7 @@ Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disster
 
 [^3Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
-[^Fischer]: Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
+[^Fischer]: Fischer, Virginia Lee. “In Search of Jose Watrous.” _Wagon Tracks_ Vol. 12:2 (February1998).
 
 [^Tiller]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976. 
 
