@@ -85,7 +85,7 @@ The hotel gave shelter and a bit more to individuals including Buffalo Bill Cody
 Henry Lambert died January 24, 1933; his wife died......[^seventhsource] Fred Lambert, son of Henry Lambert, was Cimarron’s Sherriff; Fred and brother, Gene, began a remodel of the 43 room hotel in 1901, were the discovered in the roof more than 400 bullet holes, each hole could count towards the character of the hotel and where it stood in the wild west. Remodeling the hotel happened few and far between but has seemingly removed much history that remained in its original structure, today however the visitor can still bear witness to the 22 bullet holes in the tin punched ceiling of the dining room, much of the original furniter remains, and reliques of those individuals who passed through including some spirits. Though ownership of the St. James Hotel, otherwise known as Don Diego through certain points over the 19th and 20th century, has changed frequently since the mid 1900’s. The hotels ambiance of gun slinging outlaws has not been diminished, attracting visitors in its prime time, through the years, and those devilishly spirited visitors today. Remarked even in April of 1940 according to the Historic American Buildings Survey remarked the hotel as a stopping place along the Santa Fe trail with a famous bar, and that it had been remolded. A place to stay now for over 150 years.
 {% include figure.html
 class="img-left"
-width="40%"
+width="49%"
 caption="Historic American Building Survey: St. James Hotel(Don Diego Hotel)"
 image-url="hotel-eval.png"
 source-url="http://cdn.loc.gov/master/pnp/habshaer/nm/nm0000/nm0028/supp/nm0028supp.pdfg"
@@ -93,7 +93,7 @@ source-url="http://cdn.loc.gov/master/pnp/habshaer/nm/nm0000/nm0028/supp/nm0028s
 
 {% include figure.html
 class="img-left"
-width="40%"
+width="49%"
 caption="Historic American Building Survey: St. James Hotel(Don Diego Hotel)"
 image-url="hotel-eval2.png"
 source-url="http://cdn.loc.gov/master/pnp/habshaer/nm/nm0000/nm0028/supp/nm0028supp.pdfg"
