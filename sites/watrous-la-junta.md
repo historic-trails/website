@@ -10,21 +10,14 @@ La Junta (“the junction”) is where "the Sapello and Mora Rivers unite to exc
 fertile and lush with waving grey-green grasses. 
 Grama and blue-joint grasses 
 grew more than a foot in height."%} Author Ann Nolan Clark described La Junta in great detail in her 1969 novel _These Were The Valiant_. She remarked on the healthy, rich soil, the green, lush valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper lined the banks of the river and the town [^Clark].  But the reason this area is remarkable is not based solely on its looks: in 1963, La Junta was deemed a National Historic Landmark. La Junta has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the [Santa Fe Trail](www.nps.gov/safe/learn/historyculture/map-timeline-2.htm). 
-
 ## Here first – La Junta’s early occupiers
 La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches. According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
-  
-The Jicarilla Apache tribe had two distinct groups:
+  The Jicarilla Apache tribe had two distinct groups:
 * The **Olleros** (mountain dwellers) , who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using similar techniques to Pueblo Indians. 
 * The **Llaneros**, (plains dwellers) who utilized techniques reminsicent of Plains Indians techniques,such as their dress style and their teepees ( a tent-like structure made of wooden wooden poles and cowhide). The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
-
 When the Spanish came to New Mexico, however, a new stigma about indigenous people become commonplace.  The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. The Jicarilla Apache tribe was peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a fignment of the imagination, or at least greatly exaggerated." [^Tiller8] she writes. 
- 
-
-## Who's land is it, anyway? The Spanish in New Mexico
-
+ ## Who's land is it, anyway? The Spanish in New Mexico
 When the Mexican government began to grant land to settlers, the "road to total disposession of Jicarillas from their traditional country"[^Tiller34] began. The grants effectively "created an elite group of merchants, landholders, and politicans in Northern New Mexico in the heart of Jicarilla land" [^Tiller35]. The land of La Junta was granted to a group of ten men in 1843, named after one of the original signers, John Scolly.  
-
 ## [The Scolly Land Grant](https://www.topozone.com/map-print/?lat=35.790597&lon=-104.9816685&title=Watrous%20Topo%20Map%20in%20Mora%20County%20New%20Mexico)
 {% include figure.html
 class="img-left"
@@ -34,49 +27,29 @@ image-url="john-scolly.jpg"
 source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"%}
 On March 27, 1843, a group of hopeful Spanish colonists composed a petition to the New Mexican governor 
 [Manuel Armijo](http://newmexicohistory.org/2014/01/16/manuel-armijo/), asking for the rights to ten leagues (about thirty-five miles) of La Junta and the valley surrounding it.  In the petition, the author described the La Junta area in great detail, noting its rich soil. He and the men planned to use the area for planting crops, raising sheep, and building mills.  They hoped to create a town with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo approved the petition, granting them nearly two year's time to begin cultivating, the original petitioners did not recieve complete ownership of the land until three years later, in May, 1846. These land grantees did not recieve a particularily warm welcome from the indigenous tribes of the area. Theft of livestock and other goods became commonplace. Many of the original petitioners shied away due to repeated theft. The land of the John Scolly Grant was purchased many more times, and two of the most notable buyers include Alexander Barclay and Samuel Watrous [^Stanley6].
-
-
 ## “An abode for men and animals”[^Kosmider25]:Barclay’s Fort
-
 On June 11, 1846, Alexander Barclay, with the help of hired workers, laid the first adobe brick of Fort Barclay. Barclay, a had dreamed of building a fort to protect the area from  Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^25Kosmider] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853.  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” [^Greenwood]. Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks [^Kosmider26]. Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer, instead building 
 [Fort Union](https://www.nps.gov/foun/index.htm) just a few miles away[^Birchell]. In 1856, William Kroening purchased Fort Barclay [^Greenwood3]. A flood in 1900 washed away all remains of the fort [^Birchell1].
-
-
 ## “A New Englander with a thirst for adventure”[^Clark39]
 ### Samuel Watrous  
-
 Samuel Watrous was New-England born man with “untiring energy” [^Stanley7]. According to Alexandra Kosmider's 1983 thesis, "Samuel B Watrous: New Mexico Pioneer", Watrous arrived in Dolores, New Mexico in 1835. He was twenty six.  It was in this small mining town that Watrous met his first wife. Together, they had seven children. To support his growing family, Watrous began selling goods to the miners of Dolores, including deerskin, meat, and clothes. Watrous ran his store in Dolores for nearly a decade, eventually saving up enough to purchase his part of the John Scolly Grant in 1849. He and his family then settled in the La Junta valley [^KosmiderI].
-
-
-
 ## From La Junta to Watrous: a town emerges
-
 {% include figure.html class="img-right" width="50%"
 caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
 image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly Land Grant in 1849 [^28Kosmider], he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store [^Clark48]. The Watrous house would be deemed “the nucleus of the settlement of La Junta” [^3Greenwood].  The Watrous store was successful, in part due to Watrous's business experience, as well as its proximity to the Santa Fe Trail [^Clark51].  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
-
 ### "Come now, we will plant more trees" [^Clark49] 
 In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri [^Clark52]. Visitors to the ares suggested it was “one of the finest orchards ofthe region” [^Kosmider29]. Many of Watrous' cottonwoods and willows are still thriving today.
 By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” [^3Kosmider],constructing a large building, and later the first fencing in the area , La Junta was “no longer a wilderness” [^Fischer].  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. 
-
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
-
-
-
 ## Friend or foe? 
 ### Samuel Watrous versus Indigenous tribes
 After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” [^29Kosmider]. Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt of wave of compassion”, [^Clark42] for them. Clark also writes that Watrous spent time visiting with indigenous tribes and learning their spiritual and farming practices [^Clark45]. 
-
 However, the relationship between indigenous tribes and newcomers was a rocky one.  Kosmider writes that indigenous peoples “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider3]. Watrous himself spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia). In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette that read: 
 > Shall our favorite grazing grounds be forfeited to the marauding Indians? 
 Shall we placidly stand by while they ravage our herds, destroy our grains, 
 murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence.[^Kosmider41]". 
-
-
-
 The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Disagreeing with the previous governor's plan to feed and teach an estimated 500 Jicarillas farming in exchange for them moving towards Abiqui, Meriwether instead halted provisions to these tribes.
  Thus, these tribes were left to fend for themselves, after being promised supplies from the federal government.  Perhaps in retaliation, Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch [^Kosmider31]. Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective. By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations [^Kosmidervi3]   The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were just marauders or thieves.
-
 ## Bibliography 
 
 Birchell, Donna Blake. _Frontier Forts and Outposts of New Mexico_. The History Press, Charleston, 2019.
