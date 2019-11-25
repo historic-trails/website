@@ -65,15 +65,18 @@ The land has been tossed and sold to many people in hoping that they would prese
 
 {% include figure.html
 class="img-right"
-width="40%"
+width="50%"
 caption=" This picture shows the front of Pigeons Ranch that served as a rest stop for travelers in 1880. (Photo by Ben Wittide; Courtesy Museum of New Mexico, Neg No 15783)"
 image-url="ranchview.jpg"
 source-url="https://www.nps.gov/nr/twhp/wwwlps/lessons/91glorieta/91visual3.htm"
 %}
 {% include figure.html
 class="img-left"
-width="60%"
+width="50%"
 caption="A roadside view of what Pigeons Ranch looks like today "
 image-url="pigeonranchtoday2.jpg"
 source-url="https://www.theroute-66.com/glorieta.html"
 %}
+### What’s around Pigeons Ranch
+After stopping at Pigeons Ranch. The town of Glorieta offers many adventures for sports enthusiasts and campers. Glorieta hosts *The Glorieta Hive Five Zip Tour*, that features five sections of fast-moving ziplines that stretch across the beautiful desert terrain; However, if you don’t like an action-packed adventure, you can always fill your belly by taking a food tour and experience all the cuisines New Mexico has to offer. Nearby are also other National Parks and buildings along the Santa Fe Trail, and you can also continue your way through Civil War history by visiting Kozlowski’s Trading Post that’s also on the Santa Fe trail and served as a base for Union Soldiers. No matter what you choose you will experience the beauty of  New Mexico and make memories with your friends and family.
+
