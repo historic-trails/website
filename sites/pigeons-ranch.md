@@ -1,8 +1,5 @@
----
-title: Pigeons Ranch
-author: Karli Montoya
-date: 2019-11-25
----
+
+
 {% include figure.html
 class="img-right"
 width="35%"
