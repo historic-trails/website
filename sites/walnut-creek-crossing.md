@@ -78,7 +78,7 @@ It was then abandoned in December 1869, and became overrun with thieves and mara
 
 There are 27 Walnut Creeks in the state of Kansas. [^8] You can still visit the Walnut Creek Crossing, to this day. The site is located in Great Bend[] or Barton County[], south of Highway 56. All that is left today at the site is the foundation of the store. “Allison Ranche, along with a town of Zarah that would develop a short distance to the north about 15 years later, have both disappeared – meeting the fate of more than 6,000 other settlements that once populated the state in the latter half of the 1800s.” [^9]
 
-# Works Cited
+# Bibliography
 
 [^1]:Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
 - Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
