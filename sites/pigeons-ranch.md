@@ -44,7 +44,17 @@ image-url="battlepranch.jpg"
 source-url="https://www.legendsofamerica.com/pigeons-ranch/"
 %}
 
-### Gettysburg of the West.  
+### Gettysburg of the West  
 
 During the Civil War in 1861, Confederate troops under the command of Brigadier General Henry Sibley, rallied his troops in San Antonio Texas, to move toward Denver, but to do this he had planned to march troops through New Mexico. Sibley wanted to capture gold shipments coming out of the Colorado Rockies. He also wanted to take over land to the west to gain California to access the Pacific coast. After the confederated won battles marching toward Denver they were met with very little resistance from enemies until *The Battle of Glorieta Pass*. (Feasibility Report). 
 In March 1862, during The Battle of Glorieta Pass, both Confederate and Union troops used Pigeons Ranch as a hospital, Prison, and Battleground. On March 25th Confederate soldiers were captured by Union soldiers. The next day 400 Union troops used the ranch as a hospital for wounded and sick soldiers. They utilized all the supplies Valle’s Ranch had to offer such as hay. On the 27th reinforcements arrived for Union troops, and later so did reinforcements for the confederates on Pigeons Ranch. Union Soldiers used the adobe walls of the ranch as cover. The confederate troops pushed out the Union forces and took control over the ranch. Confederates, having taken over the ranch took this as a victory and left the ranch westward to Johnsons Ranch where they found their supplies and Cattle destroyed by Union troops. This left the confederates with almost nothing and they were forced back to Texas. The Battle of Glorieta pass was a major win for the Union and a turning point of the war in New Mexico Territory (Legends of America). 
+{% include figure.html
+class="img-left"
+width="35%"
+caption="A copy of the original hand written claim Alejandro Valle made to the US for damaged goods and property due to the Battle of Glorieta Pass provided by UNM's Southewest Reaserch Library."
+image-url="letter.jpg"
+source-url=""
+%}
+Because of Damage to the Ranch during the Battle of Glorieta Alejandro Valle filed a claim against the US government in 1870 for damages to his house and ranch even though he sold his ranch in 1865. In a testimony “given by Mr. Valle and one of his employees reveals losses of oxen, a horse, grain, molasses, whisky, and other supplies; and destruction of structures, equipment and family possessions.” (Feasibility Report) Despite the destruction to the ranch during the battle the US rejected his claim.
+
+
