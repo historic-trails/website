@@ -126,25 +126,25 @@ Or Visit the Website at [http://www.exstjames.com/book-now](http://www.exstjames
 
 ---
 ### BIBLIOGRAPHY
-Colfax County. History of Colfax County. Colfax County New Mexico, 2016,     http://www.co.colfax.nm.us/community/history_of_colfax_county.php. Accessed      13 November 2019.
+- Colfax County. History of Colfax County. Colfax County New Mexico, 2016,     http://www.co.colfax.nm.us/community/history_of_colfax_county.php. Accessed      13 November 2019.
 
-Miller, Michael. Maxwell Land Grant: An Astounding Piracy of the Public Domain. New Mexico History, 21 July 2015, https://newmexicohistory.org/2015/07/21/maxwell-land-grant-an-astounding-piracy-of-the-public-domain/. Accessed 13 November 2019.
+- Miller, Michael. Maxwell Land Grant: An Astounding Piracy of the Public Domain. New Mexico History, 21 July 2015, https://newmexicohistory.org/2015/07/21/maxwell-land-grant-an-astounding-piracy-of-the-public-domain/. Accessed 13 November 2019.
 
-Federal Highway Administration & New Mexico Department of Tourism. New Mexico Santa Fe Trail National Scenic Byway, n.d., https://www.santafetrailnm.org/index.html. Accessed 13 November 2019.
+- Federal Highway Administration & New Mexico Department of Tourism. New Mexico Santa Fe Trail National Scenic Byway, n.d., https://www.santafetrailnm.org/index.html. Accessed 13 November 2019.
 
-Cimarron Chamber of Commerce. Brochures. Cimarron Where the West is Still Wild New Mexico, 1986, https://www.cimarronnm.com/brochures.html. Accessed 13 November 2019.
+- Cimarron Chamber of Commerce. Brochures. Cimarron Where the West is Still Wild New Mexico, 1986, https://www.cimarronnm.com/brochures.html. Accessed 13 November 2019.
 
-National Park Services. New Mexico. Santa Fe National Historic Trail CO, KS, MO, NM, OK, 25 February 2019, https://www.nps.gov/safe/planyourvisit/places-to-go-in-new-mexico.htm. Accessed 16 November 2019.
+- National Park Services. New Mexico. Santa Fe National Historic Trail CO, KS, MO, NM, OK, 25 February 2019, https://www.nps.gov/safe/planyourvisit/places-to-go-in-new-mexico.htm. Accessed 16 November 2019.
 
-Stanley, Charles F. The Grant that Maxwell Bought. Santa Fe, Sunstone Press, 2008.
+- Stanley, Charles F. The Grant that Maxwell Bought. Santa Fe, Sunstone Press, 2008.
 
-New Mexico, A guide to the Colorful State. New York, Hastings House, 1940. 
+- New Mexico, A guide to the Colorful State. New York, Hastings House, 1940. 
 
-Varney, Philip. New Mexico’s Best Ghost Towns: A Practical Guide. New Mexico, The University of New Mexico Press, 1987.
+- Varney, Philip. New Mexico’s Best Ghost Towns: A Practical Guide. New Mexico, The University of New Mexico Press, 1987.
 
-St. James Hotel. (n.d.) retrieved from http://www.exstjames.com/about
+- St. James Hotel. (n.d.) retrieved from http://www.exstjames.com/about
 
-Library of Congress.  Historic American Buildings Survey Frederick D. Nichols, Photographer August 1936 VIEW LOOKING NORTHEAST - St. James Hotel, Cimarron, Colfax County, NM. Washington, D.C.: Library of Congress Prints and Photographs Division, 1936.
+- Library of Congress.  Historic American Buildings Survey Frederick D. Nichols, Photographer August 1936 VIEW LOOKING NORTHEAST - St. James Hotel, Cimarron, Colfax County, NM. Washington, D.C.: Library of Congress Prints and Photographs Division, 1936.
 
 
 [^source1]:http://www.exstjames.com/about 
