@@ -130,31 +130,24 @@ The region that was once characterized by the hustle and bustle of the native tr
 ## Bibliography
 
 Archaeological Tests and Ethnohistoric Research At La 74220, an Early Twentieth-Century Sheep Camp Near Ocate. Goodman, Schlager. Mora County, New Mexico. 1993. Accessed November 03, 2019.
-
 http://www.nmarchaeology.org/assets/files/archnotes/95.pdf#page=2&zoom=auto,-127,653http://www.nmarchaeology.org/assets/files/archnotes/95.pdf#page=2&zoom=auto,-127,653
 
 Miscellaneous Reports, Part III.  Pages 38 - 41.United States Department of the Interior. Governor of New Mexico. Mine Inspector for New Mexico. Mora County, New Mexico. 1902. Accessed November 25, 2019.
-
 https://books.google.com/books?id=gOo3AQAAIAAJ&pg=PA542&dq=mora+valley+county&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjCkOKhpoTmAhWK9Z4KHSA1ApMQ6AEwBHoECAIQAg#v=onepage&q=mora%20valley%20county&f=false
 
 National Register of Historic Places Registration Form. Ocate Creek Crossing and the Santa Fe Trail (Mora County Trail Segment) United States Department of the Interior, National Parks Service. March 11, 1993. Accessed November 07, 2019. 
-
 https://npgallery.nps.gov/AssetDetail/NRIS/94000329
 
 New Mexico Range Plants - Grasses. Allison, Ashcroft. College of Agricultural, Consumer, and Environmental Sciences, New Mexico State University. November 2011. Accessed November 07, 2019. 
-
 https://aces.nmsu.edu/pubs/_circulars/CR374/
 
 Santa Fe Trail Research Site, Fort Union, Chapter 1. Carolyn, Larry. St. Johns, Kansas. 2018. Accessed November 05, 2019.
-
 http://www.santafetrailresearch.com/fort-union-nm/fu-oliva-1.html
 
 The Book of Archives. Melendez, Gabriel. Mora Valley, New Mexico. 2017. Accessed November 25, 2019.
-
 https://books.google.com/books?id=VwWNDgAAQBAJ&printsec=frontcover&dq=mora+valley,+new+mexico&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiTxr7bkoTmAhUYpJ4KHRDeAGAQ6AEwAHoECAQQAg#v=onepage&q=mora%20valley%2C%20new%20mexico&f=true
 
 The Place Names of New Mexico. Page 234. Julyan, Robert. Mora County, New Mexico. 1998. Accessed November 25, 2019.
-
 https://books.google.com/books?id=p3fMJnT1gx0C&pg=PA234&dq=mora+valley+county&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjn5dbEpYTmAhWBnp4KHUsMB-sQ6AEwAHoECAEQAg#v=onepage&q=mora%20valley%20county&f=false
 
 
