@@ -51,7 +51,6 @@ Here's a sample sentence with a footnote at the end.[^source] Here is yet anothe
 
 2) put  `[^SOMETEXT]: Your footnote text` at the bottom of your essay.
 
-
 ```
 [^source]: Your footnote text
 [^another-source]: Text for another footnote.
@@ -64,6 +63,11 @@ Here's a sample sentence with a footnote at the end.[^source] Here is yet anothe
 [^source]: Your footnote text
 [^another-source]: Text for another footnote.
 [^third source]: text for a third source!
+
+### NO SPACES ALLOWED
+**NOTE THAT YOU CANNOT HAVE SPACES IN YOUR SOMETEXT**
+So, `another-source` is fine, but `third source` will not work.
+
 
 We don't need to footnote every statement, and because your paragraphs should be on the same topic, you can simply use a footnote reference for each paragraph if everything in it comes from the same source. But if you have a certain point you want to highlight, please cite it directly and as precisely as you can.
 
