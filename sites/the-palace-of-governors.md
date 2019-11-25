@@ -29,7 +29,15 @@ In 1680 Pueblo Indians grew tired of the circumstances the Spaniards laid upon t
 
 ## The Palace Structure and Geography
 
-The Palace of the Governors is an old-style adobe building that included many features important to the Spaniards. Inside the palace there were private apartments for the governors, official reception rooms, offices, military barracks, stables, and servants’ quarters. All these rooms were important for the running of the building and some original walls you can see to this day. Outside there were vegetable gardens that were planted on ten acres of land. Most importantly on the western part of the building served as a prison and a storage for the gun powder. The use of this building was either for the governor’s residency or to host important meetings or parties.
+The Palace of the Governors is an old-style adobe building that included many features important to the Spaniards. Inside the palace there were private apartments for the governors, official reception rooms, offices, military barracks, stables, and servants’ quarters. There is a chapel inside the building that was used for private praying and masses. All these rooms were important for the running of the building and some original walls you can see to this day. Outside there were vegetable gardens that were planted on ten acres of land. Most importantly on the western part of the building served as a prison and a storage for the gun powder. The use of this building was either for the governor’s residency or to host important meetings or parties.
+
+{% include figure.html
+class="img-left"
+width="50%"
+caption="In this picture there is a glass square cut into the floor so you can see the original flooring before the remodel. The original flooring is constructed using clay and adobe."
+image-url="palace7.jpg"
+source-url="https://nthp-savingplaces.s3.amazonaws.com/2018/02/07/11/20/09/441/Santa%20Fe%20Found%20Gallery.jpg"
+%}
 
 ## The New Mexico History Museum
 
