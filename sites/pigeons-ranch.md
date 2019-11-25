@@ -6,7 +6,7 @@ date: 2019-11-12
 {% include figure.html
 class="img-right"
 width="45%"
-caption="This is what you will see when you pull up to the location of Pidgeons Ranch along side the road."
+caption="This is what you will see when you pull up to the location of Pigeons Ranch along side the road."
 image-url="roadviewpranch.png"
 source-url="https://www.google.com/maps/@35.5717352,-105.7552656,3a,75y,62.31h,99.49t/am=t/data=!3m7!1e1!3m5!1sloI7iiw8JpFTCW7x7M9Z_A!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DloI7iiw8JpFTCW7x7M9Z_A%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D35.874577%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656"
 %}
@@ -43,4 +43,5 @@ caption="This is a depiction of the union troops charging against the confederat
 image-url="battlepranch.jpg"
 source-url="https://www.legendsofamerica.com/pigeons-ranch/"
 %}
+
 
