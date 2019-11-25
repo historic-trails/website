@@ -81,7 +81,7 @@ There are 27 Walnut Creeks in the state of Kansas. [^8] You can still visit the 
 # Works Cited
 
 [^1]:Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
-Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
+- Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
 
 [^2]:Kansas Historical Society. “The Walnut Creek Massacre.” (2017). https://www.kshs.org/kansapedia/walnut-creek-massacre/12139
 Kansas Historical Society. “The Walnut Creek Massacre.” (2017). https://www.kshs.org/kansapedia/walnut-creek-massacre/12139
