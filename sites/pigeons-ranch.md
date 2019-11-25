@@ -1,8 +1,12 @@
-
+---
+title: Pigeons Ranch
+author: Karli Montoya
+date: 2019-11-25
+---
 
 {% include figure.html
 class="img-right"
-width="35%"
+width="30%"
 caption="This Picture came from the Southwest Reasearch Library National Archives in a feasability report of Pigeons Ranch. This picture shows the front of Pigeons Ranch that served as a rest stop for travelers. "
 image-url="ranchview.jpg"
 source-url=""
