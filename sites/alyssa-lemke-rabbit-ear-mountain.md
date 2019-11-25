@@ -64,14 +64,14 @@ Clayton-Union County Chamber of Commerce
 
 National Park Service, Santa Fe National Historic Trail: Missouri, Kansas, Colorado, Oklahoma, and New Mexico
 
-[^National Park Service]:(National Park Service, Santa Fe National Historic Trail: Missouri, Kansas, Colorado, Oklahoma, and New Mexico) 
+[^National Park Service]: (National Park Service, Santa Fe National Historic Trail: Missouri, Kansas, Colorado, Oklahoma, and New Mexico) 
 
 National Register of Historic Places Inventory Nomination Form
 
-[^National Register Form]:(National Register of Historic Places Inventory Nomination Form) 
+[^National Register Form]: (National Register of Historic Places Inventory Nomination Form) 
 
 Richard Flint and Shirley Cushing Flint, Cimarron Cutoff of the Santa Fe Trail, New Mexico History.org 2013
 
 Report of the Exploring Expedition from Santa Fé, New Mexico, to the Junction of the Grand and Green Rivers of the Great Colorado of the West in 1859. U.S. Government Printing Office. Dec 31, 1876. Pg 31-32
 
-[^Exploring Expedition]:(Report of the Exploring Expedition from Santa Fé, New Mexico, to the Junction of the Grand and Green Rivers of the Great Colorado of the West in 1859. U.S. Government Printing Office. Dec 31, 1876. Pg 31-32)
+[^Exploring Expedition]: (Report of the Exploring Expedition from Santa Fé, New Mexico, to the Junction of the Grand and Green Rivers of the Great Colorado of the West in 1859. U.S. Government Printing Office. Dec 31, 1876. Pg 31-32)
