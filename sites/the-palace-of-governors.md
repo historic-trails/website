@@ -19,6 +19,14 @@ date: 2019-17-11
 
 [Santa Fe](https://www.legendsofamerica.com/nm-santafe/) during the 1600's brought exploration, exploitation of the native people, and a start of the history of the great Southwest. The Spanish explorers of the time conquered this area and took land away from the Pueblo people living in this area. Under Spanish command Pueblo people were slaughtered or enslaved by the explorers as they came to estabish a new colony. Santa Fe is the third oldest city in the country and was known for having the oldest buildings created by the spanish explorers. During this time Pedro de Peralta was appointed as the second Spanish governor in 1610 by Luis De Velasco. He was a Spanish conquistador who came to the Americas from Spain. Under his law the construction of one of the oldest capital buildings in the country began thus, making him the original name behind the historic Palace of the Governors. 
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="This is an in-depth map of where the palace is located in the historic Santa Fe Plaza. This photo also shows where the old Santa Fe trail runs through."
+  image-url="palace5.gif"
+  source-url="http://www.palaceofthegovernors.org/GRAPHICS/home_map.gif"
+%}
+
 ## Historical significance: 
 
 This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events such as the pueblo revolt, the spanish reconquest, and the [civil war](https://www.battlefields.org/learn/articles/brief-overview-american-civil-war).
