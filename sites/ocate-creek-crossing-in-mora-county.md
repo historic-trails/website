@@ -120,7 +120,7 @@ Violence against Anglo-American settlers occurred so frequently that a fort was 
 {% include figure.html
   class="img-right"
   width="49%"
-  caption="Fort Union quickly lost its importance and relevance after the American Civil War. This picture depicts the remains of the fort from the perspective of someone facing the north front of the fort."
+  caption="Fort Union quickly lost its impact after the American Civil War since the Santa Fe Trail was closed and travelers on the trail were now found safer on the new trains going through the region. This picture depicts the remains of the fort from the perspective of someone facing the north front of the fort."
   image-url="fort-union-now-nps.jpg"
   source-url="https://www.nps.gov/foun/learn/photosmultimedia/photogallery.htm"
 %}
