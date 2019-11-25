@@ -74,6 +74,6 @@ source-url="https://www.nps.gov/nr/twhp/wwwlps/lessons/91glorieta/91visual3.htm"
 class="img-left"
 width="50%"
 caption="A roadside view of what Pigeons Ranch looks like today "
-image-url="pigeonsranchtoday.jpg"
+image-url="pigeonranchtoday.jpg"
 source-url="https://www.theroute-66.com/glorieta.html"
 %}
