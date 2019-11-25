@@ -34,8 +34,6 @@ source-url="https://www.legendsofamerica.com/nm-cimarron/"
 %}
 
 ##### WHY CIMARRON, NEW MEXICO
-Cimarron, New Mexico, a town rooted in the foothills southeast of the [Sangre De Cristo Mountain Range](https://en.wikipedia.org/wiki/Sangre_de_Cristo_Mountains), the town sits just northwest of fertile river valleys. Cimarron was located in the northeast sanction of New Mexico, comfortably seated on the Santa Fe Trail. The landscape surrounding the town, implied almost perfect conditions to settle or a place to stop/make camp including ample water, timber from the mountains, and abundant game and fish [^source]. Cimarron, just southwest of the [Raton Pass](https://www.santafetrailnm.org/site70.html), made for a perfectly nestled sanctuary along the Santa Fe Trail. Cimarron became an advantage along the Santa Fe Trail due to the lesser distance traveled along the [“Cimarron Cutoff,”](https://www.santafetrailnm.org/sfthistory.html) historical links say almost 75% of travelers used this pass even though the “Cutoff” still imposed threats from Native American violence, little to no water, firewood and grass for the animals was apparent on this route [^anothersource]. The town and New Mexico as a whole were slowly being inhabited by those traveling west, the fertile plains and grounded mountains made home to gold mining, Native American strife, passing stage coaches, sheep herders and cattle drivers, all of whom were all too familiar with ringing of a bullets release. Cimarron had such a leisurely attitude at the time, there are not have recollection of building dates, event happenings, or a detailed understanding of the inhabitants from the 19th century. The name stems from big horned sheep, runaway slaves or the flooding of the river.[^thirdsource] More importantly though are the land owners of that region and what they decided to do with their power.
-
 {% include figure.html
 class="img-left"
 width="40%"
@@ -43,13 +41,12 @@ caption="Ariel View Point Cimarron, New Mexico"
 image-url="ariel-view-cimarron.png"
 source-url="https://www.google.com/maps/place/Cimarron,+NM+87714/@36.5070037,-104.9226712,14z/data=!3m1!4b1!4m5!3m4!1s0x8710ae3839f352d7:0x703572cf1cbbcc70!8m2!3d36.5108691!4d-104.9158341"
 %}
-
+Cimarron, New Mexico, a town rooted in the foothills southeast of the [Sangre De Cristo Mountain Range](https://en.wikipedia.org/wiki/Sangre_de_Cristo_Mountains), the town sits just northwest of fertile river valleys. Cimarron was located in the northeast sanction of New Mexico, comfortably seated on the Santa Fe Trail. The landscape surrounding the town, implied almost perfect conditions to settle or a place to stop/make camp including ample water, timber from the mountains, and abundant game and fish [^source]. Cimarron, just southwest of the [Raton Pass](https://www.santafetrailnm.org/site70.html), made for a perfectly nestled sanctuary along the Santa Fe Trail. Cimarron became an advantage along the Santa Fe Trail due to the lesser distance traveled along the [“Cimarron Cutoff,”](https://www.santafetrailnm.org/sfthistory.html) historical links say almost 75% of travelers used this pass even though the
 {% include aside.html
   class="left"
   width="40%"
   text="Cimarron, divided into New Town and Old Town by the Cimarron Valleys from the Sangre de Cristo Range and is well protected from mountain gales. To the north and west rise lofty mountains, and to the sourht and east are two of the most fertile valleys in the state. In addition to the Cimarron River, the water of the Ponil and the Cimarroncito(little wild) Canyons supply adequate water for the town and the irrigation of crops. Near-by mountains provide ample fuel, timner, and game and there is good trout fishing in the surrounding streams.[^source]"
-  %}
-
+  %} “Cutoff” still imposed threats from Native American violence, little to no water, firewood and grass for the animals was apparent on this route [^anothersource]. The town and New Mexico as a whole were slowly being inhabited by those traveling west, the fertile plains and grounded mountains made home to gold mining, Native American strife, passing stage coaches, sheep herders and cattle drivers, all of whom were all too familiar with ringing of a bullets release. Cimarron had such a leisurely attitude at the time, there are not have recollection of building dates, event happenings, or a detailed understanding of the inhabitants from the 19th century. The name stems from big horned sheep, runaway slaves or the flooding of the river.[^thirdsource] More importantly though are the land owners of that region and what they decided to do with their power.
 
 
 ##### THE BEAUBIEN-MIRANDA LAND GRANT & SON-IN-LAW LUCIEN MAXWELL 
@@ -57,8 +54,6 @@ In January of 1841 the [Beaubien-Miranda Land Grant](https://newmexicohistory.or
 
 
 ##### APRIL 14, 1865: RELEASING HENRY LAMBERT OF HIS DUTY 
-Friday, April 14, 1865 the President Abraham Lincoln was assassinated, and within the transformation of the macro, changes rippled through the micro. Henry Lambert was relinquished of his duty to President Lincoln and General Ulysses S. Grant on that day and with a lament heart he moved southwest for the place he settled, resembled his birthplace most. Lambert was born October 28, 1838 and at the ripe age of 12 was sent to learn how to be a cook at Havre, his journey was seemingly all over the place, working on a French boat which had docked in New York in 1861, working endlessly on ships, submarines, in the navy, in a circus, and for the government/president; Lambert worked anywhere from South America, Maine, New York, to Washington D.C., and Virginia. Lambert attempted roots in Virginia by opening a restaurant, but when hearing of gold moved west in attempts to strike wealth quick.[^seventhsource] Settling originally in [Elizabethtown, NM](https://www.newmexico.org/places-to-visit/ghost-towns/elizabethtown/) which is further burrowed into the mountains and just northwest of Cimarron. Lambert originally drawn by the golden dream, had little luck, so he soon resurrected a restaurant and saloon. [^eigthsource] However at some point in 1871 Lambert was tickled at the opportunity to buy from the Maxwell Land Grant; Lambert then packed his belongings and shifted just southeast to Cimarron to hopefully strike wealth in another fashion. However,
->“There is no deed showing that Lambert purchased the place in 1871. At this time trouble began brewing between the Maxwell Land Grant people and the squatters. Lucien Maxwell may have sold the property to the people concerned. In those days many deeds passed hands by a mere handshake or an old scrap of paper easily lost. With Maxwell selling to the Grant people and moving to Fort Sumner, the settlers had a thoroughly organized syndicate to deal with Holbrook may have not retained proof of his proprietorship, consequently his holdings were turned over to the sheriff for public auction”[^seventhsource].
 {% include figure.html
   class="img-right"
   width="40%"
@@ -66,6 +61,8 @@ Friday, April 14, 1865 the President Abraham Lincoln was assassinated, and withi
   image-url="lambert.png"
   source-url="https://www.sgha.net/nm/Cimarron/StJames2011/sitehistory.html"
 %}
+Friday, April 14, 1865 the President Abraham Lincoln was assassinated, and within the transformation of the macro, changes rippled through the micro. Henry Lambert was relinquished of his duty to President Lincoln and General Ulysses S. Grant on that day and with a lament heart he moved southwest for the place he settled, resembled his birthplace most. Lambert was born October 28, 1838 and at the ripe age of 12 was sent to learn how to be a cook at Havre, his journey was seemingly all over the place, working on a French boat which had docked in New York in 1861, working endlessly on ships, submarines, in the navy, in a circus, and for the government/president; Lambert worked anywhere from South America, Maine, New York, to Washington D.C., and Virginia. Lambert attempted roots in Virginia by opening a restaurant, but when hearing of gold moved west in attempts to strike wealth quick.[^seventhsource] Settling originally in [Elizabethtown, NM](https://www.newmexico.org/places-to-visit/ghost-towns/elizabethtown/) which is further burrowed into the mountains and just northwest of Cimarron. Lambert originally drawn by the golden dream, had little luck, so he soon resurrected a restaurant and saloon. [^eigthsource] However at some point in 1871 Lambert was tickled at the opportunity to buy from the Maxwell Land Grant; Lambert then packed his belongings and shifted just southeast to Cimarron to hopefully strike wealth in another fashion. However,
+>“There is no deed showing that Lambert purchased the place in 1871. At this time trouble began brewing between the Maxwell Land Grant people and the squatters. Lucien Maxwell may have sold the property to the people concerned. In those days many deeds passed hands by a mere handshake or an old scrap of paper easily lost. With Maxwell selling to the Grant people and moving to Fort Sumner, the settlers had a thoroughly organized syndicate to deal with Holbrook may have not retained proof of his proprietorship, consequently his holdings were turned over to the sheriff for public auction”[^seventhsource].
 On May 10, 1875 the piece of land was lawfully then sanctioned as Lamberts for the amount of $102.[^seventhsource] Where originally stood the Lambert Inn, saloon and bar.
 
 
@@ -97,7 +94,7 @@ caption="Historic American Building Survey: St. James Hotel(Don Diego Hotel)"
 image-url="hotel-eval2.png"
 source-url="http://cdn.loc.gov/master/pnp/habshaer/nm/nm0000/nm0028/supp/nm0028supp.pdfg"
 %}
-
+---
 
 
 ##### THE HOTEL TODAY
