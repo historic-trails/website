@@ -59,10 +59,11 @@ Here's a sample sentence with a footnote at the end.[^source] Here is yet anothe
 
 Viewed as a webpage, the code above will render as:
 
-Here's a sample sentence with a footnote at the end.[^source] Here is yet another sentence.[^another-source]  Note that the numbering happens automagically, so you don't need to think about that.
+Here's a sample sentence with a footnote at the end.[^source] Here is yet another sentence.[^another-source]  Note that the numbering happens automagically, so you don't need to think about that. Here is a third source.[^third source]
 
 [^source]: Your footnote text
 [^another-source]: Text for another footnote.
+[^third source]: text for a third source!
 
 We don't need to footnote every statement, and because your paragraphs should be on the same topic, you can simply use a footnote reference for each paragraph if everything in it comes from the same source. But if you have a certain point you want to highlight, please cite it directly and as precisely as you can.
 
