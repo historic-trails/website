@@ -189,11 +189,11 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^Zwink88]: Zwink, 88
 [^Zwink89]: Zwink, 89-91
 [^Unrau]: Unrau
-[^NRHP]: NRHP Fort Larned Inventory/Nomination Form
-[^NRHP6]: NRHP Fort Larned Inventory/Nomination Form, 6
-[^NRHP7]: NRHP Fort Larned Inventory/Nomination Form, 7
-[^NRHP8]: NRHP Fort Larned Inventory/Nomination Form, 8
-[^NRHP9]: NRHP Fort Larned Inventory/Nomination Form, 9-11
+[^NRHP]: NRHP - Fort Larned Inventory/Nomination Form
+[^NRHP6]: NRHP - Fort Larned Inventory/Nomination Form, 6
+[^NRHP7]: NRHP - Fort Larned Inventory/Nomination Form, 7
+[^NRHP8]: NRHP - Fort Larned Inventory/Nomination Form, 8
+[^NRHP9]: NRHP - Fort Larned Inventory/Nomination Form, 9-11
 [^Coates23]: Coates & Kennedy, 23
 [^Coates50]: Coates & Kennedy, 50-51
 [^Coates54]: Coates & Kennedy, 54-55
