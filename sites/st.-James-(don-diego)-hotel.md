@@ -73,6 +73,8 @@ New Mexico, A guide to the Colorful State. New York, Hastings House, 1940.
 
 Varney, Philip. New Mexico’s Best Ghost Towns: A Practical Guide. New Mexico, The University of New Mexico Press, 1987.
 
+St. James Hotel. (n.d.) retrieved from http://www.exstjames.com/about
+
 
 [^source1]:http://www.exstjames.com/about 
 [^source]: Hastings House, 1940
