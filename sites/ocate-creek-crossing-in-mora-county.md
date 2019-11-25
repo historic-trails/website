@@ -86,7 +86,7 @@ This saintly image of death served as a reminder to the Natives and Hispanics th
 {% include figure.html
   class="img-left"
   width="49%"
-  caption="San Jose de Garcia is a church in Las Trampas, New Mexico, a town approximately 32 miles southwest of Taos. This church was built sometime between 1760 and 1776 by the Spanish. San Jose de Garcia church is widely accepted as a historic church in New Mexico. Churches with these old spanish architerctural designs often fused with the local adobe styles of the native residents in the are"
+  caption="San Jose de Garcia is a church in Las Trampas, New Mexico, a town approximately 32 miles southwest of Taos. This church was built sometime between 1760 and 1776 by the Spanish. San Jose de Garcia church is widely accepted as a historic church in New Mexico. Churches with these old spanish architerctural designs often fused with the local adobe styles of the native residents in the area."
   image-url="san-jose-de-garcia-las-trampas.jpg"
   source-url="https://www.kunm.org/post/preserving-new-mexicos-historic-churches"
 %}
