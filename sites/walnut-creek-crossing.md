@@ -6,7 +6,7 @@ date: 2019-11-13
 {% include figure.html
   class="img-center"
   width="100%"
-  caption="Make sure your image is large enough to be 100% width or it will look grainy."
+  caption="Walnut Creek Crossing."
   image-url="river-bend.jpg"
   source-url="https://www.legendsofamerica.com/ks-santafetrailbtco/"
   %}
