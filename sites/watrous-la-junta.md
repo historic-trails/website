@@ -43,9 +43,11 @@ By drafting letters to the Bureau of Indian affairs, newspapers, and politicians
 Gone was the ability of indigenous peoples to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. 
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
 ## Friend or foe? 
+
 ### Samuel Watrous versus Indigenous tribes
 After the Watrous house was constructed, Kosmider suggests that Samuel was on good terms with the indigenous tribes, allowing them to stay on his land, trading goods with them.  According to Kosmider, he also purchased indigenous captives, “taking the young Indian boys and girls to raise with his own family” [^29Kosmider]. Clark, too, writes that Watrous was on friendly terms with many indigenous peoples, noting that he “felt a wave of compassion”, [^Clark42] for them. Clark also writes that Watrous spent time visiting with indigenous tribes and learning their spiritual and farming practices [^Clark45]. 
 However, the relationship between indigenous tribes and newcomers was a rocky one.  Kosmider writes that indigenous peoples “vehemently disapproved of settlers encroaching upon their hunting grounds” [^Kosmider3]. Watrous himself spent two decades sending letters to politicians, newspapers, and the [Bureau of Indian Affairs](https://www.bia.gov/bia). In 1858, Watrous wrote a letter to the editor of the Santa Fe Gazette that read: 
+
 >"Shall our favorite grazing grounds be forfeited to the marauding Indians? 
 Shall we placidly stand by while they ravage our herds, destroy our grains, 
 murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence[^Kosmider41]". 
