@@ -44,7 +44,7 @@ source-url="https://www.google.com/maps/place/Cimarron,+NM+87714/@36.5070037,-10
 
 {% include aside.html
   class="left"
-  width="50%"
+  width="48%"
   text="Cimarron, divided into New Town and Old Town by the Cimarron Valleys from the Sangre de Cristo Range and is well protected from mountain gales. To the north and west rise lofty mountains, and to the sourht and east are two of the most fertile valleys in the state. In addition to the Cimarron River, the water of the Ponil and the Cimarroncito(little wild) Canyons supply adequate water for the town and the irrigation of crops. Near-by mountains provide ample fuel, timner, and game and there is good trout fishing in the surrounding streams.[^source]"
   %} 
   
