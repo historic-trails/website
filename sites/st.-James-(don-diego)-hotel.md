@@ -6,6 +6,7 @@ date: 2019-11-18
 ---
 
 # ST. JAMES (DON DIEGO) HOTEL
+---
 
 {% include figure.html
   class="img-center"
@@ -42,6 +43,12 @@ caption="Ariel View Point Cimarron, New Mexico"
 image-url="ariel-view-cimarron.png"
 source-url="https://www.google.com/maps/place/Cimarron,+NM+87714/@36.5070037,-104.9226712,14z/data=!3m1!4b1!4m5!3m4!1s0x8710ae3839f352d7:0x703572cf1cbbcc70!8m2!3d36.5108691!4d-104.9158341"
 %}
+
+{% include aside.html
+  class="right"
+  width="40%"
+  text="Cimarron, divided into New Town and Old Town by the Cimarron Valleys from the Sangre de Cristo Range and is well protected from mountain gales. To the north and west rise lofty mountains, and to the sourht and east are two of the most fertile valleys in the state. In addition to the Cimarron River, the water of the Ponil and the Cimarroncito(little wild) Canyons supply adequate water for the town and the irrigation of crops. Near-by mountains provide ample fuel, timner, and game and there is good trout fishing in the surrounding streams.[^source]"
+  %}
 
 ##### THE BEAUBIEN-MIRANDA LAND GRANT & SON-IN-LAW LUCIEN MAXWELL 
 In January of 1841 the [Beaubien-Miranda Land Grant](https://newmexicohistory.org/2015/07/21/maxwell-land-grant-an-astounding-piracy-of-the-public-domain/) was petitioned, the grant was a way in which individuals moving west, could establish a homestead,  with additional reasons such as, “to ‘afford protection from the Indians;’ the second: to ‘employ a great number of idlers;’ the third: to ‘relieve overcrowded conditions;’ the fourth: to ‘ease problems caused by a scarcity of irrigation waters,’ and the final reason was ‘to afford safe pasturage for livestock during times of war with the Navajos’”[^fourthsource]. Beaubien, a well off store keeper participating in trade[^fifthsource], and Miranda now together owned roughly 2 million acres of land. The totality of this land soon fell into the hands of [Lucien Bonaparte Maxwell](http://newmexicohistory.org/2015/07/22/lucien-maxwell/); Maxwell was a hunter and trapper originating from Kaskaskia, Illinois, he was in route accompanying [General Fremont](https://www.battlefields.org/learn/biographies/john-c-frémont) an expeditioner exploring and surveying for expansion, when Maxwell discovered Cimarron and the Northeast of New Mexico. [^source].  Upon travelling to the southwest, Maxwell decided to create a ranch in 1849, his homestead, by his friend [Kit Carson](https://www.pbs.org/weta/thewest/people/a_c/carson.htm) whom had arrived in 1826.[^sixthsource] Soon after Maxwell settled into town, he took hand of the daughter of one of the two wealthiest land owners, Beaubien. Her beloved name, Luz Beaubien; Maxwell bought Miranda’s half of the Beaubien-Miranda Land Grant for $2745.00  [^fourthsource] and upon Beaubien’s death in 1865 Maxwell bought the remaining heirs land for $53,000.00 [^fourthsource], becoming the wealthiest land owning individual of his time. “The Maxwell Grant as it was called, included the site of Springer, French, Maxwell, Otero, Raton, Vermejo Park, Ute Park, Elizabethtown, and in Colorado, Vigil, Stonewall, Torres, Cuarto, Tercio, Primero, Segundo”[^source]. Maxwell at this time, had a large fortune, land and had begun a family. Maxwell made the decision to sell his land in 1869 to__________ and then went to retire in Fort Sumner. [^sixthsource] A piece of land in Cimarron, New Mexico had apparently been sold to a man named Henry Lambert in 1871; Maxwell also decided to sell his land to a Grant, when he moved and the grant then governed/sold the land.
