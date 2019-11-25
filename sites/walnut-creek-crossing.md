@@ -8,13 +8,13 @@ date: 2019-11-13
 1855, six years before the American civil war, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. Wagons traveling the trail would be forced to stop and set up camp along the river banks to wait out flooding. Thus it was the perfect site for a trading booth, and eventually a military post and toll booth.
 
 # Allison and Boothe 
-\{\% include figure.html
+{% include figure.html
 class="img-left"
 width="50%"
-caption="Campell Family possibly related to Allison"
+caption="The Allisons were a prominent family due to the sucess of the trading post. This is a family portrait of the Campbell family, thought to be related to the Allisons."
 image-url="campell-family.jpg"
 source-url="https://www.kansasmemory.org/item/229053"
-\%\}
+%}
 
 “Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and his partner Boothe were known for their prominent trading site. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
 
@@ -23,9 +23,17 @@ source-url="https://www.kansasmemory.org/item/229053"
 “This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
 In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
 
+{% include figure.html
+  class="img-left"
+  width="33%"
+  caption="A photo of the boy who survived the massacre. He made his living showing off his injuries in sideshow acts."
+  image-url="wounded-man.jpg"
+  source-url= https://www.kshs.org/kansapedia/walnut-creek-massacre/12139"
+%}
+
 # Ownership
 
-Ownership of Walnut Creek trading post flipped around throughout the years it was utilized. Allison and Boothe, the original owners met their dark fate. Boothe was murdered by a Mexican [] or a disgruntled employee[]. Allison followed a few years later dying of  heart failure while in Missouri []. 
+Ownership of Walnut Creek trading post flipped around throughout the years it was utilized. Allison and Boothe, the original owners met their dark fate. Boothe was murdered by a Mexican [^1] or a disgruntled employee[]. Allison followed a few years later dying of  heart failure while in Missouri [^1]. 
 
 # Peacock
 
@@ -33,7 +41,7 @@ After Allison died,  ownership of the trading post passed to George Peacock. Pea
 
 # Charles Rath
 
-The post was taken over by Charles Rath, a notorious buffalo hunter and trader. He was the first to implement a toll bridge. In 1860 he married a Cheyenne woman and they had one daughter together. [^18]. Despite his attempts at keeping a peaceful alliance, the trading post was raided multiple times. In order to protect Charles, his wife told him they should get a divorce. In 1869, Charles met and married Caroline Markley. Together the couple had three children. [^18] In 1885 he divorced Caroline and married Emma Nesper, with whom he had a son. [^18]. He had a son and grandson play in Major League Baseball. [^18]. 
+The post was taken over by Charles Rath, a notorious buffalo hunter and trader. He was a prominent man in the area, and the first to implement a toll bridge. In 1860 he married a Cheyenne woman and they had one daughter together. [^18]. Despite his attempts at keeping a peaceful alliance, the trading post was raided multiple times. In order to protect Charles, his wife told him they should get a divorce. In 1869, Charles met and married Caroline Markley. Together the couple had three children. [^18] In 1885 he divorced Caroline and married Emma Nesper, with whom he had a son. [^18]. His prominence continued as he had a son and grandson play in Major League Baseball. [^18]. 
 
 # Joseph Douglas
 
