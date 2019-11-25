@@ -33,7 +33,7 @@ The Palace of the Governors is an old-style adobe building that included many fe
 
 {% include figure.html
 class="img-left"
-width="50%"
+width="30%"
 caption="In this picture there is a glass square cut into the floor so you can see the original flooring before the remodel. The original flooring is constructed using clay and adobe."
 image-url="palace7.jpg"
 source-url="https://nthp-savingplaces.s3.amazonaws.com/2018/02/07/11/20/09/441/Santa%20Fe%20Found%20Gallery.jpg"
