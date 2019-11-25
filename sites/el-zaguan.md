@@ -101,7 +101,7 @@ Even after Johnson lost the ownership of El Zaguan he continued to live in the b
 
 ### **Visit**
 
-El Zaguan is located at 545 Canyon Road, Santa Fe, New Mexico. It is open Monday through Friday 9 AM to 5 PM. For more information about visits or what is on display in the gallery contact info@historicsantafe.org
+El Zaguan is located at 545 Canyon Road, Santa Fe, New Mexico. It is open Monday through Friday 9 AM to 5 PM. For more information about visits or what is on display in the gallery contact [info@historicsantafe.org](info@historicsantafe.org)
 
 [^1]: Nat Register, 10.
 [^2]: HBSNM223, 38.
