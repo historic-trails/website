@@ -3,6 +3,8 @@ title: Pigeons Ranch
 author: Karli Montoya
 date: 2019-11-12
 ---
+>  “… This place was along the Old Santa Fe Trail. On it was a big adobe house about a hundred feet long with two wings of fifty or more feet, with a high adobe wall and stables in the rear. In the middle of the buildings was a patio in which there were several trees; this had a porch on three sides after the Mexican Manner. Along the front of the house was a wide porch on the road.”
+
 {% include figure.html
 class="img-right"
 width="45%"
