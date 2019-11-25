@@ -81,7 +81,23 @@ After almost a century of resistance from colonization, the Spanish began settli
 
 > “black shawl that covered her head, and her bony arms and her legs seemed always ready to poke out of the folds of her dress. Her image was unchanging, like that of the old villages who dressed in mourning for years after the death of their husbands or of a son or a daughter.”
 
-This saintly image of death served as a reminder to the Natives and Hispanics that eventually everyone would meet the same fate. It was noted that when the Americans began settling in the area, there was some noticeable tension regarding the Godmother Sebastiana. Anglo-American beliefs, morals, and culture have a very different take on death. They interpreted this veneration for Sebastiana as a cry out of fear and the only reason to pay tribute was to “appease” the saint (Melendez, 27). 
+This saintly image of death served as a reminder to the Natives and Hispanics that eventually everyone would meet the same fate. It was noted that when the Americans began settling in the area, there was some noticeable tension regarding the Godmother Sebastiana. Anglo-American beliefs, morals, and culture have a very different take on death. They interpreted this veneration for Sebastiana as a cry out of fear and the only reason to pay tribute was to “appease” the saint (Melendez, 27).
+
+{% include figure.html
+  class="img-left"
+  width="49%"
+  caption="San Jose de Garcia church in Las Trampas, New Mexico, a town approximately 32 miles southwest of Taos. This church was built sometime between 1760 and 1776 by the Spanish. San Jose de Garcia church is widely accepted as a historic church in New Mexico. Churches with these old spanish architerctural designs often fused with the local adobe styles of the native residents in the are"
+  image-url="san-jose-de-garcia-las-trampas.jpg"
+  source-url="https://www.kunm.org/post/preserving-new-mexicos-historic-churches"
+%}
+
+{% include figure.html
+  class="img-right"
+  width="49%"
+  caption="The inside of the San Jose de Garcia Church very much reflected how Spanish settlers in the area merged their Catholic iconography with the resources they had in the area. The inside of the building is characterized by the brightly colored paintings of saints and religious scenes on the dark local wood from the surrounding forests on the mountains."
+  image-url="san-jose-de-garcia-las-trampas.jpg"
+  source-url="https://en.wikipedia.org/wiki/San_Jos%C3%A9_de_Gracia_Church"
+%}
 
 The Spanish and the natives interwove their lives in an unprecedented form at the time. Many of the Spanish and natives intermarried. Mostly mutually beneficial trade routes were formed between the Spanish settlers and the Native American tribes. These trade routes, though short-lived, prove to be an important form of cultural sharing, peace-keeping, and form of economy for both the hispanic settlers and the American Indians (Goodman, 25). These trade routes also established the early permanent settlements in the Ocate area. Once the Americans arrived in the area, these trade routes and cultural ties were tested and often rejected, which created a new meaning of the land for the Spanish who had already been there for several generations. Anglo-American settlers viewed Hispanic and Native traditions in the region as entities that clashed with their own views. As both groups began to distance themselves from one another because of the American settlers domination of the landscape, the stress between the Spanish and Anglo-Americans ended up creating a new divide between the Spainsh and Native Americans that had not been seen in almost a hundred years. 
 
