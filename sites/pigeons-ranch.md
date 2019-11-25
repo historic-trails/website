@@ -65,14 +65,14 @@ The land has been tossed and sold to many people in hoping that they would prese
 
 {% include figure.html
 class="img-right"
-width="50%"
+width="35%"
 caption=" This picture shows the front of Pigeons Ranch that served as a rest stop for travelers in 1880. (Photo by Ben Wittide; Courtesy Museum of New Mexico, Neg No 15783)"
 image-url="ranchview.jpg"
 source-url="https://www.nps.gov/nr/twhp/wwwlps/lessons/91glorieta/91visual3.htm"
 %}
 {% include figure.html
 class="img-left"
-width="50%"
+width="65%"
 caption="A roadside view of what Pigeons Ranch looks like today "
 image-url="pigeonranchtoday.jpg"
 source-url="https://www.theroute-66.com/glorieta.html"
