@@ -48,7 +48,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
 
 {% include figure.html
   class="img-right"
-  width="55%"
+  width="65%"
   caption="A set of typical native american, adobe-style homes sitting near a creek in Taos, New Mexico. Although Taos is quite a ways from Ocate Creek Crossing, the architecture of the Native tribes there reflected very similar styles described by studies done of the American Indians in Mora Valley and Ocate."
   image-url="old-taos-natives-adobe-homes.jpg"
   source-url="https://taospueblo.com/history/"
