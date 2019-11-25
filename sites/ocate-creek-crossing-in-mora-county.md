@@ -9,8 +9,8 @@ date: November 15, 2019
 Imagine a land, a haven, with springs and creeks of crystal-clear cool water flowing downstream from neighboring mountains. These creeks are the center of all the communities, conflicts, and livelihoods all over this region. The tall New Mexico feathergrass and vital wooly Indian wheat at the basins of these ponderosa-pine filled mountain ranges, fed by the only source of water in the region for miles, dance in the breeze that has not stopped blowing for centuries now (Allison, 1). The native tribes of this land named the region [“port of the air”] or [“valley of the wind”], known in English as Ocate (Oh - Kah - Teh) (https://www.legendsofamerica.com/nm-mountainbranch/2/#ocate-creek). The Ocate Creek Crossing found itself at the end of the Cimarron Cutoff, a dangerous and arid region on the Santa Fe Trail. Ocate, located in Mora County, New Mexico, was an oasis in all senses of the word and has been for generations of Native Americans, Spanish colonizers, and Mexican and Anglo-American settlers. 
  
 {% include figure.html
-  class="right"
-  width="48%"
+  class="center"
+  width="70%"
   caption="Ocate Creek, Mora County, NM with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county."
   image-url="Ocate-Creek-Crossing-real.jpg"
   source-url="https://www.legendsofamerica.com/wp-content/uploads/2018/06/Ocate-Creek-Crossing.jpg"
