@@ -71,7 +71,8 @@ First were the [Kiowas](https://kiowatribe.org/), whose name translates to the �
   source-url=http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html"
 %}
 
-In a time rife with attacks, a camp was set up near Walnut Creek Crossing. Camp Dunlap was established to protect the mail service. [^4] Eventually the post was renamed Fort Zarah, after the commanding officers son. [^17] It cost what would now equal $100,000 to build the Fort at the time. It was then abandoned in December 1869, and became overrun with thieves and marauders. Nothing remains of the site today. [^17]
+In a time rife with attacks, a camp was set up near Walnut Creek Crossing. Camp Dunlap was established to protect the mail service. [^4] Eventually the post was renamed Fort Zarah, after the commanding officers son. [^17] It cost what would now equal $100,000 to build the Fort at the time. >"A short distance from the bridge across the Walnut Creek one came to the Stage Station, which, also adobe, was half dugout and half above ground, loop holes for cross-fire.  On its roof an employee of the Stage Company was stationed, also an lookout for trouble; and of this there was quite an anxiety during June, July and August previous (1867 and during) our visit.  Fort Zarah was right on a much travelled Indian trail from the Indian Territory & northern hunting grounds, besides there are, about fifteen miles south, some salt springs much frequented then by Indians from the North as well as from the Territory.  Small war and hunting parties, consisting mostly of young “bucks” which had slipped out from the control of the Tribal chiefs hovered most of the summer time around." 
+It was then abandoned in December 1869, and became overrun with thieves and marauders. Nothing remains of the site today. [^17]
 
 # Today
 
