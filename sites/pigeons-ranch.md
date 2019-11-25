@@ -90,7 +90,7 @@ source-url="https://www.yelp.com/biz/glorieta-zip-tour-glorieta?osq=Things+To+Do
 %}
 {% include figure.html
 class="img-center"
-width="33%"
+width="30%"
 caption="Santa Fe Food Tour"
 image-url="foodtournm.jpg"
 source-url="https://www.yelp.com/biz/glorieta-zip-tour-glorieta?osq=Things+To+Do"
