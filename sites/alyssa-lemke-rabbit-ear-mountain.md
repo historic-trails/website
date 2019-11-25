@@ -74,4 +74,4 @@ Richard Flint and Shirley Cushing Flint, Cimarron Cutoff of the Santa Fe Trail, 
 
 Report of the Exploring Expedition from Santa Fé, New Mexico, to the Junction of the Grand and Green Rivers of the Great Colorado of the West in 1859. U.S. Government Printing Office. Dec 31, 1876. Pg 31-32
 
-[^Exploring Expedition]: (Report of the Exploring Expedition from Santa Fé, New Mexico, to the Junction of the Grand and Green Rivers of the Great Colorado of the West in 1859. U.S. Government Printing Office. Dec 31, 1876. Pg 31-32)
+[^Exploring Expedition]: (Report of the Exploring Expedition from Santa Fé Pg 31-32)
