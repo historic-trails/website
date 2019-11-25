@@ -52,14 +52,14 @@ In March 1862, during The Battle of Glorieta Pass, both Confederate and Union tr
 
 {% include figure.html
 class="img-left"
-width="45%"
+width="50%"
 caption="A copy of the original hand written claim Alejandro Valle made to the US for damaged goods and property due to the Battle of Glorieta Pass provided by UNM's Southwest Research Library"
 image-url="letter.png"
 source-url=""
 %}
 {% include figure.html
 class="img-right"
-width="45%"
+width="50%"
 caption="A copy of the original hand written list of supplies lost during the Battle of Glorieta Alejandro Valle made. It is Provided by UNM's Southwest Research Library"
 image-url="reciept.png"
 source-url=""
