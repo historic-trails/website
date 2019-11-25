@@ -3,9 +3,6 @@ title: Pigeons Ranch
 author: Karli Montoya
 date: 2019-11-25
 ---
-
-{:.abstract} Pigeons ranch is located near Glorieta, New Mexico.  The ranch was a hidden gem for travelers to take a break from traveling the Santa Fe trail during 1822, but also served as a battle field between the Union and the Confederate troops during the Civil War in 1862. This small ranch truly is a hidden treasure of American History that should be remembered and preserved, but research and records of this historic ranch are uncommon. 
-
 {% include figure.html
 class="img-right"
 width="35%"
@@ -14,7 +11,10 @@ image-url="ranchview.jpg"
 source-url=""
 %}
 
-Pigeons Ranch 
+{:.abstract} Pigeons ranch is located near Glorieta, New Mexico.  The ranch was a hidden gem for travelers to take a break from traveling the Santa Fe trail during 1822, but also served as a battle field between the Union and the Confederate troops during the Civil War in 1862. This small ranch truly is a hidden treasure of American History that should be remembered and preserved, but research and records of this historic ranch are uncommon. 
+
+
+### Pigeons Ranch 
 Pigeons Ranch, originally called “Rancho de Glorieta” is 18 miles southeast of Santa Fe, halfway through the Glorieta Pass[](). It was owned by Alexander Pigeon, a French man, who later renamed himself to Alejandro Valle. He purchased a land grant for 5,275 pesos, about $257.00 today, in 1851-52 and built a trading post and home on the land which still remain today.  During the Days of the Santa Fe trail, the ranch served as rest stop for travelers who were able to grab a bite to eat, rest, and feed their animals. The ranch was similar to today’s idea of a Motel. There is no recorded images or descriptions of the ranch before the Civil War in 1862. 
 
 {% include figure.html
