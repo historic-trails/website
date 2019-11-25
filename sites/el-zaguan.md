@@ -122,7 +122,7 @@ El Zaguan is located at 545 Canyon Road, Santa Fe, New Mexico. It is open Monday
 [^17]: Nat REg, 20-21.
 [^18]: NMHABS223, 24.
 [^19]: Cline.
-[^20]: NMHABS 223, 9-10.
+[^20]: (NMHABS 223, 9-10.)
 
 ## **Bibliography**
 -National Park Service. [El Zaguan.](https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/) N.p.: United States Department of the Interior, 8-1-2008.
