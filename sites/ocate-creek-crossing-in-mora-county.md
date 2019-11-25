@@ -115,7 +115,7 @@ With the settlement of more Americans in Ocate and the rest of northeastern New 
 
 As a consequence of Westward American expansion, the Santa Fe Trail was eventually closed and lived on through the national railway system that was built in the late 1800s. Despite the railroad bringing more tourism to the west, Ocate, and the surrounding areas, experienced a sharp decline in population. Many of the raids of livestock that continued to happen and the general direction of the American economy were some of the main factors that lead to Ocate essentially becoming a ghost town. 
 
-After the Santa Fe Trail was officially closed with the opening of the railroad, much of the Native and Hispanic presence changes in the region. Despite Ocate being at an important stop on the railroad for agricultural trade and being known as the most successful region for farming in New Mexico, much of those populations lived in poverty and experienced raids from outside tribes at a higher rate since the Americans first arrived in the area. However, despite Anglo farmers abandoning the area more often, Anglo-American presence in the region was still very prominent. In 1902, a collection of miscellaneous reports from the Governor’s office about all of the New Mexico counties from the Mine Inspector of New Mexico stated that Mora County was “one of the prettiest valleys of the US” and that this and the pristine air quality were some of the most attractive characteristics of the region. With the advent of the railroad system in the area, Mora County became a point of tourist attraction to Anglo-Americans in the early 20th century (New Mexico Department of the Interior, 38 - 41). Tourism and the agricultural sector in this region became vital solely because of its accessibility through the newly constructed inter-state railroad. 
+After the Santa Fe Trail was officially closed with the opening of the railroad, much of the Native and Hispanic presence changes in the region. Despite Ocate being at an important stop on the railroad for agricultural trade and being known as the most successful region for farming in New Mexico, much of those populations lived in poverty and experienced raids from outside tribes at a higher rate since the Americans first arrived in the area. However, despite Anglo farmers abandoning the area more often, Anglo-American presence in the region was still very prominent. In 1902, a collection of miscellaneous reports from the Governor’s office about all of the New Mexico counties from the Mine Inspector of New Mexico stated that Mora County was “one of the prettiest valleys of the US” and that this and the pristine air quality were some of the most attractive characteristics of the region. With the advent of the railroad system in the area, Mora County became a point of tourist attraction to Anglo-Americans in the early 20th century (U.S. Department of the Interior, 38 - 41). Tourism and the agricultural sector in this region became vital solely because of its accessibility through the newly constructed inter-state railroad. 
 
 The region that was once characterized by the hustle and bustle of the native trade routes and Santa Fe Trail once again became a land of relative uninterest and little human involvement. The natives that once roamed the forever windy region of Ocate have been driven out by the lack of natural resources available to them, the constant changing of the physical environment with new settlers, and by physical removal from the southwest into reservations through U.S. policies and military involvement. The Spanish, Mexican, and Anglo-American settlers that once dominated Ocate’s landscape, no longer inhabit the creek crossing due to increased raids from native tribes, urbanization elsewhere, and the lack of economic prosperity in the region. As of 1994, the Ocate Creek Crossing has been registered by the National Parks Service (NPS) as a historical site (National Parks Service, 1) in the United States of America.  Ocate, and the encompassing region has seen some major transformations in the last 450 years. The land continues to mold itself through the people, animals, and natural life that is present (or not) in the region. Ocate will surely have a rich, interconnected, and multicultural history for the next 450 years to come. 
 
@@ -126,3 +126,28 @@ The region that was once characterized by the hustle and bustle of the native tr
   image-url="ocate-creek-crossing-paint.jpg"
   source-url="https://peggyimmel.com/?keyvalue=6127&page=ViewCollection&subkeyvalue=15754&startrec=1&displayperpage=9999&displayhorz=1"
 %}
+
+## Bibliography
+
+Archaeological Tests and Ethnohistoric Research At La 74220, an Early Twentieth-Century Sheep Camp Near Ocate. Goodman, Schlager. Mora County, New Mexico. 1993. Accessed November 03, 2019.
+http://www.nmarchaeology.org/assets/files/archnotes/95.pdf#page=2&zoom=auto,-127,653http://www.nmarchaeology.org/assets/files/archnotes/95.pdf#page=2&zoom=auto,-127,653
+
+Miscellaneous Reports, Part III.  Pages 38 - 41.United States Department of the Interior. Governor of New Mexico. Mine Inspector for New Mexico. Mora County, New Mexico. 1902. Accessed November 25, 2019.
+https://books.google.com/books?id=gOo3AQAAIAAJ&pg=PA542&dq=mora+valley+county&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjCkOKhpoTmAhWK9Z4KHSA1ApMQ6AEwBHoECAIQAg#v=onepage&q=mora%20valley%20county&f=false
+
+National Register of Historic Places Registration Form. Ocate Creek Crossing and the Santa Fe Trail (Mora County Trail Segment) United States Department of the Interior, National Parks Service. March 11, 1993. Accessed November 07, 2019. 
+https://npgallery.nps.gov/AssetDetail/NRIS/94000329
+
+New Mexico Range Plants - Grasses. Allison, Ashcroft. College of Agricultural, Consumer, and Environmental Sciences, New Mexico State University. November 2011. Accessed November 07, 2019. 
+https://aces.nmsu.edu/pubs/_circulars/CR374/
+
+Santa Fe Trail Research Site, Fort Union, Chapter 1. Carolyn, Larry. St. Johns, Kansas. 2018. Accessed November 05, 2019.
+http://www.santafetrailresearch.com/fort-union-nm/fu-oliva-1.html
+
+The Book of Archives. Melendez, Gabriel. Mora Valley, New Mexico. 2017. Accessed November 25, 2019.
+https://books.google.com/books?id=VwWNDgAAQBAJ&printsec=frontcover&dq=mora+valley,+new+mexico&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiTxr7bkoTmAhUYpJ4KHRDeAGAQ6AEwAHoECAQQAg#v=onepage&q=mora%20valley%2C%20new%20mexico&f=true
+
+The Place Names of New Mexico. Page 234. Julyan, Robert. Mora County, New Mexico. 1998. Accessed November 25, 2019.
+https://books.google.com/books?id=p3fMJnT1gx0C&pg=PA234&dq=mora+valley+county&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjn5dbEpYTmAhWBnp4KHUsMB-sQ6AEwAHoECAEQAg#v=onepage&q=mora%20valley%20county&f=false
+
+
