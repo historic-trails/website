@@ -9,7 +9,7 @@ date: 2019-11-18
 ---
 
 {% include figure.html
-  class="img-center"
+  class="img-left"
   width="49%"
   caption="St. James Hotel"
   image-url="hotel-with-car-in-front.png"
@@ -37,7 +37,7 @@ source-url="https://www.legendsofamerica.com/nm-cimarron/"
 Cimarron, New Mexico, a town rooted in the foothills southeast of the [Sangre De Cristo Mountain Range](https://en.wikipedia.org/wiki/Sangre_de_Cristo_Mountains), the town sits just northwest of fertile river valleys. Cimarron was located in the northeast sanction of New Mexico, comfortably seated on the Santa Fe Trail. The landscape surrounding the town, implied almost perfect conditions to settle or a place to stop/make camp including ample water, timber from the mountains, and abundant game and fish [^source]. Cimarron, just southwest of the [Raton Pass](https://www.santafetrailnm.org/site70.html), made for a perfectly nestled sanctuary along the Santa Fe Trail. Cimarron became an advantage along the Santa Fe Trail due to the lesser distance traveled along the [“Cimarron Cutoff,”](https://www.santafetrailnm.org/sfthistory.html) historical links say almost 75% of travelers used this pass even though the “Cutoff” still imposed threats from Native American violence, little to no water, firewood and grass for the animals was apparent on this route [^anothersource]. The town and New Mexico as a whole were slowly being inhabited by those traveling west, the fertile plains and grounded mountains made home to gold mining, Native American strife, passing stage coaches, sheep herders and cattle drivers, all of whom were all too familiar with ringing of a bullets release. Cimarron had such a leisurely attitude at the time, there are not have recollection of building dates, event happenings, or a detailed understanding of the inhabitants from the 19th century. The name stems from big horned sheep, runaway slaves or the flooding of the river.[^thirdsource] More importantly though are the land owners of that region and what they decided to do with their power.
 
 {% include figure.html
-class="img-center"
+class="img-left"
 width="40%"
 caption="Ariel View Point Cimarron, New Mexico"
 image-url="ariel-view-cimarron.png"
@@ -45,7 +45,7 @@ source-url="https://www.google.com/maps/place/Cimarron,+NM+87714/@36.5070037,-10
 %}
 
 {% include aside.html
-  class="right"
+  class="left"
   width="40%"
   text="Cimarron, divided into New Town and Old Town by the Cimarron Valleys from the Sangre de Cristo Range and is well protected from mountain gales. To the north and west rise lofty mountains, and to the sourht and east are two of the most fertile valleys in the state. In addition to the Cimarron River, the water of the Ponil and the Cimarroncito(little wild) Canyons supply adequate water for the town and the irrigation of crops. Near-by mountains provide ample fuel, timner, and game and there is good trout fishing in the surrounding streams.[^source]"
   %}
@@ -59,7 +59,6 @@ Friday, April 14, 1865 the President Abraham Lincoln was assassinated, and withi
 >“There is no deed showing that Lambert purchased the place in 1871. At this time trouble began brewing between the Maxwell Land Grant people and the squatters. Lucien Maxwell may have sold the property to the people concerned. In those days many deeds passed hands by a mere handshake or an old scrap of paper easily lost. With Maxwell selling to the Grant people and moving to Fort Sumner, the settlers had a thoroughly organized syndicate to deal with Holbrook may have not retained proof of his proprietorship, consequently his holdings were turned over to the sheriff for public auction”[^seventhsource].
 
 On May 10, 1875 the piece of land was lawfully then sanctioned as Lamberts for the amount of $102.[^seventhsource] Where originally stood the Lambert Inn, saloon and bar.
-
 {% include figure.html
   class="img-right"
   width="40%"
@@ -96,6 +95,7 @@ caption="Historic American Building Survey: St. James Hotel(Don Diego Hotel)"
 image-url="hotel-eval2.png"
 source-url="http://cdn.loc.gov/master/pnp/habshaer/nm/nm0000/nm0028/supp/nm0028supp.pdfg"
 %}
+
 
 ##### THE HOTEL TODAY
 Today an individual can stay in a modernized space in the hotel or in one of the hotels historic rooms, with elder furnishings, pictures and fixtures. Nonetheless, a visitor can experience the fixed fashions of the old west through the hung variety of animals heads, old furniture, drab drapes, and the famous dining hall with its original bar. Visitors can remark the dense energy of the building considering its past, but also can find understanding for how life proceeded in its prime, how wild, the west can be and the unique foundation it created for many a traveler.
