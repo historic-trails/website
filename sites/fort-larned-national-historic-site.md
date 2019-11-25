@@ -15,7 +15,7 @@ Today, Fort Larned is one of the best-preserved examples of these forts, and is 
 {% include figure.html
   class="img-center"
   width="60%"
-  caption="_Fort Larned's location along the Santa Fe Trail_. Although much of the responsibility of patrolling the trail would go to Fort Dodge, Fort Larned's location made it a crucial buffer between the trail and the Native Americans of northwest Kansas."
+  caption="**Fort Larned's location along the Santa Fe Trail.** Although much of the responsibility of patrolling the trail would go to Fort Dodge, Fort Larned's location made it a crucial buffer between the trail and the Native Americans of northwest Kansas."
   image-url="fort-larned-trail-map.jpg"
   source-url="https://www.smithburnett.com/?page=history_ft_larned"
 %}
@@ -24,7 +24,7 @@ Today, Fort Larned is one of the best-preserved examples of these forts, and is 
 {% include figure.html
   class="img-left"
   width="33%"
-  caption="The territories that the US acquired in the early 19th century. The annexation of Texas and the US's victory in the Mexican-American War were the largest influences on the growth of the Santa Fe Trail."
+  caption="**The territories that the US acquired in the early 19th century.** The annexation of Texas and the US's victory in the Mexican-American War were the largest influences on the growth of the Santa Fe Trail."
   image-url="us-western-purchases.jpg"
   source-url="https://www.nationalgeographic.org/photo/territorial-gains/"
 %}
@@ -39,7 +39,7 @@ However, this was not the only reason these forts were created. During this peri
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="The view of Fort Larned, looking across the plains."
+  caption="**The view of Fort Larned, looking across the plains.**"
   image-url="view-of-fort-larned.jpg"
   source-url="https://www.kansasmemory.org/item/216958/page/1"
 %}
@@ -73,7 +73,7 @@ The relationship between the Native Americans and the soldiers of the fort was n
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="An artist's depiction of the Sand Creek Massacre. When news of this event reached the tribes of the plains, distrust and hatred sparked off an entire series of conflicts."
+  caption="**An artist's depiction of the Sand Creek Massacre.** When news of this event reached the tribes of the plains, distrust and hatred sparked off an entire series of conflicts."
   image-url="sand-creek.jpg"
   source-url="https://time.com/4584022/sand-creek-massacre-anniversary/"
 %}
@@ -92,7 +92,7 @@ At this point, the US government decided it needed to send a message, so in the 
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="An artist's depiction of Hancock's expedition burning down the Cheyenne/Arapahoe village."
+  caption="**An artist's depiction of Hancock's expedition burning down the Cheyenne/Arapahoe village.** This event marked the start of _Hancock's War_"
   image-url="cheyenne-village.jpg"
   source-url="https://www.kansasmemory.org/item/209726/page/1"
 %}
@@ -120,7 +120,7 @@ Because of his failures, Hancock would be transferred from his post at Fort Larn
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="A sketch of the proceedings of the Medicine Lodge Treaty. The conference was filled with speeches from both sides about the benefits of peace between whites and natives, as well as mutual discussion about the causes of distrust and conflict."
+  caption="**A sketch of the proceedings of the Medicine Lodge Treaty.** The conference was filled with speeches from both sides about the benefits of peace between whites and natives, as well as mutual discussion about the causes of distrust and conflict."
   image-url="medicine-lodge-treaty.jpg"
   source-url="http://www.abajournal.com/magazine/article/october_28_1867_medicine_lodge_treaty_is_signed"
 %}
@@ -141,7 +141,7 @@ By late 1868, all of the southern plains tribes were evicted from their homeland
 {% include figure.html 
     class="img-right" 
     width="33%"
-    caption="A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail." 
+    caption="**A painting of Fort Larned, showing wagon trains leaving the fort to cross the plains on the Santa Fe Trail.**" 
     image-url="fort-larned-watercolor.jpg" 
     source-url="https://www.jamesmannartfarm.com/jmas401.html"
 %}
