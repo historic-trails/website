@@ -6,7 +6,7 @@ date: 2019-11-18
 
 # Rabbit Ear Mountain
 
-Rabbit Ear mountain was an important landmark on the Santa Fe Trail because kt not only was a visible landmark from all directions, wile also providing a reliable source of drinkable water for 30 miles, it also provided a [flatter and faster route](https://offtheroadnm.org/details.php?id=201) than the Raton Pass. After passing the desolate desert before reaching Rabbit Ear, water and edable greenary was sparce for travelers. One a traveler would reach the Mountian, they would typically meander though the area for four days, enjoying the natural resources. These groups of men, women, and children would cross the valleys of the mountain and emerge from the landscape replenish and rejuvinated. Once they left this safe haven, the next closet town that provided travelers with necessities was Clayton New Mexico located to the north of the Mountain [^National Register Form]. 
+Rabbit Ear mountain was an important landmark on the Santa Fe Trail because kt not only was a visible landmark from all directions, wile also providing a reliable source of drinkable water for 30 miles, it also provided a [flatter and faster route](https://offtheroadnm.org/details.php?id=201) than the Raton Pass. After passing the desolate desert before reaching Rabbit Ear, water and edable greenary was sparce for travelers. One a traveler would reach the Mountian, they would typically meander though the area for four days, enjoying the natural resources. These groups of men, women, and children would cross the valleys of the mountain and emerge from the landscape replenish and rejuvinated. Once they left this safe haven, the next closet town that provided travelers with necessities was Clayton New Mexico located to the north of the Mountain [^NationalRegisterForm]. 
 
 {% include figure.html
   Class="img-right"
@@ -28,7 +28,7 @@ Rabbit Ear Mountain was named “Rabbit Ear” after the great [Cheyenne Chief O
 
 ### The Battle
 
-The story of [the battle of Rabbit Ear Mountain](https://www.claytonnm.org/rabbitearmountain) is told in the perspective of the Spanish-American settlers, taking place in 1717. In this legendary story, the battle started after some Comanche Indians were holding several Spanish hostage. As a result, an expedition of about 500 soldiers was sent from Santa Fe to attempt to free these prisoners from thier bondage. The expedition was well armed and equipped as they moved out toward Rabbit Ear after learning that they were camped out there. Once the Spanish forces arrived, they decided to charge the camp at daylight. This battle killed hundreds, both Spanish and Comanche, and the Spanish was said to have taken 700 Comanches prisoner. The Spanish were successful in freeing the captives. It is also roumered that the Comanche never again went on the warpath against the Spaniards and a treaty was made to cease the fighting between the two grpups [^National Park Service]. 
+The story of [the battle of Rabbit Ear Mountain](https://www.claytonnm.org/rabbitearmountain) is told in the perspective of the Spanish-American settlers, taking place in 1717. In this legendary story, the battle started after some Comanche Indians were holding several Spanish hostage. As a result, an expedition of about 500 soldiers was sent from Santa Fe to attempt to free these prisoners from thier bondage. The expedition was well armed and equipped as they moved out toward Rabbit Ear after learning that they were camped out there. Once the Spanish forces arrived, they decided to charge the camp at daylight. This battle killed hundreds, both Spanish and Comanche, and the Spanish was said to have taken 700 Comanches prisoner. The Spanish were successful in freeing the captives. It is also roumered that the Comanche never again went on the warpath against the Spaniards and a treaty was made to cease the fighting between the two grpups [^NationalParkService]. 
 
 {% include figure.html
   class="img-right"
@@ -40,7 +40,7 @@ The story of [the battle of Rabbit Ear Mountain](https://www.claytonnm.org/rabbi
 
 ### Terrain
 
-These iconic mountains are remnants of volcanoes and apart of the larger Raton-Clayton Volcanic Field. This changes the terrain and landscape depending on where on the mountains you are located. There are some areas where the ground is firm, loose, or sandy, as well as ranging from flat plains to ridges and valleys. The Spring is where the water is the most plentiful, where travelers would camp out near for convienance. The best time of year for men and women traveling the Santa Fe Tail to pass though would be the Spring, when the winter snow has melted and the heat is not yet overwhelming. It has several large grassy feilds and areas for animals to graze upon as travelers mkae thier camp for the night, making it a safe haven on their rough adventure. The twin peaks are 6,062 ft and differ in name due to size differences. The larger mountain is called ["Rabbit Ear Mountain"](https://www.santafetrailnm.org/site29.html), and the smaller mountian is called "Rabbit Ear Butte" due to the steep sides’ and characteristic flat top [^Exploring Expedition].
+These iconic mountains are remnants of volcanoes and apart of the larger Raton-Clayton Volcanic Field. This changes the terrain and landscape depending on where on the mountains you are located. There are some areas where the ground is firm, loose, or sandy, as well as ranging from flat plains to ridges and valleys. The Spring is where the water is the most plentiful, where travelers would camp out near for convienance. The best time of year for men and women traveling the Santa Fe Tail to pass though would be the Spring, when the winter snow has melted and the heat is not yet overwhelming. It has several large grassy feilds and areas for animals to graze upon as travelers mkae thier camp for the night, making it a safe haven on their rough adventure. The twin peaks are 6,062 ft and differ in name due to size differences. The larger mountain is called ["Rabbit Ear Mountain"](https://www.santafetrailnm.org/site29.html), and the smaller mountian is called "Rabbit Ear Butte" due to the steep sides’ and characteristic flat top [^ExploringExpedition].
 
 {% include figure.html
   class="img-right"
@@ -64,14 +64,14 @@ Clayton-Union County Chamber of Commerce
 
 National Park Service, Santa Fe National Historic Trail: Missouri, Kansas, Colorado, Oklahoma, and New Mexico
 
-[^National Park Service]: (NationalParkServiceSantaFeNationalHistoricTrailMissouriKansasColoradoOklahomaandNewMexico) 
+[^NationalParkService]: (NationalParkServiceSantaFeNationalHistoricTrailMissouriKansasColoradoOklahomaandNewMexico) 
 
 National Register of Historic Places Inventory Nomination Form
 
-[^National Register Form]: (NationalRegisterofHistoricPlacesInventoryNominationForm) 
+[^NationalRegisterForm]: (NationalRegisterofHistoricPlacesInventoryNominationForm) 
 
 Richard Flint and Shirley Cushing Flint, Cimarron Cutoff of the Santa Fe Trail, New Mexico History.org 2013
 
 Report of the Exploring Expedition from Santa Fé, New Mexico, to the Junction of the Grand and Green Rivers of the Great Colorado of the West in 1859. U.S. Government Printing Office. Dec 31, 1876. Pg 31-32
 
-[^Exploring Expedition]: (ReportoftheExploringExpeditionfromSantaFéPg31-32)
+[^ExploringExpedition]: (ReportoftheExploringExpeditionfromSantaFéPg31-32)
