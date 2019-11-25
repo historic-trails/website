@@ -146,6 +146,7 @@ Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disster
 
 
 [^Birchell1]: Birchell, Donna Blake. Frontier Forts and Outposts of New Mexico (The History Press, Charleston, 2019).
+
 [^Birchell]:  Birchell, Donna Blake. Frontier Forts and Outposts of New Mexico (The History Press, Charleston, 2019). 
 
 [^Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
@@ -194,8 +195,17 @@ Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disster
 
 [^3Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
 
-
 [^Fischer]: Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February1998).
 Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
 
+[^Tiller]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976. 
+
+[^Tiller9]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+
+[^Tilleriv]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+
+[^Tiller8]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+
+[^Tiller34]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+[^Tiller35]:: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
 
