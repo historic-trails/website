@@ -55,7 +55,9 @@ Before the creation of Fort Larned, Santa Fe Trail travellers would leave [Fort 
 ## Early Interactions with Native Americans
 In the 1830’s and 1840’s, with the increase in development of Texas, and its adoption as a state, Apache and Cheyenne tribes in northern Texas were forcibly moved further north, into western Kansas. The increased Native American population led to a sharp decline in the buffalo population, and a scarcity of resources for the native tribes living off the land. Coupled with the increased traffic on the Santa Fe Trail, this forced many natives in the area to turn to looting and raiding to survive.[^U5] Reports from people travelling the trail talked about running into large groups of natives waiting at strategic points in the trail, coercing the travellers to give them food in exchange for safe passage, or just looking for any opportunity to steal from the wagons.[^Zwink78]
 
-Over the course of the Civil War, with many of the troops along the frontier having been relocated to the east to fight the Confederacy, the fighting over resources on the Santa Fe Trail intensified. This would lead to the [Nine Mile Ridge Massacre](https://www.legendsofamerica.com/we-ninemileridge/), about 75 miles west of Fort Larned[^Zwink82]: 
+Over the course of the Civil War, with many of the troops along the frontier having been relocated to the east to fight the Confederacy, the fighting over resources on the Santa Fe Trail intensified. *William Henry Penn*
+
+This would lead to the [Nine Mile Ridge Massacre](https://www.legendsofamerica.com/we-ninemileridge/), about 75 miles west of Fort Larned[^Zwink82]: 
 
 >In January, 1863, a wagon train that was preparing to bed down for the night was surrounded by a group of hungry Indians who demanded food and coffee. In the excitement that followed, a teamster wounded one of the Indians. This prompted them to return before daylight and massacre all the teamsters, excluding one who escaped to the protection of Fort Larned.[^U6]
 
