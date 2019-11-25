@@ -84,7 +84,7 @@ After stopping at Pigeons Ranch. The town of Glorieta offers many adventures for
 
 {% include figure.html
 class="img-left"
-width="32%"
+width="30%"
 caption="High-five Zip Tour"
 image-url="glorietazip.jpg"
 source-url="https://www.yelp.com/biz/glorieta-zip-tour-glorieta?osq=Things+To+Do"
@@ -92,7 +92,7 @@ source-url="https://www.yelp.com/biz/glorieta-zip-tour-glorieta?osq=Things+To+Do
 
 {% include figure.html
 class="img-left"
-width="32%"
+width="30%"
 caption="Santa Fe Food Tour"
 image-url="foodtournm.jpg"
 source-url="https://www.yelp.com/biz/glorieta-zip-tour-glorieta?osq=Things+To+Do"
@@ -100,7 +100,7 @@ source-url="https://www.yelp.com/biz/glorieta-zip-tour-glorieta?osq=Things+To+Do
 
 {% include figure.html
 class="img-left"
-width="32%"
+width="30%"
 caption="Pecos National Historical Park"
 image-url="Pecoswithdog.jpg"
 source-url="https://www.yelp.com/biz/glorieta-zip-tour-glorieta?osq=Things+To+Do"
