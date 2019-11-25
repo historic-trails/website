@@ -207,5 +207,6 @@ Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13
 [^Tiller8]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
 
 [^Tiller34]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
-[^Tiller35]:: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+
+[^Tiller35]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
 
