@@ -57,6 +57,13 @@ caption="A copy of the original hand written claim Alejandro Valle made to the U
 image-url="letter.png"
 source-url=""
 %}
+{% include figure.html
+class="img-right"
+width="45%"
+caption="A copy of the original hand written list of supplies lost during the Battle of Glorieta Alejandro Valle made. It is Provided by UNM's Southwest Research Library"
+image-url="reciept.png"
+source-url=""
+%}
 
 Because of Damage to the Ranch during the Battle of Glorieta Alejandro Valle filed a claim against the US government in 1870 for damages to his house and ranch even though he sold his ranch in 1865. In a testimony “given by Mr. Valle and one of his employees reveals losses of oxen, a horse, grain, molasses, whisky, and other supplies; and destruction of structures, equipment and family possessions.” (Feasibility Report) Despite the destruction to the ranch during the battle the US rejected his claim.
 
