@@ -6,11 +6,11 @@ date: November 15, 2019
 
 ## Let’s go for a walk...
 
-Imagine a land, a haven, with springs and creeks of crystal-clear cool water flowing downstream from neighboring mountains. These creeks are the center of all the communities, conflicts, and livelihoods all over this region. The tall New Mexico feathergrass and vital wooly Indian wheat at the basins of these ponderosa-pine filled mountain ranges, fed by the only source of water in the region for miles, dance in the breeze that has not stopped blowing for centuries now (Allison, 1). The native tribes of this land named the region [“port of the air”] (https://www.legendsofamerica.com/nm-mountainbranch/2/#ocate-creek) or [“valley of the wind”] (https://www.legendsofamerica.com/nm-mountainbranch/2/#ocate-creek), known in English as Ocate (Oh - Kah - Teh). The Ocate Creek Crossing found itself at the end of the Cimarron Cutoff, a dangerous and arid region on the Santa Fe Trail. Ocate, located in Mora County, New Mexico, was an oasis in all senses of the word and has been for generations of Native Americans, Spanish colonizers, and Mexican and Anglo-American settlers. 
+Imagine a land, a haven, with springs and creeks of crystal-clear cool water flowing downstream from neighboring mountains. These creeks are the center of all the communities, conflicts, and livelihoods all over this region. The tall New Mexico feathergrass and vital wooly Indian wheat at the basins of these ponderosa-pine filled mountain ranges, fed by the only source of water in the region for miles, dance in the breeze that has not stopped blowing for centuries now (Allison, 1). The native tribes of this land named the region [“port of the air”] or [“valley of the wind”], known in English as Ocate (Oh - Kah - Teh) (https://www.legendsofamerica.com/nm-mountainbranch/2/#ocate-creek). The Ocate Creek Crossing found itself at the end of the Cimarron Cutoff, a dangerous and arid region on the Santa Fe Trail. Ocate, located in Mora County, New Mexico, was an oasis in all senses of the word and has been for generations of Native Americans, Spanish colonizers, and Mexican and Anglo-American settlers. 
  
 {% include figure.html
-  class="left"
-  width="50%"
+  class="right"
+  width="60%"
   caption="Ocate Creek, Mora County, NM with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county."
   image-url="Ocate-Creek-Crossing-real.jpg"
   source-url="https://www.legendsofamerica.com/wp-content/uploads/2018/06/Ocate-Creek-Crossing.jpg"
@@ -39,7 +39,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
   width="80%"
   caption="A National Parks Service 1963 historic site sruvey map of the Santa Fe Trail. The map covers the trail from Independence, Missouri to Santa Fe, New Mexico. The map deliniates and identifies important villages/towns in the region as well as the different trails that were used to get to different places along the Santa Fe Trail, including the Cimarron Cutoff and the Mountain Branch."
   image-url="santa-fe-trail-nps-map.jpg"
-  source-url="http://www.nmarchaeology.org/assets/files/archnotes/95.pdf#page=2&zoom=auto,-127,653http://www.nmarchaeology.org/assets/files/archnotes/95.pdf#page=2&zoom=auto,-127,653"
+  source-url="http://www.nmarchaeology.org/assets/files/archnotes/95.pdf"
 %}
 
 ## American Indians and their Impact in Ocate
@@ -105,8 +105,8 @@ Violence against Anglo-American settlers occurred so frequently that a fort was 
   class="img-right"
   width="49%"
   caption="Fort Union quickly lost its importance and relevance after the American Civil War. This picture depicts the remains of the fort. In the background, behind the fort, the Turkey Mountains are in sight."
-  image-url="fort-union-new.jpg"
-  source-url="https://www.alltrails.com/parks/us/new-mexico/fort-union-national-monument"
+  image-url="fort-union-now-nps.jpg"
+  source-url=""
 %}
 
 With the settlement of more Americans in Ocate and the rest of northeastern New Mexico in general, the vegetation and the livestock in the land changed too. Anglo-American settlers preferred to raise cattle instead of sheep. This, along with other economic factors of the time, created a stark drop in the value of sheep in the region. This in turn lead to the economic decline of many native and Hispanic ranchers in the region. Because of this change, many were driven to poverty and Native American raids of American and Hispanic settler's farms once again became prevalent events in the region. Most of the young men, including Anglo-Americans, Hispanics, and Native Americans, who lived in Ocate and the surrounding communities found this area to be unsafe and unresourceful. As a result of the new use of land by the Americans, many of these young men left the region to find more fruitful work in Colorado, Utah, and Kansas. This emigration from Ocate proved to be detrimental to the region's popularity and is one of the major reasons why most of Ocate's Hispanic and Native populations (and some Anglo populations) were never able to recover from the consequences brought on by the settlement of more Americans in the area (Goodman, 38).
