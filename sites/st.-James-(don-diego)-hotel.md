@@ -36,7 +36,7 @@ source-url="https://www.legendsofamerica.com/nm-cimarron/"
 ##### WHY CIMARRON, NEW MEXICO
 {% include figure.html
 class="img-left"
-width="50%"
+width="52%"
 caption="Ariel View Point Cimarron, New Mexico"
 image-url="ariel-view-cimarron.png"
 source-url="https://www.google.com/maps/place/Cimarron,+NM+87714/@36.5070037,-104.9226712,14z/data=!3m1!4b1!4m5!3m4!1s0x8710ae3839f352d7:0x703572cf1cbbcc70!8m2!3d36.5108691!4d-104.9158341"
@@ -44,7 +44,7 @@ source-url="https://www.google.com/maps/place/Cimarron,+NM+87714/@36.5070037,-10
 
 {% include aside.html
   class="left"
-  width="48%"
+  width="50%"
   text="Cimarron, divided into New Town and Old Town by the Cimarron Valleys from the Sangre de Cristo Range and is well protected from mountain gales. To the north and west rise lofty mountains, and to the sourht and east are two of the most fertile valleys in the state. In addition to the Cimarron River, the water of the Ponil and the Cimarroncito(little wild) Canyons supply adequate water for the town and the irrigation of crops. Near-by mountains provide ample fuel, timner, and game and there is good trout fishing in the surrounding streams.[^source]"
   %} 
   
