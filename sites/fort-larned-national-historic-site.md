@@ -15,7 +15,7 @@ Today, Fort Larned is one of the best-preserved examples of these forts, and is 
 {% include figure.html
   class="img-center"
   width="60%"
-  caption="Fort Larned's location along the Santa Fe Trail. Although much of the responsibility of patrolling the trail would go to Fort Dodge, Fort Larned's location made it a crucial buffer between the trail and the Native Americans of northwest Kansas."
+  caption="_Fort Larned's location along the Santa Fe Trail_. Although much of the responsibility of patrolling the trail would go to Fort Dodge, Fort Larned's location made it a crucial buffer between the trail and the Native Americans of northwest Kansas."
   image-url="fort-larned-trail-map.jpg"
   source-url="https://www.smithburnett.com/?page=history_ft_larned"
 %}
@@ -149,21 +149,7 @@ Between 1878 and 1884, Fort Larned was left to the elements, and with the help o
 
 
 
-### Websites
-https://en.wikipedia.org/wiki/Fort_Larned_National_Historic_Site
-
-https://www.nps.gov/fols/learn/historyculture/santa-fe-trail.htm
-
-https://www.nps.gov/fols/learn/historyculture/hancocks-war.htm
-
-https://www.kshs.org/index.php?url=p/kansas-historical-quarterly-the-story-of-fort-larned/13139
-
-https://www.jamesmannartfarm.com/jmas401.html 
-
-http://plainshumanities.unl.edu/encyclopedia/doc/egp.war.017
-
-
-### Citations
+### Bibliography
 Chalfant, W. Y. (2010). Hancocks war: conflict on the southern plains. Norman, OK: Arthur H. Clark Company, An imprint of the University of Oklahoma Press. 
 
 Coates, I., & Kennedy, W. J. D. (1997). On the plains with Custer and Hancock: the journal of Isaac Coates, army surgeon. Boulder, CO: Johnson Books. 
