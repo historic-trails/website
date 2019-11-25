@@ -95,7 +95,7 @@ This saintly image of death served as a reminder to the Natives and Hispanics th
   class="img-right"
   width="49%"
   caption="The inside of the San Jose de Garcia Church very much reflected how Spanish settlers in the area merged their Catholic iconography with the resources they had in the area. The inside of the building is characterized by the brightly colored paintings of saints and religious scenes on the dark local wood from the surrounding forests on the mountains."
-  image-url="san-jose-de-garcia-las-trampas.jpg"
+  image-url="san-jose-de-garcia-church-inside.jpg"
   source-url="https://en.wikipedia.org/wiki/San_Jos%C3%A9_de_Gracia_Church"
 %}
 
