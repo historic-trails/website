@@ -92,27 +92,27 @@ Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disster
 
 
 
-[^Clark]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-[^47Clark]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^47Clark]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-[^Clark47]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark47]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-[^Clark48]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark48]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-[^Clark51]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark51]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-[^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
- [^Clark52]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+ [^Clark52]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
  
- [^Clark42]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+ [^Clark42]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
  
- [^Clark45]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+ [^Clark45]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
  
-[^Clark39]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark39]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-[^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
 [^Stanley]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
 
