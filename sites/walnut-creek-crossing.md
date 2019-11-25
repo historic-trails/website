@@ -21,7 +21,7 @@ date: 2019-11-13
 class="img-left"
 width="50%"
 caption="The Allisons were a prominent family due to the sucess of the trading post. This is a family portrait of the Campbell family, thought to be related to the Allisons."
-image-url="campell-family.jpg"
+image-url="campbell-family.jpg"
 source-url="https://www.kansasmemory.org/item/229053"
 %}
 
