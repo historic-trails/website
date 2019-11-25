@@ -5,15 +5,14 @@ date: 2019-09-13
 ---
 # Down in the valley: La Junta de los Rios
 ## A site for sore eyes: La Junta
-La Junta (“the junction”) is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley], according to historian F. Stanley.  These two rivers meet just outside of Mora County, New Mexico. 
+La Junta (“the junction”) is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley], according to historian F. Stanley.  The meeting of these two rivers, as well as the converging of the Mountain Branch and the Cimarron Branch of the Santa Fe Trail, are the boundaries of this historical landmark [^Greenwood]. Located just off Route 85, it is twenty miles north of Las Vegas, New Mexico. 
 {%include aside.html class="center" width="40%" text="Every rise formed a plateau valley, 
 fertile and lush with waving grey-green grasses. 
 Grama and blue-joint grasses 
-grew more than a foot in height."%}
-In the past, visitors have noted the healthy, rich soil, green valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper line the banks of the river and the town [^Clark].  But this is not the only reason this area is remarkable. In 1963, La Junta was deemed a National Historic Landmark. It has served many purposes throughout history. This junction has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the [Santa Fe Trail](www.nps.gov/safe/learn/historyculture/map-timeline-2.htm). As one Army of the West soldier exclaimed, upon viewing La Junta-- it was "the first settlement we had seen in 775 miles" [^Greenwood2].
+grew more than a foot in height."%} Author Ann Nolan Clark described La Junta in great detail in her 1969 novel _These Were The Valiant_. She remarked on the healthy, rich soil, the green, lush valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper lined the banks of the river and the town [^Clark].  But the reason this area is remarkable is not based solely on its looks: in 1963, La Junta was deemed a National Historic Landmark. La Junta has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the [Santa Fe Trail](www.nps.gov/safe/learn/historyculture/map-timeline-2.htm). 
 
 ## Here first – La Junta’s early occupiers
-La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches.According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
+La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches. According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
   
 The Jicarilla Apache tribe had two distinct groups:
 * The **Olleros** (mountain dwellers) , who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using similar techniques to Pueblo Indians. 
@@ -60,19 +59,7 @@ image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia
 In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri [^Clark52]. Visitors to the ares suggested it was “one of the finest orchards ofthe region” [^Kosmider29]. Many of Watrous' cottonwoods and willows are still thriving today.
 By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” [^3Kosmider],constructing a large building, and later the first fencing in the area , La Junta was “no longer a wilderness” [^Fischer].  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. 
 
-
-## Here my train a-comin: The railroad comes to Watrous
-
-{% include figure.html
-class="img-left"
-width="50%"
-caption="The railroad greatly changed the landscape of La Junta, and was the reason the area was renamed Watrous."
-image-url="railroad-watrous.jpg"
-source-url="https://www.nps.gov/nr/travel/american_latino_heritage/Watrous_La_Junta.html"
-%}
-
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
-
 
 
 
