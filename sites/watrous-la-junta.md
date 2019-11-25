@@ -14,7 +14,7 @@ grew more than a foot in height."%} Author Ann Nolan Clark described La Junta in
 La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches. According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
   The Jicarilla Apache tribe had two distinct groups:
 * The **Olleros** (mountain dwellers) , who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using techniques similar to Pueblo Indians. 
-* The **Llaneros**, (plains dwellers) who utilized techniques reminsicent of Plains Indians techniques,such as their dress style and their teepees (a tent-like structure made of wooden wooden poles and cowhide). The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
+* The **Llaneros**, (plains dwellers) who utilized techniques reminsicent of Plains Indians techniques,such as their dress style and their teepees (a tent-like structure made of wooden poles and cowhide). The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
 When the Spanish came to New Mexico, however, a new stigma about indigenous people become commonplace.  The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. The Jicarilla Apache tribe was peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a figment of the imagination, or at least greatly exaggerated," [^Tiller8] she writes. 
 
 ## Who's land is it, anyway? The Spanish in New Mexico
@@ -59,27 +59,27 @@ The indigenous tribes and the colonists of La Junta could not coexist under the 
 
 ## Bibliography 
 
-Birchell, Donna Blake. _Frontier Forts and Outposts of New Mexico_. The History Press, Charleston, 2019.
+- Birchell, Donna Blake. _Frontier Forts and Outposts of New Mexico_. The History Press, Charleston, 2019.
 
-Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, Albuquerque: Calvin Horn Publisher, Inc, 1969. 36-54
+- Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, Albuquerque: Calvin Horn Publisher, Inc, 1969. 36-54
 
-Fischer, Virginia Lee. “In Search of Jose Watrous.” _Wagon Tracks_ Vol. 12:2 (February 1998).
+- Fischer, Virginia Lee. “In Search of Jose Watrous.” _Wagon Tracks_ Vol. 12:2 (February 1998).
 
-Fisher, Virginia Lee. “More of the Jose Watrous Story.” _Wagon Tracks_ Vol. 13:2 (November 1998).
+- Fisher, Virginia Lee. “More of the Jose Watrous Story.” _Wagon Tracks_ Vol. 13:2 (November 1998).
 
-Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Inventrory/Nomination Form. Watrous, NM: Mora County Courthouse, 1963.
+- Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Inventrory/Nomination Form. Watrous, NM: Mora County Courthouse, 1963.
 
-Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" M.A. thesis, University of New Mexico, 1983.
+- Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" M.A. thesis, University of New Mexico, 1983.
 
-Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” _Wagon Tracks_ Vol. 3:3 (May 1989), 11-15
+- Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” _Wagon Tracks_ Vol. 3:3 (May 1989), 11-15
 
-Simmons, Marc. “More on Watrous.” _Wagon Tracks_ Vol. 7:1 (November 1992). 
+- Simmons, Marc. “More on Watrous.” _Wagon Tracks_ Vol. 7:1 (November 1992). 
 
-Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
+- Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
 
-National Park Service. “Travel the Trail: Map Timeline 1846-1866.” (Accessed 9 Nov. 2019). 
+- National Park Service. “Travel the Trail: Map Timeline 1846-1866.” (Accessed 9 Nov. 2019). 
 
-Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976. 
+- Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976. 
 
 
 
