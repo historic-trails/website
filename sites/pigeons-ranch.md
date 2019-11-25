@@ -77,6 +77,14 @@ caption="A roadside view of what Pigeons Ranch looks like today "
 image-url="pigeonranchtoday2.jpg"
 source-url="https://www.theroute-66.com/glorieta.html"
 %}
+
 ### What’s around Pigeons Ranch
 After stopping at Pigeons Ranch. The town of Glorieta offers many adventures for sports enthusiasts and campers. Glorieta hosts *The Glorieta Hive Five Zip Tour*, that features five sections of fast-moving ziplines that stretch across the beautiful desert terrain; However, if you don’t like an action-packed adventure, you can always fill your belly by taking a food tour and experience all the cuisines New Mexico has to offer. Nearby are also other National Parks and buildings along the Santa Fe Trail, and you can also continue your way through Civil War history by visiting Kozlowski’s Trading Post that’s also on the Santa Fe trail and served as a base for Union Soldiers. No matter what you choose you will experience the beauty of  New Mexico and make memories with your friends and family.
+{% include figure.html
+class="img-right"
+width="55%"
+caption="A copy of the original hand written list of supplies lost during the Battle of Glorieta Alejandro Valle made. It is Provided by UNM's Southwest Research Library"
+image-url="reciept.png"
+source-url=""
+%}
 
