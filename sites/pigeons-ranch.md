@@ -26,7 +26,7 @@ source-url=""
 Pigeons Ranch, originally called “Rancho de Glorieta” is 18 miles southeast of Santa Fe, halfway through the [Glorieta Pass]( https://www.battlefields.org/learn/articles/battle-glorieta). It was owned by Alexander Pigeon, a French man, who later renamed himself to Alejandro Valle. He purchased a land grant from the Spanish for 5,275 pesos, about $257.00 today. The purchase of Spanish land is why he changed his name to Alejandro Valle. In 1851-52 and built a trading post and home on the land which still remain today. Valle “had built, the adobe ranch house after his decision to build a Santa Fe Trail-side ‘house of entertainment’ After the War with Mexico, improvement of the Santa Fe trail and increased traffic coincided with the construction of trail side complexes, ranches, farms and houses/inns such as Pigeon’s”(HSR,2). During the Days of the Santa Fe trail, the ranch also served as rest stop for travelers who were able to grab a bite to eat, rest, and feed their animals. The ranch was similar to today’s idea of a Motel. No recorded images or descriptions of the ranch before the Civil War in 1862. 
 
 {% include figure.html
-class="img-center"
+class="img-left"
 width="45%"
 caption="This is a map of The Old Santa Fe Trail from Independence, Missouri to Santa Fe, New Mexico. "
 image-url="santafetrailpranch.jpg"
@@ -35,4 +35,12 @@ source-url="https://www.pinterest.com/pin/110056784614755455/"
 
 ### What is the Santa Fe Trail
 The Santa Fe Trail is a highway, Pioneered in 1821 by [William Becknell]( https://www.britannica.com/biography/William-Becknell)  that connected Santa Fe, New Mexico to Missouri, which was about 900 miles long . William Becknell was a  The trail served as a route so traders could easily exchange goods, such as different types of tools, cloths, wool, weapons, and animals. The trail also provided a way for people to move to the west and start new lives (NPS).
+
+{% include figure.html
+class="img-center"
+width="45%"
+caption="This is a depiction of the union troops charging against the confederates on the side of the ranch. "
+image-url="battlepranch.jpg"
+source-url="https://www.legendsofamerica.com/pigeons-ranch/"
+%}
 
