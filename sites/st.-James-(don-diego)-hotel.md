@@ -27,7 +27,7 @@ The St. James hotel established by Henry Lambert, former chef to President Linco
 
 {% include figure.html
 class="img-center"
-width="40%"
+width="75%"
 caption="Old Image of Cimarron, New Mexico"
 image-url="old-view-cimarron.png"
 source-url="https://www.legendsofamerica.com/nm-cimarron/"
