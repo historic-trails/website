@@ -24,7 +24,7 @@ When the Spanish came to New Mexico, however, a new stigma about indigenous peop
 
 ## Who's land is it, anyway? The Spanish in New Mexico
 
-When the Mexican government began to grant land to settlers, the "road to total disposession of Jicarillas from their traditional country"[^Tiller34] began. The grants effectively "created an elite group of merchants, landholders, and politicans in Northern New Mexico in the heart of Jicarilla land" [^Tiller35].  
+When the Mexican government began to grant land to settlers, the "road to total disposession of Jicarillas from their traditional country"[^Tiller34] began. The grants effectively "created an elite group of merchants, landholders, and politicans in Northern New Mexico in the heart of Jicarilla land" [^Tiller35]. The land of La Junta was granted to a group of ten men in 1843, named after one of the original signers, John Scolly.  
 
 ## [The Scolly Land Grant](https://www.topozone.com/map-print/?lat=35.790597&lon=-104.9816685&title=Watrous%20Topo%20Map%20in%20Mora%20County%20New%20Mexico)
 {% include figure.html
@@ -33,8 +33,8 @@ width="50%"
 caption=" A map outlining the John Scolly land grant. Hand-drawn by Harry C. Myers, 1989 Fort Union superintendent. "
 image-url="john-scolly.jpg"
 source-url="https://digitalrepository.unm.edu/wagon_tracks/vol3/iss3/"%}
-On March 27, 1843, James Giddings, along with nine other SPanish men, composed a petition to the New Mexican governor 
-[Manuel Armijo](http://newmexicohistory.org/2014/01/16/manuel-armijo/), asking for the rights to ten leagues of La Junta and the valley surrounding it.  In the petition, Giddings described the La Junta area in great detail, noting its rich soil. He and the men planned to use the area for planting crops, raising sheep, and building mills.  They hoped to create a town with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo approved the petition, gratning them nearly two year's time to begin cultivating, the original petitioners did not recieve complete ownership of the land until three years later, in May, 1846. These land grantees did not recieve a particularily warm welcome from the indigenous tribes of the area. Theft of livestock and other goods became commonplace. Many of the original petitioners shied away due to repeated theft. The John Scolly Grant was left to just a few men: John Scolly, William T. Smith, Alexander Barclay, and, later, Samuel Watrous [^Stanley6].
+On March 27, 1843, a group of hopeful Spanish colonists composed a petition to the New Mexican governor 
+[Manuel Armijo](http://newmexicohistory.org/2014/01/16/manuel-armijo/), asking for the rights to ten leagues (about thirty-five miles) of La Junta and the valley surrounding it.  In the petition, the author described the La Junta area in great detail, noting its rich soil. He and the men planned to use the area for planting crops, raising sheep, and building mills.  They hoped to create a town with “a population composed of laborious and enterprising men"[^Stanley5].  The process of obtaining this land proved difficult, however. Though Armijo approved the petition, granting them nearly two year's time to begin cultivating, the original petitioners did not recieve complete ownership of the land until three years later, in May, 1846. These land grantees did not recieve a particularily warm welcome from the indigenous tribes of the area. Theft of livestock and other goods became commonplace. Many of the original petitioners shied away due to repeated theft. The land of the John Scolly Grant was purchased many more times, and two of the most notable buyers include Alexander Barclay and Samuel Watrous [^Stanley6].
 
 
 ## “An abode for men and animals”[^Kosmider25]:Barclay’s Fort
@@ -44,10 +44,9 @@ On June 11, 1846, Alexander Barclay, with the help of hired workers, laid the fi
 
 
 ## “A New Englander with a thirst for adventure”[^Clark39]
-### Samuel Watrous 
-{% include figure.html class="img-left" width="50%" caption="Samuel Watrous, pictured here with wife Josephine Watrous, who brought about much change in La Junta. The railroad renamed the town after him." image-url="samuel-watrous.jpg" source-url="https://www.legendsofamerica.com/nmsamuelwatrous/"%} 
+### Samuel Watrous  
 
-Samuel Watrous was New-England born man with “untiring energy” [^Stanley7]. He arrived in Dolores, New Mexico in 1835, at the age of twenty six.  It was in this small mining town that Watrous met his first wife. Together, they had seven children. To support his growing family, Watrous began selling goods to the miners of Dolores, including deerskin, meat, and clothes. Watrous ran his store in Dolores for nearly a decade, eventually saving up enough to purchase part of the John Scolly Grant in 1849. He and his family then settled in the La Junta valley [^KosmiderI].
+Samuel Watrous was New-England born man with “untiring energy” [^Stanley7]. According to Alexandra Kosmider's 1983 thesis, "Samuel B Watrous: New Mexico Pioneer", Watrous arrived in Dolores, New Mexico in 1835. He was twenty six.  It was in this small mining town that Watrous met his first wife. Together, they had seven children. To support his growing family, Watrous began selling goods to the miners of Dolores, including deerskin, meat, and clothes. Watrous ran his store in Dolores for nearly a decade, eventually saving up enough to purchase his part of the John Scolly Grant in 1849. He and his family then settled in the La Junta valley [^KosmiderI].
 
 
 
@@ -55,12 +54,11 @@ Samuel Watrous was New-England born man with “untiring energy” [^Stanley7]. 
 
 {% include figure.html class="img-right" width="50%"
 caption="The Watrous House, a twenty-room adobe home and storefront. Just off the trail, it was a popular place for travelers and locals alike to purchase supplies and necessities."
-image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly land grant for La Junta in 1849 [^28Kosmider], he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store [^Clark48]. The Watrous house would be deemed “the nucleus of the settlement of La Junta” [^3Greenwood].  The Watrous store was successful, in part due to its proximity to the Santa Fe Trail [^Clark51].  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
+image-url="watrous-house.jpg" source-url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Watrous_House%2C_Watrous_vicinity_%28Mora_County%2C_New_Mexico%29.jpg"%} After Watrous obtained part of the Scolly Land Grant in 1849 [^28Kosmider], he spent no time constructing a twenty-room adobe home, complete with a storefront. Watrous hired Spanish and indigenous workers, including cooks, maids, hunters, and nurses to work in the Watrous home as well as the store [^Clark48]. The Watrous house would be deemed “the nucleus of the settlement of La Junta” [^3Greenwood].  The Watrous store was successful, in part due to Watrous's business experience, as well as its proximity to the Santa Fe Trail [^Clark51].  Eventually, the name of La Junta would be lost, and the area between the Mora and Sapello rivers would be known as Watrous. 
 
 ### "Come now, we will plant more trees" [^Clark49] 
 In addition to his entrepreneurship, Watrous was a passionate agriculturilist.  He planted willows along irrigation ditches, transplanted many cottonwoods, and imported German prune and Richmond cherry trees from Missouri [^Clark52]. Visitors to the ares suggested it was “one of the finest orchards ofthe region” [^Kosmider29]. Many of Watrous' cottonwoods and willows are still thriving today.
-By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” [^3Kosmider]
-teend constructing a large building, and later the first fencing in the area , La Junta was “no longer a wilderness” [^Fischer].  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. 
+By drafting letters to the Bureau of Indian affairs, newspapers, and politicians with suggestions for solving the “Indian problem” [^3Kosmider],constructing a large building, and later the first fencing in the area , La Junta was “no longer a wilderness” [^Fischer].  Watrous had altered the landscape of the area permanently: gone was untamed environment. Gone was the indigenous tribe's ability to reside in the area.  In its place, the land was cultivated, foundations and buildings were placed upon it (foundations, that in fact, still exist today), and indigenous tribes were forced onto reservations. The area was on its way to becoming a town. 
 
 
 ## Here my train a-comin: The railroad comes to Watrous
@@ -72,7 +70,6 @@ caption="The railroad greatly changed the landscape of La Junta, and was the rea
 image-url="railroad-watrous.jpg"
 source-url="https://www.nps.gov/nr/travel/american_latino_heritage/Watrous_La_Junta.html"
 %}
-
 
 >No longer could an individual stand at his doorstep and watch thundering herds of buffalo... run silhoutted against the mountains, nor could on eexperience the euphoric sensations of treatind a hidden path...now...telegraph poles marched off toward the flat horizon...the shrill of a locomotive whistle beckoned in the distance..." [^Kosmider1].
 
