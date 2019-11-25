@@ -84,30 +84,30 @@ There are 27 Walnut Creeks in the state of Kansas. [^8] You can still visit the 
 - Barry, Louise “The Ranch at Walnut Creek Crossing.” Kansas Historical Society, (1971). https://www.kshs.org/p/the-ranch-at-walnut-creek-crossing/13210
 
 [^2]:Kansas Historical Society. “The Walnut Creek Massacre.” (2017). https://www.kshs.org/kansapedia/walnut-creek-massacre/12139
-Kansas Historical Society. “The Walnut Creek Massacre.” (2017). https://www.kshs.org/kansapedia/walnut-creek-massacre/12139
+- Kansas Historical Society. “The Walnut Creek Massacre.” (2017). https://www.kshs.org/kansapedia/walnut-creek-massacre/12139
 
 [^3]:Weiser-Alexander, Kathy. “Barton County, Kansas on the Santa Fe Trail.”  (2019).https://www.legendsofamerica.com/ks-santafetrailbtco/
-Weiser-Alexander, Kathy. “Barton County, Kansas on the Santa Fe Trail.”  (2019).https://www.legendsofamerica.com/ks-santafetrailbtco/
+- Weiser-Alexander, Kathy. “Barton County, Kansas on the Santa Fe Trail.”  (2019).https://www.legendsofamerica.com/ks-santafetrailbtco/
 
 [^4]:United States National Park Service. “Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico : Comprehensive Management and Use Plan.” (1990).
-United States National Park Service. “Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico : Comprehensive Management and Use Plan.” (1990).
+- United States National Park Service. “Santa Fe National Historic Trail: Missouri, Kansas, Oklahoma, Colorado, New Mexico : Comprehensive Management and Use Plan.” (1990).
 
 [^5]:Phillips, Larry. “An Englishman’s Adventures on the Santa Fe Trail (1865–1889)” (2019).
-Phillips, Larry. “An Englishman’s Adventures on the Santa Fe Trail (1865–1889)” (2019).
+- Phillips, Larry. “An Englishman’s Adventures on the Santa Fe Trail (1865–1889)” (2019).
 
 [^6]:Beers, Henry. “Military Protection of the Santa Fé Trail to 1843.” New Mexico Historical Review. (1937).
-Beers, Henry. “Military Protection of the Santa Fé Trail to 1843.” New Mexico Historical Review. (1937).
+- Beers, Henry. “Military Protection of the Santa Fé Trail to 1843.” New Mexico Historical Review. (1937).
 
 [^7]:Bickel, Amy. A little history on Fort Zarah, Allison Ranche and the town of Zarah - Barton County, Kansas.” Hutch news. (2014).
-Bickel, Amy. A little history on Fort Zarah, Allison Ranche and the town of Zarah - Barton County, Kansas.” Hutch news. (2014).
+- Bickel, Amy. A little history on Fort Zarah, Allison Ranche and the town of Zarah - Barton County, Kansas.” Hutch news. (2014).
 
 [^9]: Bickel, Amy. “Dead Towns of Kansas.” (2014).http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html
-Bickel, Amy. “Dead Towns of Kansas.” (2014).http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html
+- Bickel, Amy. “Dead Towns of Kansas.” (2014).http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html
 
 [^17]: Weiser-Alexander, Kathy. “Fort Zarah, Kansas” (2018). https://www.legendsofamerica.com/fort-zarah-kansas/
-Weiser-Alexander, Kathy. “Fort Zarah, Kansas” (2018). https://www.legendsofamerica.com/fort-zarah-kansas/
+- Weiser-Alexander, Kathy. “Fort Zarah, Kansas” (2018). https://www.legendsofamerica.com/fort-zarah-kansas/
 
 [^18]: Weiser-Alexander, Kathy; Wright, Craig. “Charles Rath, Buffalo Entrepreneur” (2019). https://www.legendsofamerica.com/we-charlesrath/
-Weiser-Alexander, Kathy; Wright, Craig. “Charles Rath, Buffalo Entrepreneur” (2019). https://www.legendsofamerica.com/we-charlesrath/
+- Weiser-Alexander, Kathy; Wright, Craig. “Charles Rath, Buffalo Entrepreneur” (2019). https://www.legendsofamerica.com/we-charlesrath/
 
 [^19]: https://www.kansasmemory.org/item/220128/text
