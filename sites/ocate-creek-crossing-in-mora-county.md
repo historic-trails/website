@@ -36,7 +36,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
 
 {% include figure.html
   class="img-center"
-  width="80%"
+  width="94%"
   caption="A National Parks Service 1963 historic site sruvey map of the Santa Fe Trail. The map covers the trail from Independence, Missouri to Santa Fe, New Mexico. The map deliniates and identifies important villages/towns in the region as well as the different trails that were used to get to different places along the Santa Fe Trail, including the Cimarron Cutoff and the Mountain Branch."
   image-url="sft-nps-historic-map.jpg"
   source-url="https://www.santafetrail.org/mapping-marking/trail-maps/"
