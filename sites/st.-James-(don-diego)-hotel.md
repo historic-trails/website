@@ -36,14 +36,14 @@ source-url="https://www.legendsofamerica.com/nm-cimarron/"
 ##### WHY CIMARRON, NEW MEXICO
 {% include figure.html
 class="img-left"
-width="40%"
+width="50%"
 caption="Ariel View Point Cimarron, New Mexico"
 image-url="ariel-view-cimarron.png"
 source-url="https://www.google.com/maps/place/Cimarron,+NM+87714/@36.5070037,-104.9226712,14z/data=!3m1!4b1!4m5!3m4!1s0x8710ae3839f352d7:0x703572cf1cbbcc70!8m2!3d36.5108691!4d-104.9158341"
 %}
 {% include aside.html
-  class="left"
-  width="40%"
+  class="below"
+  width="51%"
   text="Cimarron, divided into New Town and Old Town by the Cimarron Valleys from the Sangre de Cristo Range and is well protected from mountain gales. To the north and west rise lofty mountains, and to the sourht and east are two of the most fertile valleys in the state. In addition to the Cimarron River, the water of the Ponil and the Cimarroncito(little wild) Canyons supply adequate water for the town and the irrigation of crops. Near-by mountains provide ample fuel, timner, and game and there is good trout fishing in the surrounding streams.[^source]"
   %} 
 Cimarron, New Mexico, a town rooted in the foothills southeast of the [Sangre De Cristo Mountain Range](https://en.wikipedia.org/wiki/Sangre_de_Cristo_Mountains), the town sits just northwest of fertile river valleys. Cimarron was located in the northeast sanction of New Mexico, comfortably seated on the Santa Fe Trail. The landscape surrounding the town, implied almost perfect conditions to settle or a place to stop/make camp including ample water, timber from the mountains, and abundant game and fish [^source]. Cimarron, just southwest of the [Raton Pass](https://www.santafetrailnm.org/site70.html), made for a perfectly nestled sanctuary along the Santa Fe Trail. Cimarron became an advantage along the Santa Fe Trail due to the lesser distance traveled along the [“Cimarron Cutoff,”](https://www.santafetrailnm.org/sfthistory.html) historical links say almost 75% of travelers used this pass even though the
