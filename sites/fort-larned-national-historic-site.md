@@ -47,7 +47,7 @@ The first iteration of Fort Larned was called "Camp on the Pawnee Fork", and was
 
 The fort overlooked large stretches of the plains to the north and south, and was bordered by groves of hardwood trees along the river. The river itself acted as a moat along the northwest edge of the fort, giving it a natural barrier against any threats. [^NRHP] Because of this natural defence, Fort Larned was never built up like a traditional fort, with large walls or entrenchments. Despite its name, Fort Larned was really more of a small garrison than a proper fort. This was also reflected in the number of troops garrisoned at the fort: even at its peak, the fort never housed more than a couple hundred soldiers.[^Unrau]
 
-From the perspective of the US government, the fort’s construction was an immediate success. Fort Larned became the home of the [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) of the Southern Cheyenne, Kiowa, and Comanche tribes, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth). Because of this, the fort became one of the primary distribution points for annuities sent to Native American tribes, and its location on the Santa Fe Trail made it an easy spot for American and Native American leaders to meet.
+From the perspective of the US government, the fort’s construction was an immediate success. Fort Larned became the home of an [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) of the Southern Cheyenne, Kiowa, and Comanche tribes, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth). Because of this, the fort became one of the primary distribution points for annuities sent to Native American tribes, and its location on the Santa Fe Trail made it an easy spot for American and Native American leaders to meet.
 
 
 
@@ -66,7 +66,7 @@ The fort itself would also become involved in several incidents with the Natives
 >In that same year a group of destitute Kiowas, under the guise of wanting to trade, ran off 300 cattle from Fort Larned… 
 [In] August [...], Little Heart, en route from his Cheyenne village just west of Fort Larned to the fort for the purpose of obtaining supplies, was shot by a sentry. It was later determined that Little Heart had been drunk and that he had attempted to ride over Isaac Marrs, the sentry.[^Unrau]
 
-The relationship between the Native Americans and the soldiers of the fort was not all bad, however. In January of that same year, a group of [Caddo](https://en.wikipedia.org/wiki/Caddo) from Fort Cobb, Oklahoma, wandered up to Fort Larned, hoping to find somewhere to settle down. They had fled their village after their [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) had left them to join the Confederate army. The authorities at Fort Larned were sympathetic to them, and managed to get them a chunk of money and a large swath of land across the river to set up farms.[^Report] Unfortunately, relations between the US government and the tribes of the Great Plains would only get worse, and a year later, a war started. The Caddo farmers fled, hoping not to get caught in the crossfire.[^Unrau]
+The relationship between the Native Americans and the soldiers of the fort was not all bad, however. In January of that same year, a group of [Caddo](https://en.wikipedia.org/wiki/Caddo) from Fort Cobb, Oklahoma, wandered up to Fort Larned, hoping to find somewhere to settle down. They had fled their village after their [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) had left them to join the Confederate army. The authorities at Fort Larned were sympathetic to them, and managed to get them a chunk of money and a large swath of land across the river to set up farms.[^Report] Unfortunately, relations between the US government and the tribes of the southern plains would only get worse, and a year later, a war started. The Caddo farmers fled, hoping not to get caught in the crossfire.[^Unrau]
 
 
 ## Indian War of 1864
@@ -111,10 +111,10 @@ The following morning, his expedition set out to march on the Cheyenne village, 
 
 The next morning, Custer and his men were tasked with hunting down the villagers, and with that, Hancock declared that it would "now be war against the Cheyenne and Sioux between the Arkansas and the Platte."[^Coates74] Shortly afterwards, he ordered the Cheyenne village to be burned to the ground.  
 
-Sources disagree on what exactly compelled Hancock to give the order, but in general, his decisions seemed to be driven by impatience and mistrust with the natives, as well as a generally arrogant sense of superiority. His mishandling of the situation at the village caused tempers to flare, and his expedition sparked off a series of conflicts across the Plains. Several historians describe this season as a large scale campaign, dubbed "Hancock's War", while others see it as a cold, heartless, unnecessary slaughter against peaceful people, with Hancock being "... a buffoon bumbling around Kansas with fifteen hundred men in tow, futilely pursuing uncatchable Indians and oblivious or indifferent to the suffering he was causing women and children."[^Coates23]
+Sources disagree on what exactly compelled Hancock to give the order, but in general, his decisions seemed to be driven by impatience and mistrust with the natives, as well as a generally arrogant sense of superiority. Regardless, his mishandling of the situation at the village caused tempers to flare, and his expedition sparked off a series of conflicts across the Plains. Several historical sources describe this season as a large scale campaign, called "Hancock's War", while others see it as a heartless, unnecessary slaughter, with Hancock being "... a buffoon bumbling around Kansas with fifteen hundred men in tow, futilely pursuing uncatchable Indians and oblivious or indifferent to the suffering he was causing women and children."[^Coates23]
 
+Because of his failures, Hancock would be transferred from his post at Fort Larned and replaced with [General Phillip J. Sheridan](https://en.wikipedia.org/wiki/Philip_Sheridan#Indian_Wars). The effects of Hancock’s expedition would end up being one of the main driving forces behind the Medicine Lodge Treaty. 
 
-The aftermath of Hancock’s War would end up being a driving force behind the Medicine Lodge Treaty. 
 
 ## The Medicine Lodge Treaty
 {% include figure.html
@@ -124,15 +124,17 @@ The aftermath of Hancock’s War would end up being a driving force behind the M
   image-url="medicine-lodge-treaty.jpg"
   source-url="http://www.abajournal.com/magazine/article/october_28_1867_medicine_lodge_treaty_is_signed"
 %}
-With the continued fighting on the plains, the US government decided that it would be in their best interest to resolve the situation diplomatically. In the fall of 1867, tribal leaders from all the Great Plains tribes agreed to meet at Medicine Lodge Creek, in southern Kansas. Preliminary talks began at Fort Larned, and after they had gathered, the peace commission left for Medicine Lodge Creek on October 13. In a process that has been repeated throughout the US since the signing of the Indian Removal Act, all of the Native American leaders signed treaties to give the United States their land in exchange for reservations further west, as well as a large amount of gifts and annuities. 
+With the continued fighting on the plains, the US government decided that it would be in their best interest to resolve the situation diplomatically. In July, 1867, it was decided that a peace comission should be created, and over the next two years, this comission would travel around the frontier, holding meetings and signing treaties.[^Oman37]
 
-Fort Larned ended up being the shipping point for all of these gifts. The amount was so massive that it took about a month just for the goods to be organized and shipped to the post at Medicine Lodge Creek. 
+In the fall, tribal leaders from the Great Plains tribes - Kiowa, Comanche, Apache, Cheyenne, and Arapaho - all agreed to meet at Medicine Lodge Creek, in southern Kansas. Preliminary talks began at Fort Larned, and after they had gathered, the peace commission left for Medicine Lodge Creek on October 13.[^Chalfant472] The proceedings went relatively well, with every tribe present signing a new treaty. However, according to several reporters, it appeared that the native leaders were misled into thinking that these treaties simply meant that they would uphold peace, and not disrupt the building of new roads and railroads, while still keeping their homeland.[^Chalfant500] In truth, the treaties were a continuation of a process that has been repeated throughout the US since the signing of the [Indian Removal Act](https://en.wikipedia.org/wiki/Indian_Removal_Act), and all of those tribes signed away their land in exchange for gifts and new reservations in "Indian Territory".[^Pusey] 
+
+Both the tribal leaders and the peace commission left Medicine Lodge Creek thinking they had secured a lasting peace.
 
 
 ## Last Years In The Military
-With these new treaties in place, the majority of the Native Americans in Kansas had been removed, and Fort Larned became much less useful to the military. The expeditions of Generals [Sheridan](https://en.wikipedia.org/wiki/Philip_Sheridan#Indian_Wars) and Custer came through the Midwest soon afterwards, and completely wiped away any further resistance by the natives. 
+As time would soon tell, this peace would be short-lived, and soon the expeditions of Generals Sheridan and Custer would sweep through the Midwest and completely wipe away any further resistance by the natives. After years of bloodshed, the US military finally succeded in its goal of confining the Native Americans to reservations far away from significant trails, and more importantly, away from the routes that would become the railroads. 
 
-In 1868, with no one left to pay annuities to, Fort Larned’s annuity distribution center was closed. Its job as a site of diplomacy to Native American tribes had come to an end. The fort managed to stay operational for about ten more years, but the number of troops stationed there was greatly reduced. Over this time, operations slowly wound down, until the fort was abandoned in 1878. 
+By late 1868, all of the southern plains tribes were evicted from their homelands in Kansas. With no one left to pay annuities to, Fort Larned’s annuity distribution center was closed, and its job as a site of diplomacy to these tribes had come to an end. The fort managed to stay operational for about ten more years, but the number of troops stationed there was greatly reduced. Operations slowly wound down until the fort was abandoned in 1878. 
 
 
 ## Fort Larned as a National Historic Site
@@ -143,15 +145,11 @@ In 1868, with no one left to pay annuities to, Fort Larned’s annuity distribut
     image-url="fort-larned-watercolor.jpg" 
     source-url="https://www.jamesmannartfarm.com/jmas401.html"
 %}
-Between 1878 and 1884, Fort Larned was left to the elements, and with the help of scavengers, slowly detiorated. However, in 1884 the land was sold at an auction and quickly passed through the hands of several owners, and the fort was converted into a ranching operation. The barracks were converted into barns, new silos and corrals were built, and many of its more temporary structures were demolished. By 1960, the site had been turned from a rough military outpost into a stylish, cultivated ranch. It remained as such until its adoption as a National Historic Site in 1964.[^NRHP9]
-
-Since then, the National Park Service has tried its best to revert these changes. All of the new ranch structures have been taken down, and the only buildings left are the few permanent buildings that the military built in the 1860's. 
-
+Between 1878 and 1884, Fort Larned was left to the elements, and with the help of scavengers, slowly detiorated. However, in 1884 the land was sold at an auction and quickly passed through the hands of several owners, and the fort was converted into a ranching operation. The barracks were converted into barns, new silos and corrals were built, and many of its more temporary structures were demolished. By 1960, the site had been turned from a rough military outpost into a stylish, cultivated ranch. It remained as such until its adoption as a National Historic Site in 1964. Since then, the National Park Service has tried its best to revert these changes. All of the new ranch structures have been taken down, and the only buildings left are the few permanent buildings that the military built in the 1860's.[^NRHP9]
 
 
 
 ### Websites
-
 https://en.wikipedia.org/wiki/Fort_Larned_National_Historic_Site
 
 https://www.nps.gov/fols/learn/historyculture/santa-fe-trail.htm
@@ -166,6 +164,7 @@ http://plainshumanities.unl.edu/encyclopedia/doc/egp.war.017
 
 
 ### Citations
+Chalfant, W. Y. (2010). Hancocks war: conflict on the southern plains. Norman, OK: Arthur H. Clark Company, An imprint of the University of Oklahoma Press. 
 
 Coates, I., & Kennedy, W. J. D. (1997). On the plains with Custer and Hancock: the journal of Isaac Coates, army surgeon. Boulder, CO: Johnson Books. 
 
@@ -194,14 +193,17 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^Unrau]: Unrau
 [^NRHP]: NRHP Fort Larned Inventory/Nomination Form
 [^NRHP7]: NRHP Fort Larned Inventory/Nomination Form, 7
-[^NRHP9]: NRHP Fort Larned Inventory/Nomination Form, 9
+[^NRHP9]: NRHP Fort Larned Inventory/Nomination Form, 9-11
 [^Coates23]: Coates & Kennedy, 23
 [^Coates50]: Coates & Kennedy, 50-51
 [^Coates54]: Coates & Kennedy, 54-55
 [^Coates57]: Coates & Kennedy, 57
 [^Coates58]: Coates & Kennedy, 58
 [^Coates62]: Coates & Kennedy, 62-73
-
+[^Coates74]: Coates & Kennedy, 74
+[^Oman37]: Oman, 37
+[^Chalfant472]: Chalfant, 472-473
+[^Pusey]: Pusey
 
 
 
