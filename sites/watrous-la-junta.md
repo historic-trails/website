@@ -50,7 +50,8 @@ However, the relationship between indigenous tribes and newcomers was a rocky on
 Shall we placidly stand by while they ravage our herds, destroy our grains, 
 murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence[^Kosmider41]". 
 
-The indigenous tribes and the new owners of the land could not coexist, under the strict rulings of governor David Meriwether.  Meriwether disagreed with the previous governor's  to feed and teach an estimated five hundred Jicarillas farming, in exchange for their relocation to Abiquiu, Meriwether instead halted provisions to these tribes after claiming it was a financial burden on the state of New Mexico.
+## Indigenous displacement
+The indigenous tribes and the colonists of La Junta could not coexist under the strict rulings of new governor David Meriwether.  Meriwether disagreed with the previous governor's  to feed and teach an estimated five hundred Jicarillas farming, in exchange for their relocation to Abiquiu, Meriwether instead halted provisions to these tribes after claiming it was a financial burden on the state of New Mexico.
 After being promised supplies from the federal government, indigenous tribes were left with little opportunity. Perhaps in retaliation,Ute Chief Chico Velasquez ranchers stole cattle from Watrous’ ranch [^Kosmider31]. Many historians argue that Indigenous tribes were often raiding the goods and livestock in this area—however, it is important to consider their perspective. By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations [^Kosmidervi3]   The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were simply marauders or thieves.
 ## Bibliography 
 
