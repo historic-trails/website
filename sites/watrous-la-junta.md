@@ -13,17 +13,18 @@ grew more than a foot in height."%}
 In the past, visitors have noted the healthy, rich soil, green valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper line the banks of the river and the town [^Clark].  But this is not the only reason this area is remarkable. In 1963, La Junta was deemed a National Historic Landmark. It has served many purposes throughout history. This junction has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the Santa Fe Trail. As one Army of the West soldier exclaimed, upon viewing the valley: "the first settlement we had seen in 775 miles" [^Greenwood2].
 
 ## Here first – La Junta’s early occupiers
- Before the first traveler set foot on the over [800-mile stretch of the Santa Fe Trail](https://www.nps.gov/safe/learn/historyculture/map-timeline-2.htm)[^NPS],  La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches.[^Stanley3][^Kosmider30][^Tiller] 
-
+La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches.According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
+  
 The Jicarilla Apache tribe had two distinct groups:
-* The **Olleros**, who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using similar techniques to Pueblo Indians. 
-* The **Llaneros**, who utilized techniques reminsicent of Plains Indians techniques,such as their dress style and their teepees ( a tent-like structure made of wooden wooden poles and cowhide). The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
-The Jicarilla Apache tribe was relatively peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a fignment of the imagination, or at least greatly exaggerated" [^Tiller8] she writes. 
+* The **Olleros** (mountain dwellers) , who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using similar techniques to Pueblo Indians. 
+* The **Llaneros**, (plains dwellers) who utilized techniques reminsicent of Plains Indians techniques,such as their dress style and their teepees ( a tent-like structure made of wooden wooden poles and cowhide). The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
+
+When the Spanish came to New Mexico, however, a new stigma about indigenous people become commonplace.  The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. The Jicarilla Apache tribe was peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a fignment of the imagination, or at least greatly exaggerated." [^Tiller8] she writes. 
  
 
 ## Who's land is it, anyway? The Spanish in New Mexico
 
-When the Mexican government began to grant land to settlers, the "road to total disposession of Jicarillas from their traditional country"[^Tiller34] began. The grants effectively "created an elite group of merchants, landholders, and politicans in Northern New Mexico in the heart of Jicarilla land" [^Tiller35]. According to Spanish records, at the end of the 1600's, the Jicarilla had been residing in New Mexico for nearly two centuries. 
+When the Mexican government began to grant land to settlers, the "road to total disposession of Jicarillas from their traditional country"[^Tiller34] began. The grants effectively "created an elite group of merchants, landholders, and politicans in Northern New Mexico in the heart of Jicarilla land" [^Tiller35].  
 
 ## [The Scolly Land Grant](https://www.topozone.com/map-print/?lat=35.790597&lon=-104.9816685&title=Watrous%20Topo%20Map%20in%20Mora%20County%20New%20Mexico)
 {% include figure.html
@@ -38,7 +39,7 @@ On March 27, 1843, James Giddings, along with nine other SPanish men, composed a
 
 ## “An abode for men and animals”[^Kosmider25]:Barclay’s Fort
 
-On June 11, 1846, Alexander Barclay, along with the help of Joseph Doyle, laid the first adobe brick of Fort Barclay. Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^25Kosmider] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853.  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” [^Greenwood]. Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks [^Kosmider26]. Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer, instead building 
+On June 11, 1846, Alexander Barclay, with the help of hired workers, laid the first adobe brick of Fort Barclay. Barclay, a had dreamed of building a fort to protect the area from  Consisting of over forty rooms, the fort was described as “an abode for men and animals...formidable” [^25Kosmider] by U.S. Attorney for the Terrioty of New Mexico, W.W.H. Davis in November 1853.  Davis, however, was not pleased with the interior of the fort, noting it was reminiscent of some “old state prison where the good and great of former times have languished away their lives” [^Greenwood]. Despite such a scathing remark, many travelers of the Santa Fe Trail stopped here to rest, acquire goods and supplies, and escape the elements and potential indigenous attacks [^Kosmider26]. Barclay later attempted to sell the fort to the U.S. Army, but they declined the offer, instead building 
 [Fort Union](https://www.nps.gov/foun/index.htm) just a few miles away[^Birchell]. In 1856, William Kroening purchased Fort Barclay [^Greenwood3]. A flood in 1900 washed away all remains of the fort [^Birchell1].
 
 
@@ -97,17 +98,20 @@ The indigenous tribes and the new owners of the land could not coexist, under th
 
 Clark, Ann Nolan. “These Were the Traders,” in These Were the Valiant: A Collection of New Mexico Profiles, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February 1998).
+
+Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
 
 Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
 Simmons, Marc. “More on Watrous.” Wagon Tracks Vol. 7:1 (November 1992). 
 
+Stanley, F. The Watrous (New Mexico) Story, (Self- published, Pantex, 1962). 
+
 “Travel the Trail: Map Timeline 1846-1866.” National Park Service. Accessed 9 Nov. 2019. www.nps.gov/safe/learn/historyculture/map-timeline-2.htm.
 
-Fischer, Virginia Lee. “In Search of Jose Watrous.” Wagon Tracks Vol. 12:2 (February 1998).
+Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" (Ph.D Disstertation, University of New Mexico, 1976). 
 
-Fisher, Virginia Lee. “More of the Jose Watrous Story.” Wagon Tracks Vol. 13:2 (November 1998).
 
 
 
