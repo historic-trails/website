@@ -36,7 +36,7 @@ source-url="https://www.legendsofamerica.com/nm-cimarron/"
 ##### WHY CIMARRON, NEW MEXICO
 {% include figure.html
 class="img-left"
-width="52%"
+width="51%"
 caption="Ariel View Point Cimarron, New Mexico"
 image-url="ariel-view-cimarron.png"
 source-url="https://www.google.com/maps/place/Cimarron,+NM+87714/@36.5070037,-104.9226712,14z/data=!3m1!4b1!4m5!3m4!1s0x8710ae3839f352d7:0x703572cf1cbbcc70!8m2!3d36.5108691!4d-104.9158341"
