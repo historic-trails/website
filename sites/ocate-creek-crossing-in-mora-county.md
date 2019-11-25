@@ -25,7 +25,7 @@ The Ocate Creek Crossing and the general Mora County region proved to be a vital
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="A drawing of Mora Valley by Joseph Hager.The secene depicts two travelers on horses going through the famous Mora Valley. The valley is known to be one of the most beautiful in the region, characterzied by its tall grases, abundance of water and timber, and of being one of the first points of relief at the end of the Cimarron Route on the Santa Fe Trail."
+  caption="A drawing of Mora Valley by Joseph Hager. The secene depicts two travelers on horses going through the famous Mora Valley. The valley is known to be one of the most beautiful in the region, characterzied by its tall grases, abundance of water and timber, and of being one of the first points of relief at the end of the Cimarron Route on the Santa Fe Trail."
   image-url="mora-valley-drawing.jpg"
   source-url="https://www.santafenewmexican.com/pasatiempo/books/readings_signings/where-the-heart-resides-stories-from-the-mora-valley/article_e5b57167-a0e4-5aff-9b96-e369246d66dc.html"
 %}
@@ -48,7 +48,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
 
 {% include figure.html
   class="img-right"
-  width="40%"
+  width="55%"
   caption="A set of typical native american, adobe-style homes sitting near a creek in Taos, New Mexico. Although Taos is quite a ways from Ocate Creek Crossing, the architecture of the Native tribes there reflected very similar styles described by studies done of the American Indians in Mora Valley and Ocate."
   image-url="old-taos-natives-adobe-homes.jpg"
   source-url="https://taospueblo.com/history/"
@@ -68,7 +68,7 @@ The arrival of Francisco Vasquez de Coronado in 1540 marked the beginning of Spa
 {% include figure.html
   class="img-center"
   width="70%"
-  caption="A Hispanic farmer family in Mora Valley, New Mexico in 1895. Hispanic farmers mostly dealt with cattle or sheep livestock as well as wheat and potato crops as their main source of income. Although most of the remaining population on Ocate and Mora County in general were of Spanish or Mexican descent, many of these farmers were driven to poverty once the Americans began settling the region due to the increased price of sheeps in the beginning of the 20th century."
+  caption="A Hispanic farmer family in Mora Valley, New Mexico in 1895. Sheep are pictured behind the family. Hispanic farmers mostly dealt with cattle or sheep livestock as well as wheat and potato crops as their main source of income. Although most of the remaining population in Ocate and Mora County in general were of Spanish or Mexican descent, many of these farmers were driven to poverty once the Americans began settling the region due to the increased price of sheeps in the beginning of the 20th century."
   image-url="hispanic-farmer-family-mora-valley.jpg"
   source-url="https://www.santafenewmexican.com/pasatiempo/books/readings_signings/where-the-heart-resides-stories-from-the-mora-valley/article_e5b57167-a0e4-5aff-9b96-e369246d66dc.html"
 %}
@@ -96,7 +96,7 @@ Violence against Anglo-American settlers occurred so frequently that a fort was 
 {% include figure.html
   class="img-left"
   width="49%"
-  caption="A sketch of Fort Union in 1856 by Captain Joseph Horace Eaton. The sketch is from the perspective of an onlooker coming from the southeast. Ooutside of the frame of this sketch, to the west, are the Turkey Mountains. This fort proved to be in a prime location in a valley with almost ten miles of visibility."
+  caption="A sketch of Fort Union in 1856 by Captain Joseph Horace Eaton. The sketch is from the perspective of an on-looker coming from the southeast. Outside of the frame of this sketch, to the west, are the Turkey Mountains. This fort proved to be in a prime location in a valley with almost ten miles of visibility."
   image-url="fort-union-old.jpg"
   source-url="https://www.nps.gov/parkhistory/online_books/foun/chap2.htm"
 %}
@@ -122,7 +122,7 @@ The region that was once characterized by the hustle and bustle of the native tr
 {% include figure.html
   class="img-center"
   width="75%"
-  caption='*Leaving Ocate* by American painter Peggy Immel. The painting depicts a peaceful scene of a farm at the foothills of the neighboring mountains. Farms like these are the most common form of residential infrastructure in the area, as most residents of Ocate were either sheep or cattle farmers.'
+  caption='*Leaving Ocate* by American painter Peggy Immel. The painting depicts a peaceful scene of a farm at the foothills of the neighboring mountains. Farms like these are the most common form of residential infrastructure in the area, along with the native adobes, as most residents of Ocate were either sheep or cattle farmers.'
   image-url="ocate-creek-crossing-paint.jpg"
   source-url="https://peggyimmel.com/?keyvalue=6127&page=ViewCollection&subkeyvalue=15754&startrec=1&displayperpage=9999&displayhorz=1"
 %}
