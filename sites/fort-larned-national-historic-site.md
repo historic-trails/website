@@ -157,7 +157,6 @@ On the other side, Fort Larned's role in diplomacy was more direct and impactful
 
 
 
-
 ### Bibliography
 Chalfant, W. Y. (2010). Hancocks war: conflict on the southern plains. Norman, OK: Arthur H. Clark Company, An imprint of the University of Oklahoma Press. 
 
