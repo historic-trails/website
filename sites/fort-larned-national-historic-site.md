@@ -143,6 +143,10 @@ By late 1868, all of the southern plains tribes were evicted from their homeland
 %}
 Between 1878 and 1884, Fort Larned was left to the elements, and with the help of scavengers, slowly detiorated. However, in 1884 the land was sold at an auction and quickly passed through the hands of several owners, and the fort was converted into a ranching operation. The barracks were converted into barns, new silos and corrals were built, and many of its more temporary structures were demolished. By 1960, the site had been turned from a rough military outpost into a stylish, cultivated ranch. It remained as such until its adoption as a National Historic Site in 1964. Since then, the National Park Service has tried its best to revert these changes. All of the new ranch structures have been taken down, and the only buildings left are the few permanent buildings that the military built in the 1860's.[^NRHP9] Because the fort was well taken care of after its decommisioning, the National Park service uses the fort as a historic museum, mainly discussing the life of soldiers in Fort Larned and other frontier forts, but there are also exhibits on Hancock's expedition, Native Americans on the Plains, and general frontier history. As it stands today, the NPS displays the fort as a representation of life on the frontier. 
 
+Ultimately, however, the legacy of Fort Larned consists of two major parts: its role to the military as a fort, and its role in diplomacy on the Western frontier. To the military, the fort was relatively insignificant for the majority of its life. Although it held an important position along the Santa Fe Trail, among the frontier forts it was one of the smallest and least heavily guarded. Despite this, the fort still held a role in several military expeditions; most notably the one led by General Hancock. In these actions, Fort Larned acted as the launching point; the point of entry onto the Plains. Because of this, the harsh brutality of these expeditions stand as the most significant part of Fort Larned's military legacy today. 
+
+On the other side, Fort Larned's role in diplomacy was more direct and impactful. It was the main distribution point for gifts and bribes to the Southern Plains tribes, and its location on the Santa Fe Trail made it an easy spot for diplomats to meet and negotiate treaties. However, this association was not entirely positive. As we know today, the deals made between Native American tribes and the U.S. government were manipulative and one sided, and would ultimately lead to many Native people being driven from their homelands, and in some cases, losing their cultures entirely. 
+
 {% include figure.html 
     class="img-right" 
     width="32%"
@@ -150,10 +154,6 @@ Between 1878 and 1884, Fort Larned was left to the elements, and with the help o
     image-url="fort-larned-aerial-view.jpg" 
     source-url="https://www.nps.gov/fols/planyourvisit/maps.htm"
 %}
-Ultimately, however, the legacy of Fort Larned consists of two major parts: its role to the military as a fort, and its role in diplomacy on the Western frontier. To the military, the fort was relatively insignificant for the majority of its life. Although it held an important position along the Santa Fe Trail, among the frontier forts it was one of the smallest and least heavily guarded. Despite this, the fort still held a role in several military expeditions; most notably the one led by General Hancock. In these actions, Fort Larned acted as the launching point; the point of entry onto the Plains. Because of this, the harsh brutality of these expeditions stand as the most significant part of Fort Larned's military legacy today. 
-
-On the other side, Fort Larned's role in diplomacy was more direct and impactful. It was the main distribution point for gifts and bribes to the Southern Plains tribes, and its location on the Santa Fe Trail made it an easy spot for diplomats to meet and negotiate treaties. However, this association was not entirely positive. As we know today, the deals made between Native American tribes and the U.S. government were manipulative and one sided, and would ultimately lead to many Native people being driven from their homelands, and in some cases, losing their cultures entirely. 
-
 
 
 
