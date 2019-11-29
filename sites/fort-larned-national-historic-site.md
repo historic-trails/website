@@ -143,7 +143,7 @@ By late 1868, all of the southern plains tribes were evicted from their homeland
 %}
 Between 1878 and 1884, Fort Larned was left to the elements, and with the help of scavengers, slowly detiorated. However, in 1884 the land was sold at an auction and quickly passed through the hands of several owners, and the fort was converted into a ranching operation. The barracks were converted into barns, new silos and corrals were built, and many of its more temporary structures were demolished. By 1960, the site had been turned from a rough military outpost into a stylish, cultivated ranch. It remained as such until its adoption as a National Historic Site in 1964. Since then, the National Park Service has tried its best to revert these changes. All of the new ranch structures have been taken down, and the only buildings left are the few permanent buildings that the military built in the 1860's.[^NRHP9]
 
-
+The question, then, is what the legacy of Fort Larned entails. Among the frontier forts, it was one of the smallest and least heavily guarded, as its location made it less significant militarily. It did play a substantial role in diplomacy, but as we know today, the diplomatic deals made between Native American tribes and the US government were manipulative and one sided.  
 
 ### Bibliography
 Chalfant, W. Y. (2010). Hancocks war: conflict on the southern plains. Norman, OK: Arthur H. Clark Company, An imprint of the University of Oklahoma Press. 
