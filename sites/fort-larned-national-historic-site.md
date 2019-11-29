@@ -14,7 +14,7 @@ Today, Fort Larned is one of the best-preserved examples of these forts, and is 
 
 {% include figure.html
   class="img-center"
-  width="69%"
+  width="66%"
   caption="**Fort Larned's location along the Santa Fe Trail.** Although much of the responsibility of patrolling the trail would go to Fort Dodge, Fort Larned's location made it a crucial buffer between the trail and the Native Americans of northwest Kansas."
   image-url="fort-larned-trail-map.jpg"
   source-url="https://www.smithburnett.com/?page=history_ft_larned"
@@ -23,7 +23,7 @@ Today, Fort Larned is one of the best-preserved examples of these forts, and is 
 ## Origins 
 {% include figure.html
   class="img-right"
-  width="32%"
+  width="33%"
   caption="**The territories that the US acquired in the early 19th century.** The annexation of Texas and the US's victory in the Mexican-American War had the largest impact on the growth of the Santa Fe Trail."
   image-url="us-western-purchases.jpg"
   source-url="https://www.nationalgeographic.org/photo/territorial-gains/"
@@ -38,7 +38,7 @@ This period also saw a large increase in traffic along trade routes to the West,
 ## The Fort
 {% include figure.html
   class="img-right"
-  width="32%"
+  width="33%"
   caption="**The view of Fort Larned, looking across the plains.**"
   image-url="view-of-fort-larned.jpg"
   source-url="https://www.kansasmemory.org/item/216958/page/1"
@@ -70,18 +70,16 @@ The relationship between the Native Americans and the soldiers of the fort was n
 ## Conflicts of 1864-1867
 {% include figure.html
   class="img-right"
-  width="32%"
+  width="33%"
   caption="**An artist's depiction of the Sand Creek Massacre.** When news of this event reached the tribes of the plains, distrust and hatred sparked off an entire series of conflicts."
   image-url="sand-creek.jpg"
   source-url="https://time.com/4584022/sand-creek-massacre-anniversary/"
 %}
 In 1864, as tensions came to a head, conflict broke out across the plains, and violence swept the region. In the summer, a group of 60 teamsters were attacked just west of Fort Larned. Many of them were killed, and one survivor was rescued later, after he had been captured and tortured by the natives. In the winter, the infamous [Sand Creek Massacre](https://en.wikipedia.org/wiki/Sand_Creek_massacre) took place in the Colorado Territory, where an entire Native American village was slaughtered.[^Zwink88]
 
-Throughout the year, Fort Larned was constantly raided for its supplies, especially its livestock and horses, and the surrounding area saw countless attacks and skirmishes. One incident in particular almost took out the fort entirely:
+Throughout the year, Fort Larned was constantly raided for its supplies, especially its livestock and horses, and the surrounding area saw countless attacks and skirmishes. The most direct attack on the fort came on July 17, 1864, when a group of natives hatched a plan to massacre the entire garrison. Their plan was to infiltrate the base during a ceremony and, at a prearranged signal, launch a surprise attack. However, about three hours before the designated time for the attack, rumors started circulating about a planned Indian attack, and the security on the base was tightned. A Kiowa chieftan, the leader of the attack, approached the fort sutler's store and was denied entry. After some argument, the chieftan shot the store sentry and fled, triggering the attack early. The original plan of massacre was abandoned, and instead, the attackers ran off with over 200 mules and horses - all of the livestock at the post.[^Zwink85]
 
->On July 17, 1864, [...] the Indians were allowed to enter and move around the post without any restrictions. At the same time, however, they were planning a scheme to massacre the entire garrison. A square dance was to be held, and there the soldiers would be away from their weapons. Meanwhile, the Indians planned to infiltrate the fort, and at a prearranged signal would launch a surprise attack. The scheme partially was exposed by accident. Approximately three hours before the designated time for the attack and prior to the arrival of the Indians from their camps, a rumor circulated among the civilians and soldiers at the post, claiming that there was possible danger of Indian attack. The rumor reportedly originated from information that an interpreter had overheard from the Indians. Inasmuch as rumors of Indian attacks were quite common, there was no great alarm and no attention was given to the alleged attack. [...] The officer of the day, nevertheless, decided to order the guards to keep all other Indians from entering the post. The Kiowa chief, Satank, was the leader of the attack, but when he approached a sentry near the sutler's store, he was refused entry into the garrison. Satank became irritated, and the Kiowa chieftain first shot an arrow at the sentry and then fired a revolver. Wounded in the hand, the guard returned the fire, killing a Mexican who was riding behind Satank, apparently the Kiowa's aide. This exchange of gunfire prematurely triggered the attack. Consequently, the Indians abandoned their initial objective of a massacre and instead scrambled to confiscate the garrison's livestock. More than 200 mules and horses were lost--all the livestock of the post.[^Zwink85]
-
-No other attempts at directly attacking the fort ever came, but fighting in the area would continue until early 1865. At this point, Col. Leavenworth (who had become the Indian Agent for the Kiowa and Comanche) wanted to try to find a way to stop the bloodshed. In October, he met with leaders from Kiowa, Comanche, Plains Apache, Arapahoe, and Cheyenne tribes near the Little Arkansas River. Theoretically, this meeting was a success, as every leader present signed new treaties with the US government. In actuality, not every group within those tribes agreed with the treaties, or considered them to be binding in any way. The more militant groups, especially those within the Cheyenne, did not take those treaties to heart, and continued raiding throughout 1866 and 1867.[^Zwink89]
+That would be the first and last direct attack on the fort, but fighting in the area would continue until early 1865. At this point, Col. Leavenworth (who had become the Indian Agent for the Kiowa and Comanche) wanted to try to find a way to stop the bloodshed. In October, he met with leaders from Kiowa, Comanche, Plains Apache, Arapahoe, and Cheyenne tribes near the Little Arkansas River. Theoretically, this meeting was a success, as every leader present signed new treaties with the US government. In actuality, not every group within those tribes agreed with the treaties, or considered them to be binding in any way. The more militant groups, especially those within the Cheyenne, did not take those treaties to heart, and continued raiding throughout 1866 and 1867.[^Zwink89]
 
 At this point, the US government decided it needed to send a message, so in the early spring of 1867, [Major General Winfield Scott Hancock](https://en.wikipedia.org/wiki/Winfield_Scott_Hancock) and the men under his command were sent to Fort Larned. 
 
@@ -89,7 +87,7 @@ At this point, the US government decided it needed to send a message, so in the 
 ## Hancock’s Expedition
 {% include figure.html
   class="img-right"
-  width="32%"
+  width="33%"
   caption="**An artist's depiction of Hancock's expedition burning down the Cheyenne/Arapahoe village.** This event marked the start of _Hancock's War_"
   image-url="cheyenne-village.jpg"
   source-url="https://www.kansasmemory.org/item/209726/page/1"
@@ -105,7 +103,7 @@ In response, one of the Chieftans stated:
 
 From Coates's perspective, Hancock's speeches during the meeting were patronizing and arrogant. His goal was to intimidate the chiefs into following their former treaties - treaties that were unfair, unjust, and promised reparations for the crimes of white settlers that never came, and Hancock ignored Tall Bull's response, instead insisting on holding a meeting in their village. [^Coates58] 
 
-The following morning, his expedition set out to march on the Cheyenne village, about 35 miles west of Fort Larned. About 10 miles before reaching the village, they ran into a group of Cheyenne warriors who proposed that they meet the following day, promising to gather up other local tribes' chieftans as well. Hancock accepted, and continued marching his troops forward until they stopped and made camp within a few hundred yards of the village. The sight of army soldiers frightened the villagers, especially since they had heard the story of the Sand Creek Massacre, and they fled as fast as they could, abandoning almost all of their posessions. During the night, a small group of soldiers, including Custer and Coates, went down to the village to investigate, and reported that the village was deserted.[^Coates62]
+The following morning, his expedition set out to march on the Cheyenne village, about 35 miles west of Fort Larned. About 10 miles before reaching the village, they ran into a group of Cheyenne warriors who proposed that they meet the following day, promising to gather up other local tribes' chieftans as well. Hancock accepted, and continued marching his troops forward until they stopped and made camp within a few hundred yards of the village. The sight of army soldiers frightened the villagers, especially since they had heard the story of the Sand Creek Massacre, and they fled as fast as they could, abandoning almost all of their posessions.[^Coates62]
 
 The next morning, Custer and his men were tasked with hunting down the villagers, and with that, Hancock declared that it would "now be war against the Cheyenne and Sioux between the Arkansas and the Platte."[^Coates74] Shortly afterwards, he ordered the Cheyenne village to be burned to the ground.  
 
@@ -117,7 +115,7 @@ Because of his failures, Hancock would be transferred from his post at Fort Larn
 ## The Medicine Lodge Treaty
 {% include figure.html
   class="img-right"
-  width="32%"
+  width="33%"
   caption="**A sketch of the proceedings of the Medicine Lodge Treaty.** The conference was filled with speeches from both sides about the benefits of peace between whites and natives, as well as mutual discussion about the causes of distrust and conflict."
   image-url="medicine-lodge-treaty.jpg"
   source-url="http://www.abajournal.com/magazine/article/october_28_1867_medicine_lodge_treaty_is_signed"
