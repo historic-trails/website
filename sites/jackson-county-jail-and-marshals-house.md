@@ -64,7 +64,7 @@ Throughout the jail’s history it has remained useful to the community in its i
 
 - Dary, David. The Santa Fe Trail: Its History, Legends and Lore. Lawrence, KS: University of Kansas Press, 2012.
 
--Dodson, Amy and Jim. “Santa Fe Trail—Arrow Rock to Independence, Missouri.” Southwest Discovered. Accessed October 17, 2019. http://www.southwestdiscovered.com/santa-fe-trail-arrow-rock-to-independence-missouri/.
+- Dodson, Amy and Jim. “Santa Fe Trail—Arrow Rock to Independence, Missouri.” Southwest Discovered. Accessed October 17, 2019. http://www.southwestdiscovered.com/santa-fe-trail-arrow-rock-to-independence-missouri/.
 
 - ecjmartin1. “File:1859 Independence, Missouri Jail.jpg.” July 26, 2008. Photograph. Wikimedia Commons. Accessed November 15, 2019. https://commons.wikimedia.org/wiki/File:1859_Independence,_Missouri_Jail.jpg.
 
