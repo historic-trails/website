@@ -106,7 +106,7 @@ Throughout the jail’s history it has remained useful to the community in its i
 
 - Schondelmeyer, Brent. “Parlor of the Marshal's Home.” April 5, 2013. Photograph. Flickr: Creative Commons. Accessed November 15, 2019. https://www.flickr.com/photos/94765621@N08/8622991782/in/album-72157633174594848/.
 
-- Taylor, Jon E. A President, A Church, and Trails West: Competing Histories in Independence,Missouri. Columbia, MO: University of Missouri Press, 2008.
+- Taylor, Jon E. A President, A Church, and Trails West: Competing Histories in Independence, Missouri. Columbia, MO: University of Missouri Press, 2008.
 
 - Weiser, Kathy. “Santa Fe Trail—Detail and Timeline.” Legends of America (accessed October 17, 2019). https://www.legendsofamerica.com/we-santafetraildetailed/.
 
