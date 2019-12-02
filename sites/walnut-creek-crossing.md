@@ -7,8 +7,8 @@ date: 2019-11-13
   class="img-center"
   width="100%"
   caption="Walnut Creek Crossing."
-  image-url="river-bend.jpg"
-  source-url="https://www.legendsofamerica.com/ks-santafetrailbtco/"
+  image-url="river-bend-barton.jpg"
+  source-url="https://images.app.goo.gl/gGWMEjiCZ6h6GWnc6"
   %}
 
 
