@@ -104,26 +104,26 @@ Even after Johnson lost the ownership of El Zaguan he continued to live in the b
 El Zaguan is located at [545 Canyon Road, Santa Fe, New Mexico](https://www.google.com/maps/place/545+Canyon+Rd,+Santa+Fe,+NM+87501/@35.6822733,-105.9320165,17z/data=!3m1!4b1!4m5!3m4!1s0x8718504e657c6a4b:0xef6932869a9f729d!8m2!3d35.6822733!4d-105.9298278). It is open Monday through Friday 9 AM to 5 PM. For more information about visits or what is on display in the gallery contact [info@historicsantafe.org](info@historicsantafe.org)
 
 [^1]: Nat Register, 10.
-[^2]: HBSNM223, 38.
+[^2]: Sze 1996, 38.
 [^3]: National Scenic Byway.
-[^4]: HBSNM 223, 38.
+[^4]: Sze 1996, 38.
 [^5]: Old Santa Fe Today, 122-123.
-[^6]: HBS223, 17.
+[^6]: Sze 1996, 17.
 [^7]: Bulletin, 1.
 [^8]: Keleher, 128. 
 [^9]: Bulletin, 2. 
-[^10]: HBS223, 11.
-[^11]: HBS223, 6.
-[^12]: HBS223, 5.
-[^13]: HBS223, 13-14.
+[^10]: Sze 1996, 11.
+[^11]: Sze 1996, 6.
+[^12]: Sze 1996, 5.
+[^13]: Sze 1996, 13-14.
 [^14]: Old SF Today, 122-123.
-[^15]: HABSNM223, 21.
-[^16]: HABSNM223, 23-24.
-[^17]: HBS 223, 23-24.
-[^18]: Nat REg, 20-21.
-[^19]: NMHABS223, 24.
+[^15]: Sze 1996, 21.
+[^16]: Sze 1996, 23-24.
+[^17]: Sze 1996, 23-24.
+[^18]: National Park Service, 20-21.
+[^19]: Sze 1996, 24.
 [^20]: Cline.
-[^21]: (NMHABS 223, 9-10.)
+[^21]: Sze 1996, 9-10.
 
 ## **Bibliography**
 - National Park Service. [El Zaguan.](https://npgallery.nps.gov/NRHP/GetAsset/f079fb97-a19c-4920-afe7-de909b720197/) N.p.: United States Department of the Interior, 8-1-2008.
