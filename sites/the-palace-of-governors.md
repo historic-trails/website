@@ -17,7 +17,7 @@ date: 2019-17-11
 
 ## Santa Fe during the 1600’s 
 
-[Santa Fe](https://www.legendsofamerica.com/nm-santafe/) during the 1600's brought exploration, exploitation of the native people, and a start of the history of the great Southwest. The Spanish explorers of the time conquered this area and took land away from the Pueblo people living in this area. Under Spanish command Pueblo people were slaughtered or enslaved by the explorers as they came to estabish a new colony. Santa Fe is the third oldest city in the country and was known for having the oldest buildings created by the spanish explorers. During this time Pedro de Peralta was appointed as the second Spanish governor in 1610 by Luis De Velasco. He was a Spanish conquistador who came to the Americas from Spain. Under his law the construction of one of the oldest capital buildings in the country began thus, making him the original name behind the historic Palace of the Governors. 
+[Santa Fe](https://www.legendsofamerica.com/nm-santafe/) during the 1600's brought exploration, exploitation of the native people, and a start of the history of the great Southwest. The Spanish explorers of the time conquered this area and took land away from the Pueblo people there at the time. Under Spanish command Pueblo people were slaughtered or enslaved as the explorers came to estabish a new colony. Santa Fe is the third oldest city in the country and was known for having the oldest buildings created by the spanish explorers. During this time Pedro de Peralta was appointed as the second Spanish governor in 1610 by [Luis De Velasco](http://www.timelineindex.com/content/view/3807). He was a Spanish conquistador who came to the Americas from Spain in 1608. Under his law the construction of the palace which isone of the oldest capital buildings in the country began. This made him the original name behind the creation of the historic Palace of the Governors. 
 
 {% include figure.html
   class="img-right"
@@ -29,11 +29,11 @@ date: 2019-17-11
 
 ## Historical significance: 
 
-This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The palace is known for being one of the oldest public occupied buildings in the united states. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events such as the pueblo revolt, the spanish reconquest, and the [civil war](https://www.battlefields.org/learn/articles/brief-overview-american-civil-war).
+This historic site served as the seat of the government for the Spanish colony Nuevo Mexico which included the modern states of New Mexico, Texas, Utah, Colorado, California, and Nevada. The Palace is known for being one of the oldest public occupied buildings in the United States. The building is also significantly known as becoming one of the first territorial capitals when New Mexico was annexed as a U.S. territory. This building is known to have seen and survived many significant events such as the pueblo revolt, the spanish reconquest, and the [civil war](https://www.battlefields.org/learn/articles/brief-overview-american-civil-war).
 
 ## The Pueblo Revolt of 1680-1693:
 
-In 1680 Pueblo Indians grew tired of the circumstances the Spaniards laid upon them which included forced labor, slavery, and conversion to Christianity with no say. Lead by a medicine man named [Pope](https://www.indigenouspeople.net/pope.htm) they planned an attack on the Spaniards residing in what is now Santa Fe, New Mexico. The Spanish troops gathered within the Palace and resisted attacks until the Pueblo Indians, after ten days cut off the water supply and forced the Spaniards to retreat to El Paso. The Pueblo people than took over the palace for the next twelve years and dramatically changed the interior of the palace to make it comfortable. “They pulled down the houses and the parish church and used the adobe bricks to fortify the Palace”. The palace was eventually taken back by the Spaniards under the control of [Diego De Vargas](http://newmexicohistory.org/2012/06/27/diego-de-vargas/) who was the governor in 1693. 
+In 1680 Pueblo Indians grew tired of the circumstances the Spaniards laid upon them which included forced labor, slavery, and conversion to Christianity with no say. Lead by a medicine man named [Pope](https://www.indigenouspeople.net/pope.htm) they planned an attack on the Spaniards who resided in what is now Santa Fe, New Mexico. The Spanish troops gathered within the Palace and resisted attacks for ten days, until the Pueblo Indians cut off the water supply and forced the Spaniards to retreat to El Paso. The Pueblo people than took over the palace for the next twelve years and dramatically changed the interior of the palace to make it comfortable. “They pulled down the houses and the parish church and used the adobe bricks to fortify the Palace”. The palace was eventually taken back by the Spaniards under the control of [Diego De Vargas](http://newmexicohistory.org/2012/06/27/diego-de-vargas/) who was the governor in 1693. 
 
 ## The Palace Structure and Geography
 
@@ -65,15 +65,15 @@ The palace today is strictly used as a museum where people can come and see the 
 
 ## Bibliography
 
-Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
+- Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
 
-“History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
+- “History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
 
-“Palace of the Governors--American Latino Heritage: A Discover Our Shared Heritage Travel Itinerary.” National Parks Service, U.S. Department of the Interior, www.nps.gov/nr/travel/american_latino_heritage/Palace_of_the_Governors.html.
+- “Palace of the Governors--American Latino Heritage: A Discover Our Shared Heritage Travel Itinerary.” National Parks Service, U.S. Department of the Interior, www.nps.gov/nr/travel/american_latino_heritage/Palace_of_the_Governors.html.
 
-New Mexico History Museum, www.nmhistorymuseum.org/campus.php
+- New Mexico History Museum, www.nmhistorymuseum.org/campus.php
 
-“Palace of the Governors.” Historic Santa Fe Foundation, www.historicsantafe.org/palace-of-the-governors.
+- “Palace of the Governors.” Historic Santa Fe Foundation, www.historicsantafe.org/palace-of-the-governors.
 
-“Welcome to the Palace of the Governors!” Palace of the Governors, www.palaceofthegovernors.org/index.php.
+- “Welcome to the Palace of the Governors!” Palace of the Governors, www.palaceofthegovernors.org/index.php.
 
