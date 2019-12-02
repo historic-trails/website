@@ -66,6 +66,7 @@ The palace today is strictly used as a museum where people can come and see the 
 ## Bibliography
 
 - Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
+
 [^A]:Abbink,37
 
 - “History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
