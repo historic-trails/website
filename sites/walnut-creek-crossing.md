@@ -52,7 +52,7 @@ After Allison died,  ownership of the trading post passed to George Peacock. Pea
 
 ### Charles Rath
 
-The post was taken over by Charles Rath, a notorious buffalo hunter and trader. He was a prominent man in the area, and the first to implement a toll bridge. In 1860 he married a Cheyenne woman and they had one daughter together. [^18]. Despite his attempts at keeping a peaceful alliance, the trading post was raided multiple times. In order to protect Charles, his wife told him they should get a divorce. In 1869, Charles met and married Caroline Markley. Together the couple had three children. [^18] In 1885 he divorced Caroline and married Emma Nesper, with whom he had a son. [^18]. His prominence continued as he had a son and grandson play in Major League Baseball. [^18]. 
+After Peacock died, the post was taken over by Charles Rath, a notorious buffalo hunter and trader. He was a prominent man in the area, and the first to implement a toll bridge. In 1860 he married a Cheyenne woman and they had one daughter together. [^18]. Despite his attempts at keeping a peaceful alliance, the trading post was raided multiple times. In order to protect Charles, his wife told him they should get a divorce. In 1869, Charles met and married Caroline Markley. Together the couple had three children. [^18] In 1885 he divorced Caroline and married Emma Nesper, with whom he had a son. [^18]. His prominence continued as he had a son and grandson play in Major League Baseball. [^18]. 
 
 {% include figure.html
   class="img-left"
