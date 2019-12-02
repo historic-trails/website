@@ -94,35 +94,34 @@ The indigenous tribes and the colonists of La Junta could not coexist under the 
 
 [^Clark]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
 
-[^47Clark]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^47Clark]: Clark, Ann Nolan. _These Were the Valiant: A Collection of New Mexico Profiles_, 47.
 
-[^Clark47]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark47]: Clark, Ann Nolan.  _These Were the Valiant: A Collection of New Mexico Profiles_, 47. 
 
-[^Clark48]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark48]: Clark, Ann Nolan. _These Were the Valiant: A Collection of New Mexico Profiles_, 48.
+[^Clark51]: Clark, Ann Nolan.  _These Were the Valiant: A Collection of New Mexico Profiles_, 51.
 
-[^Clark51]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark49]: Clark, Ann Nolan. _These Were the Valiant: A Collection of New Mexico Profiles_,49. 
 
-[^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
-
- [^Clark52]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+ [^Clark52]: Clark, Ann Nolan. _These Were the Valiant: A Collection of New Mexico Profiles_, 52.
  
- [^Clark42]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+ [^Clark42]: Clark, Ann Nolan.  _These Were the Valiant: A Collection of New Mexico Profiles_, 42.
  
- [^Clark45]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+ [^Clark45]: Clark, Ann Nolan. _These Were the Valiant: A Collection of New Mexico Profiles_, 45.
  
-[^Clark39]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark39]: Clark, Ann Nolan.  _These Were the Valiant: A Collection of New Mexico Profiles_, 39.
 
-[^Clark49]: Clark, Ann Nolan. “These Were the Traders,” in _These Were the Valiant: A Collection of New Mexico Profiles_, (Albuquerque: Calvin Horn Publisher, Inc, 1969). 36-54
+[^Clark49]: Clark, Ann Nolan.  _These Were the Valiant: A Collection of New Mexico Profiles_, 49.
 
-[^Stanley]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
+[^Stanley]: Stanley, F. _The Watrous (New Mexico) Story_ 
 
-[^Stanley5]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
+[^Stanley5]: Stanley, F. _The Watrous (New Mexico) Story_,5. 
 
-[^Stanley3]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
+[^Stanley3]: Stanley, F. _The Watrous (New Mexico) Story_, 3.
 
-[^Stanley6]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
+[^Stanley6]: Stanley, F. _The Watrous (New Mexico) Story_, 6.
 
-[^Stanley7]: Stanley, F. _The Watrous (New Mexico) Story_, (Self- published, Pantex, 1962). 
+[^Stanley7]: Stanley, F. _The Watrous (New Mexico) Story_, 7.
 
 
 [^Birchell1]: Birchell, Donna Blake. _Frontier Forts and Outposts of New Mexico_ (The History Press, Charleston, 2019).
@@ -131,35 +130,35 @@ The indigenous tribes and the colonists of La Junta could not coexist under the 
 
 [^Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
 
-[^Kosmider30]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider30]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 30.
 
-[^Kosmider24]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider24]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 24.
 
-[^Kosmider25]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider25]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 25.
 
-[^25Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^25Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 25.
 
-[^Kosmider26]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider26]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 26.
 
-[^Kosmider3]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider3]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 3.
 
-[^Kosmidervi3]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmidervi3]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" vi.
 
-[^Kosmider1]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider1]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 1.
 
-[^28Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^28Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 28.
 
-[^Kosmider29]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider29]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 29.
 
-[^3Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^3Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 3.
 
-[^29Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^29Kosmider]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 29.
 
-[^Kosmider41]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider41]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 41.
 
-[^Kosmider31]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^Kosmider31]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 31.
 
-[^KosmiderI]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" (M.A. thesis, University of New Mexico, 1983).
+[^KosmiderI]: Kosmider, Alexia M. "Samuel B. Watrous: New Mexico Pioneer" 
 
 [^Myers]: Myers, Harry C. “The Santa Fe Trail in the Fort Union-Watrous Area.” Wagon Tracks Vol. 3:3 (May 1989), 11-15
 
@@ -169,23 +168,22 @@ The indigenous tribes and the colonists of La Junta could not coexist under the 
 
 [^Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963.
 
-[^Greenwood2]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963.
+[^Greenwood2]: Greenwood, Richard.  "Watrous (La Junta)", 2.
 
-[^Greenwood3]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
+[^Greenwood3]: Greenwood, Richard.  "Watrous (La Junta)", 3.
 
-[^3Greenwood]: Greenwood, Richard.  "Watrous (La Junta)." National Register of Historic Places Nomination Form. Watrous, NM: Mora County Courthouse, 1963. 
+[^3Greenwood]: Greenwood, Richard.  "Watrous (La Junta)", 3.
 
 [^Fischer]: Fischer, Virginia Lee. “In Search of Jose Watrous.” _Wagon Tracks_ Vol. 12:2 (February1998).
 
 [^Tiller]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976. 
 
-[^Tiller9]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+[^Tiller9]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe", 9.
 
-[^Tilleriv]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+[^Tilleriv]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe", iv.
 
-[^Tiller8]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+[^Tiller8]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe", 8. 
 
-[^Tiller34]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
+[^Tiller34]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe", 34.
 
-[^Tiller35]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe" Ph.D Disstertation, University of New Mexico, 1976.
-
+[^Tiller35]: Tiller, Veronica Velarde. "A History of the Jicarilla Apache Tribe", 35. 
