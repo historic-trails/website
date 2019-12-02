@@ -57,7 +57,7 @@ The palace today is strictly used as a museum where people can come and see the 
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="35%"
   caption="A modern day photo of the palace. Some modern touches are shown from the renovation but, it still shows the spanish style that comes from the southwest."
   image-url="palace1.jpg"
   source-url="https://upload.wikimedia.org/wikipedia/commons/e/ef/NewMexicoPalaceSantaFe.jpg"
