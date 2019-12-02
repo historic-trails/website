@@ -12,13 +12,13 @@ date: 2019-11-13
   image-url="river-bend-barton.jpg"
   source-url="https://images.app.goo.gl/gGWMEjiCZ6h6GWnc6"
   %}
-### Walnut Creek Crossing
+# Walnut Creek Crossing
 
-# Background
+## Background
 
 Six years before the American civil war, in 1855, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. Wagons traveling the trail would be forced to stop and set up camp along the river banks to wait out flooding. Thus it was the perfect site for a trading booth, and eventually a military post and toll booth.
 
-# Allison and Boothe 
+## Allison and Boothe 
 {% include figure.html
 class="img-left"
 width="38%"
@@ -29,7 +29,7 @@ source-url="https://www.kansasmemory.org/item/229053"
 
 “Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and his partner Boothe were known for their prominent trading site. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
 
-# Conflict
+## Conflict
 
 “This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
 In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
@@ -46,11 +46,11 @@ In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded t
 
 Ownership of Walnut Creek trading post flipped around throughout the years it was utilized. Allison and Boothe, the original owners met their dark fate. Boothe was murdered by a Mexican [^1] or perhaps a disgruntled employee. Allison followed a few years later dying of heart failure while in Missouri [^1]. 
 
-# Peacock
+### Peacock
 
 After Allison died,  ownership of the trading post passed to George Peacock. Peacock successfully ran it for a short time until a war chief, Santak, of the Kiowas tribe, was arrested at Peacocks post. He asked Peacock to write a letter of good character, showing that he was a “good Indian.” Instead Peacock wrote that Santak was treacherous and dangerous. [^9] Santak had the letter translated and learned of Peacocks actions. He led warriors kill Peacock and steal the livestock. [^9]. 
 
-# Charles Rath
+### Charles Rath
 
 The post was taken over by Charles Rath, a notorious buffalo hunter and trader. He was a prominent man in the area, and the first to implement a toll bridge. In 1860 he married a Cheyenne woman and they had one daughter together. [^18]. Despite his attempts at keeping a peaceful alliance, the trading post was raided multiple times. In order to protect Charles, his wife told him they should get a divorce. In 1869, Charles met and married Caroline Markley. Together the couple had three children. [^18] In 1885 he divorced Caroline and married Emma Nesper, with whom he had a son. [^18]. His prominence continued as he had a son and grandson play in Major League Baseball. [^18]. 
 
@@ -62,16 +62,16 @@ The post was taken over by Charles Rath, a notorious buffalo hunter and trader. 
   source-url= "https://www.legendsofamerica.com/wp-content/uploads/2017/04/Charles-Rath.jpg"
 %}
 
-# Joseph Douglas
+### Joseph Douglas
 
 Joseph Douglas was the last person to have ownership of the trading post at Walnut Creek Crossing. While Douglas was in charge of, what was by now, a full blown store; William B. Parsons (in June, 1858) wrote: "This ranch is a large building strong enough to resist the attack of hundreds of Indians or white men, unless they have the assistance of artillery." [^1]. Despite this the store was raided and intentionally burned down. 
 
-# Tribes
+## Tribes
 
 Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. The Kiowas called the creek “Tsodalhente-da pa” or “Armless mans creek” for Allison. [^5] There were three main Native American tribes that interacted with the site. 
 First were the [Kiowas](https://kiowatribe.org/), whose name translates to the “Principal people.” Historically they have been people of the plains. There was also the [Comanches](https://comanchenation.com/),  which translates to “Lords of the Plains.” Historically they were from the southern Great Plains. Lastly there was [Arapahos](https://www.tribalpedia.com/us-tribes/a-l/arapaho-tribe/), who are known historically as being from Colorado and Wyoming.
 
-# Fort Zarah 
+## Fort Zarah 
 
 {% include figure.html
   class="img-right"
@@ -84,7 +84,7 @@ First were the [Kiowas](https://kiowatribe.org/), whose name translates to the �
 In a time rife with attacks, a camp was set up near Walnut Creek Crossing. Camp Dunlap was established to protect the mail service. [^4] Eventually the post was renamed Fort Zarah, after the commanding officers son. [^17] It cost what would now equal $100,000 to build the Fort at the time. > "A short distance from the bridge across the Walnut Creek one came to the Stage Station, which, also adobe, was half dugout and half above ground, loop holes for cross-fire.  On its roof an employee of the Stage Company was stationed, also an lookout for trouble; and of this there was quite an anxiety during June, July and August previous (1867 and during) our visit.  Fort Zarah was right on a much travelled Indian trail from the Indian Territory & northern hunting grounds, besides there are, about fifteen miles south, some salt springs much frequented then by Indians from the North as well as from the Territory.  Small war and hunting parties, consisting mostly of young “bucks” which had slipped out from the control of the Tribal chiefs hovered most of the summer time around." [^19]
 It was then abandoned in December 1869, and became overrun with thieves and marauders. Nothing remains of the site today. [^17]
 
-# Today
+## Today
 
 There are 27 Walnut Creeks in the state of Kansas. [^8] You can still visit the Walnut Creek Crossing, to this day. The site is located in Great Bend[] or Barton County[], south of Highway 56. All that is left today at the site is the foundation of the store. “Allison Ranche, along with a town of Zarah that would develop a short distance to the north about 15 years later, have both disappeared – meeting the fate of more than 6,000 other settlements that once populated the state in the latter half of the 1800s.” [^9]
 
