@@ -54,6 +54,14 @@ After Allison died,  ownership of the trading post passed to George Peacock. Pea
 
 The post was taken over by Charles Rath, a notorious buffalo hunter and trader. He was a prominent man in the area, and the first to implement a toll bridge. In 1860 he married a Cheyenne woman and they had one daughter together. [^18]. Despite his attempts at keeping a peaceful alliance, the trading post was raided multiple times. In order to protect Charles, his wife told him they should get a divorce. In 1869, Charles met and married Caroline Markley. Together the couple had three children. [^18] In 1885 he divorced Caroline and married Emma Nesper, with whom he had a son. [^18]. His prominence continued as he had a son and grandson play in Major League Baseball. [^18]. 
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Charles Rath, Buffalo Hunter"
+  image-url="charles-rath.jpg"
+  source-url= "https://www.legendsofamerica.com/wp-content/uploads/2017/04/Charles-Rath.jpg"
+%}
+
 # Joseph Douglas
 
 Joseph Douglas was the last person to have ownership of the trading post at Walnut Creek Crossing. While Douglas was in charge of, what was by now, a full blown store; William B. Parsons (in June, 1858) wrote: "This ranch is a large building strong enough to resist the attack of hundreds of Indians or white men, unless they have the assistance of artillery." [^1]. Despite this the store was raided and intentionally burned down. 
