@@ -3,6 +3,8 @@ title: Walnut Creek Crossing
 author: AJ Frey
 date: 2019-11-13
 ---
+### Walnut Creek Crossing
+
 {% include figure.html
   class="img-center"
   width="100%"
@@ -14,7 +16,7 @@ date: 2019-11-13
 
 # Background
 
-1855, six years before the American civil war, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. Wagons traveling the trail would be forced to stop and set up camp along the river banks to wait out flooding. Thus it was the perfect site for a trading booth, and eventually a military post and toll booth.
+Six years before the American civil war, in 1855, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. Wagons traveling the trail would be forced to stop and set up camp along the river banks to wait out flooding. Thus it was the perfect site for a trading booth, and eventually a military post and toll booth.
 
 # Allison and Boothe 
 {% include figure.html
@@ -40,7 +42,7 @@ In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded t
   source-url= "https://www.kshs.org/kansapedia/walnut-creek-massacre/12139"
 %}
 
-# Ownership
+## Ownership
 
 Ownership of Walnut Creek trading post flipped around throughout the years it was utilized. Allison and Boothe, the original owners met their dark fate. Boothe was murdered by a Mexican [^1] or perhaps a disgruntled employee. Allison followed a few years later dying of heart failure while in Missouri [^1]. 
 
