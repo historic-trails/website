@@ -21,7 +21,7 @@ Six years before the American civil war, in 1855, William Allison and Francis Bo
 # Allison and Boothe 
 {% include figure.html
 class="img-left"
-width="50%"
+width="30%"
 caption="The Allisons were a prominent family due to the sucess of the trading post. This is a family portrait of the Campbell family, thought to be related to the Allisons."
 image-url="campbell-family.jpg"
 source-url="https://www.kansasmemory.org/item/229053"
@@ -35,7 +35,7 @@ source-url="https://www.kansasmemory.org/item/229053"
 In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
 
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="33%"
   caption="A photo of the boy who survived the massacre. He made his living showing off his injuries in sideshow acts."
   image-url="wounded-man.jpg"
