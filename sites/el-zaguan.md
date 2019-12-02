@@ -45,7 +45,7 @@ His corrals served as a stopping point for the oxen and horses that had worked t
 
 ### **James L. Johnsons's Beginning in New Mexico**
 
-James L. Johnson grew up in Maryland. In 1845 at the age of twenty he made his first trip along the Santa Fe Trail, stopping in Santa Fe and continuing on the Camino Real into Mexico. After coming back into New Mexico, he worked as a clerk for a while[^6], before he became a junior partner with Preston Beck Jr. Together they ran one of the oldest established wholesale and retail businesses in Santa Fe[^7]. In 1858 Preston died, from a knife wound he sustained a week before during a fight to the death with a clerk in another store, who was killed during the fight[^8]. After this dramatic event Johnson inherited the business and business block located on the northeast end of the Plaza of Santa Fe. 
+James L. Johnson grew up in Maryland. In 1845 at the age of twenty he made his first trip along the Santa Fe Trail, stopping in Santa Fe and continuing on the [Camino Real](https://en.wikipedia.org/wiki/Camino_Real_de_Tierra_Adentro) into Mexico. After coming back into New Mexico, he worked as a clerk for a while[^6], before he became a junior partner with Preston Beck Jr. Together they ran one of the oldest established wholesale and retail businesses in Santa Fe[^7]. In 1858 Preston died, from a knife wound he sustained a week before during a fight to the death with a clerk in another store, who was killed during the fight[^8]. After this dramatic event Johnson inherited the business and business block located on the northeast end of the Plaza of Santa Fe. 
 
 The newspapers by the 1870’s described Johnson as one of the most successful merchants. He worked in wholesale and retail trade still but had also ventured into real estate, banking and mining[^9]. Johnson was able to do really well for himself and his business and this became reflected in the house he built for himself. 
 
@@ -59,7 +59,7 @@ The newspapers by the 1870’s described Johnson as one of the most successful m
 
 ### **The Property he Built for Himself**
 
-In 1854 Johnson bought a farmhouse and property on [Canyon Road](https://www.visitcanyonroad.com/), about a fifteen-minute walk from the plaza, for $250[^10]. The house was in a Hispanic neighborhood and across the Santa Fe river from the plaza. This was very different from the other prominent merchants at this time who were sreating a new Anglo neighborhood on East Palace Avenue[^11], which is located directly East of the plaza. Johnson’s business block was located at the west end of East Palace Avenue. Johnson instead chose to live in an already established Hispanic neighborhood because he related more to the culture of New Mexico than the Anglo culture of the newcomers. In part because Johnson was married to Maria Jesus (Jesusita) Montoya from Mexico, with which he had seven surviving children[^12]. As his family grew so did his house and additional parcels of land were purchased in 1857, 1864, and 1875[^13]. El Zaguan grew into a 24-room mansion on the outskirts of town[^14].
+In 1854 Johnson bought a farmhouse and property on [Canyon Road](https://www.visitcanyonroad.com/), about a fifteen-minute walk from the plaza, for $250[^10]. The house was in a Hispanic neighborhood and across the Santa Fe river from the plaza. This was very different from the other prominent merchants at this time who were sreating a new Anglo neighborhood on East Palace Avenue[^11], which is located directly East of the plaza. Johnson’s business block was located at the west end of East Palace Avenue. Johnson instead chose to live in an already established Hispanic neighborhood because he related more to the culture of New Mexico than the Anglo culture of the newcomers. In part because Johnson was married to Maria Jesus (Jesusita) Montoya from Mexico, with which he had seven surviving children[^12]. As his family grew so did his house and additional parcels of land were purchased in 1857, 1864, and 1875[^13]. El Zaguan grew into a 24-room mansion on the outskirts of town. The house was a place of wealth and included a "chocolate room" where chocolate was served every afternoon, a room dedicated to the family's valuables, a private chapel, and a library, said to be the largest in the territory, that overlooked the garden[^14].
 
 ### **His Successes and His Failures**
 
@@ -101,7 +101,7 @@ Even after Johnson lost the ownership of El Zaguan he continued to live in the b
 
 ### **Visit**
 
-El Zaguan is located at 545 Canyon Road, Santa Fe, New Mexico. It is open Monday through Friday 9 AM to 5 PM. For more information about visits or what is on display in the gallery contact [info@historicsantafe.org](info@historicsantafe.org)
+El Zaguan is located at [545 Canyon Road, Santa Fe, New Mexico](https://www.google.com/maps/place/545+Canyon+Rd,+Santa+Fe,+NM+87501/@35.6822733,-105.9320165,17z/data=!3m1!4b1!4m5!3m4!1s0x8718504e657c6a4b:0xef6932869a9f729d!8m2!3d35.6822733!4d-105.9298278). It is open Monday through Friday 9 AM to 5 PM. For more information about visits or what is on display in the gallery contact [info@historicsantafe.org](info@historicsantafe.org)
 
 [^1]: Nat Register, 10.
 [^2]: HBSNM223, 38.
