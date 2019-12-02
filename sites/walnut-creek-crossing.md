@@ -3,7 +3,7 @@ title: Walnut Creek Crossing
 author: AJ Frey
 date: 2019-11-13
 ---
-### Walnut Creek Crossing
+
 
 {% include figure.html
   class="img-center"
@@ -12,7 +12,7 @@ date: 2019-11-13
   image-url="river-bend-barton.jpg"
   source-url="https://images.app.goo.gl/gGWMEjiCZ6h6GWnc6"
   %}
-
+### Walnut Creek Crossing
 
 # Background
 
