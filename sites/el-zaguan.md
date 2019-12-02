@@ -52,7 +52,7 @@ The newspapers by the 1870’s described Johnson as one of the most successful m
 {% include figure.html
   class="img-left"
   width="55%"
-  caption="Starting from a farmhouse Johnson bought in 1854 he grew the property into a twenty-four room house described as 'One of the finest villas on the edge of the city, with neat and attractive surroundings built without regard to expense."
+  caption="Starting from a farmhouse Johnson bought in 1854 he grew the property into a twenty-four room house described as 'One of the finest villas on the edge of the city, with neat and attractive surroundings built without regard to expense.'"
   image-url="el-zaguan.jpg"
   source-url="https://econtent.unm.edu/digital/collection/acpa/id/1085"
 %}
