@@ -70,7 +70,7 @@ Johnson acquired a lot of wealth from his business connected to the Santa Fe Tra
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="Territorial Style in New Mexico used the vernacular buildings of New Mexico, which were of adobe consturction, as the base. The style built off these original sturctures with newly imported windows with pediments over them, milled wooden pediment lintel, and brick copings replicating dentalium." 
+  caption="Territorial Style in New Mexico used the vernacular buildings of New Mexico, which were of adobe consturction, as the base. The style built off these original sturctures with newly imported windows with pediments over them, milled wooden pediment lintel, and brick copings replicating dentil moldings." 
   image-url="Elzaguan4.png"
   source-url="https://static1.squarespace.com/static/5772daf0b3db2b0a27ef10f8/t/59e6358df09ca46b04046252/1508259232558/1998HSFFBulletinVol25No1.pdf"
 %}	
