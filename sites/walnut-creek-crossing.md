@@ -42,7 +42,7 @@ In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded t
   source-url= "https://www.kshs.org/kansapedia/walnut-creek-massacre/12139"
 %}
 
-## Ownership
+## Ownership Changes
 
 Ownership of Walnut Creek trading post flipped around throughout the years it was utilized. Allison and Boothe, the original owners met their dark fate. Boothe was murdered by a Mexican [^1] or perhaps a disgruntled employee. Allison followed a few years later dying of heart failure while in Missouri [^1]. 
 
