@@ -33,11 +33,11 @@ This historic site served as the seat of the government for the Spanish colony N
 
 ## The Pueblo Revolt of 1680-1693:
 
-In 1680 Pueblo Indians grew tired of the circumstances the Spaniards laid upon them which included forced labor, slavery, and conversion to Christianity with no say. Lead by a medicine man named [Pope](https://www.indigenouspeople.net/pope.htm) they planned an attack on the Spaniards who resided in what is now Santa Fe, New Mexico. The Spanish troops gathered within the Palace and resisted attacks for ten days, until the Pueblo Indians cut off the water supply and forced the Spaniards to retreat to El Paso. The Pueblo people than took over the palace for the next twelve years and dramatically changed the interior of the palace to make it comfortable. “They pulled down the houses and the parish church and used the adobe bricks to fortify the Palace”. The palace was eventually taken back by the Spaniards under the control of [Diego De Vargas](http://newmexicohistory.org/2012/06/27/diego-de-vargas/) who was the governor in 1693. 
+In 1680 Pueblo Indians grew tired of the circumstances the Spaniards laid upon them which included forced labor, slavery, and conversion to Christianity with no say. Lead by a medicine man named [Pope](https://www.indigenouspeople.net/pope.htm) they planned an attack on the Spaniards who resided in what is now Santa Fe, New Mexico. The Spanish troops gathered within the Palace and resisted attacks for ten days, until the Pueblo Indians cut off the water supply and forced the Spaniards to retreat to El Paso. The Pueblo people than took over the palace for the next twelve years and dramatically changed the interior of the palace to make it comfortable. “They pulled down the houses and the parish church and used the adobe bricks to fortify the Palace”. The palace was eventually taken back by the Spaniards under the control of [Diego De Vargas](http://newmexicohistory.org/2012/06/27/diego-de-vargas/) who was the governor in 1693.[^A]
 
 ## The Palace Structure and Geography
 
-The Palace of the Governors is an old-style adobe building that included many features important to the Spaniards. Inside the palace there were private apartments for the governors, official reception rooms, offices, military barracks, stables, and servants’ quarters. There is a chapel inside the building that was used for private praying and masses. All these rooms were important for the running of the building and some original walls you can see to this day. Outside there were vegetable gardens that were planted on ten acres of land. Most importantly on the western part of the building served as a prison and a storage for the gun powder. The use of this building was either for the governor’s residency or to host important meetings or parties.
+The Palace of the Governors is an old-style adobe building that included many features important to the Spanish [conquistadors](https://www.thoughtco.com/the-spanish-conquistadors-2136564). Inside the palace there were private apartments for the governors, official reception rooms, offices, military barracks, stables, and servants’ quarters. There is a chapel inside the building that was used for private praying and masses. All these rooms were important for the running of the building and some original walls you can see to this day. Outside there were vegetable gardens that were planted on ten acres of land. Most importantly on the western part of the building served as a prison and a storage for the gun powder. The use of this building was either for the governor’s residency or to host important meetings or parties.
 
 {% include figure.html
 class="img-left"
@@ -66,6 +66,7 @@ The palace today is strictly used as a museum where people can come and see the 
 ## Bibliography
 
 - Abbink, Emily. New Mexicos Palace of the Governors: History of an American Treasure. Museum of New Mexico Press, 2007.
+[^A]:Abbink,37
 
 - “History of Santa Fe, New Mexico.” History of Santa Fe, New Mexico, www.u-s-history.com/pages/h2117.html.
 
