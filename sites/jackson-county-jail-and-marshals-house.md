@@ -10,7 +10,7 @@ A historian, or even a just a simple traveler, would have to consider their self
 
 {% include figure.html
   class="img-center"
-  width="50%"
+  width="100%"
   caption="The Jackson County Jail and Marshal's House Museum as it stands today.  Once a functioning jail, now a preserved historical site."
   image-url="jackson-county-jail-front-brick.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:1859_Independence,_Missouri_Jail.jpg"
