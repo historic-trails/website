@@ -10,7 +10,7 @@ Fort Larned was an American military post on the Santa Fe Trail, located a few m
 
 One of the main goals of these forts was to watch over vital trade routes, and during this period, the Santa Fe Trail was one of the most significant and profitable of these routes. Fort Larned, Fort Leavenworth, Bent's Fort, and Fort Union were the largest forts along the Trail, and each had a major role in its story. 
 
-Most of these forts were tasked with supplying the Santa Fe Trail and its travellers with soldiers, acting mainly as areas of law enforcement, but Fort Larned had a slightly different role. Its location on the Trail made the fort an ideal place for diplomacy and meetings between Native American leaders and the U.S. government, as well as serving as a base of operations for military expeditions on the plains. 
+These forts were mainly tasked with supplying the Santa Fe Trail and its travellers with soldiers, acting mainly as areas of law enforcement, but Fort Larned also ended up playing its own, special role. Its location on the Trail and its proximity to the major tribes in the area made the fort an ideal place for diplomacy between Native American leaders and the U.S. government, and for serving as a base of operations for military expeditions on the plains. 
 
 Today, Fort Larned is one of the best-preserved examples of these frontier forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
