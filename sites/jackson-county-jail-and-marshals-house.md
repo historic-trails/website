@@ -7,14 +7,6 @@ date: 2019-11-15
 # Jackson County Jail and Marshal's House
 
 A historian, or even a just a simple traveler, would have to consider their self wealthy in American culture and history while traveling along the remains of the historic Santa Fe Trail.  They would  find a wide variety of sites consisting of landmarks, river crossings, other natural features and structures, and man-made structures that have all been designated as historic by the National Park Service.  Amongst these historical sites, located in Independence, Missouri, stands the second incarnation of the Jackson County Jail and Marshal House.  Not just an interesting architectural structure, the Jail and Marshal’s House is located in one connected building.  Depending on a person’s starting point and direction of travel along the Santa Fe Trail, the jail would have been toward the beginning of a person’s journey and therefore one of the last reminders of the societal laws and constraints they were leaving behind as they ventured into the lands of westward expansion.  Or, it would have marked a person’s reintegration into society from the more free individualistic, but what many at the time considered a rougher type of lifestyle, that they may have experienced along the less settled portions of the trail.  Thus, the sight or mention of the structure itself may have invoked several differing feelings, attitudes and overall vision of what the jail may have meant to those traveling on the Santa Fe Trail.   
-
-{% include figure.html
-  class="img-center"
-  width="90%"
-  caption="The Jackson County Jail and Marshal's House Museum as it stands today.  Once a functioning jail, now a preserved historical site."
-  image-url="jackson-county-jail-front-brick.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:1859_Independence,_Missouri_Jail.jpg"
-  %}
   
 ## History, Location, and Purpose
 
@@ -24,33 +16,9 @@ Located on almost the most Eastern point of the Santa Fe Trail is the town of In
 
 The architecture of the Jackson County Jail and Marshal’s House is interesting in that it illustrates the evolution of prison housing.  The original log structure proved inadequate at housing prisoners.  Once after becoming so infested with ticks and other similar parasites, the log structure had to be cleared out while officials could run a herd of sheep through the jail in an attempt to remove the bugs.  The log building could not keep the bugs out nor did it provide adequate shelter or protection for the inmates from the elements as evident by the large number of inmate deaths reported from exposure.  Thus, when the jail was rebuilt in 1859, it was built with brick, an improvement and upgrade over the previous material.  The new structure was also built with a very interesting feature in that the marshal and his family would share one connected building with the jail.  There were two different doors placed at the front of the two story building on opposite sides with one being used for official jail business and the other being used by the family which perhaps gave those living there a sense that they did not live in a jail or reside with those who break the law.  Even though the family lived to one side of the building with the jail on the other side, there was still some overlap between the two.  With the multiple front doors attempting to give the illusion of completely separate areas, the family area considered to be at the front of the building with the jail located in the rear, there was only one kitchen designed to support both.  The cells are located at the back of the jail with six rooms on the bottom floor and another six rooms mirrored on the top floor.  Each cell was given a small iron grated window that allowed for airflow from the outside into the cells.  The cells were secured with two iron doors and the inner door was grated with the outer to make one solid piece.  Each cell was made up of two foot thick limestone blocks which gave no protection from the cold and the only heat and light source was a single candle placed out of the cells in the center of the hallway.  Each cell was designed to hold three so if only half of the cells were full then the residents living in the building could have been the jailer, his wife and their children living with 18 criminals.  During the Civil War though regulations or expectations must have changed as there could be as many as 20 Confederate prisoners of war crammed into each cell which would have meant hundreds of prisoners living with and being looked out for by the jailer and his family.
 
-{% include figure.html
-class="img-left"
-width="49%"
-caption="A life of comfort and luxury was enjoyed by the marshal on the familial side of the building."
-image-url="jackson-county-marshal-house-parlor.jpg"
-source-url="http://www.flickr.com/photos/94765621@N08/8622991782/in/album-72157633174594848/"
-%}
-
-{% include figure.html
-class="img-right"
-width="49%"
-caption="Whereas the prisoners endured a stay of darkness, seclusion, and discomfort in barren cells."
-image-url="jackson-county-1859-jail-cell.jpg"
-source-url="https://www.flickr.com/photos/94765621@N08/8621891873/in/album-72157633174594848/"
-%}
-
 ## Famous or More Well-Known Prisoners
 
 Throughout the jail’s century of use there were thousands of prisoners housed with most being of little concern in the eyes of our society’s history.  The jail must have commanded a level of respect or fear from those considered lawless as there was never a major jail break attempt of an escape recorded in the jail’s history even though it was known to house people of some influence over others.  There are a few prisoners that could have been considered famous in their own time.  Among these, there is one that most even in our time would be able to recognize, recognize his name if not through his own actions in history then through the actions of a close family member—Frank James.  James was the jail’s most famous or celebrity inmate in his time and in the jail’s entire history.  He was the older brother and fellow accomplice of the famous bank and railroad robbing Jesse James.  It is easy to come to this conclusion as Frank’s cell remains in the jail today intact and “untouched,” or in the same condition it was when he was living there.  Frank’s stay at the jail was not a common one and was a result of his celebrity status among the people of the day.  Frank was given free run of the entire jail along with a fully furnished cell of imported rugs from Brussels, fine furniture, paintings, beddings and was also allowed to have visitors and host card games in his cell at night (Jackson and Kirkman, 2012).  The more well-known in his time prisoner was Confederate guerilla leader William Clark Quantrill who was briefly incarcerated at the Jackson County Jail.
-
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Frank James, the older brother of the famous Jesse James, served an unusually easy prison sentence while at the Jackson County Jail."
-  image-url="jackson-county-frank-james.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Frank_James.jpg"
-%}
 
 ## Legacy
 
