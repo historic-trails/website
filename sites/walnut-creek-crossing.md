@@ -7,8 +7,8 @@ date: 2019-11-13
 
 {% include figure.html
   class="img-center"
-  width="100%"
-  caption="Walnut Creek Crossing."
+  width="90%"
+  caption="Walnut Creek Crossing in Great Bend, Kansas today."
   image-url="river-bend-barton.jpg"
   source-url="https://images.app.goo.gl/gGWMEjiCZ6h6GWnc6"
   %}
@@ -16,12 +16,12 @@ date: 2019-11-13
 
 ## Background
 
-Six years before the American civil war, in 1855, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. Wagons traveling the trail would be forced to stop and set up camp along the river banks to wait out flooding. Thus it was the perfect site for a trading booth, and eventually a military post and toll booth.
+Six years before the American civil war, in 1855, William Allison and Francis Boothe established a trading post along the imposing Arkansas river. This crossing came to be known as “Walnut Creek” an important milestone on the Santa Fe trail. The trail life was rough and dangerous, wagons would be forced to stop and set up camp along the river banks to wait out flooding. Allison and Boothe saw this site as the perfect spot for a trading booth, and eventually a military post and toll booth.
 
 ## Allison and Boothe 
 {% include figure.html
 class="img-left"
-width="38%"
+width="40%"
 caption="The Allisons were a prominent family due to the sucess of the trading post. This is a family portrait of the Campbell family, thought to be related to the Allisons."
 image-url="campbell-family.jpg"
 source-url="https://www.kansasmemory.org/item/229053"
@@ -36,7 +36,7 @@ In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded t
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="20%"
   caption="A photo of the boy who survived the massacre. He made his living showing off his injuries in sideshow acts."
   image-url="wounded-man.jpg"
   source-url= "https://www.kshs.org/kansapedia/walnut-creek-massacre/12139"
@@ -44,7 +44,7 @@ In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded t
 
 ## Ownership Changes
 
-Ownership of Walnut Creek trading post flipped around throughout the years it was utilized. Allison and Boothe, the original owners met their dark fate. Boothe was murdered by a Mexican [^1] or perhaps a disgruntled employee. Allison followed a few years later dying of heart failure while in Missouri [^1]. 
+Ownership of Walnut Creek trading post flipped around throughout the years it was utilized. Allison and Boothe, the original owners met their dark fate. Boothe was murdered by a Mexican [^1] or perhaps a disgruntled employee[]. Allison followed a few years later dying of heart failure while in Missouri [^1]. 
 
 ### Peacock
 
@@ -76,7 +76,7 @@ First were the [Kiowas](https://kiowatribe.org/), whose name translates to the �
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Fort Zarah"
+  caption="Fort Zarah plaque at the site today"
   image-url="fort-zarah.jpg"
   source-url= "http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html"
 %}
