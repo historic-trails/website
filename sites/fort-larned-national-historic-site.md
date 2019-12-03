@@ -8,16 +8,16 @@ date: 2019-12-05
 # Fort Larned National Historic Site
 Fort Larned was an American military post on the Santa Fe Trail, located a few miles west of Larned, Kansas. The fort was operational from 1859 to 1878, as one of several [Frontier Forts](http://plainshumanities.unl.edu/encyclopedia/doc/egp.war.017) that were established in the mid-1800's. 
 
-One of the main goals of these forts was to watch over vital trade routes, and during this period, the Santa Fe Trail was one of the most significant and profitable of these routes. Fort Larned, Fort Leavenworth, Bent's Fort, and Fort Union were the largest forts along the Trail, and each had a major role in its story. 
+One of the main goals of these forts was to watch over vital trade routes, and during this period, the Santa Fe Trail was one of the most significant and profitable of these routes. Fort Larned, [Fort Leavenworth](https://en.wikipedia.org/wiki/Fort_Leavenworth), [Fort Lyon (Bent's New Fort)](https://en.wikipedia.org/wiki/Fort_Lyon), and [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument) were the largest forts along the Trail, and each had a major role in its story. 
 
-These forts were mainly tasked with supplying the Santa Fe Trail and its travellers with soldiers, acting mainly as areas of law enforcement, but Fort Larned also ended up playing its own, special role. Its location on the Trail and its proximity to the major tribes in the area made the fort an ideal place for diplomacy between Native American leaders and the U.S. government, and for serving as a base of operations for military expeditions on the plains. 
+These forts were mainly tasked with supplying the Santa Fe Trail and its travellers with soldiers, acting as the source of law enforcement, but Fort Larned also ended up playing its own, special role. Its location on the Trail and its proximity to the major tribes in the area made the fort an ideal place for diplomacy between Native American leaders and the U.S. government, and for serving as a base of operations for military expeditions on the plains. 
 
 Today, Fort Larned is one of the best-preserved examples of these frontier forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
 
 {% include figure.html
   class="img-center"
   width="66%"
-  caption="**Fort Larned's location along the Santa Fe Trail.** Although much of the responsibility of patrolling the trail would go to Fort Dodge, Fort Larned's location made it a crucial buffer between the trail and the Native Americans of northwest Kansas."
+  caption="**Fort Larned's location on the Santa Fe Trail.** Although much of the responsibility of patrolling the trail would go to Fort Leavenworth, Fort Larned's location made it a crucial buffer between the trail and the Native Americans of northwest Kansas."
   image-url="fort-larned-trail-map.jpg"
   source-url="https://www.smithburnett.com/?page=history_ft_larned"
 %}
@@ -34,7 +34,7 @@ In 1848, the [Treaty of Guadalupe Hidalgo](https://en.wikipedia.org/wiki/Treaty_
 
 However, with the frontier now entirely claimed by the U.S., this idea of having a "buffer zone" no longer applied. It was decided that more permanent forts were needed, and it also came to light that the policy toward Native Americans should change. This new policy called for clamping down on the natives and using military force to keep them on their reservations and away from white settlers. Dozens of new forts sprung up across the Western frontier, including Fort Larned, and a series of major conflicts with the Native Americans (the largest campaigns of the [Indian Wars](https://en.wikipedia.org/wiki/American_Indian_Wars)) started, with these forts as their focal points.[^Zwink4] 
 
-This period also saw a large increase in traffic along trade routes to the West, especially the Santa Fe Trail, and frontier forts like Larned filled the role of law enforcement and protection on the trails. The most significant of these forts were Fort Larned in Kansas, [Fort Lyon](https://en.wikipedia.org/wiki/Fort_Lyon) in Colorado, and [Fort Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument) in New Mexico. These three forts essentially held each major fork of the Santa Fe Trail, and supplied troops that patrolled hundreds of miles of trail.[^NRHP7] These frontier forts and their soldiers became the only force of law on these trails, and the main source of the U.S. government's authority on the frontier.[^U1]
+This period also saw a large increase in traffic along trade routes to the West, especially the Santa Fe Trail, and frontier forts like Larned filled the role of law enforcement and protection on the trails. The most significant of these forts were Fort Larned in Kansas, Fort Lyon in Colorado, and Fort Union in New Mexico. These three forts essentially held each major fork of the Santa Fe Trail, and supplied troops that patrolled hundreds of miles of trail.[^NRHP7] These frontier forts and their soldiers became the only force of law on these trails, and the main source of the U.S. government's authority on the frontier.[^U1]
 
 
 ## The Fort
@@ -55,6 +55,13 @@ Before the creation of Fort Larned, Santa Fe Trail travellers would leave [Fort 
 
 
 ## Early Interactions with Native Americans
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="**Map of Native American territories through the 19th century.** The continual relocation of Native American tribes was the main source of conflict in the Great Plains region."
+  image-url="territory-map.jpg"
+  source-url="http://www.thomaslegion.net/sitebuildercontent/sitebuilderpictures/americanindianterritorylosses.jpg"
+%}
 In the 1830’s and 1840’s, with an increase in development of Texas and its adoption as a state, Apache and Cheyenne tribes in northern Texas were forcibly moved further north, into western Kansas. This led to a sharp decline in the buffalo population, and a scarcity of resources for the native tribes living off the land. Coupled with increased traffic on the Santa Fe Trail, many natives in the area were forced to turn to looting and raiding to survive.[^U5] Several travellers on the Santa Fe Trail reported stories of large groups of natives waiting at strategic points in the trail, coercing the travellers to give them food in exchange for safe passage, or just looking for any opportunity to steal from the wagons.[^Zwink78]
 
 Over the course of the Civil War, with many of the troops along the frontier having been relocated to the east to fight the Confederacy, the fight over resources on the Santa Fe Trail intensified. This would lead to several notable incidents, many of which were recorded by travellers on the trail. One such traveller was William H. Ryus, and in his book *Treating With Natives On The Santa Fe Trail*, he describes several encounters, including the [Nine Mile Ridge Massacre](https://www.legendsofamerica.com/we-ninemileridge/), about 75 miles west of Fort Larned[^Zwink82]: 
