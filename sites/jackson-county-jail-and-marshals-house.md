@@ -33,7 +33,7 @@ source-url="http://www.flickr.com/photos/94765621@N08/8622991782/in/album-721576
 %}
 
 {% include figure.html
-class="img-left"
+class="img-right"
 width="49%"
 caption="Whereas the prisoners endured a stay of darkness, seclusion, and discomfort in barren cells."
 image-url="jackson-county-1859-jail-cell.jpg"
