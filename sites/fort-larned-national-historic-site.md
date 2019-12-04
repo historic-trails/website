@@ -162,8 +162,6 @@ Despite this, the fort still held a role in several military expeditions; most n
 
 On the other side, Fort Larned's role in diplomacy was more direct and impactful. It was the main distribution point for gifts and bribes to the Southern Plains tribes, and its location on the Santa Fe Trail made it an easy spot for diplomats to meet and negotiate treaties. However, this association was not entirely positive. As we know today, the deals made between Native American tribes and the U.S. government were manipulative and one sided, and would lead to many Native people being driven from their homelands and their connection to the landscape.
 
-Ultimately, the legacy of Fort Larned is one that is tied to the U.S. government's treatment of Native American tribes, and the failed diplomacy of the 1860's.
-
 ### Bibliography
 Chalfant, W. Y. (2010). Hancocks war: conflict on the southern plains. Norman, OK: Arthur H. Clark Company, An imprint of the University of Oklahoma Press. 
 
