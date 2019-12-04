@@ -131,7 +131,7 @@ Because of his failures, Hancock would be transferred from his post at Fort Larn
 %}
 With the continued fighting on the plains, the US government decided that it would be in their best interest to resolve the situation diplomatically. In July, 1867, it was decided that a peace comission should be created, and over the next two years, this comission would travel around the frontier, holding meetings and signing treaties.[^Oman37]
 
-In the fall, tribal leaders from the Great Plains tribes - Kiowa, Comanche, Apache, Cheyenne, and Arapaho - all agreed to meet at Medicine Lodge Creek, in southern Kansas. Preliminary talks began at Fort Larned, and after they had gathered, the peace commission left for Medicine Lodge Creek on October 13.[^Chalfant472] The proceedings went relatively well, with every tribe present signing a new treaty. However, according to several reporters, it appeared that the native leaders were misled into thinking that these treaties simply meant that they would uphold peace, and not disrupt the building of new roads and railroads, while still keeping their homelands.[^Chalfant500] In truth, the treaties were a continuation of a process that has been repeated throughout the US since the signing of the [Indian Removal Act](https://en.wikipedia.org/wiki/Indian_Removal_Act), and all of those tribes signed away their land in exchange for gifts and new reservations in "Indian Territory".[^Pusey] 
+In the fall, tribal leaders from the Great Plains tribes - Kiowa, Comanche, Apache, Cheyenne, and Arapaho - all agreed to meet at Medicine Lodge Creek, in southern Kansas. Preliminary talks began at Fort Larned, and after they had gathered, the peace commission left for Medicine Lodge Creek on October 13.[^Chalfant472] The proceedings went relatively well, with every tribe present signing a new treaty. However, according to several reporters, it appeared that the native leaders were misled into thinking that these treaties simply meant that they would uphold peace, and not disrupt the building of new roads and railroads, while still keeping their homelands.[^Chalfant500] In truth, the treaties were a continuation of a process that has been repeated throughout the US since the signing of the [Indian Removal Act](https://en.wikipedia.org/wiki/Indian_Removal_Act), and all of those tribes signed away their land in exchange for gifts and new reservations in "Indian Territory".[^Pusey] These treaties would mark the "beginning of the end" for the autonomy of these tribes as free and independant nations.[^Oman41]
 
 Both the tribal leaders and the peace commission left Medicine Lodge Creek thinking they had secured a lasting peace.
 
@@ -162,10 +162,9 @@ The legacy of Fort Larned consists of two major parts: its role to the military 
 %}
 Despite this, the fort still held a role in several military expeditions; most notably the one led by General Hancock. In these actions, Fort Larned acted as the launching point; the point of entry onto the Plains. Because of this, the harsh brutality of these expeditions stand as the most significant part of Fort Larned's military legacy today. 
 
-On the other side, Fort Larned's role in diplomacy was more direct and impactful. It was the main distribution point for gifts and bribes to the Southern Plains tribes, and its location on the Santa Fe Trail made it an easy spot for diplomats to meet and negotiate treaties. However, this association was not entirely positive. As we know today, the deals made between Native American tribes and the U.S. government were manipulative and one sided, and would lead to many Native people being driven from their homelands, and in some cases, losing their cultures entirely. 
+On the other side, Fort Larned's role in diplomacy was more direct and impactful. It was the main distribution point for gifts and bribes to the Southern Plains tribes, and its location on the Santa Fe Trail made it an easy spot for diplomats to meet and negotiate treaties. However, this association was not entirely positive. As we know today, the deals made between Native American tribes and the U.S. government were manipulative and one sided, and would lead to many Native people being driven from their homelands and their connection to the landscape.
 
 Ultimately, the legacy of Fort Larned is one that is tied to the U.S. government's treatment of Native American tribes, and the failed diplomacy of the 1860's.
-
 
 ### Bibliography
 Chalfant, W. Y. (2010). Hancocks war: conflict on the southern plains. Norman, OK: Arthur H. Clark Company, An imprint of the University of Oklahoma Press. 
@@ -215,6 +214,7 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^Coates62]: Coates & Kennedy, 62-73
 [^Coates74]: Coates & Kennedy, 74
 [^Oman37]: Oman, 37
+[^Oman41]: Oman, 41
 [^Chalfant472]: Chalfant, 472-473
 [^Pusey]: Pusey
 
