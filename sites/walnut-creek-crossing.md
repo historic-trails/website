@@ -43,7 +43,7 @@ In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded t
 
 {% include figure.html
   class="img-center"
-  width="50%"
+  width="30%"
   caption="A photo of Robert McGee who survived the massacre. He made his living showing off his injuries in sideshow acts."
   image-url="wounded-man.jpg"
   source-url= "https://www.kshs.org/kansapedia/walnut-creek-massacre/12139"
@@ -63,7 +63,7 @@ After Peacock died, the post was taken over by Charles Rath, a notorious buffalo
 
 {% include figure.html
   class="img-center"
-  width="50%"
+  width="30%"
   caption="Charles Rath, Buffalo Hunter"
   image-url="charles-rath.jpg"
   source-url= "https://www.legendsofamerica.com/wp-content/uploads/2017/04/Charles-Rath.jpg"
