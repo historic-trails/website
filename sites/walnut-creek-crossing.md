@@ -20,7 +20,7 @@ Six years before the American civil war, in 1855, William Allison and Francis Bo
 
 ## Allison and Boothe 
 {% include figure.html
-class="img-left"
+class="img-center"
 width="40%"
 caption="The Allisons were a prominent family due to the sucess of the trading post. This is a family portrait of the Campbell family, thought to be related to the Allisons."
 image-url="campbell-family.jpg"
@@ -42,7 +42,7 @@ The Santa Fe trail was a harrowing journey, and wagon travelers were left open t
 In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen, Robert McGee survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
 
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="20%"
   caption="A photo of Robert McGee who survived the massacre. He made his living showing off his injuries in sideshow acts."
   image-url="wounded-man.jpg"
@@ -62,7 +62,7 @@ After Allison died,  ownership of the trading post passed to George Peacock. Pea
 After Peacock died, the post was taken over by Charles Rath, a notorious buffalo hunter and trader. He was a prominent man in the area, and the first to implement a toll bridge. In 1860 he married a Cheyenne woman and they had one daughter together. [^18]. Despite his attempts at keeping a peaceful alliance, the trading post was raided multiple times. In order to protect Charles, his wife told him they should get a divorce. In 1869, Charles met and married Caroline Markley. Together the couple had three children. [^18] In 1885 he divorced Caroline and married Emma Nesper, with whom he had a son. [^18]. His prominence continued as he had a son and grandson play in Major League Baseball. [^18]. 
 
 {% include figure.html
-  class="img-left"
+  class="img-center"
   width="20%"
   caption="Charles Rath, Buffalo Hunter"
   image-url="charles-rath.jpg"
@@ -81,7 +81,7 @@ First were the [Kiowas](https://kiowatribe.org/), whose name translates to the â
 ## Fort Zarah 
 
 {% include figure.html
-  class="img-right"
+  class="img-center"
   width="33%"
   caption="Fort Zarah plaque at the site today"
   image-url="fort-zarah.jpg"
