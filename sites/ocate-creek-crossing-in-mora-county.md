@@ -37,7 +37,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
 {% include figure.html
   class="img-center"
   width="94%"
-  caption="A National Parks Service 1963 historic site sruvey map of the Santa Fe Trail. The map covers the trail from Independence, Missouri to Santa Fe, New Mexico. The map deliniates and identifies important villages/towns in the region as well as the different trails that were used to get to different places along the Santa Fe Trail, including the Cimarron Cutoff branching to the southwest region and the Mountain Branch stemming up into the nortwest."
+  caption="A National Parks Service 1963 historic site survey map of the Santa Fe Trail. The map covers the trail from Independence, Missouri to Santa Fe, New Mexico. The map deliniates and identifies important villages/towns and rivers, as well as the different trails that were used to get to different places along the Santa Fe Trail. This included the Cimarron Cutoff branching to the southwest region and the Mountain Branch stemming up into the nortwest."
   image-url="sft-nps-historic-map.jpg"
   source-url="https://www.santafetrail.org/mapping-marking/trail-maps/"
 %}
@@ -68,7 +68,7 @@ The [arrival of Francisco Vasquez de Coronado in 1540](https://en.wikipedia.org/
 {% include figure.html
   class="img-center"
   width="70%"
-  caption="A Hispanic farmer family in Mora Valley, New Mexico in 1895. Sheep are pictured behind the family. Hispanic farmers mostly dealt with cattle or sheep livestock as well as wheat and potato crops as their main source of income. Although most of the remaining population in Ocate and Mora County in general were of Spanish or Mexican descent, many of these farmers were driven to poverty once the Americans began settling the region due to the increased price of sheeps in the beginning of the 20th century."
+  caption="A Hispanic farmer family in Mora Valley, New Mexico in 1895. Sheep are pictured behind the family. Hispanic farmers mostly dealt with cattle or sheep livestock as well as wheat and potato crops as their main source of income. Although most of the remaining population in Ocate and Mora County in general were of Spanish or Mexican descent, many of these farmers were driven to poverty once the Americans began settling the region due to the decreased price of sheeps in the beginning of the 20th century."
   image-url="hispanic-farmer-family-mora-valley.jpg"
   source-url="https://www.santafenewmexican.com/pasatiempo/books/readings_signings/where-the-heart-resides-stories-from-the-mora-valley/article_e5b57167-a0e4-5aff-9b96-e369246d66dc.html"
 %}
