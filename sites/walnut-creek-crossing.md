@@ -100,6 +100,14 @@ There are 27 Walnut Creeks in the state of Kansas. [^8] You can still visit the 
 
 >“Allison Ranche, along with a town of Zarah that would develop a short distance to the north about 15 years later, have both disappeared – meeting the fate of more than 6,000 other settlements that once populated the state in the latter half of the 1800s.” [^9]
 
+{% include figure.html
+  class="img-center"
+  width="90%"
+  caption="archaeology in the 60s"
+  image-url="arch-ranch.jpg"
+  source-url= "https://www.kshs.org/publicat/khq/1971/graphics/71_2_barryarchdig.jpg"
+%}
+
 # Bibliography
 
 [^1]:Barry, Louise (1971).
