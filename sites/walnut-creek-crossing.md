@@ -35,7 +35,7 @@ Allison is said to have had only one arm [^7], which raises questions on whether
 
 ## Conflict
 
-The Santa Fe trail was a harrowing journey, and wagon travelers were left open to attack by Native Americans and theives. The Walnut Creek Crossing brought both a sense of security as well as a pointed target. These targeted attacks eventually led to the construction of Fort Zarah. 
+The Santa Fe trail was a harrowing journey, and wagon travelers were left open to attack by Native Americans and theives. The Walnut Creek Crossing brought both a sense of security as well as a pointed target. This was the gamble that the travelers along the trail took, that they would survive the rough journey.
 
 >“This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
 
