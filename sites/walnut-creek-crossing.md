@@ -27,15 +27,15 @@ image-url="campbell-family.jpg"
 source-url="https://www.kansasmemory.org/item/229053"
 %}
 
-Allison and Boothe ran such a sucessessful post that they and the Walnut Creek Crossing became quite famous amoungst travelers.
+Allison and Boothe ran such a sucessessful post that they and the Walnut Creek Crossing became quite famous amoungst travelers. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
 
 >“Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. 
 
-Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. The Kiowas called the creek “Tsodalhente-da pa” or “Armless mans creek” for Allison. [^5] The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
+Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. The Kiowas called the creek “Tsodalhente-da pa” or “Armless mans creek” for Allison. [^5] 
 
 ## Conflict
 
-The Santa Fe trail was a harrowing journey, and wagon travelers were left open to attack by Native Americans and theives. 
+The Santa Fe trail was a harrowing journey, and wagon travelers were left open to attack by Native Americans and theives. The Walnut Creek Crossing brought both a sense of security as well as a pointed target. These targeted attacks eventually led to the construction of Fort Zarah. 
 
 >“This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
 
