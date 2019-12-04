@@ -6,7 +6,7 @@ date: November 15, 2019
 
 ## Let’s go for a walk...
 
-Imagine a land, a haven, with springs and creeks of crystal-clear cool water flowing downstream from neighboring mountains. These creeks are the center of all the communities, conflicts, and livelihoods all over this region. The tall New Mexico feathergrass and vital wooly Indian wheat at the basins of these ponderosa-pine filled mountain ranges, fed by the only source of water in the region for miles, dance in the breeze that has not stopped blowing for centuries now (Allison, 1). The native tribes of this land named the region [“port of the air”  or “valley of the wind"](https://www.legendsofamerica.com/nm-mountainbranch/2/#ocate-creek), known in English as Ocate (Oh - Kah - Teh).  The Ocate Creek Crossing and the small nearby town of Ocate found themselves at the end of the Cimarron Cutoff, a dangerous and arid region on the Santa Fe Trail. Ocate, located in Mora County, New Mexico, was an oasis in all senses of the word and has been for generations of Native Americans, Spanish colonizers, and Mexican and Anglo-American settlers. 
+Imagine a land, a haven, with springs and creeks of crystal-clear cool water flowing downstream from neighboring mountains. These creeks are the center of all the communities, conflicts, and livelihoods all over this region. The tall New Mexico feathergrass and vital wooly Indian wheat at the basins of these ponderosa-pine filled mountain ranges, fed by the only source of water in the region for miles, dance in the breeze that has not stopped blowing for centuries now [^1]. The native tribes of this land named the region [“port of the air”  or “valley of the wind"](https://www.legendsofamerica.com/nm-mountainbranch/2/#ocate-creek), known in English as Ocate (Oh - Kah - Teh).  The Ocate Creek Crossing and the small nearby town of Ocate found themselves at the end of the Cimarron Cutoff, a dangerous and arid region on the Santa Fe Trail. Ocate, located in Mora County, New Mexico, was an oasis in all senses of the word and has been for generations of Native Americans, Spanish colonizers, and Mexican and Anglo-American settlers. 
  
 {% include figure.html
   class="left"
@@ -157,6 +157,7 @@ https://npgallery.nps.gov/AssetDetail/NRIS/94000329
 
 New Mexico Range Plants - Grasses. Allison, Ashcroft. College of Agricultural, Consumer, and Environmental Sciences, New Mexico State University. November 2011. Accessed November 07, 2019. 
 https://aces.nmsu.edu/pubs/_circulars/CR374/
+[^1]:Allison,1
 
 Santa Fe Trail Research Site, Fort Union, Chapter 1. Carolyn, Larry. St. Johns, Kansas. 2018. Accessed November 05, 2019.
 http://www.santafetrailresearch.com/fort-union-nm/fu-oliva-1.html
