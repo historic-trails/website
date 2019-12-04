@@ -28,7 +28,9 @@ source-url="https://www.kansasmemory.org/item/229053"
 %}
 
 Allison and Boothe ran such a sucessessful post that they and the Walnut Creek Crossing became quite famous amoungst travelers.
->“Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and his partner Boothe were known for their prominent trading site. The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
+>“Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. 
+
+Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. The Kiowas called the creek “Tsodalhente-da pa” or “Armless mans creek” for Allison. [^5] The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
 
 ## Conflict
 
@@ -69,7 +71,7 @@ Joseph Douglas was the last person to have ownership of the trading post at Waln
 
 ## Tribes
 
-Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. The Kiowas called the creek “Tsodalhente-da pa” or “Armless mans creek” for Allison. [^5] There were three main Native American tribes that interacted with the site. 
+There were three main Native American tribes that interacted with the site. 
 First were the [Kiowas](https://kiowatribe.org/), whose name translates to the “Principal people.” Historically they have been people of the plains. There was also the [Comanches](https://comanchenation.com/),  which translates to “Lords of the Plains.” Historically they were from the southern Great Plains. Lastly there was [Arapahos](https://www.tribalpedia.com/us-tribes/a-l/arapaho-tribe/), who are known historically as being from Colorado and Wyoming.
 
 ## Fort Zarah 
@@ -84,6 +86,7 @@ First were the [Kiowas](https://kiowatribe.org/), whose name translates to the �
 
 In a time rife with attacks, a camp was set up near Walnut Creek Crossing. Camp Dunlap was established to protect the mail service. [^4] Eventually the post was renamed Fort Zarah, after the commanding officers son. [^17] It cost what would now equal $100,000 to build the Fort at the time. 
 > "A short distance from the bridge across the Walnut Creek one came to the Stage Station, which, also adobe, was half dugout and half above ground, loop holes for cross-fire.  On its roof an employee of the Stage Company was stationed, also an lookout for trouble; and of this there was quite an anxiety during June, July and August previous (1867 and during) our visit.  Fort Zarah was right on a much travelled Indian trail from the Indian Territory & northern hunting grounds, besides there are, about fifteen miles south, some salt springs much frequented then by Indians from the North as well as from the Territory.  Small war and hunting parties, consisting mostly of young “bucks” which had slipped out from the control of the Tribal chiefs hovered most of the summer time around." [^19]
+
 It was then abandoned in December 1869, and became overrun with thieves and marauders. Nothing remains of the site today. [^17]
 
 ## Today
