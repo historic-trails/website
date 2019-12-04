@@ -21,7 +21,7 @@ Six years before the American civil war, in 1855, William Allison and Francis Bo
 ## Allison and Boothe 
 {% include figure.html
 class="img-center"
-width="40%"
+width="50%"
 caption="The Allisons were a prominent family due to the sucess of the trading post. This is a family portrait of the Campbell family, thought to be related to the Allisons."
 image-url="campbell-family.jpg"
 source-url="https://www.kansasmemory.org/item/229053"
@@ -43,7 +43,7 @@ In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded t
 
 {% include figure.html
   class="img-center"
-  width="20%"
+  width="50%"
   caption="A photo of Robert McGee who survived the massacre. He made his living showing off his injuries in sideshow acts."
   image-url="wounded-man.jpg"
   source-url= "https://www.kshs.org/kansapedia/walnut-creek-massacre/12139"
@@ -63,7 +63,7 @@ After Peacock died, the post was taken over by Charles Rath, a notorious buffalo
 
 {% include figure.html
   class="img-center"
-  width="20%"
+  width="50%"
   caption="Charles Rath, Buffalo Hunter"
   image-url="charles-rath.jpg"
   source-url= "https://www.legendsofamerica.com/wp-content/uploads/2017/04/Charles-Rath.jpg"
@@ -82,7 +82,7 @@ First were the [Kiowas](https://kiowatribe.org/), whose name translates to the â
 
 {% include figure.html
   class="img-center"
-  width="33%"
+  width="50%"
   caption="Fort Zarah plaque at the site today"
   image-url="fort-zarah.jpg"
   source-url= "http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html"
