@@ -23,4 +23,8 @@ This website is the result of a collaborative research project by dedicated, ind
 - Clare Ramos: [Seth Ward House](sites/seth-ward-house)
 - Zoe Wiesel: [San Miguel Del Vado Historic District](sites/san-miguel-del-vado)
 
+## Our Better Team (in alphabetical order)
+- Guy McClellan: [Mahaffie House](sites/mahaffie-house)
+
+
 A special thanks to [Guy McClellan](http://guymcclellan.net/) for his diligent work on the syllabus, reading list, assignment ideas, historical insights, research methods, instruction, and peer review.
