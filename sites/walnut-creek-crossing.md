@@ -121,6 +121,8 @@ There are 27 Walnut Creeks in the state of Kansas. [^8] You can still visit the 
 [^7]:Bickel, Amy. A little history on Fort Zarah, Allison Ranche and the town of Zarah - Barton County, Kansas.” Hutch news. (2014).
 - Bickel, Amy. A little history on Fort Zarah, Allison Ranche and the town of Zarah - Barton County, Kansas.” Hutch news. (2014).
 
+[^8]:https://www.50states.com/facts/kansas.htm#:~:targetText=There%20are%2027%20Walnut%20Creeks,of%20all%20the%20Kansas%20counties.\
+
 [^9]: Bickel, Amy. “Dead Towns of Kansas.” (2014).http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html
 - Bickel, Amy. “Dead Towns of Kansas.” (2014).http://kansasghosttowns.blogspot.com/2014/05/a-little-history-on-fort-zarah-allison.html
 
