@@ -35,7 +35,9 @@ Allison is said to have had only one arm [^7], which raises questions on whether
 
 ## Conflict
 
-The Santa Fe trail was a harrowing journey, and wagon travelers were left open to attack by Native Americans and theives. >“This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
+The Santa Fe trail was a harrowing journey, and wagon travelers were left open to attack by Native Americans and theives. 
+
+>“This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
 
 In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen, Robert McGee survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
 
@@ -87,6 +89,7 @@ First were the [Kiowas](https://kiowatribe.org/), whose name translates to the �
 %}
 
 In a time rife with attacks, a camp was set up near Walnut Creek Crossing. Camp Dunlap was established to protect the mail service. [^4] Eventually the post was renamed Fort Zarah, after the commanding officers son. [^17] It cost what would now equal $100,000 to build the Fort at the time. 
+
 > "A short distance from the bridge across the Walnut Creek one came to the Stage Station, which, also adobe, was half dugout and half above ground, loop holes for cross-fire.  On its roof an employee of the Stage Company was stationed, also an lookout for trouble; and of this there was quite an anxiety during June, July and August previous (1867 and during) our visit.  Fort Zarah was right on a much travelled Indian trail from the Indian Territory & northern hunting grounds, besides there are, about fifteen miles south, some salt springs much frequented then by Indians from the North as well as from the Territory.  Small war and hunting parties, consisting mostly of young “bucks” which had slipped out from the control of the Tribal chiefs hovered most of the summer time around." [^19]
 
 It was then abandoned in December 1869, and became overrun with thieves and marauders. Nothing remains of the site today. [^17]
