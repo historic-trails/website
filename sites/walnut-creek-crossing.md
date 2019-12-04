@@ -63,7 +63,7 @@ After Peacock died, the post was taken over by Charles Rath, a notorious buffalo
 
 {% include figure.html
   class="img-left"
-  width="33%"
+  width="20%"
   caption="Charles Rath, Buffalo Hunter"
   image-url="charles-rath.jpg"
   source-url= "https://www.legendsofamerica.com/wp-content/uploads/2017/04/Charles-Rath.jpg"
