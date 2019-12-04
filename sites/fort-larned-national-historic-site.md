@@ -154,7 +154,7 @@ The legacy of Fort Larned consists of two major parts: its role to the military 
 {% include figure.html 
     class="img-right" 
     width="32%"
-    caption="**Aerial photo of Fort Larned National Historic Site, taken in 2014.** Notice how, in contrast to the painting above, only the larger buildings still stand, and the area surrounding the fort has been cleared out." 
+    caption="**Aerial photo of Fort Larned National Historic Site, taken in 2014.** Notice how in contrast to the painting above, only the larger buildings have been preserved, and the area surrounding the fort has been cleared out." 
     image-url="fort-larned-aerial-view.jpg" 
     source-url="https://www.nps.gov/fols/planyourvisit/maps.htm"
 %}
