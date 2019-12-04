@@ -28,19 +28,21 @@ source-url="https://www.kansasmemory.org/item/229053"
 %}
 
 Allison and Boothe ran such a sucessessful post that they and the Walnut Creek Crossing became quite famous amoungst travelers.
+
 >“Mr. Wm. Allison and Booth, known as famed prairie men, have determined to make a settlement at Walnut Creek on the Santa Fe road.” [^2]. 
 
 Allison is said to have had only one arm [^7], which raises questions on whether he was born that way or overcame remedial surgery. Allison and Boothe had the lofty idea of interacting and selling items to Native Americans. The Kiowas called the creek “Tsodalhente-da pa” or “Armless mans creek” for Allison. [^5] The post specialized in wolf killing and fur trading, as well as selling essentials to wagon travelers. 
 
 ## Conflict
 
-“This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
-In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
+The Santa Fe trail was a harrowing journey, and wagon travelers were left open to attack by Native Americans and theives. >“This settlement will be another stopping point on the route to New Mexico, and will make, in a little while, the road less dangerous, by lessening the distance between civilized points and affording those in danger or want an opportunity to obtain relief.”[^2]. During these harrowing years, the Santa Fe trail was rife with tensions between cultural groups and conflicts were often reflected in the history of the site.
+
+In 1973 human remains were uncovered at Walnut Creek. Archaeologists concluded that 140 individuals were massacred by Kiowas warriors. Of the unfortunate travelers, one boy of fourteen, Robert McGee survived the attack and spent the rest of his life showing off his scalped head in sideshows. [^2]
 
 {% include figure.html
   class="img-right"
   width="20%"
-  caption="A photo of the boy who survived the massacre. He made his living showing off his injuries in sideshow acts."
+  caption="A photo of Robert McGee who survived the massacre. He made his living showing off his injuries in sideshow acts."
   image-url="wounded-man.jpg"
   source-url= "https://www.kshs.org/kansapedia/walnut-creek-massacre/12139"
 %}
