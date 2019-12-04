@@ -1,7 +1,7 @@
 ---
 title: Fort Larned National Historic Site
 author: Benjamin Liu
-date: 2019-12-05
+date: 2019-12-09
 ---
 
 /
