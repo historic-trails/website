@@ -66,7 +66,7 @@ Here's a sample sentence with a footnote at the end.[^source] Here is yet anothe
 
 ### NO SPACES ALLOWED
 **NOTE THAT YOU CANNOT HAVE SPACES IN YOUR SOMETEXT**
-So, `another-source` is fine, but `third source` will not work.
+So, `[^another-source]` is fine, but `[^third source]` will not work.
 
 
 We don't need to footnote every statement, and because your paragraphs should be on the same topic, you can simply use a footnote reference for each paragraph if everything in it comes from the same source. But if you have a certain point you want to highlight, please cite it directly and as precisely as you can.
