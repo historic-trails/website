@@ -63,7 +63,7 @@ The [arrival of Francisco Vasquez de Coronado in 1540](https://en.wikipedia.org/
 
 [Native sources](https://www.americanindiancoc.org/native-american-tribes-the-indian-history-in-ocate-new-mexico/) claim that many of the American Indian people were friendly and helpful to the settlers that came into the Ocate region. They proved to be indispensable to the settlement of this region by Hispanic, Mexican, and Spanish settlers. However, records also show that this friendly treatment may have only been extended to settlers of a certain heritage. Anglo-American settlers decided not to upkeep the trade routes with the Native Americans that had been previously established by the Spanish. This caused tensions to rise between general groups of settlers and Native American tribes, especially the Apache, Comanche, and Kiowa tribes. More and more raids began to occur as a result, and in many instances the Comanche and Kiowa tribes in particular would raid settlers and often let “Mexicans” escape freely while killing the rest[^7]. This distinction between Anglo and Hispanic settlers played a huge role in the relationships amongst the people who inhabited Ocate for generations to come.   
 	
-## Spanish, Mexican, and Hispanics and their Relationship to the Land
+## Spanish, Mexican, and Hispanics & Their Relationship to the Land
 
 {% include figure.html
   class="img-center"
