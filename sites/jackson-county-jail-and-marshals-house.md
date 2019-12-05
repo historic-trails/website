@@ -6,8 +6,6 @@ date: November 15, 2019
 
 # Jackson County Jail and Marshal's House
 
-A historian, or even a just a simple traveler, would have to consider their self wealthy in American culture and history while traveling along the remains of the historic Santa Fe Trail.  They would  find a wide variety of sites consisting of landmarks, river crossings, other natural features and structures, and man-made structures that have all been designated as historic by the National Park Service.  Amongst these historical sites, located in Independence, Missouri, stands the second incarnation of the Jackson County Jail and Marshal House.  Not just an interesting architectural structure, the Jail and Marshal’s House is located in one connected building.  Depending on a person’s starting point and direction of travel along the Santa Fe Trail, the jail would have been toward the beginning of a person’s journey and therefore one of the last reminders of the societal laws and constraints they were leaving behind as they ventured into the lands of westward expansion.  Or, it would have marked a person’s reintegration into society from the more free individualistic, but what many at the time considered a rougher type of lifestyle, that they may have experienced along the less settled portions of the trail.  Thus, the sight or mention of the structure itself may have invoked several differing feelings, attitudes and overall vision of what the jail may have meant to those traveling on the Santa Fe Trail.
-
 {% include figure.html
   class="img-center"
   width="90%"
@@ -15,6 +13,8 @@ A historian, or even a just a simple traveler, would have to consider their self
   image-url="jackson-county-jail-front-brick.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:1859_Independence,_Missouri_Jail.jpg"
   %}
+
+A historian, or even a just a simple traveler, would have to consider their self wealthy in American culture and history while traveling along the remains of the historic Santa Fe Trail.  They would  find a wide variety of sites consisting of landmarks, river crossings, other natural features and structures, and man-made structures that have all been designated as historic by the National Park Service.  Amongst these historical sites, located in Independence, Missouri, stands the second incarnation of the Jackson County Jail and Marshal House.  Not just an interesting architectural structure, the Jail and Marshal’s House is located in one connected building.  Depending on a person’s starting point and direction of travel along the Santa Fe Trail, the jail would have been toward the beginning of a person’s journey and therefore one of the last reminders of the societal laws and constraints they were leaving behind as they ventured into the lands of westward expansion.  Or, it would have marked a person’s reintegration into society from the more free individualistic, but what many at the time considered a rougher type of lifestyle, that they may have experienced along the less settled portions of the trail.  Thus, the sight or mention of the structure itself may have invoked several differing feelings, attitudes and overall vision of what the jail may have meant to those traveling on the Santa Fe Trail.
 
 ## History, Location, and Purpose
 
