@@ -98,6 +98,8 @@ Throughout the jail’s history it has remained useful to the community in its i
 
 - “File:Independence Courthouse (Missouri).jpg. Circa 1853. Print. Wikimedia Commons. Accessed December 6, 2019. ”https://commons.wikimedia.org/wiki/File:Independence_Courthouse_(Missouri).jpg.
 
+- “Frank James.” Wikipedia (accessed December 6, 2019). https://en.wikipedia.org/wiki/Frank_James.
+
 - “General Order No. 11 (1863).” Wikipedia (accessed December 6, 2019). https://en.wikipedia.org/wiki/General_Order_No._11_(1863).
 
 - Gilbert, Bil. Westering Man: The Life of Joseph Walker. Norman, OK: University of Oklahoma Press, 1985.
