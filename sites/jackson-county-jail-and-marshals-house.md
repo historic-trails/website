@@ -17,13 +17,20 @@ date: November 15, 2019
 A historian, or even a just a simple traveler, would have to consider their self wealthy in American culture and history while traveling along the remains of the historic Santa Fe Trail.  They would  find a wide variety of sites consisting of landmarks, river crossings, other natural features and structures, and man-made structures that have all been designated as historic by the National Park Service.  Amongst these historical sites, located in Independence, Missouri, stands the second incarnation of the Jackson County Jail and Marshal House.  Not just an interesting architectural structure, the Jail and Marshal’s House is located in one connected building.  Depending on a person’s starting point and direction of travel along the Santa Fe Trail, the jail would have been toward the beginning of a person’s journey and therefore one of the last reminders of the societal laws and constraints they were leaving behind as they ventured into the lands of westward expansion.  Or, it would have marked a person’s reintegration into society from the more free individualistic, but what many at the time considered a rougher type of lifestyle, that they may have experienced along the less settled portions of the trail.  Thus, the sight or mention of the structure itself may have invoked several differing feelings, attitudes and overall vision of what the jail may have meant to those traveling on the Santa Fe Trail.
 
 {% include figure.html
-  class="img-center"
-  width="45%"
+  class="img-left"
+  width="49%"
   caption="Insert caption."
   image-url="jackson-county-santa-fe-trail-map.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Map_of_Santa_Fe_Trail-NPS.jpg"
   %}
-
+  
+  {% include figure.html
+class="img-right"
+width="49%"
+caption="Insert caption."
+image-url="jackson-county-santa-fe-trail-wagon.jpg"
+source-url="https://commons.wikimedia.org/wiki/File:Train_of_covered_wagons_on_the_Santa_Fe_Trail.jpg"
+%}
 
 ## History, Location, and Purpose
 
@@ -76,6 +83,8 @@ Throughout the jail’s history it has remained useful to the community in its i
 ### Bibliography
 
 - Barile, Mary Collins. The Santa Fe Trail in Missouri. Columbia, MO: University of Missouri Press, 2010.
+
+- California Historical Society. “File:Train of covered wagons on the Santa Fe Trail.jpg.” Photograph. Wikimedia Commons. Accessed December 6, 2019. https://commons.wikimedia.org/wiki/File:Train_of_covered_wagons_on_the_Santa_Fe_Trail.jpg.
 
 - Crutchfield, James A. On the Santa Fe Trail. New York: TwoDot, 2019.
 
