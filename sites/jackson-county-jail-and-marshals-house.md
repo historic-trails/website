@@ -42,8 +42,6 @@ source-url="https://www.flickr.com/photos/94765621@N08/8621891873/in/album-72157
 
 ## Famous or More Well-Known Prisoners
 
-Throughout the jail’s century of use there were thousands of prisoners housed with most being of little concern in the eyes of our society’s history.  The jail must have commanded a level of respect or fear from those considered lawless as there was never a major jail break attempt of an escape recorded in the jail’s history even though it was known to house people of some influence over others.  There are a few prisoners that could have been considered famous in their own time.  Among these, there is one that most even in our time would be able to recognize, recognize his name if not through his own actions in history then through the actions of a close family member—Frank James.  James was the jail’s most famous or celebrity inmate in his time and in the jail’s entire history.  He was the older brother and fellow accomplice of the famous bank and railroad robbing Jesse James.  It is easy to come to this conclusion as Frank’s cell remains in the jail today intact and “untouched,” or in the same condition it was when he was living there.  Frank’s stay at the jail was not a common one and was a result of his celebrity status among the people of the day.  Frank was given free run of the entire jail along with a fully furnished cell of imported rugs from Brussels, fine furniture, paintings, beddings and was also allowed to have visitors and host card games in his cell at night (Jackson and Kirkman, 2012).  The more well-known in his time prisoner was Confederate guerilla leader William Clark Quantrill who was briefly incarcerated at the Jackson County Jail.
-
 {% include figure.html
   class="img-right"
   width="33%"
@@ -51,6 +49,8 @@ Throughout the jail’s century of use there were thousands of prisoners housed 
   image-url="jackson-county-frank-james.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Frank_James.jpg"
 %}
+
+Throughout the jail’s century of use there were thousands of prisoners housed with most being of little concern in the eyes of our society’s history.  The jail must have commanded a level of respect or fear from those considered lawless as there was never a major jail break attempt of an escape recorded in the jail’s history even though it was known to house people of some influence over others.  There are a few prisoners that could have been considered famous in their own time.  Among these, there is one that most even in our time would be able to recognize, recognize his name if not through his own actions in history then through the actions of a close family member—Frank James.  James was the jail’s most famous or celebrity inmate in his time and in the jail’s entire history.  He was the older brother and fellow accomplice of the famous bank and railroad robbing Jesse James.  It is easy to come to this conclusion as Frank’s cell remains in the jail today intact and “untouched,” or in the same condition it was when he was living there.  Frank’s stay at the jail was not a common one and was a result of his celebrity status among the people of the day.  Frank was given free run of the entire jail along with a fully furnished cell of imported rugs from Brussels, fine furniture, paintings, beddings and was also allowed to have visitors and host card games in his cell at night (Jackson and Kirkman, 2012).  The more well-known in his time prisoner was Confederate guerilla leader William Clark Quantrill who was briefly incarcerated at the Jackson County Jail.
 
 ## Legacy
 
@@ -67,6 +67,8 @@ Throughout the jail’s history it has remained useful to the community in its i
 - Dodson, Amy and Jim. “Santa Fe Trail—Arrow Rock to Independence, Missouri.” Southwest Discovered. Accessed October 17, 2019. http://www.southwestdiscovered.com/santa-fe-trail-arrow-rock-to-independence-missouri/.
 
 - ecjmartin1. “File:1859 Independence, Missouri Jail.jpg.” July 26, 2008. Photograph. Wikimedia Commons. Accessed November 15, 2019. https://commons.wikimedia.org/wiki/File:1859_Independence,_Missouri_Jail.jpg.
+
+- “File:Independence Courthouse (Missouri).jpg. Circa 1853. Print. Wikimedia Commons. Accessed December 6, 2019. ”https://commons.wikimedia.org/wiki/File:Independence_Courthouse_(Missouri).jpg.
 
 - Gilbert, Bil. Westering Man: The Life of Joseph Walker. Norman, OK: University of Oklahoma Press, 1985.
 
@@ -107,6 +109,8 @@ Throughout the jail’s history it has remained useful to the community in its i
 - Schondelmeyer, Brent. “Parlor of the Marshal's Home.” April 5, 2013. Photograph. Flickr: Creative Commons. Accessed November 15, 2019. https://www.flickr.com/photos/94765621@N08/8622991782/in/album-72157633174594848/.
 
 - Taylor, Jon E. A President, A Church, and Trails West: Competing Histories in Independence, Missouri. Columbia, MO: University of Missouri Press, 2008.
+
+- United States National Park Service and Robert McGinnis. “File:Map of Santa Fe Trail-NPS.jpg”. January 30, 2012. Map. Wikimedia Commons. Accessed December 6, 2019. https://commons.wikimedia.org/wiki/File:Map_of_Santa_Fe_Trail-NPS.jpg.
 
 - Weiser, Kathy. “Santa Fe Trail—Detail and Timeline.” Legends of America (accessed October 17, 2019). https://www.legendsofamerica.com/we-santafetraildetailed/.
 
