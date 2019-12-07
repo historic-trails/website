@@ -8,7 +8,7 @@ date: November 15, 2019
 
 {% include figure.html
   class="img-center"
-  width="60%"
+  width="80%"
   caption="The Jackson County Jail and Marshal's House Museum as it stands today.  Once a functioning jail, now a preserved historical site."
   image-url="jackson-county-jail-front-brick.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:1859_Independence,_Missouri_Jail.jpg"
@@ -84,6 +84,8 @@ Throughout the jail’s history it has remained useful to the community in its i
 
 - Barile, Mary Collins. The Santa Fe Trail in Missouri. Columbia, MO: University of Missouri Press, 2010.
 
+- Beall, Jeffrey. “File:Santa Fe Trail crossing sign.JPG.” Photograph. Wikimedia Commons. Accessed December 6, 2019. https://commons.wikimedia.org/wiki/File:Santa_Fe_Trail_crossing_sign.JPG.
+
 - California Historical Society. “File:Train of covered wagons on the Santa Fe Trail.jpg.” Photograph. Wikimedia Commons. Accessed December 6, 2019. https://commons.wikimedia.org/wiki/File:Train_of_covered_wagons_on_the_Santa_Fe_Trail.jpg.
 
 - Crutchfield, James A. On the Santa Fe Trail. New York: TwoDot, 2019.
@@ -96,9 +98,13 @@ Throughout the jail’s history it has remained useful to the community in its i
 
 - “File:Independence Courthouse (Missouri).jpg. Circa 1853. Print. Wikimedia Commons. Accessed December 6, 2019. ”https://commons.wikimedia.org/wiki/File:Independence_Courthouse_(Missouri).jpg.
 
+- “General Order No. 11 (1863).” Wikipedia (accessed December 6, 2019). https://en.wikipedia.org/wiki/General_Order_No._11_(1863).
+
 - Gilbert, Bil. Westering Man: The Life of Joseph Walker. Norman, OK: University of Oklahoma Press, 1985.
 
 - Guerin, St. Louis. “File:Frank James.jpg.” 1898. Photograph. Wikimedia Commons. Accessed November 15, 2019. https://commons.wikimedia.org/wiki/File:Frank_James.jpg.
+
+- “Harry S. Truman.” Wikipedia (accessed December 6, 2019). https://en.wikipedia.org/wiki/Harry_S._Truman.
 
 - Haunting History. “1859 Jackson County Jail – S02E01.” YouTube Video, 34:08. Published May 31, 2016. Accessed November 15, 2019. https://www.youtube.com/watch?v=EFs_yAetp08.
 
@@ -142,4 +148,4 @@ Throughout the jail’s history it has remained useful to the community in its i
 
 - Weiser, Kathy. “The Santa Fe Trail in Missouri.” Legends of America (accessed October 17, 2019). https://www.legendsofamerica.com/mo-santafetrail/.
 
-
+- “William Quantrill.” Wikipedia (accessed December 6, 2019). https://en.wikipedia.org/wiki/William_Quantrill.
