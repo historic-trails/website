@@ -8,7 +8,7 @@ date: November 15, 2019
 
 {% include figure.html
   class="img-center"
-  width="75%"
+  width="60%"
   caption="The Jackson County Jail and Marshal's House Museum as it stands today.  Once a functioning jail, now a preserved historical site."
   image-url="jackson-county-jail-front-brick.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:1859_Independence,_Missouri_Jail.jpg"
@@ -18,7 +18,7 @@ A historian, or even a just a simple traveler, would have to consider their self
 
 {% include figure.html
   class="img-center"
-  width="60%"
+  width="45%"
   caption="Insert caption."
   image-url="jackson-county-santa-fe-trail-map.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Map_of_Santa_Fe_Trail-NPS.jpg"
@@ -29,7 +29,7 @@ A historian, or even a just a simple traveler, would have to consider their self
 
 {% include figure.html
   class="img-left"
-  width="25%"
+  width="33%"
   caption="Insert caption."
   image-url="jackson-county-independence-missouri.jpg"
   source-url="https://commons.wikimedia.org/wiki/File:Independence_Courthouse_(Missouri).jpg"
