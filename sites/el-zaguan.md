@@ -27,7 +27,7 @@ In the area at the time there was only a scattering of houses and lots of farmin
 {% include figure.html
   class="img-left"
   width="50%"
-  caption="The 'Bandelier Garden' named after Adolph Bandelier, who was a guest of the Johnson's for some time during 1891-1892, was a prominent archeologist of the Southwest."
+  caption="The 'Bandelier Garden' named after Adolph Bandelier, a prominent archeologist of the Southwest, was a guest of the Johnson's for some time during 1891-1892."
   image-url="ElZaguan10.jpg"
   source-url="https://www.gardenvisit.com/gardens/the_garden_at_el_zaguan"
 %}
