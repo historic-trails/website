@@ -67,7 +67,7 @@ In 1854 Johnson bought a farmhouse and property on [Canyon Road](https://www.vis
 {% include figure.html
   class="img-left"
   width="45%"
-  caption="A bird's eye view of Santa Fe, New Mexico in 1882. El Zaguan would be in the North Central area of the map, at the foothills of the mountains. The location of the house is barely visible in this map, and at the time it was an isolated part on the out skirts of town. Johnson Street can be seen more clearly at the bottom of the map."
+  caption="A bird's eye view of Santa Fe, New Mexico in 1882. Johnson Street can be seen at the bottom of the map. El Zaguan would be in the North Central area of the map, at the foothills of the mountains, perhaps the house next to the grove of trees. The location of the house is barely visible in this map, and at the time it was an isolated part on the out skirts of town."
   image-url="map_of_santa_fe.jpg"
   source-url="https://www.loc.gov/resource/g4324s.pm005330/?r=-0.332,-0.002,1.482,0.687,0"
 %}
