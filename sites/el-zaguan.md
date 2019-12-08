@@ -63,6 +63,14 @@ In 1854 Johnson bought a farmhouse and property on [Canyon Road](https://www.vis
 
 ### **His Successes and His Failures**
 
+{% include figure.html
+  class="img-right"
+  width="45%"
+  caption="A bird's eye view of Santa Fe, New Mexico in 1882. El Zaguan would be in the North Central area of the map, past the cemetary. As it can be seen, it was a more isolated part on the out skirts of town. Johnson Street can be seen more clearly at the bottom of the map."
+  image-url="map_of_santa_fe.jpg"
+  source-url="https://www.loc.gov/resource/g4324s.pm005330/?r=-0.332,-0.002,1.482,0.687,0"
+%}
+
 James L. Johnson worked as a wholesale and reatil trader on the Santa Fe Trail. He started his business in 1849 and conducted it for 30 years with various partners. Johnson traded "everything essential to the support, comfort or elegance of persons and their dwellings."[^22] One partner would travel East to buy goods that would be brought back to Santa Fe along the trail. AS the railroad moved west, the distance the wagons had to go became shorter and shipments would arrive more frequently, and by 1869 they arrived monthly. Johnson was very prosperous during his time as a merchant and on the 1860 United States Census he had a personal fortune of $30,000[^23] equivilant to over $800,000 in 2018 dollars. 
 
 During this time Johnson bought other properties on Canyon Road, including servants’ quarters across the street and property closer to the river that served as an orchard and corn field[^15]. He also owned a thirty-three-lot subdivision on the other side of town south of the Presbyterian Church, and behind the modern day El Dorado hotel and the Santa Fe County Clerk Office. The property was so big that when he opened it up in 1880 as a street, he was able to name it. This street was originally named Garfield Street after the President who was inaugurated in 1881. By 1886 the street was renamed [Johnson Street](https://www.google.com/maps/place/Johnson+St,+Santa+Fe,+NM+87501/@35.6891736,-105.9445333,17z/data=!3m1!4b1!4m5!3m4!1s0x87185040a02c6c27:0x36bab77bc3862cc8!8m2!3d35.6891736!4d-105.9423446), which it is still called today[^16].
