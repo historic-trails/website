@@ -86,7 +86,7 @@ Throughout the jail’s century of use there were thousands of prisoners housed 
   class="img-left"
   width="20%"
   caption="Today a person can find several signs marking what used to be locations on the highly traveled Santa Fe Trail."
-  image-url="jackson-county-santa-fe-trail-crossing.jpg"
+  image-url="jackson-county-santa-fe-trail-crossing.JPG"
   source-url="https://commons.wikimedia.org/wiki/File:Santa_Fe_Trail_crossing_sign.JPG"
 %}
 
