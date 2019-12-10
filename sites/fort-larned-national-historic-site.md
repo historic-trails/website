@@ -6,11 +6,11 @@ date: 2019-12-09
 
 /
 # Fort Larned National Historic Site
-Fort Larned was an American military post on the Santa Fe Trail, located a few miles west of Larned, Kansas. The fort was operational from 1859 to 1878, as one of several [Frontier Forts](http://plainshumanities.unl.edu/encyclopedia/doc/egp.war.017) that were established in the mid-1800's. Many of these forts were built to watch over vital trade routes, and during this period, the Santa Fe Trail was one of the most significant and profitable of these routes. The burden of guarding the Trail was given to Forts Larned, [Leavenworth](https://en.wikipedia.org/wiki/Fort_Leavenworth), [Lyon (Bent's New Fort)](https://en.wikipedia.org/wiki/Fort_Lyon), and [Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument) and each had a major role in the story of the Santa Fe Trail. 
+Fort Larned was an American military post on the Santa Fe Trail located a few miles west of Larned, Kansas. The fort was operational from 1859 to 1878 as one of several [Frontier Forts](http://plainshumanities.unl.edu/encyclopedia/doc/egp.war.017) that were established in the mid-1800's. Many of these forts were built to watch over vital trade routes, and during this period, the Santa Fe Trail was one of the most significant and profitable of these routes. The main burden of guarding the Trail was given to Forts Larned, [Leavenworth](https://en.wikipedia.org/wiki/Fort_Leavenworth), [Lyon (Bent's New Fort)](https://en.wikipedia.org/wiki/Fort_Lyon), and [Union](https://en.wikipedia.org/wiki/Fort_Union_National_Monument) and each had a major role in the story of the Santa Fe Trail. 
 
-In particular, Fort Larned ended up playing another, special role. Its location on the Trail and its proximity to the major tribes in the area made the fort an ideal place for diplomacy between Native American leaders and the U.S. government, and for serving as a base of operations for military expeditions on the plains. 
+In particular, Fort Larned ended up playing its own special role. Its location on the Trail and its proximity to the major tribes in the area made the fort an ideal place for diplomacy between Native American leaders and the U.S. government, and for serving as a base of operations for military expeditions on the plains. 
 
-Today, Fort Larned is one of the best-preserved examples of these frontier forts, and is a prominent National Park Service exhibit.[^ZwinkPreface] 
+Today, Fort Larned is one of the best-preserved examples of these frontier forts, and has become a prominent National Park Service exhibit.[^ZwinkPreface] 
 
 {% include figure.html
   class="img-center"
