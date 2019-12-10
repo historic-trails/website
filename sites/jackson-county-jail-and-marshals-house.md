@@ -82,6 +82,14 @@ Throughout the jail’s century of use there were thousands of prisoners housed 
 
 ## The Jail's Lasting Legacy: Then and Now
 
+{% include figure.html
+  class="img-left"
+  width="20%"
+  caption="Today a person can find several signs marking what used to be locations on the highly traveled Santa Fe Trail."
+  image-url="jackson-county-santa-fe-trail-crossing.jpg"
+  source-url="https://commons.wikimedia.org/wiki/File:Santa_Fe_Trail_crossing_sign.JPG"
+%}
+
 Throughout the jail’s history it has remained useful to the community in its immediate area and beyond. While today Independence is "for all visible purposes. . . a suburb of Kansas City," one of "The only tangible links with the past" is the “restored Jackson County Jail and Marshal’s House, of 1859 vintage' (Mattes, 1985).  Although as time progresses, the distance and power of influence the jail once had seems long gone and forgotten.  The original jail was built in 1827 and was maintained until it burned down.  Its brick replacement, erected in 1859, served in its original capacity of a jail until the year of its decommission in 1933 (“Santa Fe Trail Association”).  Even after the jail was rebuilt a second time it was continuously renovated to serve the needs of the surrounding communities, like in 1907 when another smaller brick structure was added to the rear of the building in order to add more cells for the housing and confinement of chain gangs who worked on the roads, sewers and other similarly natured projects for the surrounding town and city (Jackson and Kirkman, 2012).  A few years after its decommission as a jail, the building was turned into a museum with some areas inside the structure becoming frozen in time, as was the cell Frank James was said to have stayed in.  This shows a sense of pride in the jail itself as well as the jail’s history and relationship to the more famously known people of past time periods.  The jail has not only a legacy that is left for those who lived or experienced it on a personal level but a legacy that continues to grow and influence minds and thoughts of people as it survives today.  [When former President Harry Truman himself in the year 1959 personally halted and ceased the destruction of the jail (as he was a former resident, lawyer, and judge in the town of Independence, Missouri), he preserved the building’s life.](https://en.wikipedia.org/wiki/Harry_S._Truman)  Now, as a building on the National Register of Historic Places since 1970, its legacy will continue into the future as a protected piece of the Santa Fe Trail and American history (“Jackson County Jail and Marshal’s House”, Wikipedia).
 
 ### Bibliography
