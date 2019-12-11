@@ -39,7 +39,7 @@ The [Jicarilla Apache tribe](https://www.encyclopedia.com/humanities/encyclopedi
 {% include figure.html
 class="img-right"
 width="45%"
-caption="A Llanero camp, featuring three tipis."
+caption="A Llanero camp, featuring several tipis."
 image-url="tipi-llaneros.jpg"  
 source-url="http://www-personal.umich.edu/~sarhaus/courses/NRE501_W1999/FINAL/BEISELT/Jicarilla99/photo.htm "
 %}
