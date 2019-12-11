@@ -24,11 +24,11 @@ grew more than a foot in height."%}
 
 ## Here first – La Junta’s early occupiers
 {% include figure.html
-class="img-center"
-width="75%"
-caption="A photograph of two Jicarilla Apaches, taken by Timothy O'Sullivan in 1874."
-image-url="jicarilla-apache.jpg"  source-url="https://www.britannica.com/topic/Jicarilla-Apache"%} 
-
+class="img-left"
+width="50%"
+caption=" An image of two Jicarilla Apaches, taken by Timothy O' Sullivan in 1874."
+image-url="jicarilla-apache.jpg"
+source-url="https://www.britannica.com/topic/Jicarilla-Apache"%}
 La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches. According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
   The Jicarilla Apache tribe had two distinct groups:
 * The **Olleros** (mountain dwellers) , who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using techniques similar to Pueblo Indians. 
