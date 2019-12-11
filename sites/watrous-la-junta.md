@@ -28,7 +28,7 @@ grew more than a foot in height."%}
 class="img-center"
 width="75%"
 caption="Two Jicarilla Apache people, photographed by Timothy O Sullivan in 1874."
-image-url="jicarilla-apache.jpg"  source-url="https://cdn.britannica.com/71/142371-050-89CCAF0B/Jicarilla-Apache-couple-photograph-Timothy-OSullivan-1874.jpg"%} 
+image-url="jicarilla-apache.jpg"  source-url="cdn.britannica.com/71/142371-050-89CCAF0B/Jicarilla-Apache-couple-photograph-Timothy-OSullivan-1874.jpg"%} 
 
 La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches. According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
   The Jicarilla Apache tribe had two distinct groups:
