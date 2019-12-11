@@ -17,20 +17,13 @@ source-url="https://www.santafetrail.org/chapters/corazon/points-of-interest.htm
 %}
 
 Author Ann Nolan Clark described La Junta in great detail in her 1969 novel _These Were The Valiant_. She remarked on the healthy, rich soil, the green, lush valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper lined the banks of the river and the town [^Clark].  But the reason this area is remarkable is not solely based  on its looks: in 1963, La Junta was deemed a National Historic Landmark. La Junta has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the Santa Fe Trail.
-
-{%include aside.html class="center" width="80 text="Every rise formed a plateau valley, 
-fertile and lush with waving grey-green grasses. 
-Grama and blue-joint grasses 
-grew more than a foot in height."%} 
+>Every rise formed a plateau valley, 
+>fertile and lush with waving grey-green grasses. 
+>Grama and blue-joint grasses 
+>Grew more than a foot in height.
 
 ## Here first – La Junta’s early occupiers
 
-{% include figure.html 
-class="img-right" 
-width="50%"
-caption="Two Jicarilla Apache people, photographed in 1874 by Timothy O' Sullivan."
-image-url="jicarilla-apache.jpg" 
-source-url="https://www.britannica.com/topic/Jicarilla-Apache" %} 
 
 La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches. According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
 
