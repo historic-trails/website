@@ -26,7 +26,7 @@ Author Ann Nolan Clark described La Junta in great detail in her 1969 novel _The
 
 {% include figure.html
 class="img-center"
-width="75%"
+width="50%"
 caption="Two Jicarilla Apache people, photographed in 1874 by Timothy O' Sullivan."
 image-url="jicarilla-apache.jpg"  
 source-url="https://www.britannica.com/topic/Jicarilla-Apache "
@@ -38,7 +38,16 @@ The [Jicarilla Apache tribe](https://www.encyclopedia.com/humanities/encyclopedi
 * The **Olleros** (mountain dwellers) , who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using techniques similar to Pueblo Indians. 
 * The **Llaneros**(plains dwellers), who utilized techniques reminsicent of Plains Indians, such as their dress style and their tipis (tent-like structures made of wooden poles and cowhide).
  The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
-When the Spanish came to New Mexico, however, a new stigma about indigenous people become commonplace.  The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. The Jicarilla Apache tribe was peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a figment of the imagination, or at least greatly exaggerated," [^Tiller8] she writes. 
+When the Spanish came to New Mexico, however, a new stigma about indigenous people become commonplace.{% include figure.html
+class="img-center"
+width="45%"
+caption="A Llanero camp, featuring three tipis."
+image-url="tipi-llaneros.jpg"  
+source-url="http://www-personal.umich.edu/~sarhaus/courses/NRE501_W1999/FINAL/BEISELT/Jicarilla99/photo.htm "
+%}
+
+
+The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. The Jicarilla Apache tribe was peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a figment of the imagination, or at least greatly exaggerated," [^Tiller8] she writes. 
 
 ## Who's land is it, anyway? The Spanish in New Mexico
 When the Mexican government began to grant land to settlers, the "road to total disposession of Jicarillas from their traditional country"[^Tiller34] began. The grants effectively "created an elite group of merchants, landholders, and politicans in Northern New Mexico in the heart of Jicarilla land" [^Tiller35]. The land of La Junta was granted to a group of ten men in 1843, named after one of the original signers, John Scolly.  
