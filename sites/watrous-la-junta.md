@@ -33,7 +33,7 @@ La Junta was occupied by several indigenous tribes, including the Jicarilla Apac
 
 The [Jicarilla Apache tribe](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/jicarilla) had two distinct groups:
 * The **Olleros** (mountain dwellers) , who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using techniques similar to Pueblo Indians. 
-* The **Llaneros**(plains dwellers), who utilized techniques reminsicent of Plains Indians techniques,such as their dress style and their tipis (a tent-like structure made of wooden poles and cowhide).
+* The **Llaneros**(plains dwellers), who utilized techniques reminsicent of Plains Indians, such as their dress style and their tipis (tent-like structures made of wooden poles and cowhide).
  The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
 When the Spanish came to New Mexico, however, a new stigma about indigenous people become commonplace.  The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. The Jicarilla Apache tribe was peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a figment of the imagination, or at least greatly exaggerated," [^Tiller8] she writes. 
 
