@@ -20,7 +20,6 @@ Author Ann Nolan Clark described La Junta in great detail in her 1969 novel _The
 >Every rise formed a plateau valley, 
 >fertile and lush with waving grey-green grasses. 
 >Grama and blue-joint grasses 
-
 >Grew more than a foot in height.
 
 ## Here first – La Junta’s early occupiers
