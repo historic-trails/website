@@ -28,16 +28,12 @@ class="img-center"
 width="75%"
 caption="A photograph of two Jicarilla Apaches, taken by Timothy O'Sullivan in 1874."
 image-url="jicarilla-apache.jpg"  source-url="https://www.britannica.com/topic/Jicarilla-Apache"%} 
+
 La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches. According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
   The Jicarilla Apache tribe had two distinct groups:
 * The **Olleros** (mountain dwellers) , who lived in the Cimarron Valley and the mountains of Taos, New Mexico. The Olleros grew corn, squash, and beans, practiced irrigation, and lived in huts and homes with flat roofs, using techniques similar to Pueblo Indians. 
 * The **Llaneros**(plains dwellers), who utilized techniques reminsicent of Plains Indians techniques,such as their dress style and their tipis (a tent-like structure made of wooden poles and cowhide).
-{% include figure.html
-class="img-right"
-width="50%"
-caption="A Llanero camp, featuring three tipis "
-image-url="tipi-llaneros.jpg"
-source-url="http://www-personal.umich.edu/~sarhaus/courses/NRE501_W1999/FINAL/BEISELT/Jicarilla99/photo.htm"%}  The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
+ The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
 When the Spanish came to New Mexico, however, a new stigma about indigenous people become commonplace.  The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. The Jicarilla Apache tribe was peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "**This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a figment of the imagination, or at least greatly exaggerated**," [^Tiller8] she writes. 
 
 ## Who's land is it, anyway? The Spanish in New Mexico
