@@ -6,8 +6,7 @@ date: 2019-09-13
 # Down in the valley: La Junta de los Rios
 ## A site for sore eyes: La Junta
 
-La Junta (“the junction”) is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley], according to historian F. Stanley.  
-
+La Junta, Spanish for the junction, is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains”[^Stanley], according to historian F. Stanley.  
 The meeting of these two rivers, as well as the convergence of the Mountain Branch and the Cimarron Branch of the [Santa Fe Trail](www.nps.gov/safe/learn/historyculture/map-timeline-2.htm). are the boundaries of this historical landmark [^Greenwood].Located just off Route 85, it is twenty miles north of Las Vegas, New Mexico. 
 {% include figure.html
 class="img-center"
