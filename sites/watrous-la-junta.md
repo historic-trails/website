@@ -24,13 +24,7 @@ Grama and blue-joint grasses
 grew more than a foot in height."%} 
 
 ## Here first – La Junta’s early occupiers
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Make sure your image is large enough to be 100% width or it will look grainy."
-  image-url="jicarilla-apache.jpg"
-  source-url="https://www.britannica.com/topic/Jicarilla-Apache"
-  %}
+
 
 La Junta was occupied by several indigenous tribes, including the Jicarilla Apaches, the Ute, and the Comanches. According to Spanish records, at the end of the 1600's, the Jicarilla Apaches had been residing in New Mexico for nearly two centuries [^Stanley3][^Kosmider30][^Tiller]. 
 
