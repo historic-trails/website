@@ -5,12 +5,12 @@ date: 2019-09-13
 ---
 # Down in the valley: La Junta de los Rios
 ## A site for sore eyes: La Junta
-{% include figure.html
-class="img-center"
+
+La Junta (“the junction”) is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley], according to historian F. Stanley.  The meeting of these two rivers, as well as the convergence of the Mountain Branch and the Cimarron Branch of the [Santa Fe Trail](www.nps.gov/safe/learn/historyculture/map-timeline-2.htm). are the boundaries of this historical landmark [^Greenwood]. {% include figure.html
+class="img-right"
 width="75%"
-caption="A Map that depcits Watrous, La Junta, drawn by Las Vegas, NM resident Jac Coté."
-image-url="jac-cote-map.jpg"  source-url="https://www.santafetrail.org/chapters/corazon/points-of-interest.html"%} 
-La Junta (“the junction”) is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains” [^Stanley], according to historian F. Stanley.  The meeting of these two rivers, as well as the convergence of the Mountain Branch and the Cimarron Branch of the [Santa Fe Trail](www.nps.gov/safe/learn/historyculture/map-timeline-2.htm). are the boundaries of this historical landmark [^Greenwood]. Located just off Route 85, it is twenty miles north of Las Vegas, New Mexico. 
+caption="A map that depicts New Mexican-based sites along the Santa Fe Trail, drawn by Las Vegas, NM resident Jac Coté."
+image-url="jac-cote-map.jpg"  source-url="https://www.santafetrail.org/chapters/corazon/points-of-interest.html"%} Located just off Route 85, it is twenty miles north of Las Vegas, New Mexico. 
 {%include aside.html class="center" width="40%" text="Every rise formed a plateau valley, 
 fertile and lush with waving grey-green grasses. 
 Grama and blue-joint grasses 
@@ -59,7 +59,7 @@ However, the relationship between indigenous tribes and newcomers was a rocky on
 >Shall we placidly stand by while they ravage our herds, destroy our grains, 
 >murder our people?...I have held my peace, but...it is a drop too much and I bear it no longer in silence[^Kosmider41]". 
 
-## Indigenous displacement
+## La Junta's Legacy
 The indigenous tribes and the colonists of La Junta could not coexist under the strict rulings of new governor David Meriwether.  Meriwether disagreed with the previous governor's  to feed and teach an estimated five hundred Jicarillas farming, in exchange for their relocation to Abiquiu, Meriwether instead halted provisions to these tribes after claiming it was a financial burden on the state of New Mexico. After being promised supplies from the federal government, indigenous tribes were left with little opportunity. Perhaps in retaliation, members of the Ute tribe stole cattle from Watrous’ ranch [^Kosmider31]. Many historians argue that indigenous tribes were often raiding the goods and livestock in this area. It is important to consider their perspective. By the close of the 19th century, the Indigenous peoples of the area were sent to live on reservations [^Kosmidervi3]   The La Junta area was just as significant to these Indigenous tribes as it was to settlers like Samuel Watrous, and it would be an oversimplification to suggest that these peoples were simply marauders or thieves.
 
 ## Bibliography 
