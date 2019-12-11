@@ -47,7 +47,7 @@ The first iteration of Fort Larned was called "Camp on the Pawnee Fork" and was 
 
 The fort overlooked large stretches of the plains to the north and south, and was bordered by groves of hardwood trees along the river. The river itself acted as a moat along the northwest edge of the fort, giving it a natural barrier against any threats. [^NRHP] Because of this natural defence, Fort Larned was never built up like a traditional fort, devoid of large walls and extensive entrenchments. Despite its name, Fort Larned was really more of a small outpost than a proper fort. This was also reflected in the number of troops garrisoned at the fort: even at its peak, the fort never housed more than a couple hundred soldiers.[^U3]
 
-From the government's perspective, the fort’s construction was an immediate success. Fort Larned became the home of an [Indian agent](https://en.wikipedia.org/wiki/Indian_agent) of the [Southern Cheyenne](https://en.wikipedia.org/wiki/Cheyenne), [Kiowa](https://en.wikipedia.org/wiki/Kiowa), and [Comanche](https://en.wikipedia.org/wiki/Comanche) tribes, [Colonel Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth). Because of this, the fort became one of the primary distribution points for annuities sent to Native American tribes, and its location on the Santa Fe Trail made it an easy spot for American and Native American leaders to meet.
+From the government's perspective, the fort’s construction was an immediate success. Fort Larned became the home of [Indian agents](https://en.wikipedia.org/wiki/Indian_agent) to the [Southern Cheyenne](https://en.wikipedia.org/wiki/Cheyenne), [Kiowa](https://en.wikipedia.org/wiki/Kiowa), and [Comanche](https://en.wikipedia.org/wiki/Comanche) tribes, most notably [Jesse Leavenworth](https://en.wikipedia.org/wiki/Jesse_Henry_Leavenworth) and [Edward Wynkoop](https://www.nps.gov/fols/learn/historyculture/edward-wynkoop.htm). Because of this, the fort became one of the primary distribution points for annuities sent to Native American tribes, and its location on the Santa Fe Trail made it an easy spot for American and Native American leaders to meet.
 
 Before the creation of Fort Larned, Santa Fe Trail travellers would leave [Fort Riley](https://en.wikipedia.org/wiki/Fort_Riley), Kansas and would not see another permanent Army post for over 500 miles, until they reached Fort Union. Its presence on the Trail lowered the frequency of Native American attacks considerably, to the point where in 1861, the commanding officer of Fort Larned stated that natives had completely left the Santa Fe Trail area, and that there was no sign of hostilities in the near future. However, the onset of the Civil War would bring about a new wave of unrest on the plains.[^U4]
 
@@ -153,7 +153,7 @@ Between 1878 and 1884, Fort Larned was left to the elements, and with the help o
 The National Park service uses the fort as a historic museum, mainly discussing the life of soldiers in Fort Larned and other frontier forts, but there are also exhibits on Hancock's expedition, Native Americans on the Plains, and general frontier history. As it stands today, the NPS displays the fort as a cultivated, polished representation of life on the frontier. 
 
 Ultimately, the legacy of Fort Larned consists of two major parts: its role to the military as a fort, and its role in diplomacy on the Western frontier. To the military, the fort was relatively insignificant for the majority of its life. Although it held an important position along the Santa Fe Trail, among the frontier forts it was one of the smallest and least heavily guarded. 
-On the other hand, the fort's role in diplomacy was more direct and impactful. It was the main distribution point for gifts and bribes to the Southern Plains tribes, and its location on the Santa Fe Trail made it an easy spot for diplomats to meet and negotiate treaties. However, as we know today, the deals made between Native American tribes and the U.S. government were manipulative and one sided, and would be the cause of many atrocities in subsequent years.
+On the other hand, the fort's role in diplomacy was more direct and impactful. It was the main distribution point for gifts and bribes to the Southern Plains tribes, and its location on the Santa Fe Trail made it an easy spot for diplomats to meet and negotiate treaties. However, as we know today, the deals made between Native American tribes and the U.S. government were manipulative and one sided, and would be the cause of many atrocities in subsequent years.[^Pusey2]
 {% include figure.html 
     class="img-right" 
     width="32%"
@@ -163,9 +163,9 @@ On the other hand, the fort's role in diplomacy was more direct and impactful. I
 %}
 In these two categories, Fort Larned's largest contributions were in hosting the meeting between General Hancock and the Comanche leaders in 1867, just prior to the start of "Hancock's War", and in its role in the Medicine Lodge Treaty. Both of these events are considerable parts of the fort's National Park Service exhibit. 
 
-However, the fort itself played a relatively minor role in both of these events. After Hancock's expedition left the fort, they never returned, and mainly conducted their operations farther north, and while many diplomats and goods passed through the fort during the Medicine Lodge meetings, none of the negotiations took place in Fort Larned itself.
+However, the fort itself played a relatively minor role in both of these events. After Hancock's expedition left the fort, they never returned, and mainly conducted their operations farther north, and while many diplomats and goods passed through the fort during the Medicine Lodge meetings, none of the important negotiations took place in Fort Larned itself.
 
-It may seem, then, that attributing these large events to this small fort is in some ways disingenuous,
+It may seem, then, that associating these large events to this small fort is disingenuous, and in some ways it is. Nonetheless, Fort Larned is one of the most well-preserved frontier forts, and as such, it preserves the history of these forts, as well as life on the 19th century frontier. In many ways, Fort Larned National Historic Site does not represent the actual, physical history of the fort itself, but instead represents the history of the frontier in the 19th century.
 
 
 
@@ -220,6 +220,7 @@ Zwink, T. A. (1980). Fort Larned: garrison on the central great plains (Doctoral
 [^Oman41]: Oman, 41
 [^Chalfant472]: Chalfant, 472-473
 [^Pusey]: Pusey
+[^Pusey2]: Pusey
 
 
 
