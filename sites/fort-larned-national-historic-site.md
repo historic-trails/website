@@ -10,7 +10,7 @@ Fort Larned was an American military post on the Santa Fe Trail located a few mi
 
 In particular, Fort Larned ended up playing its own special role. Its location on the Trail and its proximity to the major tribes in the area made the fort an ideal place for diplomacy between Native American leaders and the U.S. government, and for serving as a base of operations for military expeditions on the plains. 
 
-Today, Fort Larned is one of the best-preserved examples of these frontier forts, and has become a prominent National Park Service exhibit.[^ZwinkPreface] 
+Today, Fort Larned is one of the best-preserved examples of these frontier forts, and is the most well-preserved of the Santa Fe Trail forts. Although it was not the largest or the most important of these forts, Fort Larned has become a prominent National Park Service exhibit.[^ZwinkPreface] 
 
 {% include figure.html
   class="img-center"
