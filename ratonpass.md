@@ -21,7 +21,7 @@ Date: 2019-12-13
 <h1>Railway</h1>
 <p>The Atchison, Topeka, & Santa Fe Railway was interested in developing the Richens Wootton toll road into as railway. They offered him the sum of $50,000 to buy in 1878. However, Wootton rejected this offer and only wished for two things to make a deal. He asked that they give his wife a free pass and groceries for life. The railway happy obliged Wootton and made sure to take care of her until her passing.</p>
 <h1>Richens “Uncle Dick” Wootton</h1>
-
+<p>Richens Wootton better know as “Uncle Dick” was a frontiersman from Virginia. Wootton eager for adventure moved himself and his family out west to Taos, New Mexico. Upon arriving to New Mexico Wootton had to his home like a fortress to defend against attacks from the Utes. However, Wootton would move to Trinidad, Colorado where he would build his twenty-seven-mile toll road.</p>  
 <h1>Location</h1>
 <p>The Raton Pass is an elevated mountain pass at 7,834 ft at the Colorado-New Mexico border.</p>
 <h2>Bibliography</h2>
