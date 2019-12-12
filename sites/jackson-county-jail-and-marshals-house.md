@@ -100,7 +100,7 @@ Throughout the jail’s history it has remained useful to the community in its i
 
 {% include aside.html
   class="center"
-  width="50%"
+  width="90%"
   text="In June 2009, the Jackson County Historical Society recognized the 150th Anniversary of the 1859 Jackson County Jail with a weekend-long celebration. A living history event recaptured several of the most prominent events that transpired at this historic site. (Jackson and Kirkman, 2012)"
   %}
 
