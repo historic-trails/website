@@ -9,8 +9,8 @@ date: December 11, 2019
 Imagine a land, a haven, with springs and creeks of crystal-clear cool water flowing downstream from neighboring mountains. These creeks are the center of all the communities, conflicts, and livelihoods all over this region. The tall New Mexico feathergrass and vital wooly Indian wheat at the basins of these ponderosa-pine filled mountain ranges, fed by the only source of water in the region for miles, dance in the breeze that has not stopped blowing for centuries now[^1]. The native tribes of this land named the region [“port of the air”  or “valley of the wind"](https://www.legendsofamerica.com/nm-mountainbranch/2/#ocate-creek), known in English as Ocate (Oh - Kah - Teh).  The Ocate Creek Crossing and the small nearby town of Ocate found themselves at the end of the Cimarron Cutoff, a dangerous and arid region on the Santa Fe Trail. Ocate, located in Mora County, New Mexico, was an oasis in all senses of the word and has been for generations of Native Americans, Spanish colonizers, and Mexican and Anglo-American settlers. 
  
 {% include figure.html
-  class="left"
-  width="90%"
+  class="center"
+  width="55%"
   caption="Ocate Creek, Mora County, New Mexico with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county."
   image-url="Ocate-Creek-Crossing-real.jpg"
   source-url="https://www.legendsofamerica.com/wp-content/uploads/2018/06/Ocate-Creek-Crossing.jpg"
@@ -36,7 +36,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
 
 {% include figure.html
   class="img-center"
-  width="94%"
+  width="50%"
   caption="A National Parks Service 1963 historic site survey map of the Santa Fe Trail. The map covers the trail from Independence, Missouri to Santa Fe, New Mexico. The map deliniates and identifies important villages/towns and rivers, as well as the different trails that were used to get to different places along the Santa Fe Trail. This included the Cimarron Cutoff branching to the southwest region and the Mountain Branch stemming up into the nortwest."
   image-url="sft-nps-historic-map.jpg"
   source-url="https://www.santafetrail.org/mapping-marking/trail-maps/"
