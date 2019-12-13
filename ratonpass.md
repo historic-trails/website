@@ -41,8 +41,10 @@ source-url="https://en.wikipedia.org/wiki/File:Raton_Pass_1.jpg"
 <h2>Footnotes</h2>
 
 <h2>Bibliography</h2>
-*Colorado Virtual Library. n.d. Richens “Uncle Dick” Wootton: Frontiersman. Accessed December 12, 2019. https://www.coloradovirtuallibrary.org/digital-colorado/colorado-histories/beginnings/richens-uncle-dick-wootton-frontiersman/.
-*Encyclopedia Staff. 2018. Raton Pass. February 06. Accessed December 10, 2019. https://coloradoencyclopedia.org/article/raton-pass-0.
-*McKinnan, Bess. 1927. "The Toll Road Over Raton Pass." New Mexico Historical Review 2 (1): 83. http://libproxy.unm.edu/login?url=https://search.proquest.com/docview/1301805542?accountid=14613.
-*National Park Service. n.d. Raton Pass Colorado and New Mexico. Accessed December 10, 2019. https://www.nps.gov/nr/travel/american_latino_heritage/Raton_Pass.html.
-*Raton New Mexico. n.d. Raton was Originally Named Willow Springs. Accessed December 10, 2019. https://www.ratonnm.gov/260/Raton-was-Originally-Named-Willow-Spring.
+<ul>
+<li>Colorado Virtual Library. n.d. Richens “Uncle Dick” Wootton: Frontiersman. Accessed December 12, 2019. https://www.coloradovirtuallibrary.org/digital-colorado/colorado-histories/beginnings/richens-uncle-dick-wootton-frontiersman/.</li>
+<li>Encyclopedia Staff. 2018. Raton Pass. February 06. Accessed December 10, 2019. https://coloradoencyclopedia.org/article/raton-pass-0.</li>
+<li>McKinnan, Bess. 1927. "The Toll Road Over Raton Pass." New Mexico Historical Review 2 (1): 83. http://libproxy.unm.edu/login?url=https://search.proquest.com/docview/1301805542?accountid=14613.</li>
+<li>National Park Service. n.d. Raton Pass Colorado and New Mexico. Accessed December 10, 2019. https://www.nps.gov/nr/travel/american_latino_heritage/Raton_Pass.html.</li>
+<li>Raton New Mexico. n.d. Raton was Originally Named Willow Springs. Accessed December 10, 2019. https://www.ratonnm.gov/260/Raton-was-Originally-Named-Willow-Spring.</li>
+</ul>
