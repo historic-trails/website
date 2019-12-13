@@ -18,7 +18,13 @@ source-url="https://www.santafetrail.org/chapters/corazon/points-of-interest.htm
 
 Author Ann Nolan Clark described La Junta in great detail in her 1969 novel _These Were The Valiant_. She remarked on the healthy, rich soil, the green, lush valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper lined the banks of the river and the town [^Clark].  But the reason this area is remarkable is not solely based  on its looks: in 1963, La Junta was deemed a National Historic Landmark. La Junta has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the Santa Fe Trail.
 
->Every rise formed a plateau valley,
+>Every rise formed a plateau valley,{% include figure.html
+class="img-right"
+width="50%"
+caption="A modern-day street view of La Junta.  Note the beautiful landscape."
+image-url="watrous-google.jpg"  
+source-url="https://www.google.com/maps/@35.7938132,-104.9855093,3a,75y,99.38h,90t/data=!3m7!1e1!3m5!1sDQv-noaj7eflTvYF7kGW0g!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DDQv-noaj7eflTvYF7kGW0g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D101.513374%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656 "
+%}
 >fertile and lush with waving grey-green grasses. 
 >Grama and blue-joint grasses 
 >grew more than a foot in height.
