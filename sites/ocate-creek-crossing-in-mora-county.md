@@ -10,7 +10,7 @@ Imagine a land, a haven, with springs and creeks of crystal-clear cool water flo
  
 {% include figure.html
   class="left"
-  width="70%"
+  width="65%"
   caption="Ocate Creek, Mora County, New Mexico with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county."
   image-url="Ocate-Creek-Crossing-real.jpg"
   source-url="https://www.legendsofamerica.com/wp-content/uploads/2018/06/Ocate-Creek-Crossing.jpg"
@@ -36,7 +36,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
 
 {% include figure.html
   class="img-center"
-  width="75%"
+  width="70%"
   caption="A National Parks Service 1963 historic site survey map of the Santa Fe Trail. The map covers the trail from Independence, Missouri to Santa Fe, New Mexico. The map deliniates and identifies important villages/towns and rivers, as well as the different trails that were used to get to different places along the Santa Fe Trail. This included the Cimarron Cutoff branching to the southwest region and the Mountain Branch stemming up into the nortwest."
   image-url="sft-nps-historic-map.jpg"
   source-url="https://www.santafetrail.org/mapping-marking/trail-maps/"
