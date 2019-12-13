@@ -9,28 +9,24 @@ date: 2019-09-13
 La Junta, Spanish for the junction, is where "the Sapello and Mora Rivers unite to exchange gossip brought in from the mountains”[^Stanley], according to historian F. Stanley.  
 The meeting of these two rivers, as well as the convergence of the Mountain Branch and the Cimarron Branch of the [Santa Fe Trail](www.nps.gov/safe/learn/historyculture/map-timeline-2.htm). are the boundaries of this historical landmark [^Greenwood].Located just off Route 85, it is twenty miles north of Las Vegas, New Mexico. 
 {% include figure.html
-class="img-center"
-width="75%"
+class="img-left"
+width="50%
 caption="A map that depicts New Mexican-based sites along the Santa Fe Trail, drawn by Las Vegas, NM resident Jac Coté."
 image-url="jac-cote-map.jpg"  
 source-url="https://www.santafetrail.org/chapters/corazon/points-of-interest.html"
 %}
-
+{% include figure.html
+class="img-right"
+width="45%"
+caption="A modern-day street view of La Junta.  Note the lush trees and green grass."
+image-url="watrous-google.jpg"  
+source-url="https://www.google.com/maps/@35.7938132,-104.9855093,3a,75y,99.38h,90t/data=!3m7!1e1!3m5!1sDQv-noaj7eflTvYF7kGW0g!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DDQv-noaj7eflTvYF7kGW0g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D101.513374%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656 "
+%}
 Author Ann Nolan Clark described La Junta in great detail in her 1969 novel _These Were The Valiant_. She remarked on the healthy, rich soil, the green, lush valley, and extensive wildlife-- including deer, wild ducks, quail, and antelope. Wild oak, pine, and juniper lined the banks of the river and the town [^Clark].  But the reason this area is remarkable is not solely based  on its looks: in 1963, La Junta was deemed a National Historic Landmark. La Junta has been a campsite, rest stop, meeting point, and trading area for centuries.  Some of its visitors include indigenous tribes, both nomadic and stationary, and exhausted travelers making the long treck on the Santa Fe Trail.
 >Every rise formed a plateau valley, 
 >fertile and lush with waving grey-green grasses. 
 >Grama and blue-joint grasses 
 >grew more than a foot in height.
-
-
-
-{% include figure.html
-class="img-center"
-width="75%"
-caption="A modern-day street view of La Junta."
-image-url="watrous-google.jpg"  
-source-url="{% include figure.html
-%}
 
 ## Here first – La Junta’s early occupiers
 
