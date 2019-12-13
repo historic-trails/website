@@ -117,7 +117,6 @@ source-url="http://cdn.loc.gov/master/pnp/habshaer/nm/nm0000/nm0028/supp/nm0028s
 
 #### THE HOTEL TODAY
 Today an individual can stay in a modernized space in the hotel or in one of the hotels historic rooms, with some of it's original furnishings, pictures, fixtures, and belongings to visitors who have passed through. Nonetheless, a visitor can experience the fixed fashions of the old west through the hung variety of animals heads, old furniture, and the famous dining hall with its original bar. In one of the Hotels most recent remodels, the walls were painted with a hue of yellow, light wood floors, and a decluttering of times past to say the least. One can remark at the dense energy of the building, visitors can consider its past. There minds can explore the ways in which the Hotels location made for the perfect stop along the trail. One can take in the present, yet imagine themselves as a human in the past, what it would have been like to live in a beautiful mountain town, and what it woud have been like to be engulfed in anarchy, demise, and the uncivilized actions of outlaws dropping by. With bullet holes visible in the dining hall and the countless images of those who once were, one cannot help but imagine how wild the west really was. A place to stay now for over 150 years.
-
 {% include figure.html
 class="img-right"
 width="40%"
@@ -132,9 +131,7 @@ source-url="http://www.exstjames.com"
 Cimarron, New Mexico 87714](https://www.google.com/maps/place/617+S+Collison+Ave,+Cimarron,+NM+87714/data=!4m2!3m1!1s0x8710ae1488cc5ff1:0x6731ed1569ce4e77?sa=X&ved=2ahUKEwjfo6292fTlAhWBJTQIHdZ8BIEQ8gEwAHoECA0QAQ)
 ##### Reservation and Information
 Please Call (888) 376-2664 or (575) 376-2664
-
 Email front.desk@exstjames.com
-
 Or Visit the Website at [http://www.exstjames.com/book-now](http://www.exstjames.com/book-now)
 
 
