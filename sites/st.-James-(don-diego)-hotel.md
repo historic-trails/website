@@ -25,6 +25,8 @@ source-url="https://www.sgha.net/nm/Cimarron/StJames2011/sitehistory.html"
 ---
 The St. James hotel, was established by Henry Lambert, former Chef to President Lincoln, and was nestled in the base of a mountain. In the town of Cimarron, just paces off the Santa Fe Trail in the northeast corner of New Mexico. The hotel is a symbol of westward expansion, Manifest Destiny, land grants, ranchers, Native Americans, Spaniards, and traditional New Mexican buildings. Originally established as a restaurant and saloon by Lambert, the building was soon transformed into a not so quaint inn, offering refuge for outlaws, Native Americans, and those travelling on the Santa Fe trail or to the west to strike wealth. A hotel guest would be welcomed by “Drinking, gambling and guns usually resulting in violence and death;” [^source1]  the hotel, restaurant and saloon truly embodies the nature of the Old Wild West portrayed in cinema and pop culture.
 
+###### [LINK TO A BEAUTIFUL MAP](https://www.uncovercolorado.com/wp-content/uploads/2014/11/Santa-Fe-National-Historic-Trail-Map.pdf)
+
 {% include figure.html
 class="img-center"
 width="75%"
@@ -155,6 +157,13 @@ Or Visit the Website at [http://www.exstjames.com/book-now](http://www.exstjames
 
 - Library of Congress.  Historic American Buildings Survey Frederick D. Nichols, Photographer August 1936 VIEW LOOKING NORTHEAST - St. James Hotel, Cimarron, Colfax County, NM. Washington, D.C.: Library of Congress Prints and Photographs Division, 1936.
 
+- Julian, George W. Land Stealing in New Mexico. The North American Review, 145(373), 684-685, 1887.
+
+- Montoya, Maria E. Translating Property: The Maxwell Land Grant and the Conflict over Land in the American West, 1840-1900. California, University of California Press, 2002.
+
+- Macdonald, Randall M., Lamm, Gene & Macdonald, Sarah E. Images of America: Cimarron and Philmont. South Carolina, Arcadia Publishing, 2012.
+
+- Zimmer, Stephen & Lamm, Gene. Images of America: Colfax County. South Carolina, Arcadia Publishing, 2015.
 
 [^source1]:http://www.exstjames.com/about 
 [^source]: Hastings House, 1940
