@@ -52,9 +52,9 @@ source-url="http://www-personal.umich.edu/~sarhaus/courses/NRE501_W1999/FINAL/BE
 %}
 * The **Llaneros**(plains dwellers), who utilized techniques reminsicent of Plains Indians, such as their dress style and their tipis (tent-like structures made of wooden poles and cowhide).
  The Llaneros were hunters, and nomadic, travelling with dogs who carried their items [^Tiller9]. 
-When the Spanish came to New Mexico, however, a new stigma about indigenous people become commonplace.
 
-The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. The Jicarilla Apache tribe was peaceful, as Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe". She writes that they were a "harmless people" [^Tilleriv]. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a figment of the imagination, or at least greatly exaggerated," [^Tiller8] she writes. 
+
+When the Spanish came to New Mexico, however, discrimation of indigenous people become commonplace. The Jicarilla Apaches, among other tribes, were accused of attacking newcomers, as well as engaging in theft. This narrative of the Jicarilla Apache tribe and other indigenous people being mauruders is incorrect. Veronica Velarde Tiller outlines in her 1976 thesis "A History of the Jicarilla Apache Tribe" that they were quite peacceful. "This image of Apaches as a predatory race, without the ability to respect other peoples is best treated as a figment of the imagination, or at least greatly exaggerated," [^Tiller8] she writes. 
 
 ## Who's land is it, anyway? The Spanish in New Mexico
 When the Mexican government began to grant land to settlers, the "road to total disposession of Jicarillas from their traditional country"[^Tiller34] began. The grants effectively "created an elite group of merchants, landholders, and politicans in Northern New Mexico in the heart of Jicarilla land" [^Tiller35]. The land of La Junta was granted to a group of ten men in 1843, named after one of the original signers, John Scolly.  
