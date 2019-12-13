@@ -27,6 +27,7 @@ The St. James hotel, was established by Henry Lambert, former Chef to President 
 
 ###### [LINK TO A BEAUTIFUL MAP](https://www.uncovercolorado.com/wp-content/uploads/2014/11/Santa-Fe-National-Historic-Trail-Map.pdf)
 
+
 {% include figure.html
 class="img-center"
 width="75%"
@@ -34,6 +35,7 @@ caption="Old Image of Cimarron, New Mexico"
 image-url="old-view-cimarron.png"
 source-url="https://www.legendsofamerica.com/nm-cimarron/"
 %}
+
 
 #### WHY CIMARRON, NEW MEXICO
 {% include figure.html
@@ -83,11 +85,11 @@ As more individuals continued to flood Cimarron and head west, the town continue
 
 #### NOTEWORTHY HAPPENINGS
 {% include figure.html
-  class="img-right"
-  width="40%"
-  caption="St. James Hotel Guest Registery"
-  image-url="stjames-hotel-registery.png"
-  source-url="http://www.expressuubar.com/st-james"
+class="img-right"
+width="40%"
+caption="St. James Hotel Guest Registery"
+image-url="stjames-hotel-registery.png"
+source-url="http://www.expressuubar.com/st-james"
 %}
 The hotel gave shelter and a bit more to individuals including Buffalo Bill Cody who met his beloved wife and cohost Annie Oakley, together they started a Wild West show, where they..... Then there was also the incident of room 18 where the murder of Thomas James Wright a poker champ claiming the rights to the hotel was staying. He might have won the game, but he lost his life. Room 18 is still not open to the public to this day. 
 
