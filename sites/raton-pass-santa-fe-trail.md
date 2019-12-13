@@ -38,8 +38,7 @@ source-url="https://en.wikipedia.org/wiki/File:Raton_Pass_1.jpg"
   %}
 <h1>Location</h1>
 <p> The Raton Pass is an elevated mountain pass at 7,834 ft at the Colorado-New Mexico border.</p>
-<h2>Footnotes</h2>
-[^SOMETEXT]
+</body>
 <h2>Bibliography</h2>
 <ul>
 <li>Colorado Virtual Library. n.d. Richens “Uncle Dick” Wootton: Frontiersman. Accessed December 12, 2019. https://www.coloradovirtuallibrary.org/digital-colorado/colorado-histories/beginnings/richens-uncle-dick-wootton-frontiersman/.</li>
