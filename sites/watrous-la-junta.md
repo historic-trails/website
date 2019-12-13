@@ -94,6 +94,7 @@ Many historians argue that indigenous tribes were often raiding the goods and li
 
 Today, La Junta is a small town that you could miss if you are driving speedily down the highway, on your way to Santa Fe or Colorado.  But perhaps you might take a quick pit stop the next time you go by, to honor the legacy of this little town that was once bustling with life.  
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1665585.3168324798!2d-106.92991166008082!3d35.37806693082564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x87220b5a2481f1bd%3A0x7777c7361d5ed347!2sunm!3m2!1d35.0843187!2d-106.61978119999999!4m5!1s0x871a290f533c2f41%3A0x652313ec0f4158f2!2swatrous%20nm!3m2!1d35.79065!2d-104.9818483!5e0!3m2!1sen!2sus!4v1576277212901!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
 ## Bibliography 
 
 - Birchell, Donna Blake. _Frontier Forts and Outposts of New Mexico_. The History Press, Charleston, 2019.
