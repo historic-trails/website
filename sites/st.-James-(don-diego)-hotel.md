@@ -85,13 +85,6 @@ As more individuals continued to flood Cimarron and head west, the town continue
 
 
 #### NOTEWORTHY HAPPENINGS
-{% include figure.html
-class="img-right"
-width="40%"
-caption="St. James Hotel Guest Registery"
-image-url="stjames-hotel-registery.png"
-source-url="http://www.expressuubar.com/st-james"
-%}
 The hotel gave shelter and a bit more to individuals including [Buffalo Bill Cody](https://centerofthewest.org/explore/buffalo-bill/research/buffalo-bill/) who met his beloved wife and cohost [Annie Oakley](https://www.womenshistory.org/education-resources/biographies/annie-oakley), together they started a Wild West show, where they toured the world with Native Americans, having guns shows and the like. Then there was also the incident of room 18 where the murder of Thomas James Wright a poker champ claiming the rights to the hotel was staying. He might have won the game, but he lost his life. Room 18 is still not open to the public to this day. Though, Lambert's son accounts to the murders in the hotel, there is little record of the who/when/how of the deaths that occured.
 
 
