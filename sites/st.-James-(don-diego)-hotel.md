@@ -26,8 +26,7 @@ source-url="https://www.sgha.net/nm/Cimarron/StJames2011/sitehistory.html"
 The St. James hotel, was established by Henry Lambert, former Chef to President Lincoln, and was nestled in the base of a mountain. In the town of Cimarron, just paces off the Santa Fe Trail in the northeast corner of New Mexico. The hotel is a symbol of westward expansion, Manifest Destiny, land grants, ranchers, Native Americans, Spaniards, and traditional New Mexican buildings. Originally established as a restaurant and saloon by Lambert, the building was soon transformed into a not so quaint inn, offering refuge for outlaws, Native Americans, and those travelling on the Santa Fe trail or to the west to strike wealth. A hotel guest would be welcomed by “Drinking, gambling and guns usually resulting in violence and death;” [^source1]  the hotel, restaurant and saloon truly embodies the nature of the Old Wild West portrayed in cinema and pop culture.
 
 ###### [LINK TO A BEAUTIFUL MAP](https://www.uncovercolorado.com/wp-content/uploads/2014/11/Santa-Fe-National-Historic-Trail-Map.pdf)
-
-
+---
 {% include figure.html
 class="img-center"
 width="75%"
@@ -57,6 +56,11 @@ Cimarron, New Mexico is a town rooted in the foothills southeast of the [Sangre 
  
 
 #### THE BEAUBIEN-MIRANDA LAND GRANT & SON-IN-LAW LUCIEN MAXWELL 
+---
+###### Importance of Land Grants
+
+
+---
 Important though is understanding the settlement of the land, owners of that region and what they decided to do with their surpluss of power. In January of 1841 the [Beaubien-Miranda Land Grant](https://newmexicohistory.org/2015/07/21/maxwell-land-grant-an-astounding-piracy-of-the-public-domain/) was petitioned, the grant was a way in which individuals moving west, could establish a homestead,  with additional reasons such as, “to ‘afford protection from the Indians;’ the second: to ‘employ a great number of idlers;’ the third: to ‘relieve overcrowded conditions;’ the fourth: to ‘ease problems caused by a scarcity of irrigation waters,’ and the final reason was ‘to afford safe pasturage for livestock during times of war with the Navajos’”[^fourthsource]. Beaubien, a well off store keeper participating in trade[^fifthsource], and Miranda a ..... now together owned roughly 2 million acres of land. The totality of this land soon fell into the hands of [Lucien Bonaparte Maxwell](http://newmexicohistory.org/2015/07/22/lucien-maxwell/), a hunter and trapper originating from Kaskaskia, Illinois, he was in route accompanying [General Fremont](https://www.battlefields.org/learn/biographies/john-c-frémont) an expeditioner exploring and surveying for expansion, when Maxwell discovered Cimarron and the Northeast of New Mexico. [^source]. 
 
 Upon travelling to the southwest, Maxwell decided to create a ranch in 1849, his homestead, by his friend [Kit Carson](https://www.pbs.org/weta/thewest/people/a_c/carson.htm) whom had arrived in 1826.[^sixthsource] Soon after Maxwell settled into town, he took hand of the daughter of one of the two wealthiest land owners, Beaubien. Her beloved name, Luz Beaubien; Maxwell bought Miranda’s half of the Beaubien-Miranda Land Grant for $2745.00  [^fourthsource] and upon Beaubien’s death in 1865 Maxwell bought the remaining heirs land for $53,000.00 [^fourthsource], becoming the wealthiest land owning individual of his time. “The Maxwell Grant as it was called, included the site of Springer, French, Maxwell, Otero, Raton, Vermejo Park, Ute Park, Elizabethtown, and in Colorado, Vigil, Stonewall, Torres, Cuarto, Tercio, Primero, Segundo”[^source]. Maxwell at this time, had a large fortune to his name, owned ample land and had begun a family. Maxwell made the decision to sell his land in 1869 to__________ and then went to retire in Fort Sumner. [^sixthsource] A piece of Maxwell's land in Cimarron, New Mexico had apparently been sold to a man named Henry Lambert in 1871; however there are blurred recollection of the actual processes that took place. Other sources stated Maxwell had decided to sell his land to a Grant, when he moved, and the grant then governed, sold, and partitioned the land... 
