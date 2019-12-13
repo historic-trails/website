@@ -4,12 +4,12 @@ Author: Emanuel Schneider
 Date: 2019-12-13
 ---
 {% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Raton Pass."
+  class="img-right"
+  width="33%"
+  caption="Raton Pass"
   image-url="Ratonpass1.jpg"
-  source-url="https://commons.wikimedia.org/wiki/File:Raton_Pass_between_New_Mexico_and_Colorado_-_panoramio.jpg
- %}
+  source-url="https://commons.wikimedia.org/wiki/File:Raton_Pass_between_New_Mexico_and_Colorado_-_panoramio.jpg"
+%}
  <h1>Background Info</h1>
  <body>
 <p> Raton in Spanish means “small rat” or “mouse.” Furthermore, Raton originally had the name Willow Springs, moreover, Willow Springs depot was the site Raton was founded on for the Santa Fe Trail. The pass is deemed hazardous by many for its unforgiving terrain. The Sangre de Cristo Mountain was a key way for wagons to pass through and access the territory New Mexico. However, passing through was not easy feat, those who dared to pass through lost wagons, animals, and even their lives.</p>
