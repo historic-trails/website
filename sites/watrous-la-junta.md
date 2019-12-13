@@ -21,7 +21,19 @@ Author Ann Nolan Clark described La Junta in great detail in her 1969 novel _The
 >fertile and lush with waving grey-green grasses. 
 >Grama and blue-joint grasses 
 >grew more than a foot in height.
-
+{% include figure.html
+class="img-center"
+width="75%"
+caption="A modern-day street view of La Junta."
+image-url="watrous-google.jpg"  
+source-url="{% include figure.html
+class="img-center"
+width="75%"
+caption="A map that depicts New Mexican-based sites along the Santa Fe Trail, drawn by Las Vegas, NM resident Jac Coté."
+image-url="jac-cote-map.jpg"  
+source-url="https://www.santafetrail.org/chapters/corazon/points-of-interest.html"
+%}"
+%}
 ## Here first – La Junta’s early occupiers
 
 {% include figure.html
