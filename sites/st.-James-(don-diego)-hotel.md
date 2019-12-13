@@ -84,7 +84,7 @@ As more individuals continued to flood Cimarron and head west, the town continue
   class="img-right"
   width="40%"
   caption="St. James Hotel Guest Registery"
-  image-url="st.james-hotel-registery.png"
+  image-url="stjames-hotel-registery.png"
   source-url="http://www.expressuubar.com/st-james"
 %}
 The hotel gave shelter and a bit more to individuals including Buffalo Bill Cody who met his beloved wife and cohost Annie Oakley, together they started a Wild West show, where they..... Then there was also the incident of room 18 where the murder of Thomas James Wright a poker champ claiming the rights to the hotel was staying. He might have won the game, but he lost his life. Room 18 is still not open to the public to this day. 
