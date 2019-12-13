@@ -25,7 +25,7 @@ This portion of the trail was the first sight of any reliable source of water fo
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="A drawing of Mora Valley by Joseph Hager. The secene depicts two travelers on horses going through the famous Mora Valley. The valley is known to be one of the most beautiful in the region, characterzied by its tall grases, abundance of water and timber, and of being one of the first points of relief at the end of the Cimarron Route on the Santa Fe Trail."
+  caption="A drawing of Mora Valley by Joseph Hager. The scene depicts two travelers on horses going through the famous Mora Valley. The valley is known to be one of the most beautiful in the region, characterzied by its tall grases, abundance of water and timber, and of being one of the first points of relief at the end of the Cimarron Route on the Santa Fe Trail."
   image-url="mora-valley-drawing.jpg"
   source-url="https://www.santafenewmexican.com/pasatiempo/books/readings_signings/where-the-heart-resides-stories-from-the-mora-valley/article_e5b57167-a0e4-5aff-9b96-e369246d66dc.html"
 %}
