@@ -10,7 +10,7 @@ La Junta, Spanish for the junction, is where "the Sapello and Mora Rivers unite 
 The meeting of these two rivers, as well as the convergence of the Mountain Branch and the Cimarron Branch of the [Santa Fe Trail](www.nps.gov/safe/learn/historyculture/map-timeline-2.htm). are the boundaries of this historical landmark [^Greenwood].Located just off Route 85, it is twenty miles north of Las Vegas, New Mexico. 
 {% include figure.html
 class="img-center"
-width="75%"
+width="100%"
 caption="A modern-day street view of La Junta.  Note the beautiful landscape."
 image-url="watrous-google.jpg"  
 source-url="https://www.google.com/maps/@35.7938132,-104.9855093,3a,75y,99.38h,90t/data=!3m7!1e1!3m5!1sDQv-noaj7eflTvYF7kGW0g!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DDQv-noaj7eflTvYF7kGW0g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D101.513374%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656 "
