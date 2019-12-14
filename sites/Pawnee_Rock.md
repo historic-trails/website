@@ -7,7 +7,7 @@ date: 2019-12-13
 
 # Pawnee Rock
 
-{% include figure.html class="img-right" width="40%" Pawnee Rock Memorial by the Woman's Kansas Day Club. [source](https://explorekansas.files.wordpress.com/2012/05/photo10.jpg" %}
+{% include figure.html class="img-right" width="40%" Pawnee Rock Memorial by the Woman's Kansas Day Club. [source](https://explorekansas.files.wordpress.com/2012/05/photo10.jpg"%}
 
 
 
