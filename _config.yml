@@ -6,5 +6,3 @@ defaults:
       path: "sites"
     values:
       layout: "single-col"
-
-theme: jekyll-theme-merlot
