@@ -73,7 +73,7 @@ If you've waited more than 5 minutes and your image is still not appearing, you 
 
 
 ### Standard Usage
-{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" abs-image-url=true  image-url="assets/images/default.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" abs-image-url=true  image-url="/assets/images/default.jpg" %}
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
@@ -112,9 +112,9 @@ source-url="https://en.wikipedia.org/wiki/Augustine_of_Hippo#/media/File:Augusti
 ---
 
 ### Side by side
-{% include figure.html class="img-left" width="49%" abs-image-url=true image-url="assets/images/Herder.jpg" caption="Here's an image on the left."%}
+{% include figure.html class="img-left" width="49%" abs-image-url=true image-url="/assets/images/Herder.jpg" caption="Here's an image on the left."%}
 
-{% include figure.html class="img-left" width="49%" abs-image-url=true image-url="assets/images/Johann.jpg" caption="Here's an image on the right."%}
+{% include figure.html class="img-left" width="49%" abs-image-url=true image-url="/assets/images/Johann.jpg" caption="Here's an image on the right."%}
 
 ---
 To achieve two images side by side use (note the 49% width for each):
@@ -143,7 +143,7 @@ source-url=""
 ### Full-width
 {% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy."  
 abs-image-url=true
-image-url="assets/images/Cleve-van_construction-tower-babel.jpg"
+image-url="/assets/images/Cleve-van_construction-tower-babel.jpg"
 source-url="https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg"
 %}
 
