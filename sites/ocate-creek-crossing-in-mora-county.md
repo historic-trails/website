@@ -1,7 +1,7 @@
 ---
 title: Ocate Creek Crossing, Mora County, New Mexico
 author: Sheida Carugati
-date: November 15, 2019
+date: December 11, 2019
 ---
 
 ## Let’s go for a walk...
@@ -9,8 +9,8 @@ date: November 15, 2019
 Imagine a land, a haven, with springs and creeks of crystal-clear cool water flowing downstream from neighboring mountains. These creeks are the center of all the communities, conflicts, and livelihoods all over this region. The tall New Mexico feathergrass and vital wooly Indian wheat at the basins of these ponderosa-pine filled mountain ranges, fed by the only source of water in the region for miles, dance in the breeze that has not stopped blowing for centuries now[^1]. The native tribes of this land named the region [“port of the air”  or “valley of the wind"](https://www.legendsofamerica.com/nm-mountainbranch/2/#ocate-creek), known in English as Ocate (Oh - Kah - Teh).  The Ocate Creek Crossing and the small nearby town of Ocate found themselves at the end of the Cimarron Cutoff, a dangerous and arid region on the Santa Fe Trail. Ocate, located in Mora County, New Mexico, was an oasis in all senses of the word and has been for generations of Native Americans, Spanish colonizers, and Mexican and Anglo-American settlers. 
  
 {% include figure.html
-  class="left"
-  width="90%"
+  class="center"
+  width="55%"
   caption="Ocate Creek, Mora County, New Mexico with the beginning of the Los Naranjos mountain range to the east. This area is characterized by its redish soil, tall grazing grasses, and creeks stemming from the mountain ranges north and east of Ocate that appear all over the county."
   image-url="Ocate-Creek-Crossing-real.jpg"
   source-url="https://www.legendsofamerica.com/wp-content/uploads/2018/06/Ocate-Creek-Crossing.jpg"
@@ -25,7 +25,7 @@ This portion of the trail was the first sight of any reliable source of water fo
 {% include figure.html
   class="img-right"
   width="45%"
-  caption="A drawing of Mora Valley by Joseph Hager. The secene depicts two travelers on horses going through the famous Mora Valley. The valley is known to be one of the most beautiful in the region, characterzied by its tall grases, abundance of water and timber, and of being one of the first points of relief at the end of the Cimarron Route on the Santa Fe Trail."
+  caption="A drawing of Mora Valley by Joseph Hager. The scene depicts two travelers on horses going through the famous Mora Valley. The valley is known to be one of the most beautiful in the region, characterzied by its tall grases, abundance of water and timber, and of being one of the first points of relief at the end of the Cimarron Route on the Santa Fe Trail."
   image-url="mora-valley-drawing.jpg"
   source-url="https://www.santafenewmexican.com/pasatiempo/books/readings_signings/where-the-heart-resides-stories-from-the-mora-valley/article_e5b57167-a0e4-5aff-9b96-e369246d66dc.html"
 %}
@@ -36,7 +36,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
 
 {% include figure.html
   class="img-center"
-  width="94%"
+  width="50%"
   caption="A National Parks Service 1963 historic site survey map of the Santa Fe Trail. The map covers the trail from Independence, Missouri to Santa Fe, New Mexico. The map deliniates and identifies important villages/towns and rivers, as well as the different trails that were used to get to different places along the Santa Fe Trail. This included the Cimarron Cutoff branching to the southwest region and the Mountain Branch stemming up into the nortwest."
   image-url="sft-nps-historic-map.jpg"
   source-url="https://www.santafetrail.org/mapping-marking/trail-maps/"
@@ -44,7 +44,7 @@ Though the Ocate Creek Crossing itself is believed to be on a piece of private p
 
 ## American Indians and their Impact on the Area
 
-Over eighty Pueblo native American tribes inhabited the southwestern region of the United States, including northeastern New Mexico. The region in which Ocate is located saw mostly [Tewa, Apache, Comanche, Kiowa, Jicarilla, and Ute tribes](https://www.familysearch.org/wiki/en/Wagon_Mound,_Mora_County,_New_Mexico,_Settlers) make use of this resourceful land. In particular, the Ocate Creek Crossing and the mountain ranges surrounding it served as a literal boundary between the Jicarilla and Ute tribes, as a meeting point for trade amongst tribes, and later as a location to store stolen livestock from raids on Spanish settlements nearby. Many of the tribes in this area were small nomadic groups consisting of one or two families, so large mammal-raising farms were not seen until the arrival of the Spanish with their sheep. Natives to this region relied on subsistence farming of wheat, wild oats, pumpkin, squash, peaches, cherries, and pears. Although the land was not permanently resided by any one group of people, the Ocate region was an important home for many of the tribes’ natural resources such as fresh water and buffalo. Most of the sparse residential structures of the Natives who did live in the region permanently for almost a thousand years were usually built in adobe style architecture[^4]. The convergence of American Indians to this area of northeastern New Mexico meant that several types of interactions occurred in the land. That lead to many of the Native American nations embedding the land we now call Ocate with their own histories and cultures. Many traits and traditions from different tribes fused with others. The land itself became almost a neutral space for all tribes to stand on and thrive off of. 
+Over eighty Pueblo native American tribes inhabited the southwestern region of the United States, including northeastern New Mexico, [thousands of years](https://www.southernute-nsn.gov/history/chronology/) before anyone from Western Europe arrived. The region in which Ocate is located saw mostly [Tewa, Apache, Comanche, Kiowa, Jicarilla, and Ute tribes](https://www.familysearch.org/wiki/en/Wagon_Mound,_Mora_County,_New_Mexico,_Settlers) make use of this resourceful land. In particular, the Ocate Creek Crossing and the mountain ranges surrounding it served as a literal boundary between the Jicarilla and Ute tribes, as a meeting point for trade amongst tribes, and later as a location to store stolen livestock from raids on Spanish settlements nearby. Many of the tribes in this area were small nomadic groups consisting of one or two families, so large mammal-raising farms were not seen until the arrival of the Spanish with their sheep. Natives to this region relied on subsistence farming of wheat, wild oats, pumpkin, squash, peaches, cherries, and pears. Although the land was not permanently resided by any one group of people, the Ocate region was an important home for many of the tribes’ natural resources such as fresh water and buffalo. Most of the sparse residential structures of the Natives who did live in the region permanently for almost a thousand years were usually built in adobe style architecture[^4]. The convergence of American Indians to this area of northeastern New Mexico meant that several types of interactions occurred in the land. That lead to many of the Native American nations embedding the land we now call Ocate with their own histories and cultures. Many traits and traditions from different tribes fused with others. The land itself became almost a neutral space for all tribes to stand on and thrive off of. 
 
 {% include figure.html
   class="img-right"
@@ -63,7 +63,7 @@ The [arrival of Francisco Vasquez de Coronado in 1540](https://en.wikipedia.org/
 
 [Native sources](https://www.americanindiancoc.org/native-american-tribes-the-indian-history-in-ocate-new-mexico/) claim that many of the American Indian people were friendly and helpful to the settlers that came into the Ocate region. They proved to be indispensable to the settlement of this region by Hispanic, Mexican, and Spanish settlers. However, records also show that this friendly treatment may have only been extended to settlers of a certain heritage. Anglo-American settlers decided not to upkeep the trade routes with the Native Americans that had been previously established by the Spanish. This caused tensions to rise between general groups of settlers and Native American tribes, especially the Apache, Comanche, and Kiowa tribes. More and more raids began to occur as a result, and in many instances the Comanche and Kiowa tribes in particular would raid settlers and often let “Mexicans” escape freely while killing the rest[^7]. This distinction between Anglo and Hispanic settlers played a huge role in the relationships amongst the people who inhabited Ocate for generations to come.   
 	
-## Spanish, Mexican, and Hispanics and their Relationship to the Land
+## Spanish, Mexican, and Hispanics & Their Relationship to the Land
 
 {% include figure.html
   class="img-center"
@@ -79,7 +79,7 @@ For almost 150 years, the Spanish and native tribes presence in the region was c
 
 After almost a century of resistance from colonization, the Spanish began settling in the region with new-found peace. The Mora Valley area is proof of the permanence the Spanish associated with the land. Catholic churches and schools became the center of almost every community in the surrounding area. In the Mora Valley area, this religious iconography became a part of the cultural essence of the region. In particular, the image of “death” was iconicized through Godmother Sebastiana. The concept of death amongst the Hispanic and Native populations was a pretty relevant topic in society, and rarely seen as a taboo. Sebastiana was usually seen with a 
 
-> “black shawl that covered her head, and her bony arms and her legs seemed always ready to poke out of the folds of her dress. Her image was unchanging, like that of the old villages who dressed in mourning for years after the death of their husbands or of a son or a daughter.”
+> “black shawl that covered her head, and her bony arms and her legs seemed always ready to poke out of the folds of her dress. Her image was unchanging, like that of the old villagers who dressed in mourning for years after the death of their husbands or of a son or a daughter.”
 
 This saintly image of death served as a reminder to the Natives and Hispanics that eventually everyone would meet the same fate. It was noted that when the Americans began settling in the area, there was some noticeable tension regarding the Godmother Sebastiana. Anglo-American beliefs, morals, and culture have a very different take on death. They interpreted this veneration for Sebastiana as a cry out of fear and the only reason to pay tribute was to “appease” the saint[^8].
 
@@ -121,7 +121,7 @@ Violence against Anglo-American settlers occurred so frequently that a fort was 
 {% include figure.html
   class="img-right"
   width="49%"
-  caption="Fort Union quickly lost its impact after the American Civil War since the Santa Fe Trail was closed and travelers on the trail were now found safer on the new trains going through the region. This picture depicts the remains of the fort from the perspective of someone facing the north front of the fort."
+  caption="Fort Union quickly lost its impact after the American Civil War since the Santa Fe Trail was closed and travelers on the trail were now found safer on the new trains going through the region. This picture depicts the remains of the fort from the perspective of someone facing the north side of the fort."
   image-url="fort-union-now-nps.jpg"
   source-url="https://www.nps.gov/foun/learn/photosmultimedia/photogallery.htm"
 %}
@@ -132,9 +132,9 @@ With the settlement of more Americans in Ocate and the rest of northeastern New 
 
 As a consequence of Westward American expansion, the Santa Fe Trail was eventually closed and lived on through the national railway system that was built in the late 1800s. Despite the railroad bringing more tourism to the west, Ocate, and the surrounding areas, experienced a sharp decline in population. Many of the raids of livestock that continued to happen and the general direction of the American economy were some of the main factors that lead to Ocate essentially becoming a ghost town. 
 
-After the Santa Fe Trail was officially closed with the opening of the railroad, much of the Native and Hispanic presence changes in the region. Despite Ocate being at an important stop on the railroad for agricultural trade and being known as the most successful region for farming in New Mexico, much of those populations lived in poverty and experienced raids from outside tribes at a higher rate since the Americans first arrived in the area. However, despite Anglo farmers abandoning the area more often, Anglo-American presence in the region was still very prominent. In 1902, a collection of miscellaneous reports from the Governor’s office about all of the New Mexico counties from the Mine Inspector of New Mexico stated that Mora County was “one of the prettiest valleys of the US” and that this and the pristine air quality were some of the most attractive characteristics of the region. With the advent of the railroad system in the area, Mora County became a point of tourist attraction to Anglo-Americans in the early 20th century[^14]. Tourism and the agricultural sector in this region became vital solely because of its accessibility through the newly constructed inter-state railroad. 
+After the Santa Fe Trail was officially closed with the opening of the railroad, much of the Native and Hispanic presence changed in the region. Despite Ocate being at an important stop on the railroad for agricultural trade and being known as the most successful region for farming in New Mexico, much of those populations lived in poverty and experienced raids from outside tribes at a higher rate since the Americans first arrived in the area. However, despite Anglo farmers abandoning the area more often, Anglo-American presence in the region was still very prominent. In 1902, a collection of miscellaneous reports from the Governor’s office about all of the New Mexico counties from the Mine Inspector of New Mexico stated that Mora County was “one of the prettiest valleys of the US” and that this and the pristine air quality were some of the most attractive characteristics of the region. With the advent of the railroad system in the area, Mora County became a point of tourist attraction to Anglo-Americans in the early 20th century[^14]. Tourism and the agricultural sector in this region became vital solely because of its accessibility through the newly constructed inter-state railroad. 
 
-The region that was once characterized by the hustle and bustle of the native trade routes and Santa Fe Trail once again became a land of relative uninterest and little human involvement. The natives that once roamed the forever windy region of Ocate have been driven out by the lack of natural resources available to them, the constant changing of the physical environment with new settlers, and by physical removal from the southwest into reservations through U.S. policies and military involvement. The Spanish, Mexican, and Anglo-American settlers that once dominated Ocate’s landscape, no longer inhabit the creek crossing due to increased raids from native tribes, urbanization elsewhere, and the lack of economic prosperity in the region. As of 1994, the Ocate Creek Crossing has been registered by the National Parks Service (NPS) as a historical site in the United States of America[^15].  Ocate, and the encompassing region has seen some major transformations in the last 450 years. The land continues to mold itself through the people, animals, and natural life that is present (or not) in the region. Ocate will surely have a rich, interconnected, and multicultural history for the next 450 years to come. 
+The region that was once characterized by the hustle and bustle of the native trade routes and Santa Fe Trail once again became a land of relative uninterest and little human involvement. The natives that once roamed the forever windy region of Ocate have been driven out by the lack of natural resources available to them, the constant changing of the physical environment with new settlers, and by physical removal from the southwest into reservations through U.S. policies and military involvement. The Spanish, Mexican, and Anglo-American settlers that once dominated Ocate’s landscape, no longer inhabit the creek crossing due to increased raids from native tribes, urbanization elsewhere, and the lack of economic prosperity in the region. As of 1994, the Ocate Creek Crossing has been registered by the National Parks Service (NPS) as a historical site in the United States of America[^15].  The Ocate region has seen some major transformations in the last 450 years. The land continues to mold itself through the people, animals, and natural life that are present (or not) in the region. Ocate will surely have a rich, interconnected, and multicultural history for the next 450 years to come. 
 
 {% include figure.html
   class="img-center"
