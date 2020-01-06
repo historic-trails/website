@@ -1,25 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-{% include header-default.html %}
+  {% include header-default.html %}
 
-<body>
+  <body>
 
-{% include nav.html %}
+    {% include nav.html %}
 
-<div class="main container">
-  {{ content }}
-</div> <!-- /main -->
+    <div class="container main">
+      {{ content }}
+    </div> <!-- /main -->
 
-{% include bottom-js.html %}
 
-<!-- Menu Toggle Script -->
-<script>
-$("#menu-toggle").click(function(e) {
-    e.preventDefault();
-    $("#wrapper").toggleClass("toggled");
-});
-</script>
+    {% if jekyll.environment == 'production' and site.analytics_id %}{% include google_analytics.html %}{% endif %}
 
-</body>
+    {% include footer.html %}
+
+    {% include bottom-js.html %}
+
+  </body>
 </html>

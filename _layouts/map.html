@@ -6,13 +6,11 @@
 <script src='https://api.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.js'></script>
 <link href='https://api.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css' rel='stylesheet' />
 
-<link href='/assets/css/map.css' rel='stylesheet' />
+<link href='{{site.baseurl}}/assets/css/map.css' rel='stylesheet' />
 
 <body>
 
 {% include nav.html %}
-
-<div class="main container">
 
 <div id='map'></div>
 
@@ -20,9 +18,9 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ';
 const map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/mapbox/streets-v11',
-  center: [-101.062327, 36.481559],
-  zoom: 5.0
+  style: 'mapbox://styles/fwgibbs/ck5315ktx1sd11clezihl2z1o',
+  center: [-99.5, 37],
+  zoom: 5.5
 });
 
 map.on('load', function () {
@@ -32,7 +30,7 @@ map.on('load', function () {
       "type": "circle",
       "source": {
    		type: 'geojson',
-   		data: '/assets/geojson/safe-places.geojson'
+   		data: '{{site.baseurl}}/assets/geojson/safe-places.geojson'
    	},
       "paint": {
           "circle-radius": 10,
@@ -46,7 +44,7 @@ map.on('load', function () {
       "type": "circle",
       "source": {
    		type: 'geojson',
-   		data: '/assets/geojson/safe-fall-2018-url-img.geojson'
+   		data: '{{site.baseurl}}/assets/geojson/safe-fall-2018-url-img.geojson'
    	},
       "paint": {
           "circle-radius": 10,
@@ -83,9 +81,6 @@ map.on('mouseenter', 'fall-2018-markers', function (e) {
   })
 */
 </script>
-
-
-</div> <!-- /main -->
 
 {% include bottom-js.html %}
 

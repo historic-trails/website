@@ -321,7 +321,19 @@ footer {
   padding: 2em;
   background-color: #823b3b;
   color:#ccc;
-  text-align: center;
+  text-align: left;
+}
+
+footer a, footer a:visited {
+  border-bottom:none;
+  font-weight:normal;
+  color: #ccc;
+}
+
+footer h5 {
+  margin-top:0;
+  font-family: 'Open Sans';
+  font-weight:bold;
 }
 
 
