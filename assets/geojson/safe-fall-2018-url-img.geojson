@@ -22,12 +22,54 @@
     {
       "type": "Feature",
       "properties": {
+        "COUNTY": "Union",
+        "STATE": "NM",
+        "site_name": "Rabbit Ears",
+        "teaser": "A chief of the Comanche--or some say Cheyenne--is the inspiration for this name. Some say that he attacked wagon trains near here; others say that he was killed here. His ears had supposedly been frozen (perhaps giving them a distinctive look). At any rate, the name does not describe the landscape but rather a person. Julyan, 283. Named for a Comanche chief, Orejas de Conejo, who was killed in a battle and buried on the mountainside. Pearce, 128.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "person",
+        "url": "rabbit-ear-mountain",
+        "image-filename": "rabbit-ear.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -103.239594,
+          36.532728
+        ],
+        "type": "Point"
+      },
+      "id": "b2595d42645a43e365a81835dbd40638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "site_name": "Palace of the Governors",
+        "teaser": "Built the same year as Santa Fe's founding (1610), this building served as a seat of government for three centuries. CMP, 106",
+        "linguistic origin": "Anglo (other)",
+        "named for": "event",
+        "url": "the-palace-of-governors",
+        "image_filename": "palace2.png"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.938354,
+          35.688197
+        ],
+        "type": "Point"
+      },
+      "id": "eaf772a207a1d3e301b758e42281aab8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "County": "Pawnee",
         "State": "KS",
         "site_name": "Fort Larned National Historic Site",
         "teaser": "Fort Larned is a surviving example of US law enforcement on historic trails.",
-        "url": "Fort-larned",
-        "image_filename": ""
+        "url": "fort-larned-national-historic-site",
+        "image_filename": "fort-larned-watercolor.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -274,20 +316,131 @@
     {
       "type": "Feature",
       "properties": {
-        "County": "Mora",
-        "State": "NM",
-        "site_name": "St. Vrain's Mill",
-        "teaser": "St. Vrain's fireproof mill helped replace mill lost and was used to feed nearby forts. ",
-        "url": "stvrain-mill",
-        "image_filename": "stvrain-mill.jpg"
+        "COUNTY": "Marion",
+        "STATE": "KS",
+        "site_name": "Lost Spring",
+        "teaser": "At certain times of year, the spring had no water--hence the name.  David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part I,\" Wagon Tracks Vol. 24, no. 2 (February 2010): 25.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "geographic feature",
+        "url": "lost-spring",
+        "image_filename": "little-blue-river.jpg"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -105.32916,
-          35.9757
-        ]
-      }
+          -97.011955,
+          38.567667
+        ],
+        "type": "Point"
+      },
+      "id": "896f04cc92b64385b2c2292e160e0eb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Barton",
+        "STATE": "KS",
+        "site_name": "Walnut Creek Crossing - Barton County, KS",
+        "teaser": "There are twenty-seven walnut creeks in Kansas. This one was also called 'Tsodalhente-d Pa' by the Kiowas, which means 'armless man's creek.' McCoy/Hults, 205. Likely named for the (somewhat unusual) stands of walnut trees thereabouts.  David Clapsaddle, \"A Frail Thin Line: Trading Establishments on the Santa Fe Trail, Part II,\" Wagon Tracks Vol. 24, no. 3 (May 2010): 19.  ",
+        "linguistic origin": "Anglo (other)",
+        "named for": "plant",
+        "url": "walnut-creek-crossing",
+        "image_filename": "arch-ranch.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.704666,
+          38.358438
+        ],
+        "type": "Point"
+      },
+      "id": "7583b99b2d924ded5194db5622a444b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "site_name": "Ocate Crossing",
+        "teaser": "This town is possibly named for ocote (Spanish for \"pitch pine\"). However, it could also be derived from the Jicarilla Apache word for \"valley of the winds.\" Jicarillas inhabited the region around the time of Hispanic settlement, making either explanation fairly plausible. Julyan, 246-247. This site is historically significant as a crossing, although it was settled roughly 150 years ago. Mike Olson, \"The UU Bar Ranch Case: A History of the Traces, Trails, Roads, and Highways Connecting Rayado, New Mexico, and the Crossing of Ocate Creek,\" Wagon Tracks, vol. 19, no. 4 (August 2005): 7-16.",
+        "linguistic origin": "Spanish",
+        "named for": "contested",
+        "url": "ocate-creek-crossing-in-mora-county",
+        "image_filename": "ocate-creek-crossing-paint.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.909483,
+          36.1518
+        ],
+        "type": "Point"
+      },
+      "id": "5b09645db0df3b616c6ff21177b90972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Mora",
+        "STATE": "NM",
+        "site_name": "Tiptonville",
+        "teaser": "William B. Tipton married the daughter of Samuel B. Watrous (who was his employer, as well). Originally known as La Junta, the area settled by Tipton and his wife became known as Tiptonville. Julyan, 355",
+        "linguistic origin": "Anglo (biographical)",
+        "named for": "person",
+        "url": "watrous-la-junta",
+        "image_filename": "watrous-house.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.996567,
+          35.816767
+        ],
+        "type": "Point"
+      },
+      "id": "73c9bc92166309da4d6413657028fbb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Colfax",
+        "STATE": "NM",
+        "site_name": "St. James Hotel",
+        "teaser": " The hotel is a symbol of westward expansion, Manifest Destiny, land grants, ranchers, Native Americans, Spaniards, and traditional New Mexican buildings.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "person",
+        "url": "st.-James-(don-diego)-hotel",
+        "image_filename": "don-diego-hotel.png"
+      },
+      "geometry": {
+        "coordinates": [
+          -104.9204,
+          36.504938
+        ],
+        "type": "Point"
+      },
+      "id": "3fd32c4afcc8b1c7081b719fcdea76e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "COUNTY": "Santa Fe",
+        "STATE": "NM",
+        "site_name": "Pigeon's Ranch and Glorieta Battlefield",
+        "teaser": "The site of the best lodging between Santa Fe and Las Vegas. Its owner, Alexander Valle, was a French-American with a distinctive \"pigeon-wing\" dance style. Julyan, 266.",
+        "linguistic origin": "Anglo (other)",
+        "named for": "person",
+        "url": "pigeons-ranch",
+        "image_filename": "PRanchCoverPhoto.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -105.754933,
+          35.57155
+        ],
+        "type": "Point"
+      },
+      "id": "8a2678891aeeb7ec784be2c64b19356b"
     }
+
+
+
   ]
 }
