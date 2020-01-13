@@ -59,16 +59,9 @@ li.nav-item {
   margin-bottom:0;
 }
 
+a.navbar-brand {
+  border:none;
 }
-
-  .container-fluid {
-    text-align:left;
-  }
-
-  .single-col {
-  }
-
-
 
 /*****************************************************
 HOME PAGE
@@ -76,13 +69,13 @@ HOME PAGE
 
 .jumbotron {
     margin-bottom: 2rem;
-    opacity:.6;
+    opacity:1;
     background-position: 0% 25%;
     text-align:center;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
-    //text-shadow: black 0.3em 0.3em 0.3em;
+    text-shadow: black 0.1em 0.1em 0.1em;
     max-height: 60%;
   }
 
@@ -317,7 +310,7 @@ figcaption a {
 }
 
 footer {
-  margin-top:2em;
+  margin-top:1em;
   padding: 2em;
   background-color: #823b3b;
   color:#ccc;
@@ -330,10 +323,15 @@ footer a, footer a:visited {
   color: #ccc;
 }
 
+footer a:hover {
+color:#fff;
+}
+
 footer h5 {
   margin-top:0;
   font-family: 'Open Sans';
   font-weight:bold;
+  color:#FFF;
 }
 
 
