@@ -28,7 +28,7 @@ The house was situated near the Santa Fe River, with an *[acequia]*(https://www.
 {% include figure.html
   class="img-left"
   width="50%"
-  caption="The "Bandelier Garden." named after Adolph Bandelier, a prominent archeologist of the Southwest, who was a guest of the Johnson's for some time during 1891-1892."
+  caption="The 'Bandelier Garden,' named after Adolph Bandelier, a prominent archeologist of the Southwest, who was a guest of the Johnson's for some time during 1891-1892."
   image-url="ElZaguan10.jpg"
   source-url="https://www.gardenvisit.com/gardens/the_garden_at_el_zaguan"
 %}
@@ -54,7 +54,7 @@ By the 1870s, newspapers described Johnson as one of the most successful busines
 {% include figure.html
   class="img-left"
   width="55%"
-  caption="The farmhouse that Johnson bought in 1854 eventually transfor,ed into a 24-room house described as "one of the finest villas on the edge of the city, with neat and attractive surroundings built without regard to expense.""
+  caption="The farmhouse that Johnson bought in 1854 eventually transfor,ed into a 24-room house described as 'one of the finest villas on the edge of the city, with neat and attractive surroundings built without regard to expense.'"
   image-url="el-zaguan.jpg"
   source-url="https://econtent.unm.edu/digital/collection/acpa/id/1085"
 %}
