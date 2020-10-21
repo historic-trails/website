@@ -10,17 +10,17 @@ Lanesfield School is a one-room schoolhouse near [Edgerton, Kansas](https://en.w
 {% include figure.html
   class="img-right"
   width="25%"
-  caption="James Lane was an abolitionst Union Army general in the Civil War and founder of the town of Lanesfield. [source](https://www.kshs.org/kansapedia/frontier-guard/16898)"
+  caption="James Lane was an abolitionist, a Union Army general in the Civil War, and the founder of Lanesfield. [source](https://www.kshs.org/kansapedia/frontier-guard/16898)"
   image-url="james-lane.jpg"
 %}
 ### James Lane and the Town of Lanesfield
-The town was founded by [James Lane](https://en.wikipedia.org/wiki/James_Henry_Lane_(Union_general)) in 1858 and he began construction of the town very quickly.[^NRF1]  Lane served as a United States senator and a Union Army general during the Civil War; he was an outspoken abolitionist who worked to abolish slavery in Kansas.[^nyt1] Lane began the construction of a hotel, three stores, a blacksmith shop, three churches, residential houses and a one-room schoolhouse in the town,[^NRF2] even though he never saw the school opened as he committed suicide in 1866.[^nyt2]
+[James Lane](https://en.wikipedia.org/wiki/James_Henry_Lane_(Union_general)) served as a United States senator and a Union Army general during the Civil War; he was an outspoken abolitionist who worked to eradicate slavery in Kansas.[^nyt] Lane founded Lanesfield in 1858.[^NRF1] Lane oversaw the construction of a hotel, three stores, a blacksmith shop, three churches, residential houses and a one-room schoolhouse in the town[^NRF2]; however, he did not live to see the school open as he committed suicide in 1866.[^nyt2]
 
 ### Lanesfield Along the Santa Fe Trail
-Trail travel was immensely important to the town's identity. Students from the school even noted that they could see travelers on the trail from their schoolhouse window.[^feldman] The development of a railroad station in 1870 in the nearby town of Edgerton diminished Lanesfield's population as many people moved closer to the train station. Many buildings were left unused but the schoolhouse remained an important part of Lanesfield as it served all the children in the area.
+Trail travel was immensely important to the town's identity. Students from the school even noted that they could see travelers on the trail from their schoolhouse window.[^feldman] Beginning in 1870, the nearby town of Edgerton--and its new railroad station--siphoned away some of Lanesfield's population. Many buildings were left unused but the schoolhouse remained an important part of Lanesfield as it served all the children in the area.
 
 ### The One-Room Schoolhouse in America
-The one-room schoolhouse had its heyday in rural America during the late nineteenth and early twentieth centuries. These schools were often the lifeblood of small rural towns; since many areas lacked centralized school boards, curricula varied greatly from one school to the next. Supplies were often limited and students and teachers had to make do with what they had. Schoolteachers were responsible for teaching many different grades in one small room, with children frequently missing school to help out at home.[^jenner]
+The one-room schoolhouse had its heyday in rural America during the late nineteenth and early twentieth centuries. These schools were often the lifeblood of small rural towns. Since many areas lacked centralized school boards, curricula varied greatly from one school to the next; supplies were often limited and students and teachers had to make do with what they had. Teachers were responsible for teaching many different grades in one small room, with children frequently missing school to help out at home.[^jenner]
 {% include figure.html
   class="img-left"
   width="33%"
@@ -28,15 +28,15 @@ The one-room schoolhouse had its heyday in rural America during the late ninetee
   image-url="lanesfield-school.jpg"
 %}
 ### The Lanesfield School as Representative of One-Room Schoolhouses
-The Lanesfield School suffered many of the same issues that other one-room schoolhouses faced. In 1870 the school had sixty-nine students enrolled (from ages five to twenty), but only had an average attendance of fifty-one. In 1897 the county superintendent stated that the schoolhouse was in disrepair which sparked a major cleanup effort by the town. [^NRF3] Despite these difficulties, the school played an essential role in the community. In addition to its educational functions the building also served as a community meeting place, polling station, and even a venue for school reunions.[^NRF4]
+The Lanesfield School suffered many of the same issues faced by other one-room schoolhouses. In 1870 the school had sixty-nine students enrolled (from ages five to twenty), but only had an average attendance of fifty-one. In 1897 the county superintendent stated that the schoolhouse was in disrepair--sparking a major cleanup effort by the town.[^NRF3] Despite these difficulties, the school played an essential role in the community. In addition to its educational functions, the building also served as a community meeting place, polling station, and even a venue for school reunions.[^NRF4]
 ### Lightning  Strikes in 1903
-In a dramatic turn of events, the school building burned down in 1903 after being struck by lightining. Only the stone foundation of the building remained. After some timely reconstructive efforts, the school was largely in use again by 1904.[^NRF5]
+In a dramatic turn of events, the school building burned down in 1903 after being struck by lightning. Only the stone foundation of the building remained. After some timely reconstructive efforts, the school was largely in use again by 1904.[^NRF5]
 ### The End of the One-Room Schoolhouse
- In the 1940s and 1950s many Kansas rural schools were closing their doors. With enrollment dropping, it made more financial sense to send children to larger schools with better facilities. The Lanesfield School was combined with Round Oak and Splinterville School in 1950.[^NRF6] The town of Lanesfield began to decline in the late 1950s and early 1960s and the school eventual closed its doors in 1963 after being in use for 93 years.[^NRF7]
+ In the 1940s and 1950s many Kansas rural schools were closing their doors. With enrollment dropping, it made more financial sense to send children to larger schools with better facilities. The Lanesfield School was combined with Round Oak and Splinterville School in 1950.[^NRF6] The town of Lanesfield began to decline in the late 1950s and early 1960s and, in 1963, the school closed its doors after 93 years of service.[^NRF7]
 {% include figure.html
   class="img-right"
   width="33%"
-  caption="Visiting children learn about life in one-room schoolhouse at Lanesfield School. [source](https://www.jcprd.com/435/Lanesfield-Historic-Site)"
+  caption="Students on a field trip learn about life in one-room schoolhouse at Lanesfield School. [source](https://www.jcprd.com/435/Lanesfield-Historic-Site)"
   image-url="lanesfield-school-inside.jpeg"
 %}
 
@@ -64,6 +64,6 @@ Feldman, Ruth Tenzer. _Don’t Whistle in School: The History of America’s Pub
 
 Gulliford, Andrew. _America’s Country Schools._ Niwot, Colo.: University Press of Colorado, 1996.
 
-[“James H. Lane obituary."](https://www.nytimes.com/1866/07/04/archives/obituary-james-h-lane-united-states-senator-from-kansas.html).” _New York Times_, 4 July 1866.
+[“James H. Lane obituary."](https://www.nytimes.com/1866/07/04/archives/obituary-james-h-lane-united-states-senator-from-kansas.html) _New York Times_, 4 July 1866.
 
 Jenner, Gail L. _One Room: Schools and Schoolteachers in the Pioneer West._ Lanham, Md.: Rowman & Littlefield, 2018.
