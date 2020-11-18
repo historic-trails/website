@@ -6,7 +6,7 @@ date: 2018-11-19
 ---
 
 # Lanesfield School
-Lanesfield School is a one-room schoolhouse near [Edgerton, Kansas](https://en.wikipedia.org/wiki/Edgerton,_Kansas) that was established in 1869. The school is representative of the one-room schoolhouse that was most popular in rural America during the nineteenth century and is considered the last standing building from the now-defunct town of Lanesfield, a mail stop along the [Santa Fe Trail](https://en.wikipedia.org/wiki/Santa_Fe_Trail) and [Pony Express](https://en.wikipedia.org/wiki/Pony_Express).
+Lanesfield School is a one-room schoolhouse near [Edgerton, Kansas](https://en.wikipedia.org/wiki/Edgerton,_Kansas) that was established in 1869. The school is representative of the one-room schoolhouses that served much of rural America during the nineteenth century and is considered the last standing building from the now-defunct town of Lanesfield, a mail stop along the [Santa Fe Trail](https://nps.gov/safe) and [Pony Express](https://nps.gov/poex).
 {% include figure.html
   class="img-right"
   width="25%"
@@ -14,13 +14,13 @@ Lanesfield School is a one-room schoolhouse near [Edgerton, Kansas](https://en.w
   image-url="james-lane.jpg"
 %}
 ### James Lane and the Town of Lanesfield
-[James Lane](https://en.wikipedia.org/wiki/James_Henry_Lane_(Union_general)) served as a United States senator and a Union Army general during the Civil War; he was an outspoken abolitionist who worked to eradicate slavery in Kansas.[^nyt] Lane founded Lanesfield in 1858.[^NRF1] Lane oversaw the construction of a hotel, three stores, a blacksmith shop, three churches, residential houses and a one-room schoolhouse in the town[^NRF2]; however, he did not live to see the school open as he committed suicide in 1866.[^nyt2]
+[James Lane](https://en.wikipedia.org/wiki/James_Henry_Lane_(Union_general)) served as a United States senator and as a Union Army general during the Civil War. He was an outspoken abolitionist who worked to eradicate slavery in Kansas.[^nyt] Lane founded Lanesfield in 1858.[^NRF1] He oversaw the construction of a hotel, three stores, a blacksmith shop, three churches, a one-room schoolhouse, and some residential houses in the town.[^NRF2] However, he did not live to see the school open as he committed suicide in 1866.[^nyt2]
 
 ### Lanesfield Along the Santa Fe Trail
-Trail travel was immensely important to the town's identity. Students from the school even noted that they could see travelers on the trail from their schoolhouse window.[^feldman] Beginning in 1870, the nearby town of Edgerton--and its new railroad station--siphoned away some of Lanesfield's population. Many buildings were left unused but the schoolhouse remained an important part of Lanesfield as it served all the children in the area.
+The Santa Fe Trail formed a major part of the town's identity. Lanesfield received monthly mail from stagecoaches traveling between Westport and Santa Fe, connecting the small town to a much broader world of cultural and commercial exchange.[NRF1] Students from the school even noted that they could see travelers on the trail from their schoolhouse window.[^feldman]
 
 ### The One-Room Schoolhouse in America
-The one-room schoolhouse had its heyday in rural America during the late nineteenth and early twentieth centuries. These schools were often the lifeblood of small rural towns. Since many areas lacked centralized school boards, curricula varied greatly from one school to the next; supplies were often limited and students and teachers had to make do with what they had. Teachers were responsible for teaching many different grades in one small room, with children frequently missing school to help out at home.[^jenner]
+One-room schoolhouses were often the lifeblood of small rural towns. Since many areas lacked centralized school boards, curricula varied greatly from one school to the next; supplies were often limited and students and teachers had to make do with what they had. Teachers were responsible for teaching many different grades in one small room, with children frequently missing school to help out at home.[^jenner]
 {% include figure.html
   class="img-left"
   width="33%"
@@ -28,7 +28,7 @@ The one-room schoolhouse had its heyday in rural America during the late ninetee
   image-url="lanesfield-school.jpg"
 %}
 ### The Lanesfield School as Representative of One-Room Schoolhouses
-The Lanesfield School suffered many of the same issues faced by other one-room schoolhouses. In 1870 the school had sixty-nine students enrolled (from ages five to twenty), but only had an average attendance of fifty-one. In 1897 the county superintendent stated that the schoolhouse was in disrepair--sparking a major cleanup effort by the town.[^NRF3] Despite these difficulties, the school played an essential role in the community. In addition to its educational functions, the building also served as a community meeting place, polling station, and even a venue for school reunions.[^NRF4]
+The Lanesfield School suffered many of the same issues faced by other one-room schoolhouses. Beginning in 1870, the nearby town of Edgerton--and its new railroad station--siphoned away some of Lanesfield's population. Many buildings were left unused but the schoolhouse remained an important part of Lanesfield, serving all the children in the area. The school had sixty-nine students enrolled that year (from ages five to twenty), but only had an average attendance of fifty-one. In 1897 the county superintendent stated that the schoolhouse was in disrepair, sparking a major cleanup effort by the town.[^NRF3] Despite these difficulties, the school played an essential role in the community. In addition to its educational functions, the building also served as a community meeting place, polling station, and even a venue for school reunions.[^NRF4]
 ### Lightning  Strikes in 1903
 In a dramatic turn of events, the school building burned down in 1903 after being struck by lightning. Only the stone foundation of the building remained. After some timely reconstructive efforts, the school was largely in use again by 1904.[^NRF5]
 ### The End of the One-Room Schoolhouse
@@ -41,7 +41,7 @@ In a dramatic turn of events, the school building burned down in 1903 after bein
 %}
 
 ### The School as a Museum
-The school was turned into a museum in 1967 and it is still open to the public today. Visitors can visit the school and experience writing on slates, cleaning the blackboard, and other peculiarities of life in a one-room schoolhouse along the Santa Fe Trail during the late nineteenth and early twentieth centuries.
+The school was turned into a museum in 1967 and it is still open to the public today. Visitors can visit the school and experience writing on slates, cleaning the blackboard, and other peculiarities of life in a one-room schoolhouse along the Santa Fe Trail.
 
 
 [^NRF1]: Cart, statement of significance
